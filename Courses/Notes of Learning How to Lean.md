@@ -1,14 +1,16 @@
+
 # Notes of Learning How to Lean. 🚀
 
-## Weak 1 
+¿What is Learning?  :interrobang: 
+
+> ***_Create new  neural connection._***
+
 
 ## Focus vs Diffuse Mode
 
-¿What is Learning?  :interrobang: _Create new  neural connection._
-
 * Two ways of learning: Each helps us learn but in very different ways.
-1. Diffuse mode
-2. Focus mode 
+1. *Diffuse mode*
+2. *Focus mode*
 
 - When you're learning something new (especially something that's a little more difficult:
 _your mind needs to be able to go back and forth between the two different learning modes_ 
@@ -26,8 +28,8 @@ _Create new  neural connection._
 
 - When you look at something that you really rather not do, itseems that you activate the areas of your brain associated with _pain_. Your brain, naturally enough, looks for a way to stop that negative stimulation by switching your attention to something else. But here's the trick. Researchers discovered that not long after people might start actually working out what they didn't like, that **neurodiscomfort disappeared**. So it seems what happens when you procrastinate.
 
-paloma -> más de una opcion
-circle -> Only one
+paloma -> más de una opcion.
+circle -> Only one.
 
 * it's important to practice with ideas and concepts your learning in math and science, just like anything else you're learning. To help enhance and strengthen the neural connection your making during the learning process. 
 
