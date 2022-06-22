@@ -2,7 +2,9 @@
 
 ## Weak 1 
 
-### Focus vs Diffuse Mode
+## Focus vs Diffuse Mode
+
+¿What is Learning?  :interrobang: _Create new  neural connection._
 
 * Two ways of learning: Each helps us learn but in very different ways.
 1. Diffuse mode
@@ -14,7 +16,7 @@ Because your brain needs to alternate it's ways of learning as it grapples with 
 
 * "To build neural structure": You need to do a little work every day, 
 
-### But the fist: :interrobang: ¿What is Learning? and procrastinate :timer:
+## Procrastinate, memory and sleep :timer:
 
 _Create new  neural connection._
 
@@ -37,3 +39,4 @@ When you're **learning**, what you want to do is study something:
 During this time of seeming relaxation, your brain's diffuse mode has a chance to work away in the background and help you out with your conceptual understanding. Your, your neural mortar in some sense has a chance to dry(secar). If you don't do this, if instead you learn by cramming -> your knowledge base will
 look more like this, all in a jumble with everything confused, a poor foundation.
 
+### About memory. :brain:
