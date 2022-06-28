@@ -52,13 +52,103 @@
         - *Why*: is used to obtain an explanation or a reason. (I want to know the reason).
             * Why do we need a nanny?
             * Why does he complain all the time? (Por qué se queja todo el tiempo?)
-        - *How*: is used to describe the manner that something is done.  (How can I learn English quickly?) 
+        - *How*: is used to describe the manner that something is done.  (How can I learn English quickly) 
             * _How much_: refers to a quantity or a price (Uncountable nouns).
             * _How many_: refers to a quantity (Countable nouns).
             * _How often_: refers to frequency.
             * _How far_: refers to distance.
         - *Which*: is used when a choice needs to be made. = I want to know the thing between alternatives
             * Which is better - this one or that one?
+
+## U1M2 Facts, Routines and Momentary Actions
+
+- Topics
+    * Simple present and present continuous:
+        
+        - *Simple Present*: Use to talk about "all the time" and *facts*. Tomorrow is Wednesday
+            * Forms:  
+                - Positive
+                    * Subject + verb(present simple)
+                - Negative
+                    * Subject + do/does + not + verb
+                        They don't play
+                        It doesn't play
+                - Question
+                    * Do,does + subject + verb?
+                        Does she play?
+                        Do they study?
+
+            * Is normaly used to talk about: Thoughts, feelings and states.
+                - She doesnt seem very happy at the moment.
+
+            * To say that something is true or untrue in general:
+                - The earth turns  360° every day
+
+            * A permanent situation: 
+                - Im a doctor, I treat people.
+                - They always go to school by car.
+            
+            * In storytelling and commentaries the PS is used to describe the main events.
+
+            * Is used to when we talk about an official arrangement(acuerdo) such as a timetable or programme.
+                - What time is the match on Sunday? It **starts** at seven o'clock.
+
+            * Example:
+                How do you stay in shape? I usually eat clean, i.e. eat vegetables and legumes, I drink a lot of water, and I dont eat fast food and do exercise every day.
+            
+            > Simple present is very frequently with state verbs such as _like, love, know, need, want_. Those verbs are not frequent with present continuos.
+            
+            * Clue words: - Always - Usually - Often(a menudo) - Sometimes - Never
+                
+        - *Present Continuos*: 
+
+            * Is mainly used for actions and happenings. It's not usually used for states.
+
+            * To talk about changes, developments and trends. (novedades y tendencias).
+                - The earth is changing due to global warming.
+                - 
+            * A temporary situation: 
+                - Currently, Im not working, Im ill.
+                - At the present, she is living in London and she is learning English.
+            
+            * The PC is used to background events.
+
+            * A personal arrangement.
+                - They are having a party tomorrow (Ellos van a tener una fiesta mañana).
+                - Im mett**ing** Rose at six o'clock.
+            0. Forms:  
+                - Positive
+                    * Subject + to be + verb+ing
+                        Im playing
+                        You are playing.
+                        He is playing
+                - Negative
+                    * Subject + to be + not + verb+ing
+                        She isn't playing
+                        We aren't playing
+                - Question
+                    Is he playing?
+                    Are they studying?
+                
+            1. Use to talk about "now" (these days, these month) and temporary events.
+                - Example:
+                What sports are you playing these days? I dont practice particular sport, I only doing exercise for stay in shape and be stronger, Im lossing weight.
+            2. Use to emphasize situations that happen too often (annoying habits).
+                - Example:
+                He is always playing videogames.
+                They are always listening to very loud music!
+            
+            * Clue words: 
+                - At the moment
+                - At present
+                - Currently
+                - Nowadays (Hoy en día)
+                - Now 
+        - Examples:
+            * He is a chef, he is cooks delicious food <-> Now, he is cooking a new recipe.
+
+## Pronunciation
+
     * Pronunciation -s, -es
         - /s/ - as 
         > Use the /s/ for words that end in a *Unvoiced consonant*
@@ -68,12 +158,24 @@
             * laughs -> gh /f/
             * sports -> /t/
             * baths -> /0/
-        - /z/ 
-        >
-            *
+        - /z/  - zzz
+            > Use the /z/ for words that end in a *Voiced Consonant*
+                * dogs -> /g/
+                * words -> /d/
+                * loves -> /v/
+                * dreams -> /m/
+                * sings -> /ng/ 
+                * fans 
+            > Use the /z/ for words that end in a *Vowel*
+                * plays 
+                * trees 
+                * toes
         - /iz/
+            > Use the /z/ for words that end -es
+                * busses -> /s/
+                * boxes -> /ks/
+                * changes -> /d3/
+                * watches -> /tf/
+                * finishes -> /f/
+                * prizes-> /z/
 
-## U1M2 Facts, Routines and Momentary Actions
-
-- Topics
-    * Simple present and present continuous
