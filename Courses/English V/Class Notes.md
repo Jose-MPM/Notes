@@ -45,3 +45,7 @@
         - Where were you born?
 
 ### Clases 28-June
+
+    * In the moment - PC 
+    * My opinion - PS
+    * Expresion time - PC

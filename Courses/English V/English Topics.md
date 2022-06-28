@@ -63,9 +63,18 @@
 ## U1M2 Facts, Routines and Momentary Actions
 
 - Topics
+
     * Simple present and present continuous:
+
+        - Present tenses used for future:
+
+            * Present Continuous: Future arrangements
+                - Im having dinner tomorrow
+            * Present SImple: Timetabled events
+                - My flight leave**s** at 6:20 tomorrow.
         
         - *Simple Present*: Use to talk about "all the time" and *facts*. Tomorrow is Wednesday
+            
             * Forms:  
                 - Positive
                     * Subject + verb(present simple)
@@ -106,7 +115,7 @@
 
             * To talk about changes, developments and trends. (novedades y tendencias).
                 - The earth is changing due to global warming.
-                - 
+                
             * A temporary situation: 
                 - Currently, Im not working, Im ill.
                 - At the present, she is living in London and she is learning English.
@@ -146,7 +155,9 @@
                 - Now 
         - Examples:
             * He is a chef, he is cooks delicious food <-> Now, he is cooking a new recipe.
-
+        
+        - Writting:
+            - My name is José Manuel and I'm 22 years old, I was born in Mexico City but I live in the State of Mexico , My favorites subjects in school are the ones that have to do with programming, for example, data structures. I think I am a good student, in fact I have a good average but at the same time I feel that I have not learned very well and this makes me doubt, before I considered myself good, but now I'm don't, it's very hard for me to work with mathematics, there are many very abstract things. In this moment my classes starts at 1:00 pm because I just have one heavy class, in my past semester I have 6 classes, one for subject, it was heavy, In the next semester I will have one interesting subjects, I'm talking about Artificial Intelligence, because I'm interesting in the topics we will see. In this moment I only want to improve my physical and mental abilities, in particular I want to learn and improve my English.
 ## Pronunciation
 
     * Pronunciation -s, -es
