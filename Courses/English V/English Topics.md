@@ -59,7 +59,19 @@
             * _How far_: refers to distance.
         - *Which*: is used when a choice needs to be made. = I want to know the thing between alternatives
             * Which is better - this one or that one?
-    * Pronunciation /z
+    * Pronunciation -s, -es
+        - /s/ - as 
+        > Use the /s/ for words that end in a *Unvoiced consonant*
+            
+            * likes -> /k/ /laikes
+            * stops -> /p/
+            * laughs -> gh /f/
+            * sports -> /t/
+            * baths -> /0/
+        - /z/ 
+        >
+            *
+        - /iz/
 
 ## U1M2 Facts, Routines and Momentary Actions
 
