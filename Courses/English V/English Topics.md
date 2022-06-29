@@ -181,7 +181,7 @@
             0. We use the simple past to talk about: Completed actions, habits and facts in the past
                 > I went to the Faculty of Science last Friday
                 > I always visited my brother in the weekend when I went to the Faculty of Science.
-                
+
             1. Use the simple past to talk about **finished actions** in the past.
             2. The form of the simple past is the same for all the persons.
             3. To make the simple past (+) of the regular verbs only add _-ed_.
@@ -195,11 +195,10 @@
             - (?) **Was/Were** + subject + verb-**ing**? 
                 > Was she working? Yes, She was. No, She wasn't
         
-        * Uses:
-            0. Interrupted actions, specific time as an interruption and parallel actions.
-                > I was studying English when Alberto arrived
-                > Las night at 7pm, I was having dinner
-                > **While** she **was doing** her homework her brother **was playing** football.
+        * Uses: Interrupted actions, specific time as an interruption and parallel actions.
+            - I was studying English when Alberto arrived
+            - Las night at 7pm, I was having dinner
+            - **While** she **was doing** her homework her brother **was playing** football.
 
             1. To describe an action that was in progress at a specific time in the past.
                 > Jose was working at ten the day before yesterday
