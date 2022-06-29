@@ -164,9 +164,19 @@
 * Topis:
 
     ![Image text](https://github.com/Jose-MPM/Notes/blob/master/Courses/English%20V/Images/SimpleP.png)
-    
-    - *Simple Past*: Regular and Irregular verbs
 
+    - *Simple Past*: Regular and Irregular verbs
+        
+        * Regular:
+            - (+) I liv**ed** in a beautiful and big house
+            - (-) I **didn't live** in an apartment
+            - (?) **Did** you **live** with your parents? Yes I did.
+            - QW _Where_ **did** you **live**?
+        * Irregular:
+            - (+) We **went** to Puebla on Vacation
+            - (-) I **didn't go** to Brazil.
+            - (?) **Did** you **go** to camp? No, I didn't
+            - QW _Why_ **did** you **go**? there.
         * Uses:
             1. 
             2. 
