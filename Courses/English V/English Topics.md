@@ -158,6 +158,22 @@
         
         - Writting:
             - My name is José Manuel and I'm 22 years old, I was born in Mexico City but I live in the State of Mexico , My favorites subjects in school are the ones that have to do with programming, for example, data structures. I think I am a good student, in fact I have a good average but at the same time I feel that I have not learned very well and this makes me doubt, before I considered myself good, but now I'm don't, it's very hard for me to work with mathematics, there are many very abstract things. In this moment my classes starts at 1:00 pm because I just have one heavy class, in my past semester I have 6 classes, one for subject, it was heavy, In the next semester I will have one interesting subjects, I'm talking about Artificial Intelligence, because I'm interesting in the topics we will see. In this moment I only want to improve my physical and mental abilities, in particular I want to learn and improve my English.
+
+## U2M1 Completed actions and Interrupted actions
+
+* Topis:
+
+    ![Primera Imagen](Notes/Courses/English V/Image/SimpleP.png)
+
+    - *Simple Past*: Regular and Irregular verbs
+
+        * Uses:
+            1. 
+            2. 
+
+    - 
+
+
 ## Pronunciation
 
     * Pronunciation -s, -es

@@ -65,7 +65,7 @@
     8 Is it raining today?
 
     argue-pelear
-    When do you usually go to the gym?
+    When do you usually go to the gym?  
     The sun isnt shinning today, It's quite cold
     I *WANT* to check something
 
