@@ -163,8 +163,8 @@
 
 * Topis:
 
-    ![Primera Imagen](Courses/English V/Image/SimpleP.png?raw=True "Title")
-
+    ![Image text](https://github.com/Jose-MPM/Notes/blob/master/Courses/English%20V/Images/SimpleP.png)
+    
     - *Simple Past*: Regular and Irregular verbs
 
         * Uses:
