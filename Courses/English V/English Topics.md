@@ -178,49 +178,93 @@
             - (?) **Did** you **go** to camp? No, I didn't
             - QW _Why_ **did** you **go**? there.
         * Uses:
+            0. We use the simple past to talk about: Completed actions, habits and facts in the past
+                > I went to the Faculty of Science last Friday
+                > I always visited my brother in the weekend when I went to the Faculty of Science.
+                
             1. Use the simple past to talk about **finished actions** in the past.
             2. The form of the simple past is the same for all the persons.
             3. To make the simple past (+) of the regular verbs only add _-ed_.
             4. Use the base form after didn't for _negative_ and Did... for _Questions_.
 
-    - **Past Continuous**(PC): 
+    - **Past Continuous**(PC):
+
+        * Forms
+            - (+) Subkect + **was/were** + verb-**ing**
+            - (-) Subkect + **wasn't/weren't** + verb-**ing**
+            - (?) **Was/Were** + subject + verb-**ing**? 
+                > Was she working? Yes, She was. No, She wasn't
+        
         * Uses:
+            0. Interrupted actions, specific time as an interruption and parallel actions.
+                > I was studying English when Alberto arrived
+                > Las night at 7pm, I was having dinner
+                > **While** she **was doing** her homework her brother **was playing** football.
+
             1. To describe an action that was in progress at a specific time in the past.
-                > Mary was working at ten yesterday
+                > Jose was working at ten the day before yesterday
+            
             2. To talk about an action that was in progress when a second action happened.
-                > I was studying when the electricity went off
-            3. To talk about 
+                > They were studying when the electricity went off.
+            
+            3. To talk about 2 actions that were in progress at the same time in the past
+                > I was studying while Alberto was playing fall guys
+            
+            4. To give background information in a story.  
+                > It was getting back, I was walking down the road when I saw a strange man.
+            
+            5. With time expressions such as wuile, all morning, all day
+                > I was sleeping all night.
 
 
 ## Pronunciation
 
-    * Pronunciation -s, -es
-        - /s/ - as 
+* Pronunciation of - **ed**
+
+    * /d/ for unvoiced sound
+
+    * /t/ for voiced sound
+        Sibilant sound: k,p,s,c,sh,ch,x,dg:
+        - worked, changed, 
+
+    * /id/ for end-d,-t: 
+        - Acted /Actid/
+        - Decided /Decidid/
+
+
+* Pronunciation -s, -es
+    - /s/ - as 
         > Use the /s/ for words that end in a *Unvoiced consonant*
             
-            * likes -> /k/ /laikes
-            * stops -> /p/
-            * laughs -> gh /f/
-            * sports -> /t/
-            * baths -> /0/
-        - /z/  - zzz
-            > Use the /z/ for words that end in a *Voiced Consonant*
-                * dogs -> /g/
-                * words -> /d/
-                * loves -> /v/
-                * dreams -> /m/
-                * sings -> /ng/ 
-                * fans 
-            > Use the /z/ for words that end in a *Vowel*
-                * plays 
-                * trees 
-                * toes
-        - /iz/
-            > Use the /z/ for words that end -es
-                * busses -> /s/
-                * boxes -> /ks/
-                * changes -> /d3/
-                * watches -> /tf/
-                * finishes -> /f/
-                * prizes-> /z/
+        * likes -> /k/ /laikes
+        * stops -> /p/
+        * laughs -> gh /f/
+        * sports -> /t/
+        * baths -> /0/
+    - /z/  - zzz
+            
+        > Use the /z/ for words that end in a *Voiced Consonant*
+        * dogs -> /g/
+        * words -> /d/
+        * loves -> /v/
+        * dreams -> /m/
+        * sings -> /ng/ 
+        * fans 
+            
+        > Use the /z/ for words that end in a *Vowel*
+            
+        * plays 
+        * trees 
+        * toes
+
+    - /iz/
+            
+        > Use the /z/ for words that end -es
+            
+        * busses -> /s/
+        * boxes -> /ks/
+        * changes -> /d3/
+        * watches -> /tf/
+        * finishes -> /f/
+        * prizes-> /z/
 
