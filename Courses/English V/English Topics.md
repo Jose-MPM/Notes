@@ -165,7 +165,7 @@
 
     ![Image text](https://github.com/Jose-MPM/Notes/blob/master/Courses/English%20V/Images/SimpleP.png)
 
-    - *Simple Past*: Regular and Irregular verbs
+    - **Simple Past**(SP): Regular and Irregular verbs
         
         * Regular:
             - (+) I liv**ed** in a beautiful and big house
@@ -178,10 +178,18 @@
             - (?) **Did** you **go** to camp? No, I didn't
             - QW _Why_ **did** you **go**? there.
         * Uses:
-            1. 
-            2. 
+            1. Use the simple past to talk about **finished actions** in the past.
+            2. The form of the simple past is the same for all the persons.
+            3. To make the simple past (+) of the regular verbs only add _-ed_.
+            4. Use the base form after didn't for _negative_ and Did... for _Questions_.
 
-    - 
+    - **Past Continuous**(PC): 
+        * Uses:
+            1. To describe an action that was in progress at a specific time in the past.
+                > Mary was working at ten yesterday
+            2. To talk about an action that was in progress when a second action happened.
+                > I was studying when the electricity went off
+            3. To talk about 
 
 
 ## Pronunciation
