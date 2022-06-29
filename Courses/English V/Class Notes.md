@@ -46,6 +46,32 @@
 
 ### Clases 28-June
 
+    - Present Simple - 
+    - Present Continuous
+
     * In the moment - PC 
     * My opinion - PS
     * Expresion time - PC
+
+    How often indicate routine: 
+    Activity indicate 
+    
+    2 I'm having dinner _right now_
+    3 Where do they usually go on Vacation?
+    4 He travels to Asia four times a year
+    5 What does your friend do?
+    6 Are you working this 
+    7 It closes
+    8 Is it raining today?
+
+    argue-pelear
+    When do you usually go to the gym?
+    The sun isnt shinning today, It's quite cold
+    I *WANT* to check something
+
+    * love
+    * like
+    * want
+    * have con posesion, cuando no son actividades
+
+### Clases 29-June
