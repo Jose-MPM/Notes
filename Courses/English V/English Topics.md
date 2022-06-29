@@ -179,8 +179,8 @@
             - QW _Why_ **did** you **go**? there.
         * Uses:
             0. We use the simple past to talk about: Completed actions, habits and facts in the past
-                > I went to the Faculty of Science last Friday
-                > I always visited my brother in the weekend when I went to the Faculty of Science.
+                - I went to the Faculty of Science last Friday
+                - I always visited my brother in the weekend when I went to the Faculty of Science.
 
             1. Use the simple past to talk about **finished actions** in the past.
             2. The form of the simple past is the same for all the persons.
