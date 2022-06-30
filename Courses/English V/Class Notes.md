@@ -116,18 +116,18 @@
     
 * Presentation:
 
-    1. What cities are you going to visit? Denise
+    1. What cities are you going to visit? 
         - First we are going to visit Merida, after Rio de Janeiro and lastly Buenos Aires.
-    2. Where are you going to stay? J
+    2. Where are you going to stay? 
         - In Merida we are going to stay in the hostel
         - In Rio de Janeiro we are going to stay in a 5 star luxury hotel
-        - In Buenos Aires we are going to stay in a 5 friend's house
+        - In Buenos Aires we are going to stay in a friend's house.
         
-    3. How are you going to get there? Azucena
+    3. How are you going to get there? 
         - We are going to travel by bus to Merida then we are going to travel by plane to Rio de Janeiro and Buenos Aires
 
-    4. How long are you going to stay in each city? Aldo
+    4. How long are you going to stay in each city? 
         - In Merida we are going to stay 4 days there and we are going to stay 3 days in Rio de Janeiro and Buenos Aires.
 
-    5. What are you going to do in each place? Aranzta
+    5. What are you going to do in each place? 
         - In Merida we are going to visit "Cenotes" and we are going to swim at the beaches all day, in Rio de Janeiro we are going to visit the different monuments for example "Cristo Redentor" and we are going to carnivals, and in the Buenos Aires we are going to eat typical food such as "Choripan" and we are going to dance Tango. 

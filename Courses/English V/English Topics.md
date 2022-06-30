@@ -249,21 +249,20 @@
                 * > I'm thirsty. I'm gonna have a drink. (Tengo sed)
     - Video:
 
-        1. What are you going to do today after this video? I'm going to have a delicious lunch, I love eat and after I'm going to try to learn how to skate, because I don't know how skate, I'm new in this.
+        1. What are you going to do today after this video? I'm going to have a delicious lunch, I love eat and after I'm going to try to learn how to skate, because I don't know how skate, I'm new at this.
 
-        2. What are you going to have for dinner tonight? I'm going to have for dinner tonight a Ice scream smoothie
+        2. What are you going to have for dinner tonight? I'm going to have an Ice cream shake with oatmeal for dinner tonight.
 
-        3. What are you going to do after classes tomorrow?
+        3. What are you going to do after classes tomorrow? Tomorrow morning I'm going to do exercise and in the afternoon I'm going to visit my brother for her birthday.
 
-        4. What are you going to do next weekend?
+        4. What are you going to do next weekend? The next Weekned I'm going to go to a party, I'm going to dance, Sunday morning I'm goind to run with one of my friends and in the afternoon another friend Ariel is going to visit me. 
 
-        5. Which specific activities are you going to do on your next vacation?
+        5. Which specific activities are you going to do on your next vacation? I am not going to abroad, I'm going to stay in home, because I'm going to learn many new things, such as skate and swim, I am going to walk a lot on the street with my dogs.
 
-        6. Are you going to visit your family or friends?
+        6. Are you going to visit your family or friends? And I'm going to visit all my siblings who dont live with my and I'm going to hang out with my friends.   
     
     - 5:19 Video
-
-
+    
 # Intersemestral English V
 
 * 834 0492 4779
@@ -274,6 +273,9 @@
 * tie /tai/ corbata
 * later /leitah
 * where
+* 230 - two hundred and thirty
+* busy - bizi
+
 
 ## Pronunciation
 
