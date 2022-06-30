@@ -247,6 +247,7 @@
             - Spoken English only, don't write it.
             - gonna repacle going to
                 * > I'm thirsty. I'm gonna have a drink. (Tengo sed)
+    
     - Video:
 
         1. What are you going to do today after this video? I'm going to have a delicious lunch, I love eat and after I'm going to try to learn how to skate, because I don't know how skate, I'm new at this.
@@ -275,7 +276,6 @@
 * where
 * 230 - two hundred and thirty
 * busy - bizi
-
 
 ## Pronunciation
 
@@ -328,3 +328,7 @@
         * finishes -> /f/
         * prizes-> /z/
 
+## Expressions of gratitude 🎁
+* Share and tell others about this notes 📢
+---
+⌨️ con ❤️ por [Jose-MPM](https://github.com/Jose-MPM) 😊⌨️
