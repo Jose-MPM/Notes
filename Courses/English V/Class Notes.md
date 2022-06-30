@@ -130,4 +130,4 @@
         - In Merida we are going to stay 4 days there and we are going to stay 3 days in Rio de Janeiro and Buenos Aires.
 
     5. What are you going to do in each place? Aranzta
-        - In Merida we are going to visit "Cenotes" and we are going to swim at the beaches, in Rio de Janeiro we are going to visit the different monuments for example "Cristo Redentor" and we are going to carnivals, and in the Buenos Aires we are going to eat typical food such as "Choripan" and we are going to dance Tango. 
+        - In Merida we are going to visit "Cenotes" and we are going to swim at the beaches all day, in Rio de Janeiro we are going to visit the different monuments for example "Cristo Redentor" and we are going to carnivals, and in the Buenos Aires we are going to eat typical food such as "Choripan" and we are going to dance Tango. 
