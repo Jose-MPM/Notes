@@ -75,3 +75,23 @@
     * have con posesion, cuando no son actividades
 
 ### Clases 29-June
+
+- CUando tu tienes un verbo principal necesitamos un auxiliar, cuando tenemos el verbo to be no necesitamos un auxiliar, el mismo hace las negaciones
+    * How was your vacation?
+    * What was the weather like?
+- Did with verb to be **never**!
+
+- Lo que tarda mas va en PC
+
+    * if we start with _when_ we separate the clauses with one ","
+    * PS:
+        - I BOUGHT a new t-shirt
+    *
+    * 
+    1. She wasnt sure about having a serious relationship with Joe. 
+    2. She wanted to stay in comfortable hotels
+    3. she hates talk about other person
+    4. she only want enjoy and stay
+
+- agenda page
+### Clases 29-June

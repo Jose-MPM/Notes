@@ -177,15 +177,15 @@
             - (-) I **didn't go** to Brazil.
             - (?) **Did** you **go** to camp? No, I didn't
             - QW _Why_ **did** you **go**? there.
-        * Uses:
-            0. We use the simple past to talk about: Completed actions, habits and facts in the past
+        * Uses: 
+            1. We use the simple past to talk about: Completed actions, habits and facts in the past:
                 - I went to the Faculty of Science last Friday
                 - I always visited my brother in the weekend when I went to the Faculty of Science.
 
-            1. Use the simple past to talk about **finished actions** in the past.
-            2. The form of the simple past is the same for all the persons.
-            3. To make the simple past (+) of the regular verbs only add _-ed_.
-            4. Use the base form after didn't for _negative_ and Did... for _Questions_.
+            2. Use the simple past to talk about **finished actions** in the past.
+            3. The form of the simple past is the same for all the persons.
+            4. To make the simple past (+) of the regular verbs only add _-ed_.
+            5. Use the base form after didn't for _negative_ and Did... for _Questions_.
 
     - **Past Continuous**(PC):
 
@@ -215,6 +215,32 @@
             5. With time expressions such as wuile, all morning, all day
                 > I was sleeping all night.
 
+## U3M1 Plans and Predictions
+
+* Topics
+    
+    - Be going to:
+        
+        * Forms:
+            - (+) Subject + To be + **going to** + rest
+                Present Progresive of the verb "to go": **She/He/It is going** + Infinite form of the **verb**: **to walk**.
+                > They're going to work for an international company.
+            - (-) Subject + To be + not + **going to** + rest
+                > She isn't going to work for an international company.
+            - (?) To be + Subject + **going to** + rest ?
+                * > Are you going to work for an international company? Yes, I'm. No, I'm not.
+                * > Is he going to work for an international company? Yes, She is. No, She isn't
+                * > _Are they going_ to read?
+        * Uses:
+            - Use be _going to + base form_ to talk about future plans or intentions: An action in the future that has been planned or prepared.
+                * > I am going to buy a car next week.
+            - We use _be going to + base form_ to make a prediction when we know or can see that something Is going to happen.
+            - Plans: 
+                * You're going to work for an International Company.
+                * It's going to rain later.
+                * She's going to meet her friend at the airport.
+            - Future:
+                * Tonight, I'm going to try to skate
 
 ## Pronunciation
 
