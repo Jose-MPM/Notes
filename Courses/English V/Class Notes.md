@@ -85,13 +85,49 @@
 
     * if we start with _when_ we separate the clauses with one ","
     * PS:
-        - I BOUGHT a new t-shirt
-    *
-    * 
     1. She wasnt sure about having a serious relationship with Joe. 
     2. She wanted to stay in comfortable hotels
     3. she hates talk about other person
     4. she only want enjoy and stay
 
 - agenda page
+
 ### Clases 29-June
+
+* How much does the ebook cost?-
+* It's cheaper to travel by plane than by bus in the US 
+* We are going to book in a hotel = make a reservation
+* Exercise:
+    1. I'm going to call her tonight
+    2. What are we going to eat?
+    3. She isn't going to come to the party.
+    4. Ther aren't going to buy any new clothesgoing to
+    5. Are you going to watch the game?
+    6. We aren't going to see them this week.
+    7. They are going to go to bed.
+
+* Answers:
+    1. Brown colors
+    2. Rhode Island
+    3. North Dakota
+    4. She had a hotel adsress
+    5. She had only one problem: She arrived late at host's house.
+    6. She was always excited
+    
+* Presentation:
+
+    1. What cities are you going to visit? Denise
+        - First we are going to visit Merida, after Rio de Janeiro and lastly Buenos Aires.
+    2. Where are you going to stay? J
+        - In Merida we are going to stay in the hostel
+        - In Rio de Janeiro we are going to stay in a 5 star luxury hotel
+        - In Buenos Aires we are going to stay in a 5 friend's house
+        
+    3. How are you going to get there? Azucena
+        - We are going to travel by bus to Merida then we are going to travel by plane to Rio de Janeiro and Buenos Aires
+
+    4. How long are you going to stay in each city? Aldo
+        - In Merida we are going to stay 4 days there and we are going to stay 3 days in Rio de Janeiro and Buenos Aires.
+
+    5. What are you going to do in each place? Aranzta
+        - In Merida we are going to visit "Cenotes" and we are going to swim at the beaches, in Rio de Janeiro we are going to visit the different monuments for example "Cristo Redentor" and we are going to carnivals, and in the Buenos Aires we are going to eat typical food such as "Choripan" and we are going to dance Tango. 

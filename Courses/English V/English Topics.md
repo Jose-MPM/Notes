@@ -1,8 +1,3 @@
-# Intersemestral English V
-
-* 834 0492 4779
-* 705360
-
 # English V
 
 ## U1M1 ASKING FOR INFORMATION
@@ -226,14 +221,20 @@
                 Present Progresive of the verb "to go": **She/He/It is going** + Infinite form of the **verb**: **to walk**.
                 > They're going to work for an international company.
             - (-) Subject + To be + not + **going to** + rest
-                > She isn't going to work for an international company.
+                * > She isn't going to work for an international company.
+                * > I am not going to be rude with my teacher. (grosero)
             - (?) To be + Subject + **going to** + rest ?
                 * > Are you going to work for an international company? Yes, I'm. No, I'm not.
                 * > Is he going to work for an international company? Yes, She is. No, She isn't
                 * > _Are they going_ to read?
+                * > Are we going to visit Buckingham Palace tomorrow?
         * Uses:
             - Use be _going to + base form_ to talk about future plans or intentions: An action in the future that has been planned or prepared.
                 * > I am going to buy a car next week.
+                * > Tomorrow, We are going to visit my brother.
+                * > After lunch, He is goingo _to call_ Mr Brown.
+            - A conclusing regarding(respecto a) the inmediate future. An expectation(Una expectativa). We know something about the present -> we can say some about the future which follows from the above.
+                * > David missed the bus. He is going to be late.
             - We use _be going to + base form_ to make a prediction when we know or can see that something Is going to happen.
             - Plans: 
                 * You're going to work for an International Company.
@@ -241,6 +242,38 @@
                 * She's going to meet her friend at the airport.
             - Future:
                 * Tonight, I'm going to try to skate
+        * "gonna" 
+            - gonna is **not** good English, because it's very informal, It's very common.
+            - Spoken English only, don't write it.
+            - gonna repacle going to
+                * > I'm thirsty. I'm gonna have a drink. (Tengo sed)
+    - Video:
+
+        1. What are you going to do today after this video? I'm going to have a delicious lunch, I love eat and after I'm going to try to learn how to skate, because I don't know how skate, I'm new in this.
+
+        2. What are you going to have for dinner tonight? I'm going to have for dinner tonight a Ice scream smoothie
+
+        3. What are you going to do after classes tomorrow?
+
+        4. What are you going to do next weekend?
+
+        5. Which specific activities are you going to do on your next vacation?
+
+        6. Are you going to visit your family or friends?
+    
+    - 5:19 Video
+
+
+# Intersemestral English V
+
+* 834 0492 4779
+* 705360
+
+## Words mean
+
+* tie /tai/ corbata
+* later /leitah
+* where
 
 ## Pronunciation
 
