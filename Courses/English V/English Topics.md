@@ -263,7 +263,55 @@
         6. Are you going to visit your family or friends? And I'm going to visit all my siblings who dont live with my and I'm going to hang out with my friends.   
     
     - 5:19 Video
-    
+
+## U3M2 Plans or future arrangements
+
+* Topics:
+    - Future **vs** Present Continuous
+        * be going to + base verb **_VS_** to be + verb-ing
+            - I'm going to the mall -> PC
+            - I'm going to _go_ home  -> Future
+    - Present Continuos to express actions that we are doing now:
+        * You are reading this example
+        * You are having a fantastic time
+    - Present Continuous to express future:
+        * Don't use the simple present to express future arrangements.
+            - > I'm seeing some friends tonight, **NOT**: I see some friends tonight.
+        * Talking about future arrangements or plans that we have made at fixed time or place in the future:_
+            - > What _are you doing_ next Friday afternoon? I'm _going to_ the cinema, with some friends.
+        * Not use to talk about activities that we are doing in this moment.
+    - Structure:
+        * (+) to be + verb-ing
+            - > At 4 o'clock we are going to the brother's apartment
+        * (-) to be + not + verb-ing
+            - > They aren't coming to the party
+        * (?) be + Subject + verb-ing + rest?
+            - > Is she meeting her friends tonight?
+            - > What are you doing on Monday? I'm going to the doctor's at 9am.
+* Examples:
+    - She's leaving in a minute.
+    - We're arriving at 6pm.
+    - You're going to finish the university next year.
+    - Next month he's working from home
+
+## U3M1 Plans or future arrangements
+
+* Topics:
+    - a
+* Examples:
+    - b
+
+## To do:
+
+- Friday:
+    * 6:30 Study
+    * 7:30 Help father
+    * 12:00 - 1:00   SPORA
+    * 1:00 - 3:00    English Class
+    * 5:00 Activities 
+    * Help father
+    * Exercise
+
 # Intersemestral English V
 
 * 834 0492 4779
