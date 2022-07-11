@@ -92,7 +92,7 @@
 
 - agenda page
 
-### Clases 29-June
+### Clases 30-June
 
 * How much does the ebook cost?-
 * It's cheaper to travel by plane than by bus in the US 
@@ -131,3 +131,32 @@
 
     5. What are you going to do in each place? 
         - In Merida we are going to visit "Cenotes" and we are going to swim at the beaches all day, in Rio de Janeiro we are going to visit the different monuments for example "Cristo Redentor" and we are going to carnivals, and in the Buenos Aires we are going to eat typical food such as "Choripan" and we are going to dance Tango. 
+
+### Clases 01-Jule
+
+* Predictions based on past evidence
+    - It's winter time. I need some clothes.  This person will buy a coat.
+* Predictions based on present evidence
+    - It's very cloud and windy, It's going to rain
+    - Our team is playing terrible! They're going to lose the game.
+* Is it correct to say ""?
+* The PC describes planes bien hechos
+
+* Calendar:
+    - meeting student
+    - playing tennis
+    - going to los angeles
+    - going to a restaurant with Lily /seeing Lili eating? going out
+    - going to the dentist
+
+* Arrange to meet and set time and a place
+    - I am going to the dentist
+    - I'm having a party
+
+    * (JS) Hi!!! Would you like to go to the cinema on Monday? 
+    (Haydee) Yes, I would like, but on Monday I'm am going out with my brother and are you free Denisse on Tuesday? 
+    * (Lupe) Yes, I cant too but on Tuesday, I'm working early, In the afternoon I'm free. And you 
+    Jose?  
+    * (JS) The Tuesday I'm visiting my grandmother so I can't and are you free Angel on afternoon Wednesday? 
+    * (Angel) The Wednesfay and Thursday I cant because I am playing football with some friends. Well, Are you free on night Friday?
+    (All) Yes, I'm free in the night, I'm doing exercise in the morning but in the night I can.
