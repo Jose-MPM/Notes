@@ -42,8 +42,33 @@ look more like this, all in a jumble with everything confused, a poor foundation
 
 ### About memory. :brain:
 
-* Long term memory
-* 
+The two types of memory are related:
+
+* Long term memory (memoria a largo plazo)
+    > 
+* Working memory
+    > Working memory is the part of memory that has to do with what you're immediately and consciously processing in your mind. Repetitions needed so that your metabolic vampires that is natural dissipating processes don't suck(succionar) those memories away. 
+
+Long-term memory is important because it's where you store fundamental concepts and techniques that are
+often involved in whatever you're learning about. When you encounter something new,
+you often use your working memory to handle it. If you want to move that information into your long-term memory, it often takes time and practice. 
+
+* If you want to move that information into your long-term memory, it often takes time and practice. To help with this process, use a technique called spaced repetition. 
+
+    > This technique involves repeating what you're trying to retain, but what you want to do is a space this repetition out. Extending your practice over several days does make a difference. Research has shown that if you try to glue things into your memory by repeating something 20 times in one evening.
+
+
+Sleep has also been shown to make a remarkable difference in your ability to figure out difficult problems and to understand what you're trying to learn. It's as if the complete deactivation of the conscious you in the prefrontal cortex at the forefront of your brain helps other areas of your brain start talking more easily to one another allowing them to put together the neural solution to your learning task while you're sleeping. Of course, you must also plant the seed for your diffuse mode by first doing focused mode work. If you're going over what you're learning right before you take a nap or going to sleep for the evening, you have an increased chance of dreaming about it. If you go even further and set(mantienes) it in mind that you want to dream about the material it seems to improve your chances of dreaming about it, still further. Dreaming about what you're studying can substantially enhance your ability to understand. It somehow consolidate your memories into easier to grasp chunks, and now, time for a little **sleep.** 
+
+### The importance of sleep. :zzz:
+
+You might be surprised to learn that just plain being awake creates toxic products in your brain.
+How does the brain get rid of these poisons? Turns out that when you sleep,
+your brain cells shrink. This causes an increase in the space between your brain cells.
+It's like unblocking a stream. Fluid can flow past these cells and wash the toxins out.
+So, sleep which can sometimes seem like such a waste of time is actually your brain's way of keeping itself clean and healthy.
+
+It seems that during sleep, your brain tidies up ideas and concepts you're thinking about and learning. It erases the less important parts of memories and simultaneously strengthens areas that you need or want to remember. 
 
 #### Coment trash: 
 
