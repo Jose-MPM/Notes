@@ -160,3 +160,9 @@
     * (JS) The Tuesday I'm visiting my grandmother so I can't and are you free Angel on afternoon Wednesday? 
     * (Angel) The Wednesfay and Thursday I cant because I am playing football with some friends. Well, Are you free on night Friday?
     (All) Yes, I'm free in the night, I'm doing exercise in the morning but in the night I can.
+
+
+## Expressions of gratitude 🎁
+* Share and tell others about this notes 📢
+---
+⌨️ con ❤️ por [Jose-MPM](https://github.com/Jose-MPM) 😊⌨️

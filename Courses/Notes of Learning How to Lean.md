@@ -42,10 +42,10 @@ look more like this, all in a jumble with everything confused, a poor foundation
 
 ### About memory. :brain:
 
+* Long term memory
+* 
 
-
-
-#### Coment: 
+#### Coment trash: 
 
 simon carnal porque el método científico ta más chato que tú desde que no topa que esta "vida" es una pinche experiencia virtual pa dioses que prueban los alcances de su poder en esta realidad ficticia... técnicamente todo es posible una vez que te liberes de la matrix falsa tetraedrica y lo mejor de todo es que tu mismo puedes corroborarlo! solo tienes que recordar quién eres más allá del envase biológico 100% real no fake
 
