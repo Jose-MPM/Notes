@@ -1,5 +1,5 @@
 
-# Notes of Learning How to Lear. 🚀
+# Notes of Learning How to Learn. 🚀
 
 ¿What is Learning?  :interrobang: 
 
