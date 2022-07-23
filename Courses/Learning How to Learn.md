@@ -81,6 +81,17 @@ It seems that during sleep, your brain tidies up ideas and concepts you're think
 > That success isn't necessarily come by being smart... passionate and persistent. A lot of success in life is that passion and persistence, of really staying the course, staying working on it, and, not letting go. Not giving up, and the most important: * **LEARNING WITH FRESH NEW EYES**
 #### Coment trash: 
 
+### Summary week 1:
+* In essence people have two fundamentally different modes of thinking that, we've labeled focused and diffuse. 
+* tackie - combatir
+* When we find ourselves stuck on a problem, or even if we're unsure of a situation, the course of living our daily life. It's often a good idea once you've focused directly on the situation. To let things settle back and take a bit more time. That way more neural processing can take place, often below conscious awareness in the diffuse mode. The thing is it often takes time for neural processing to take place, and time, as well, to build the new neural structures that allow us to learn something new. 
+* It's through practice and repetition that we can help enhance and strengthen the neural structures we're building as we're learning something new. Practice and repetition is particularly important for more abstract topics.
+* Memory of course is an important aspect of learning. There are four slots in our working memory. Things can fall out of those slots unless we keep repeating them to hold them in mind. In that sense working memory is like a not very good blackboard. Long term memory, on the other hand, is like a storage warehouse. If you practiced and repeated something well enough to get it into long-term memory, you can usually call it up later if you need, although you may need an occasional bit of repetition to freshen the memory up.
+* It's never a good idea to cram your learning by repeating things many times all in one day. Because that's like trying to build muscle by lifting weights all in one day there's no time for solid structures to grow. We've also learned that the importance of sleep and washing away the toxins that develop during our days activities. We want to avoid taking tests or doing anything difficult with little sleep the night before cause its like trying to think with poison on the brain. And just as importantly, exercise is surprisingly valuable in helping both improve our memory and our ability to learn. 
+* And just as importantly (Y de igual importancia )
+
+https://www.facebook.com/groups/proyectomigala/?ref=share
+
 simon carnal porque el método científico ta más chato que tú desde que no topa que esta "vida" es una pinche experiencia virtual pa dioses que prueban los alcances de su poder en esta realidad ficticia... técnicamente todo es posible una vez que te liberes de la matrix falsa tetraedrica y lo mejor de todo es que tu mismo puedes corroborarlo! solo tienes que recordar quién eres más allá del envase biológico 100% real no fake
 
 está bien chingón bro, puedes convertirte en un universo porque de hecho esto es como un criadero de universos uwu o puedes juntar un chingo de banda que conecte contigo y crear su propia matrix dentro de esta... o pasarte a la realidad de los dioses el eterico y echar desmadre con ellos (8 son chidos
