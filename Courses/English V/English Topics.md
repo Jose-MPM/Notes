@@ -33,7 +33,7 @@
                     - Is Emma enjoying herself?
         - Will-Can-Should
             * Will you close the door, please?
-            * Can you heal me?
+            * Can you hear me?
             * Should you smoke in the house?
 
     * Question Words.
@@ -41,19 +41,26 @@
         - *Who*: is only used when referring to people.  
         - *Where*: is used when referring to a place or location: 
             * _Where_ is the library?
+            * Where is the closest and economical hotel?
         - *When*: is used to refer to a time or an ocassion (I want to know the time).
+            * 
         - *What*: is used to refer to specific information.
             * What is the time? Qué hora es?
+            * What are you holding in your left hand?
         - *Why*: is used to obtain an explanation or a reason. (I want to know the reason).
             * Why do we need a nanny?
-            * Why does he complain all the time? (Por qué se queja todo el tiempo?)
-        - *How*: is used to describe the manner that something is done.  (How can I learn English quickly) 
+            * Why does he complain all the time? (Por qué el se queja todo el tiempo?)
+        - *How*: is used to describe the manner that something is done.  (How can I learn English quickly?) 
             * _How much_: refers to a quantity or a price (Uncountable nouns).
             * _How many_: refers to a quantity (Countable nouns).
             * _How often_: refers to frequency.
+                - How often do you go out with your girlfriend?
             * _How far_: refers to distance.
+                - How far is the perro negro pizzas from chapultepec subway?
+
         - *Which*: is used when a choice needs to be made. = I want to know the thing between alternatives
             * Which is better - this one or that one?
+                - Which is better to exercise at home or at the GYM?
 
 ## U1M2 Facts, Routines and Momentary Actions
 
@@ -65,6 +72,7 @@
 
             * Present Continuous: Future arrangements
                 - Im having dinner tomorrow
+                - Im going to a wedding with Itzel next Saturday
             * Present SImple: Timetabled events
                 - My flight leave**s** at 6:20 tomorrow.
         
@@ -73,24 +81,31 @@
             * Forms:  
                 - Positive
                     * Subject + verb(present simple)
+                        - In this moment I study English.
                 - Negative
                     * Subject + do/does + not + verb
-                        They don't play
-                        It doesn't play
+                        - They don't play
+                        - It doesn't play
+                        
                 - Question
                     * Do,does + subject + verb?
-                        Does she play?
-                        Do they study?
+                        - Does she play?
+                        - Do they study?
 
             * Is normaly used to talk about: Thoughts, feelings and states.
                 - She doesnt seem very happy at the moment.
+                - I love stay with mi family and work on my.
 
             * To say that something is true or untrue in general:
-                - The earth turns  360° every day
+                - The earth turns  360° every day.
+                - The moon doesn't rise in the daytime.
 
             * A permanent situation: 
                 - Im a doctor, I treat people.
                 - They always go to school by car.
+                - Im a student but in the future I will be a Programmer. 
+
+                > <HI>
             
             * In storytelling and commentaries the PS is used to describe the main events.
 
@@ -326,7 +341,15 @@
             - When the relative pronoun represents the object of the relative clause, it can be left out.
                 * (SUBJECT) The man who lives upstairs.
                 * (oBJECT) The man I see every day.
-
+        * Examples:
+            - That is the dog that always barks(ladra) at night.
+            - That's the store where I bought my wedding dress.
+            - That is the actor who was in Glee.
+            - They're the children who live next door to me.
+            - This is the restaurant where they make great pizza.
+            - That is the switch that controls the air-conditioning.
+            - He's the teacher who teaches my sister.
+            - This is the light that is broken.
 ## U4M1 Yet, Just, Already
 
 * Topics:
@@ -343,7 +366,22 @@
             - (?)
                 * Have you finished?
                 * Has She,he,it finished?
-        
+        * Past participle of some verbs:
+            - sell-sold
+            - spend-spent
+            - go-gone
+            - buy-bought
+            - get-got
+            - break-broken
+            - mail-mailed(enviado)
+            - give-given
+            - do-done
+            - score-scored(marcado, anotado)
+            - wear-worn
+            - fly-flown
+            - meet-met
+        * No se que es:
+            - fly-flew
         * Just: We use JUST with the Present Perfect to talk about things that happened a short time before now
             - The game has just finished
         
@@ -365,6 +403,7 @@
         Notice that we usually put YET at the end of a negative statement or question:
         - They haven ́t replied to my e-mail yet.
         - Have you found a new apartment yet?
+* Te
 
 * Household Chores: (Tareas demesticas)
     - Sweep the floor - Barrer
@@ -429,6 +468,25 @@
 * busy - bizi
 
 ## Pronunciation
+* Pronunciation of "y"
+    - The “y” can be a consonant or a vowel. The consonant sound of “y” is /y/ as in the word “yellow”. Typically at the beginning of the word the “y” makes the consonant /y/ sound. 
+        * _union_[junjɛn]
+        * _usually_ [juʒl̩i]
+        * coupon [kjupɑn] al inicio muy despacio
+    - The “y” also has two vowel sounds. Typically.
+        * In a one syllable word the “y” at the end of the word makes the long “i” sound as in the following words: cry, fry, try.
+        * Typically, in a two syllable word, the “y” at the end of the word makes a long “e” soundas in baby and city.
+* Pronunciation of "ʤ"
+    - The /ʤ/ sound is made through the mouth and it is Voiced which means that you vibrate your vocal chords to make the sound. It is defined by shape of your lips and the position of your tongue and it is an affricate, which is a sound made by closing the air flow but then opening it by forcing air through a narrow space. In this case it is the tip of your tongue that creates the narrow space between it and the ridge behind the teeth. To produce the sound touch your tongue to that ridge lightly and allow air pressure to force the tongue down whilst voicing out.
+    
+    The /ʤ/ phoneme is normally spelled with the letter ‘j’ as in the word:
+        • just /dʒəst/
+        • religion /rɪlɪʤən/
+        • judge /ʤʌʤ/
+        • major /ˈmeɪdʒə/
+        • large /lɑːdʒ/ laarch
+        • energy /ˈenədʒi/ 
+        • subject /ˈsʌbdʒɪkt/ sobjekt
 
 * Pronunciation of - **ed**
 

@@ -161,6 +161,46 @@
     * (Angel) The Wednesfay and Thursday I cant because I am playing football with some friends. Well, Are you free on night Friday?
     (All) Yes, I'm free in the night, I'm doing exercise in the morning but in the night I can.
 
+### Clases 25-Jule
+
+* Words:
+    - Done
+    - Bear
+    - Beer
+    - Came
+    - User
+    - Able
+    - File
+
+* nurse
+* supermarket
+* cellphone, phone, 
+* blond-rubio
+* smart
+* turn off
+
+* Activiti:
+    - A DJ It's somebody who mixes and plays music recording in the parties or music festivals.
+    - An art gallery is somewhere where you go to appreciate paints, sculptures or pictures.
+    - A camera it's something that we can use to take photos or record videos.
+    - An elevator it's a kind of machine that 
+        - moves sluggish(perezosa, floja) people¡?
+        - takes people up or down
+    - Sunbathe. You do this when the sun is very hot! You do at the beach or the back yard to get a tan or darker skin.
+    - Curly, Curly it’s the opposite of the straight.
+* Photo: 
+    - It’s something that If you want to save a memorie you use it
+* Lazy: 
+    - It’s when you don’t have energy to work or do any activity 
+    - It’s a person who don’t want to do anything at the moment
+    - It's when you don't feel like doing something
+* Sneakers:
+    - It’s a kind of shoes, in general it’s more comfortable than formal shoes but is also expensive.
+* Go sightseeing:
+    - It’s when you visit a place and you see the most important places, For example, you visit other country and visit the museums, restaurants, etc.
+* Arrivals: 
+    - It’s like a coming… when you reach a destination also it can be described as the emergence or appearance of a new development, phenomenon, or product
+* Passenger: Is a person who travles by plane 
 
 ## Expressions of gratitude 🎁
 * Share and tell others about this notes 📢
