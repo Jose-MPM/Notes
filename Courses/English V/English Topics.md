@@ -294,6 +294,107 @@
     - You're going to finish the university next year.
     - Next month he's working from home
 
+## U3M1 Definition and specification
+
+* Topics:
+    - (Defining) Relative Clauses:
+
+        * Defining relative clauses give us essential information – information that tells us who or what we are talking about. And starts with a relative clauses, the relative clause can be the subject or the object.
+            - He woman who lives next door works in a bank.
+            - These are the flights that have been cancelled.
+
+        * We usually use a relative pronoun or adverb to start a defining relative clause: who, which, that, when, where or whose.
+
+            - _Who, that_: We can use _who_ or _that_ to tal about people, _that_ is more common anda bit more informal:
+                * She's the woman who cuts my hair.
+                * He's the man that I met at the conference.
+            
+            - _Which, that_: We can use _which_ or _that_ to tal about things, _that_ is more common anda bit more informal:
+                * There was a one-year guarantee which came with the TV.
+                * The laptop that I bought last week has started making a strange noise!
+            
+            - _When_: can refer to a time.
+                * Summer is the season when I'm happiest.
+            
+            - _Where_: can refer to a place.
+                * That's the stadium where Real Madrid play.
+            
+            - _Whose_ refers to the person that something belongs to. Is a determiner, for possesions and _whose_ must be followed by a noun.
+                * He's a musician whose albums have sold millions.
+        
+        * **Leaving** out the pronoun:
+            - When the relative pronoun represents the object of the relative clause, it can be left out.
+                * (SUBJECT) The man who lives upstairs.
+                * (oBJECT) The man I see every day.
+
+## U4M1 Yet, Just, Already
+
+* Topics:
+    - Present Perfect with: Just, already, yet.
+        * We form the present Perfect with HAVE or HAS and a past participle (e.g. finished):
+            - (+)
+                * I have finished. 
+                * She,he,it has finished.
+                * They,you,we have finished
+            - (-)
+                * I haven't finished. 
+                * She,he,it hasn't finished.
+                * They,you,we haven't finished
+            - (?)
+                * Have you finished?
+                * Has She,he,it finished?
+        
+        * Just: We use JUST with the Present Perfect to talk about things that happened a short time before now
+            - The game has just finished
+        
+        * Already: 
+            - Already is used with Present Perfect to emphasize that something happened before now, or before it was expected to happen:
+                - Do you want something to eat?  No , thanks. I have already eaten.
+            - Already we're between the haves and the verb (more formal correct position)
+                - I'*ve* **already** *spent* my wages.
+                - I have already done it
+            - Or at the end of the sentence without changing the meating.
+                - I have done it already
+        
+        * Yet: We use YET with a negative verb to say that something HAS NOT HAPPENED, but we think that it will happen.
+            - They haven ́t replied to my e-mail letter yet.
+        
+        We use YET in questions to ask whether something that we expect to happen, has happened.
+        - Has it stopped raining yet 
+
+        Notice that we usually put YET at the end of a negative statement or question:
+        - They haven ́t replied to my e-mail yet.
+        - Have you found a new apartment yet?
+
+* Household Chores: (Tareas demesticas)
+    - Sweep the floor - Barrer
+    - Vacuum the floor / Vaquium the fluor - Aspirar
+    - Mop the floor - Trapear
+    - Scrub the floor - Fregar
+    - Set the table - Poner
+    - Wipe off the table - Limpiar
+    - Put the food away - Guardar la comida
+    - Rinse the dishes
+    - Dry/wipe the dishes
+    - Clean the sink
+    - Shut the door
+    - Clean up this mess
+    - Move the furniture
+    - Dust(/Dost) the selves
+    - Clean the tub - Limpiar la bañera
+    - Do the laundry
+    - Sweep the porch - Limpiar el porche
+    - Cut(/Cot) the grass - Cortar la hierba
+    - Mow the lawn - Cortar el cesped
+    - Water the flowers - Regar
+    - Turn on the sprinklers - Encender los aspersores
+    - Trim the hedges(/hedyes) - Recortar los setos
+    - Weed the garden
+    - Fix the roof
+    - Shovel the snow
+    - Scrape the windshield
+    - Wax the car
+
 ## U3M1 Plans or future arrangements
 
 * Topics:
@@ -304,10 +405,12 @@
 ## To do:
 
 - Friday:
-    * 6:30 Study
+    * 6:30 Study [Y]
     * 7:30 Help father
     * 12:00 - 1:00   SPORA
-    * 1:00 - 3:00    English Class
+    * 1:00 - 3:00    English Class 
+        - 705360 834 0492 
+        - 4779
     * 5:00 Activities 
     * Help father
     * Exercise
