@@ -142,19 +142,20 @@
             * A personal arrangement.
                 - They are having a party tomorrow (Ellos van a tener una fiesta mañana).
                 - Im mett**ing** Rose at six o'clock.
+
             0. Forms:  
                 - Positive
                     * Subject + to be + verb+ing
-                        I'm playing
-                        You're playing.
-                        He's playing
+                        - I'm playing
+                        - You're playing.
+                        - He's playing
                 - Negative
                     * Subject + to be + not + verb+ing
-                        She isn't playing
-                        We aren't playing
+                        + She isn't playing
+                        + We aren't playing
                 - Question
-                    Is he playing?
-                    Are they studying?
+                    + Is he playing?
+                    + Are they studying?
                 
             1. Use to talk about "now" (these days, these month) and temporary events.
                 - Example:
@@ -175,12 +176,10 @@
             * He is a chef, he is cooks delicious food <-> Now, he is cooking a new recipe.
         
         - Writting:
-            - My name is José Manuel and I'm 22 years old, I was born in Mexico City but I live in the State of Mexico , My favorites subjects in school are the ones that have to do with programming, for example, data structures. I think that I am a good student, in fact I have a good average but at the same time I feel that I have not learned very well and this makes me doubt, before I considered myself good, but now I'm don't, it's very hard for me to work with mathematics, there are many very abstract things. 
-            
-            In this moment my classes starts at 1:00 pm because I just have one heavy class, in my past semester I have 6 classes, one for subject, it was heavy, In the next semester I will have one interesting subjects, I'm talking about Artificial Intelligence, because I'm interesting in the topics we will see. In this moment I only want to improve my physical and mental abilities, in particular I want to learn and improve my English because I need it.
+            - My name is José Manuel and I'm 22 years old, I was born in Mexico City but I live in the State of Mexico , My favorites subjects in school are the ones that have to do with programming, for example, data structures. I think that I am a good student, in fact I have a good average but at the same time I feel that I have not learned very well and this makes me doubt, before I considered myself good, but now I'm don't, it's very hard for me to work with mathematics, there are many very abstract things. In this moment my classes starts at 1:00 pm because I just have one heavy class, in my past semester I have 6 classes, one for subject, it was heavy, In the next semester I will have one interesting subjects, I'm talking about Artificial Intelligence, because I'm interesting in the topics we will see. In this moment I only want to improve my physical and mental abilities, in particular I want to learn and improve my English because I need it.
     
     * **Summary**
-        + The _present simple_ is used to talk about facts and thinsgs that always all true or untrue, and we also use it to talk about the future, as an timestable arrangements, and also to talk about thoughts, feelings and whit state words such as like, love, need.
+        + The _present simple_ is used to talk about facts and thinsgs that always all true or untrue, and we also use it to talk about the future, as an timestable arrangements, and also to talk about thoughts[thogts], feelings and whit state words such as like, love, need.
         + While the _present continuos_ is used to talk about current activities because we use it for now, and personal arragments we dont usually use the PC to talk about states, is mainly used for actions and happenings(sucesos), changes, developments and trends.
 
 ## U2M1 Completed actions and Interrupted actions
@@ -195,32 +194,38 @@
             - (+) I liv**ed** in a beautiful and big house
             - (-) I **didn't live** in an apartment
             - (?) **Did** you **live** with your parents? Yes I did.
-            - QW _Where_ **did** you **live**?
+            - (QW) _Where_ **did** you **live**? I live in parent's house.
         * Irregular:
             - (+) We **went** to Puebla on Vacation
             - (-) I **didn't go** to Brazil.
             - (?) **Did** you **go** to camp? No, I didn't
-            - QW _Why_ **did** you **go**? there.
+            - (QW) _Why_ **did** you **go** there?
         * Uses: 
             1. We use the simple past to talk about: Completed actions, habits and facts in the past:
-                - I went to the Faculty of Science last Friday
-                - I always visited my brother in the weekend when I went to the Faculty of Science.
+                - I went to the Faculty of Science last Friday [ComAc]
+                - I always visited my brother in the weekend when I went to the Faculty of Science[habits].
 
             2. Use the simple past to talk about **finished actions** in the past.
-            3. The form of the simple past is the same for all the persons.
-            4. To make the simple past (+) of the regular verbs only add _-ed_.
-            5. Use the base form after didn't for _negative_ and Did... for _Questions_.
 
+            3. The form of the simple past is the same for all the persons.
+            
+            4. To make the simple past (+) of the regular verbs only add _-ed_.
+            
+            5. Use the base form after didn't for _negative_ and Did... for _Questions_.
+    
     - **Past Continuous**(PC):
 
         * Forms
-            - (+) Subkect + **was/were** + verb-**ing**
-            - (-) Subkect + **wasn't/weren't** + verb-**ing**
+            - (+) Subject + **was/were** + verb-**ing**
+                + I was having tamales for breakfast last Saturday with Itzel when suddenly my mom called me because my brother hadn't arrived home.
+                
+                + Or my brother didn't arrive home. 
+            - (-) Subject + **wasn't/weren't** + verb-**ing**
             - (?) **Was/Were** + subject + verb-**ing**? 
                 > Was she working? Yes, She was. No, She wasn't
         
         * Uses: Interrupted actions, specific time as an interruption and parallel actions.
-            - I was studying English when Alberto arrived
+            - I was studying English when Alberto arrived.
             - Las night at 7pm, I was having dinner
             - **While** she **was doing** her homework her brother **was playing** football.
 
@@ -228,7 +233,8 @@
                 > Jose was working at ten the day before yesterday
             
             2. To talk about an action that was in progress when a second action happened.
-                > They were studying when the electricity went off.
+                > - They were studying when the electricity went off. 
+                > - I was went outside the party when it started to rain.
             
             3. To talk about 2 actions that were in progress at the same time in the past
                 > I was studying while Alberto was playing fall guys
@@ -236,8 +242,11 @@
             4. To give background information in a story.  
                 > It was getting back, I was walking down the road when I saw a strange man.
             
-            5. With time expressions such as wuile, all morning, all day
-                > I was sleeping all night.
+            5. With time expressions such as while, all morning, all day
+                > - I was sleeping all night.
+                > - All mornign I was studying English for my exam.
+    * **Summary**:
+        + The _past simple_ is used to talk about finishet and completed actions, facts and routine in the past while the _present continuous_ is used to talk about 2 current actions that happen in the same time, and also use to describe an action that happen in a determinate time in the past and to talk about one action that were in the progress when anotter action happened.
 
 ## U3M1 Plans and Predictions
 
@@ -248,29 +257,36 @@
         * Forms:
             - (+) Subject + To be + **going to** + rest
                 Present Progresive of the verb "to go": **She/He/It is going** + Infinite form of the **verb**: **to walk**.
-                > They're going to work for an international company.
+                > * They're going to work for an international company.
+                > * She is going to walk in the park
             - (-) Subject + To be + not + **going to** + rest
                 * > She isn't going to work for an international company.
-                * > I am not going to be rude with my teacher. (grosero)
+                * > Im not going to be rude with my teacher. (grosero)
             - (?) To be + Subject + **going to** + rest ?
-                * > Are you going to work for an international company? Yes, I'm. No, I'm not.
-                * > Is he going to work for an international company? Yes, She is. No, She isn't
-                * > _Are they going_ to read?
-                * > Are we going to visit Buckingham Palace tomorrow?
+                > * Are you going to work for an international company? Yes, I'm.
+                > * Is he going to work for an international company? No, She isn't
+                > * _Are they going_ to read?
+                > * Are we going to visit Buckingham Palace tomorrow?
         * Uses:
+            
             - Use be _going to + base form_ to talk about future plans or intentions: An action in the future that has been planned or prepared.
-                * > I am going to buy a car next week.
-                * > Tomorrow, We are going to visit my brother.
-                * > After lunch, He is goingo _to call_ Mr Brown.
+
+                > * I am going to buy a car next week.
+                > * Tomorrow, We are going to visit my brother.
+                > * After lunch, He is goingo _to call_ Mr Brown.
+            
             - A conclusing regarding(respecto a) the inmediate future. An expectation(Una expectativa). We know something about the present -> we can say some about the future which follows from the above.
-                * > David missed the bus. He is going to be late.
+                > * David missed the bus. He is going to be late.
+                > * Jose didn't study. He isn't going to pass the English test.
+
             - We use _be going to + base form_ to make a prediction when we know or can see that something Is going to happen.
             - Plans: 
-                * You're going to work for an International Company.
-                * It's going to rain later.
-                * She's going to meet her friend at the airport.
+                > * Im going to live and work in another country
+                > * You're going to work for an International Company.
+                > * It's going to rain later.
+                > * She's going to meet her friend at the airport.
             - Future:
-                * Tonight, I'm going to try to skate
+                > * Tonight and tomorrow, I'm going to try to skate
         * "gonna" 
             - gonna is **not** good English, because it's very informal, It's very common.
             - Spoken English only, don't write it.
@@ -279,7 +295,7 @@
     
     - Video:
 
-        1. What are you going to do today after this video? I'm going to have a delicious lunch, I love eat and after I'm going to try to learn how to skate, because I don't know how skate, I'm new at this.
+        1. What are you going to do today after this video? I'm going to have a delicious lunch, I love eat and after I'm going to try to learn how to skate, because I don't know how skate, I'm new at this and I'm gonna my dance class.
 
         2. What are you going to have for dinner tonight? I'm going to have an Ice cream shake with oatmeal for dinner tonight.
 
@@ -287,41 +303,52 @@
 
         4. What are you going to do next weekend? The next Weekned I'm going to go to a party, I'm going to dance, Sunday morning I'm goind to run with one of my friends and in the afternoon another friend Ariel is going to visit me. 
 
-        5. Which specific activities are you going to do on your next vacation? I am not going to abroad, I'm going to stay in home, because I'm going to learn many new things, such as skate and swim, I am going to walk a lot on the street with my dogs.
+        5. Which specific activities are you going to do on your next vacation? I am not going to abroad, I'm going to stay in home, because I'm going to learn many new things, such as skate,swim and dance, I am going to walk a lot on the street with my dogs.
 
         6. Are you going to visit your family or friends? And I'm going to visit all my siblings who dont live with my and I'm going to hang out with my friends.   
     
-    - 5:19 Video
-
+    * **Summary**:
+        - We use *going to* to talk about future plans or intentions and a conclusing regarding the inmediate future, if we know that about the present we cay say some about  the future.
 ## U3M2 Plans or future arrangements
 
 * Topics:
     - Future **vs** Present Continuous
         * be going to + base verb **_VS_** to be + verb-ing
-            - I'm going to the mall -> PC
-            - I'm going to _go_ home  -> Future
+            > - I'm going to the mall -> PC
+            > - I'm going to _go_ home  -> Future
+            
     - Present Continuos to express actions that we are doing now:
-        * You are reading this example
-        * You are having a fantastic time
+        > * You are reading this example
+        > * You are having a fantastic time.
+        > * I'm studying and thinking English and not in Spanish
+    
     - Present Continuous to express future:
-        * Don't use the simple present to express future arrangements.
-            - > I'm seeing some friends tonight, **NOT**: I see some friends tonight.
+        * Don't use the simple present to express future arrangements. Use present continuous.
+            > - I'm seeing some friends tonight, **NOT**: I see some friends tonight.
+            > - I'm going to dance class with my friendss.
+
         * Talking about future arrangements or plans that we have made at fixed time or place in the future:_
-            - > What _are you doing_ next Friday afternoon? I'm _going to_ the cinema, with some friends.
+            > - What _are you doing_ next Friday afternoon? I'm _going to_ the cinema, with some friends. 
+
+            > - Where are you staying next Saturdar night? I'm staying with Itzel after going to a wedding with her.
+            
         * Not use to talk about activities that we are doing in this moment.
     - Structure:
         * (+) to be + verb-ing
-            - > At 4 o'clock we are going to the brother's apartment
+            > - At 4 o'clock we are going to the brother's apartment
         * (-) to be + not + verb-ing
-            - > They aren't coming to the party
+            > - They aren't coming to the party
         * (?) be + Subject + verb-ing + rest?
-            - > Is she meeting her friends tonight?
-            - > What are you doing on Monday? I'm going to the doctor's at 9am.
+            > - Is she meeting her friends tonight?
+            > - What are you doing on Monday? I'm going to the doctor's at 9am.
 * Examples:
     - She's leaving in a minute.
     - We're arriving at 6pm.
     - You're going to finish the university next year.
     - Next month he's working from home
+
+* **Summary**:
+        - We use *present continuos* to talk about actions that we are doing in this moment and also use to express future arrangements or plans that we have made at fixed time or place.
 
 ## U3M1 Definition and specification
 
@@ -329,8 +356,8 @@
     - (Defining) Relative Clauses:
 
         * Defining relative clauses give us essential information – information that tells us who or what we are talking about. And starts with a relative clauses, the relative clause can be the subject or the object.
-            - He woman who lives next door works in a bank.
-            - These are the flights that have been cancelled.
+            > - He woman who lives next door works in a bank.
+            > - These are the flights that have been cancelled.
 
         * We usually use a relative pronoun or adverb to start a defining relative clause: who, which, that, when, where or whose.
 
