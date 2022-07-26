@@ -75,6 +75,8 @@
                 - Im going to a wedding with Itzel next Saturday
             * Present SImple: Timetabled events
                 - My flight leave**s** at 6:20 tomorrow.
+                - My flight arrives at 9:10 tomorrow.
+                - My doctor's appointment is Thursday, August 22nd at 2:30
         
         - *Simple Present*: Use to talk about "all the time" and *facts*. Tomorrow is Wednesday
             
@@ -82,6 +84,7 @@
                 - Positive
                     * Subject + verb(present simple)
                         - In this moment I study English.
+                        - I have muffins for breakfast.
                 - Negative
                     * Subject + do/does + not + verb
                         - They don't play
@@ -93,31 +96,35 @@
                         - Do they study?
 
             * Is normaly used to talk about: Thoughts, feelings and states.
-                - She doesnt seem very happy at the moment.
-                - I love stay with mi family and work on my.
+                - She doesnt seem very happy at the moment. [state]
+                - I love stay with mi family and work on my. [feeling]
+                - I believe the world needs love. [Thought]
 
             * To say that something is true or untrue in general:
-                - The earth turns  360° every day.
+                - The earth turns 360° every day.
                 - The moon doesn't rise in the daytime.
 
             * A permanent situation: 
                 - Im a doctor, I treat people.
                 - They always go to school by car.
-                - Im a student but in the future I will be a Programmer. 
-
-                > <HI>
+                - Im a student but in the future I will be a Programmer.
             
-            * In storytelling and commentaries the PS is used to describe the main events.
+            * In storytelling and commentaries the PS is used to describe the main event.
 
             * Is used to when we talk about an official arrangement(acuerdo) such as a timetable or programme.
                 - What time is the match on Sunday? It **starts** at seven o'clock.
 
             * Example:
-                How do you stay in shape? I usually eat clean, i.e. eat vegetables and legumes, I drink a lot of water, and I dont eat fast food and do exercise every day.
+                - How do you stay in shape? I usually eat clean, i.e. eat vegetables and legumes, I drink a lot of water, and I dont eat fast food and do exercise every day.
             
             > Simple present is very frequently with state verbs such as _like, love, know, need, want_. Those verbs are not frequent with present continuos.
             
-            * Clue words: - Always - Usually - Often(a menudo) - Sometimes - Never
+            * Clue words: 
+                - Always
+                - Usually 
+                - Often(a menudo) 
+                - Sometimes
+                - Never
                 
         - *Present Continuos*: 
 
@@ -138,9 +145,9 @@
             0. Forms:  
                 - Positive
                     * Subject + to be + verb+ing
-                        Im playing
-                        You are playing.
-                        He is playing
+                        I'm playing
+                        You're playing.
+                        He's playing
                 - Negative
                     * Subject + to be + not + verb+ing
                         She isn't playing
@@ -152,7 +159,7 @@
             1. Use to talk about "now" (these days, these month) and temporary events.
                 - Example:
                 What sports are you playing these days? I dont practice particular sport, I only doing exercise for stay in shape and be stronger, Im lossing weight.
-            2. Use to emphasize situations that happen too often (annoying habits).
+            2. Use to emphasize situations that happen too often (annoying(molestos) habits).
                 - Example:
                 He is always playing videogames.
                 They are always listening to very loud music!
@@ -162,12 +169,19 @@
                 - At present
                 - Currently
                 - Nowadays (Hoy en día)
-                - Now 
+                - Now
+
         - Examples:
             * He is a chef, he is cooks delicious food <-> Now, he is cooking a new recipe.
         
         - Writting:
-            - My name is José Manuel and I'm 22 years old, I was born in Mexico City but I live in the State of Mexico , My favorites subjects in school are the ones that have to do with programming, for example, data structures. I think I am a good student, in fact I have a good average but at the same time I feel that I have not learned very well and this makes me doubt, before I considered myself good, but now I'm don't, it's very hard for me to work with mathematics, there are many very abstract things. In this moment my classes starts at 1:00 pm because I just have one heavy class, in my past semester I have 6 classes, one for subject, it was heavy, In the next semester I will have one interesting subjects, I'm talking about Artificial Intelligence, because I'm interesting in the topics we will see. In this moment I only want to improve my physical and mental abilities, in particular I want to learn and improve my English.
+            - My name is José Manuel and I'm 22 years old, I was born in Mexico City but I live in the State of Mexico , My favorites subjects in school are the ones that have to do with programming, for example, data structures. I think that I am a good student, in fact I have a good average but at the same time I feel that I have not learned very well and this makes me doubt, before I considered myself good, but now I'm don't, it's very hard for me to work with mathematics, there are many very abstract things. 
+            
+            In this moment my classes starts at 1:00 pm because I just have one heavy class, in my past semester I have 6 classes, one for subject, it was heavy, In the next semester I will have one interesting subjects, I'm talking about Artificial Intelligence, because I'm interesting in the topics we will see. In this moment I only want to improve my physical and mental abilities, in particular I want to learn and improve my English because I need it.
+    
+    * **Summary**
+        + The _present simple_ is used to talk about facts and thinsgs that always all true or untrue, and we also use it to talk about the future, as an timestable arrangements, and also to talk about thoughts, feelings and whit state words such as like, love, need.
+        + While the _present continuos_ is used to talk about current activities because we use it for now, and personal arragments we dont usually use the PC to talk about states, is mainly used for actions and happenings(sucesos), changes, developments and trends.
 
 ## U2M1 Completed actions and Interrupted actions
 
