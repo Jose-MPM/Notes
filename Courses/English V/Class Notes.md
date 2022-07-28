@@ -185,7 +185,7 @@
     - A camera it's something that we can use to take photos or record videos.
     - An elevator it's a kind of machine that 
         - moves sluggish(perezosa, floja) people¡?
-        - takes people up or down
+        - takes people up orhttps://www.youtube.com/watch?v=J25NQ_irHL4 down
     - Sunbathe. You do this when the sun is very hot! You do at the beach or the back yard to get a tan or darker skin.
     - Curly, Curly it’s the opposite of the straight.
 * Photo: 
@@ -201,6 +201,82 @@
 * Arrivals: 
     - It’s like a coming… when you reach a destination also it can be described as the emergence or appearance of a new development, phenomenon, or product
 * Passenger: Is a person who travles by plane 
+
+## Exam 26-Jule 
+
+### Writing.
+My mother is Teresa Méndez Martinez Teresa, last week was her birthday, she turned 62 years old, she is petite and a little fat because she has a little problem with anxiety and food but she has very pretty eyes, they are green!
+
+Unfortunately she didn't study, she had 11 siblings!... She was born in Veracruz, in the past she was very angry but now she controls herself a little, we work in this. She almost doesn't like many things, well, that's what she says, I love her very much, during the pandemic our family had bad experiences, she had a very bad time, we almost lost her but fortunately it didn't happen and now I can stay with her and we take advantage of every moment with her.
+
+## Class Wednesday 27-Jule
+
+* Present Continuous for ask about has the event happend or not? When It's not importat that happen. Para verificar que un evento paso o no paso
+* For more specific details we use _simple past_
+* Verbs:
+    - fine-found-found
+    - give-gave-given
+    - hear-heard-heard
+    - have-had-had
+    - know-knew-known
+    - lose-lost-lost
+    - make-made-made
+    - meet-met-met
+    - pay-paid-paid
+    - send-sent-sent
+    - spend-spent-spent
+    - think-thought[thout]-thought
+    - win-won-won
+    - dried
+    - speak-spoke-spoken
+    - fly-flew-flown
+    - go-went-gone
+* write-> rite
+* wrong-> rong
+
+* Exercise:
+    - I have already had breakfast.
+    - Have you finished your homework yet?
+    - The movie has already started
+    - I haven't met his wife yet
+    - They have already bought their math books.
+    - You'are too late. He has already goes home
+    - Have you spoken to him yet?
+    - I haven't read this new book yet.
+
+* d3
+    - college
+    - change
+    - jacket
+    - bridge
+    - teenager
+* j
+    - young
+    - use
+    - uniform
+    - year
+    - yoga
+    - enjoy
+    - just
+    - yet
+    - yellow
+    - argue
+
+## Class Thursday 28-Jule
+* Exercise:
+    - We have lots of food. I've been(was there and I'm back) to supermarket
+    - The secretary isn't
+* Exercise 2:
+    - Have you ever visited any countries in South America?
+    - went
+    - did you go
+    - paid
+    - how been
+    - we were
+    - where did you stay?
+    - We had
+    - Have the company invited
+    - stopped
 
 ## Expressions of gratitude 🎁
 * Share and tell others about this notes 📢

@@ -361,27 +361,28 @@
 
         * We usually use a relative pronoun or adverb to start a defining relative clause: who, which, that, when, where or whose.
 
-            - _Who, that_: We can use _who_ or _that_ to tal about people, _that_ is more common anda bit more informal:
+            - _Who, that_: We can use _who_ or _that_ to talk about people, _that_ is more common anda bit more informal:
                 * She's the woman who cuts my hair.
                 * He's the man that I met at the conference.
             
-            - _Which, that_: We can use _which_ or _that_ to tal about things, _that_ is more common anda bit more informal:
-                * There was a one-year guarantee which came with the TV.
-                * The laptop that I bought last week has started making a strange noise!
+            - _Which, that_: We can use _which_ or _that_ to tal about things, _that_ is more common and a bit more informal:
+                > * There was a one-year guarantee which came with the TV. (Había un año de garantia que venía con la TV).
+
+                >  * The laptop that I bought last week has started making a strange noise!
             
             - _When_: can refer to a time.
-                * Summer is the season when I'm happiest.
+                > * Summer is the season when I'm happiest.
             
             - _Where_: can refer to a place.
-                * That's the stadium where Real Madrid play.
+                > * That's the stadium where Real Madrid play.
             
-            - _Whose_ refers to the person that something belongs to. Is a determiner, for possesions and _whose_ must be followed by a noun.
-                * He's a musician whose albums have sold millions.
+            - _Whose_ refers to the person that something belongs to.(Se refiere a la persona que le pertenece algo). Is a determiner, for possesions and _whose_ must be followed by a noun(sustantivo). [Es un determinante, pues la posesión y _CUYO_ deben ser seguidas por un sustantivo].
+                > * He's a musician whose albums have sold millions.
         
         * **Leaving** out the pronoun:
             - When the relative pronoun represents the object of the relative clause, it can be left out.
                 * (SUBJECT) The man who lives upstairs.
-                * (oBJECT) The man I see every day.
+                * (OBJECT) The man I see every day.[**doub**]
         * Examples:
             - That is the dog that always barks(ladra) at night.
             - That's the store where I bought my wedding dress.
@@ -421,6 +422,8 @@
             - wear-worn
             - fly-flown
             - meet-met
+            - pay-paid
+            - see-seen  
         * No se que es:
             - fly-flew
         * Just: We use JUST with the Present Perfect to talk about things that happened a short time before now
@@ -436,15 +439,29 @@
                 - I have done it already
         
         * Yet: We use YET with a negative verb to say that something HAS NOT HAPPENED, but we think that it will happen.
-            - They haven ́t replied to my e-mail letter yet.
+            - They haven't replied to my e-mail letter yet.
         
-        We use YET in questions to ask whether something that we expect to happen, has happened.
-        - Has it stopped raining yet 
+        * We use YET in questions to ask whether something that we expect to happen, has happened.
+            - Has it stopped raining yet 
 
-        Notice that we usually put YET at the end of a negative statement or question:
-        - They haven ́t replied to my e-mail yet.
-        - Have you found a new apartment yet?
-* Te
+        * Notice that we usually put YET at the end of a negative statement or question:
+
+            - They haven't replied to my e-mail yet.
+            - Have you found a new apartment yet?
+            + Have I finished yet? No, sorry, we haven't finished yet.
+
+        * Sometimes we can put _yet_ at the end of a question to *show* surprise.
+
+        * The sentences with _just_ and _already_ are positive.
+
+            * Your phone has just rung
+
+            * Hamish has just phoned. He's just arrived in London.
+
+            * Hamish has already been to Buckingham Palace!
+
+            * I've already told you.
+
 
 * Household Chores: (Tareas demesticas)
     - Sweep the floor - Barrer
@@ -475,6 +492,72 @@
     - Scrape the windshield
     - Wax the car
 
+## U4M2 Vague time **VS** Specific time
+
+* Topics:
+    + _Past Simple_:
+        * Form:
+            - [+]
+                + I, You, We, They, She, He, It + past tense verb (regular -ed or irregular past)
+            - [-]
+                + I, You, We, They, She, He, It + did not/didn't + base form of the verb
+            - [?]
+                + Did + I, You, We, They, She, He, It + base form of the verb?
+        * Uses:
+            1. To ask about and give more details, you need to use the _past simple_.
+                - ‘Great news! Jane has had a baby!’ [PP]
+                - ‘When did she have it?’[PS] 
+                - ‘She had it last night![PS]
+            
+            2. We use _past simple_ when we refer to an action _that is no longer true in the present but that was true in the past_. [Una acción que ya no es cierta en el presente pero fue verdadera en el pasado].
+                - I studied 3 years at the Colegio de Ciencias y Humanidades plantel Oriente.
+                - 
+            
+            3. The past simple can be used with phrases relating to finished time, such as: yesterday, last week, last month, in 2010, two weeks ago.
+                - Jemma left the company six weeks ago.
+                - My semester finished 4 five weeks ago.
+                - I emailed Tony last week.
+    + _Present Perfect_:
+        * Form:
+            - [+]
+                + I, You, We, They + have/'ve + past participie
+                + She, He, It + has/'s + past participie
+            - [-]
+                + I, You, We, They + have not/'ve not + past participie
+                + She, He, It + has not/'s not + past participie
+            - [?]
+                + Have + I, You, We, They + past participie?
+                + Has + She, He, It + past participie?
+        * Uses:
+            1. We use the _present perfect_ to describe an action that happened in the past but it's still true in the present.
+                > * They have been to London several times, this year
+                > * I have studied CC for the last 3 years.
+            
+            2. The present perfect tense is often used to tell up-to-date news[noticias actuales], But you cannot use the present perfect with phrases _relating to finished time_[relacionadas con el tiempo terminado]:
+                > * ‘Great news! Jane has had a baby!’ [:correct]
+                > * ‘Great news! Jane has had a baby yesterday! [:bad]
+            
+            3. The present perfect can be used with phrases relating to unfinished time, such as: this week, today, this year:
+                - I’ve seen Alberto three times this week.
+                - That’s the fourth time I’ve seen that film this year.
+            
+            4. The present perfect is often used in sentences with these words: just, yet, already, ever, never:
+                - I’ve just finished the report.
+                - Karen has finished the book already.
+                - I haven’t finished the report yet.
+                - I’ve never been to Spain. Have you ever been? 
+            
+            5. The present perfect is used to *describe periods of time* that start in the past and continue until the present. It is often used with for and since.
+                - I’ve lived here _for_ five years.
+                - James has worked here _since_ last summer
+    
+    + The present perfect and past simple may appear in the same sentence:
+        - I’ve lived here since I was a child.
+        - Tom has been unemployed since he left the factory.
+            
+* Examples:
+    - b
+
 ## U3M1 Plans or future arrangements
 
 * Topics:
@@ -502,13 +585,26 @@
 
 ## Words mean
 
-* tie /tai/ corbata
-* later /leitah
-* where
-* 230 - two hundred and thirty
-* busy - bizi
+* Words: 
+    * cleared[limpiado]
+    * ironing[planchar]
+    * receipt[recibo]
+    * suit[favorecer]
+    * delivery[entrega]
+    * feeding[dar de comer]
+    * Never mind [No importa]
+    * messy[Desordenado]
+    * lazy[Perezosos]
+    * tie /tai/ corbata
+    * later /leitah
+    * where
+    * 230 - two hundred and thirty
+    * busy - bizi
 
 ## Pronunciation
+* ban[ban], track[track], **lane[lein]**
+* auction/o:chion/[subasta], receipt[ricipt], click[click]
+
 * Pronunciation of "y"
     - The “y” can be a consonant or a vowel. The consonant sound of “y” is /y/ as in the word “yellow”. Typically at the beginning of the word the “y” makes the consonant /y/ sound. 
         * _union_[junjɛn]
