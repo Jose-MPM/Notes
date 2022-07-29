@@ -277,8 +277,9 @@ Unfortunately she didn't study, she had 11 siblings!... She was born in Veracruz
     - We had
     - Have the company invited
     - stopped
+## Class Friday 29-Jule
 
-## Expressions of gratitude 🎁
+# Expressions of gratitude 🎁
 * Share and tell others about this notes 📢
 ---
 ⌨️ con ❤️ por [Jose-MPM](https://github.com/Jose-MPM) 😊⌨️

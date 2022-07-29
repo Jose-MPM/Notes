@@ -442,12 +442,12 @@
             - They haven't replied to my e-mail letter yet.
         
         * We use YET in questions to ask whether something that we expect to happen, has happened.
-            - Has it stopped raining yet 
+            - Has it stopped raining yet?
+            - Have you found a new apartment yet?
 
         * Notice that we usually put YET at the end of a negative statement or question:
 
             - They haven't replied to my e-mail yet.
-            - Have you found a new apartment yet?
             + Have I finished yet? No, sorry, we haven't finished yet.
 
         * Sometimes we can put _yet_ at the end of a question to *show* surprise.
@@ -499,10 +499,13 @@
         * Form:
             - [+]
                 + I, You, We, They, She, He, It + past tense verb (regular -ed or irregular past)
+                    - She passed the english test.
             - [-]
                 + I, You, We, They, She, He, It + did not/didn't + base form of the verb
+                    - I didn't get up[levante] late on this vacation.
             - [?]
                 + Did + I, You, We, They, She, He, It + base form of the verb?
+                    - Did you eat something?
         * Uses:
             1. To ask about and give more details, you need to use the _past simple_.
                 - ‘Great news! Jane has had a baby!’ [PP]
@@ -511,29 +514,36 @@
             
             2. We use _past simple_ when we refer to an action _that is no longer true in the present but that was true in the past_. [Una acción que ya no es cierta en el presente pero fue verdadera en el pasado].
                 - I studied 3 years at the Colegio de Ciencias y Humanidades plantel Oriente.
-                - 
+                - I was fat 2 years ago.
             
             3. The past simple can be used with phrases relating to finished time, such as: yesterday, last week, last month, in 2010, two weeks ago.
                 - Jemma left the company six weeks ago.
                 - My semester finished 4 five weeks ago.
                 - I emailed Tony last week.
+
     + _Present Perfect_:
         * Form:
             - [+]
                 + I, You, We, They + have/'ve + past participie
+                    * I have been to 3 Panteon Rócoco concerts.
                 + She, He, It + has/'s + past participie
+                    * Itzel has come to my house 5 fime.
             - [-]
                 + I, You, We, They + have not/'ve not + past participie
+                    * We've not yet entered the next semester.
                 + She, He, It + has not/'s not + past participie
+                    * He's not bought a car.
             - [?]
                 + Have + I, You, We, They + past participie?
+                    * Have they lost the game?
                 + Has + She, He, It + past participie?
+                    * Has it happened before?
         * Uses:
             1. We use the _present perfect_ to describe an action that happened in the past but it's still true in the present.
                 > * They have been to London several times, this year
                 > * I have studied CC for the last 3 years.
             
-            2. The present perfect tense is often used to tell up-to-date news[noticias actuales], But you cannot use the present perfect with phrases _relating to finished time_[relacionadas con el tiempo terminado]:
+            2. The present perfect tense is often used to tell *up-to-date*[actualizado] news[noticias actuales], But you cannot use the present perfect with phrases _relating to finished time_[relacionadas con el tiempo terminado]:
                 > * ‘Great news! Jane has had a baby!’ [:correct]
                 > * ‘Great news! Jane has had a baby yesterday! [:bad]
             
@@ -550,13 +560,90 @@
             5. The present perfect is used to *describe periods of time* that start in the past and continue until the present. It is often used with for and since.
                 - I’ve lived here _for_ five years.
                 - James has worked here _since_ last summer
+                - Jose has been thin(delgado) this year.
     
     + The present perfect and past simple may appear in the same sentence:
         - I’ve lived here since I was a child.
         - Tom has been unemployed since he left the factory.
             
 * Examples:
-    - b
+    - 
+
+## U5M1 Similarities and differences
+
+* Topics:
+    - Comparisons + As...As:
+        * We use _as + adjective + as_ to say that two things or people are the same adverb in some way[son iguales adverbios de alguna manera], or how actions that two people perform are the same in some way[o como las acciones que dos personas realizan/desempeñan son iguales de alguna manera].
+            + The hat is _as expensive as_ the umbrella = The hat and the umbrella has the same price.
+            + He's _as young as_ me = We are the same age.
+
+        * Pay attention that we say : as me / as him / as her/ as us/ as them, and not as I / as he / as she etc:
+            - She’s as good as him. (Not She’s as good as he.) Ella es tan buena como el.
+            - I’m as happy as them. (Not ...as they.) Soy tan feliz como ellos
+            - My father is as angry as her
+            - John runs as quickly as Mary. [corre tán rápido como]
+        * We use *not as..as* to talk a differences between two things or people.
+            - The rural school isn't as big as the city school.
+            - I'm not as cherful as her = She is more cheerful than me.
+            - Sam doesn't run as quickly as Mark = Mark runs more quickly thank Sam.
+        * Adding emphasis and more meaning to as..as
+            * With _just_ we talk about equals = 
+                - Autumn is just as beautiful as spring.
+            * not quite <-> < no es tan
+                - Spring is not quite as warm as summer = La primavera no es tán cálida como el verano.
+            * almost <-> < es casi tan (to express small difference)
+                - Late autumn is almost as cold as winter. El final de otoño es casi tan frío como el invierno.
+            * We use _not nearly_ to express a big difference between the subject and the object of the sentence. <-> A big < 
+                - winter is not nearly as hot as summer
+        * Using as..as with adverbs.
+            - Ariana sings _just_ as beautifully as Mariah. Ariana canta tan bien como Mariah.
+            - My dad coocks almost as well as my mom.
+            - My dad **doesn't** cook **quite** as well as my mom.
+            - A person doesn't run _nearly_ as fast as a cheetah. [BigDifference]
+            - Doctors don't write as neatly as teachers. Los doctores no escriben con tanta pulcritud como los profesores.
+            - Doctors don't write nearly as neatluy as teacher. [BigDifference]
+            - Actresses dress just as stylishly as models.
+            - The moon is not nearly as hot as the sun.
+        * We need use the be verb in the correct form
+            - Reading is as relaxing as watching TV.[YES]
+            - Reading as relaxing as watching TV.[NO]
+            - Gorrillas don't live as long as elephants. [YES]
+            - Gorrillas not quite as live long as elephants. [NO]
+            
+    - Shopping Vocabulary:
+        - https://english-at-home.com/business/shopping-vocabulary/
+        - Words:
+            * spring-primavera
+            * summer-verano
+            * autumn-otoño
+            * winter-invierno
+            * grocery store-a shop that sells food.
+            * greengrocer-frutería-verdulería
+            * butcher-carnicería
+            * baker-pastelería-panificadora
+            * fishmonger-percadería-sells fresh fish.
+            * drugstore, place where sells medicines and toiletries[artículos de aseo]
+            * newsagent-puesto de venta de periodicos
+            * stationer – sells paper goods [papelería] vende artículos de papelería
+            * DIY store – sells things for home improvement. 
+                - Tienda de bricolaje: vende cosas para mejorar el hogar.
+            * hardware shop / hardware store / ironmonger – hard goods, such as nails and screws.
+                - Ferretería - productos duros como clavos y tornillos.
+            * corner shop-a shop on the corner of your street[tienda en la esquina de la calle]
+            * market – market traders (people who work on a market[mercado]) have stalls[puestos] that sell fruit and vegetables, clothes, household items and so on.
+            * gas station (US) sells petrol, car products and sometimes food.
+            * 
+        - Use of 's:
+            * When we talk about shops, we often put an ‘s on the end. For example, “I’m going to the chemist’s / greengrocer’s / butcher’s / baker’s / newsagent’s / fishmonger’s / optician’s.” 
+            * We don’t use an ‘s with these shops: supermarket, hardware store, petrol station, department store.
+* Examples:
+    - 
+    - Soccer is as exciting as basketball.
+    - Soccer is just as exciting as basketball.
+    - A kitten is not early as dangerous as a tiger. [BigDifference]
+    - A kitten is not as dangerous as a tiger
+    - Autumn is as beautiful as spring.
+    - Winter is not as hot as summer.
 
 ## U3M1 Plans or future arrangements
 
@@ -569,14 +656,14 @@
 
 - Friday:
     * 6:30 Study [Y]
-    * 7:30 Help father
-    * 12:00 - 1:00   SPORA
-    * 1:00 - 3:00    English Class 
+    * 7:30 Help father [Y]
+    * 8:30 Breakfast
+    * 1:00 - 3:00    English Class
         - 705360 834 0492 
         - 4779
     * 5:00 Activities 
-    * Help father
-    * Exercise
+    * 5:00 Exercise
+    * 7:00 Dance class
 
 # Intersemestral English V
 
@@ -602,6 +689,50 @@
     * busy - bizi
 
 ## Pronunciation
+* The schwa sound /ə/.
+    - The reduced vowel sound[El sonido vocalico reducido] called schwa is the most common vowel sound in spoken English. Schwa is a quick, relaxed, neutral vowel pronunciation very close to a _'short u'_ /ʌ/.  [Schawa es una pronunciación vocalica rapida, relajada y neutra muy cercana a]
+    - The purpose of schwa is to allow unstressed syllables to be said more quickly so the main beats of spoken words are easier to place on the stressed syllables. [El proposito de schwa es permitirnos que las silabas no acentuadas se digar más rapidamente para que el sonido principal de las palabras habladas sean más fáciles de colocar en las silabas acentuadas.]
+    - Schwa does not have an exact and standard pronunciation. Due to the near-identical pronunciation of schwa and short u, [Debido a la pronunciación casi idéntica de] many dictionaries merge[fusionan] the transcription of the two sounds and strictly use /ə/.
+    - Separate symbols are retained[Los símbolos se mantienen separados aquí para indicar] here to indicate whether a vowel sound falls on a stressed or unstressed syllable[Cae en una silaba acentuada o no acentuada]. 
+    - Schwa occurs in two different circumstances: [Se produce en]
+        1. in an unstressed syllable of a multi-syllable word
+        2. as a reduced vowel sound in a function word [Como un sonido vocalico reducido en una palabra funcional]
+
+    * ### Schwa in an unstressed syllable    
+
+        *  In words with more than one syllable, not every syllable is given equal emphasis when spoken. Three levels of *syllable stress*[acento silábico] are possible: [no todas las silabas reciben el mismo énfasis cuando las hablamos]
+
+            1. stressed /⬤/
+            2. secondarily stressed /●/
+            3. unstressed /•/
+
+        * Every multi-syllable word has a single[única] stressed syllable. The single stressed syllable of the word has the most emphasis. The remainder[resto] of the syllables may have a secondary stress[acento secundario] or may be unstressed[pueden ser no acentuadas]. The word emphasize[acentuada] has all the levels of stress.[niveles de acento].
+
+        * The word emphasize has all the levels of stress. The first syllable is stressed, the second syllable is an unstressed syllable pronounced as schwa, and the third syllable has a secondary stress.
+            * em•pha•size
+            * /⬤ • ●/
+    * ### The spellings of Schwa
+
+        - Many multi-syllable words do not seem to be pronounced as they are spelled.[no parecen ser pronunciadas como se escriben] This is because schwa is a function of syllable stress and not of spelling[Es una función del acento silábico y no de la ortografía]. Once learners can recognize stressed syllables, it becomes easier to predict when schwa will be used in an adjacent, unstressed vowel[será más facil predecir cuando se usara _Schwa_ en una vocal adyacente no acentuada.], regardless of the spelling.[Independientemente de la ortografía]
+
+        - The examples below show schwa as it is exhibited when spelled with each vowel. They syllable containing schwa is bolded:
+            + 'a' spelling:
+                - **a**gain: /ə 'gɛn/
+                - vit**a**min: /'vɑɪ t̬ə mɪn/
+            + 'e' spelling:
+                - p*e*tition: /pə ˈtɪʃ ən/
+                - cel*e*brate: /ˈsɛl ə breɪt/
+            + 'i' spelling
+                - pres*i*dent: /ˈprɛz ə dɛnt/
+                - exper*i*ment: /ɪk 'spɛr ə mənt/
+            + 'o' spelling
+                - occur: /ə 'kɚ/
+                - condition: /kən ˈdɪʃ ən/ 
+            + 'u' spelling
+                - campus: /ˈkæm pəs/
+                - support: /sə ˈpɔrt/
+
+
 * ban[ban], track[track], **lane[lein]**
 * auction/o:chion/[subasta], receipt[ricipt], click[click]
 
