@@ -636,8 +636,9 @@
         - Use of 's:
             * When we talk about shops, we often put an ‘s on the end. For example, “I’m going to the chemist’s / greengrocer’s / butcher’s / baker’s / newsagent’s / fishmonger’s / optician’s.” 
             * We don’t use an ‘s with these shops: supermarket, hardware store, petrol station, department store.
+        - tired->more tired
 * Examples:
-    - 
+    - I'm as good as I was at painting when I was child
     - Soccer is as exciting as basketball.
     - Soccer is just as exciting as basketball.
     - A kitten is not early as dangerous as a tiger. [BigDifference]
@@ -690,6 +691,9 @@
 
 ## Pronunciation
 * The schwa sound /ə/.
+    - communication-cəmunicəshion
+    - traditional-trədicəonal
+    - diet/dait/
     - The reduced vowel sound[El sonido vocalico reducido] called schwa is the most common vowel sound in spoken English. Schwa is a quick, relaxed, neutral vowel pronunciation very close to a _'short u'_ /ʌ/.  [Schawa es una pronunciación vocalica rapida, relajada y neutra muy cercana a]
     - The purpose of schwa is to allow unstressed syllables to be said more quickly so the main beats of spoken words are easier to place on the stressed syllables. [El proposito de schwa es permitirnos que las silabas no acentuadas se digar más rapidamente para que el sonido principal de las palabras habladas sean más fáciles de colocar en las silabas acentuadas.]
     - Schwa does not have an exact and standard pronunciation. Due to the near-identical pronunciation of schwa and short u, [Debido a la pronunciación casi idéntica de] many dictionaries merge[fusionan] the transcription of the two sounds and strictly use /ə/.

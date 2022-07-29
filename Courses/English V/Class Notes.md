@@ -278,6 +278,46 @@ Unfortunately she didn't study, she had 11 siblings!... She was born in Veracruz
     - Have the company invited
     - stopped
 ## Class Friday 29-Jule
+* Activities:
+    - enough/inofth/
+    - thought/touth/
+    - hurry/horry/
+    - example:
+        + The Beefeaters are as funny as the guards at Buckingham Palace.
+    - interesting-in3ting
+    - comparative:
+        + cheaper than
+        + easier than
+        + more tired, than
+        + bussier than
+        + better than
+        + more interesting than
+        + farther than
+        + shorter than
+        + worse than
+        + more difficult
+    - quiz night:
+        1. 
+    - 199
+    - 455
+    - 920
+    - 1300
+    5- 34027
+    - 7700
+    7- 50000
+    8- 120000
+    40,000,000
+    - 10 2000 and no supe
+    
+    10 second to say if the sentence is true or false
+    1000 each correct duplicate 
+    2000
+    4000
+    12,000
+    lose all money
+    call a friend
+    391,731
+    3 hundred and nice one thousand and seven hundred thirty one
 
 # Expressions of gratitude 🎁
 * Share and tell others about this notes 📢
