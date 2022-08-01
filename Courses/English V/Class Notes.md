@@ -319,6 +319,8 @@ Unfortunately she didn't study, she had 11 siblings!... She was born in Veracruz
     391,731
     3 hundred and nice one thousand and seven hundred thirty one
 
+## Class Friday 01-August
+
 # Expressions of gratitude 🎁
 * Share and tell others about this notes 📢
 ---

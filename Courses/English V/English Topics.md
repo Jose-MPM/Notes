@@ -646,7 +646,116 @@
     - Autumn is as beautiful as spring.
     - Winter is not as hot as summer.
 
-## U3M1 Plans or future arrangements
+## U5M2 Extreme comparison 36:22
+
+* Topics:
+    - Superlative:
+        + Adjectives are words that help us to describe.
+        + We use Superatives + Adjectives to compare a person or a thing with all of the group they are in.
+    - Rules:
+        1. We use _the_ + a superlative adjective, we use "the" before the superlative adjective 'cause we are referring to one specific person or thing.
+
+            + This house is the most expensive.
+            + This is the best price.
+        2. With short adjectives: We make the superlative form of adjectives of one syllable by adding –est:
+            + tall → the tallest
+            + cheap → the cheapest
+        3. If the adjective ends in –e, we add –st:
+            + nice → the nicest
+        4. If the adjective ends in one vowel and one consonant, we double the consonant and add –est:
+            + big →the biggest
+            + hot → the hottest
+        5. Long adjectives: If the adjective ends in –y, change the y to i and add –est:
+            + pretty → the prettiest
+            + happy → the happiest
+        6. Pay attention to some a few forms which are irregular
+            + good → best
+            + bad → worst
+                - In my opinion, she is the best actress in Hollywood.
+            + far → the furthest
+            + Also note the irregular comparative and superlative forms of the quantifiers little, much and many:
+
+                + little → the least
+                + much **→** the most+
+                + many → the most
+
+        7. Two-syllable adjectives ending in "er","le" or "ow" we usually add -est.
+            + clever-cleverest[inteligente, habil, astuto]
+                - Luis is the cleverest person that I've ever met.
+            + gentle-gentlest[suave,tierno]
+            + narrow-narrowes[estrecho]
+
+    - SUPERLATIVES AND PRESENT PERFECT WITH EVER.
+        + What´s the tallest building that you have ever visited ?
+        + What´s the most delicious dish that you have ever tasted ?
+    
+        The Present Perfect is used in two ways:
+        1. Experiences and finished actions: Remember that we do not use a specific time.
+        2. Unfinished actions: Things that started in the past but are not finished.
+    
+        We can combine the present perfect with superlative sentences to talk about both experiences and unfinished actions: [▪] We can also switch the order of the sentence.
+        - Batman is the best movie that I have seen → The best movie that I have seen is Batman.
+        - Korean beef is the best meat that I have eaten → The best meat that I have esaten is the Korean beef.
+        - This book is the worst book that I’ve read → The worst book that I've read is this book.
+        - She is the nicest teacher I have had → The nicest teacher I've had is her.
+
+        Remember the word “that” in these sentences is optional.
+        - He is the tallest man that I’ve seen = He is the tallest man I’ve seen.
+        - Itzel is the most wonderful girl that I've ever met = Itzel is the most wonderful girl I've ever met
+
+        We can mention recent experiences and life experiences.
+        - It is the best movie that I have seen recently.
+        - It is the best movie that I have seen. (In my whole life)
+        - It is the best movie that I have seen in my life.
+
+        We can add the word "ever" to emphasize. It just makes our sentence stronger and We can only use "ever" when talking about whole life experiences[Experiencias de toda la vida]. It cannot be used to talk only about recent experiences. No se puede solo utilizar para hablar sólo de experiencias recientes. Men[men-hombres]
+        - He the most handsome man[maen-hombre] that I have ever seen.
+        - It is the biggest waterfall[cascada] that I’ve ever seen.
+        - The best singer that I have ever seen in concert is Adele
+        
+        We usually use the present tense “be verbs” in this sentence, but sometimes people use past tense “be verbs”. However, the two sentences below, have the same meaning.
+        - It was the most interesting movie that I have ever seen.
+        - It is the most interesting movie that I have ever seen.
+    
+    - Modify the superlative:
+        + "one of the" + superlative + plurar noun
+            - Great Britain is one of the richest countries in the wordl
+                + Meaning: There are several very rich countries in the world and Great Britain is one of those countries.
+        + "some of the" + superlative + plurar noun
+            - NY, London and Tokio are some of the most expensive cities in the wordl
+                + Meaning: There are several very expensive cities in the world and these are some of those cities.
+        + We can also modify a superlative with a ordinal number: "the" + ordinal number + superlative
+            - cardinal number - ordinal number: 
+                + one - first
+                + two - second
+                + three - third
+                + four - fourth
+            - Jose is the second tallest person in the family.
+        + We can also replace "the" with a _possesive_: *possesive + superlative*
+            - Jane is _my best_ friend.
+            - Physics is _her hardest_ exam = Physics is Sandra's hardest exam = La física es su examen más difícil.
+* Examples:
+    - small-smallest: Mercury is the smallest planet in the solar system.
+    - hard-hardest
+    - nic*e*-nicest
+    - fin*e*-finest
+    - rar*e*-rarest
+    - b*ig*-biggest
+    - f*at*-fattest
+    - th*in*-thinnest
+    - h*ot*-hottest: Spain is the hottest country in Europe.
+    - beautiful-most beautiful
+    - famous-most famoust
+    - peaceful-most peaceful
+    - pleasant-most pleasant[agradable]
+    - useful-most useful
+    - bus*y*-busiest
+    - eas*y*-easiest
+    - happy-happiest
+    - funny-funniest
+    
+
+## U5M2
 
 * Topics:
     - a
