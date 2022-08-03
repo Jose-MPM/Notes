@@ -321,6 +321,38 @@ Unfortunately she didn't study, she had 11 siblings!... She was born in Veracruz
 
 ## Class Friday 01-August
 
+* Exercies:
+    + Exercise 1:
+        - Moderm computers are much faster than the early ones.
+        - shorter than
+        - easier than
+        - SF is further from LA than SD
+        - I thought the third Men in Black movie was worse than
+        - better than
+        - more stressed than
+        - morking hard this year
+        - bigger
+        - more slowl
+    + rewrite:
+        1. Jerry isn’t as short as Adam 
+        2. My bag isn’t as nice as your bag
+        3. London isn’t as popular as Tokio
+        4. Volleyball isn’t as popular as Tennis 
+        5. Chilren learn languages as fast as children 
+        6. You don’t as hard as me.
+        7. The knicks didn’t as good as the Laker 
+
+## Class Wednesday 03-August
+
+* Exercise:
+    - Expo: Can you share the screen?
+        1. The most beautiful park that you can visit in Mexico City is Chapultepec, because is one of the largest city parks in the Wester Hemisphere! Is the second largest city park in Latin America. It has many attractions nearby, such as the Chapultepec Castle, a zoo, the Museum of Anthropology, a laike and several fountains
+        2. I think that the easiest and the best way to get around in Mexico is use the metro lines, because     is the cheapest way travel and if we are lucky it can be very fast and we can get to many places in the city and sometimes we need walk and  it is good for our health so this is not bad.
+        
+        10. What´s the most popular area to go at night? Garibaldi is the most popular area to go at night. The Plaza is known as Mexico City's home of mariachi music.
+* Ex
+
+
 # Expressions of gratitude 🎁
 * Share and tell others about this notes 📢
 ---
