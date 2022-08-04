@@ -566,9 +566,19 @@
         - I’ve lived here since I was a child.
         - Tom has been unemployed since he left the factory.
             
-* Examples:
-    - 
-
+* Best Examples of present perfect tense:
+    - I've[have] never been sick before
+    - I've come to talk with you again.
+    - I've[aive] made changes for you, Think about that
+    - How long has he been gone? 
+    - I've come to say good-bye.
+    - Commuting to work by bike has risen by about 60 percent in 10 years
+        + Los desplazamientos al trabajo en bicicleta ha aumentado un 60% en 10 años.
+    - Alice has escaped and I've made a decision.
+    - Have you ever imagined a future with me?
+    - Their mother has not eaten for five months and has lost half of her body weight.
+    - Something wonderful has happened. I'm pregnant
+    - I've missed you so much
 ## U5M1 Similarities and differences
 
 * Topics:
@@ -735,6 +745,7 @@
             - Jane is _my best_ friend.
             - Physics is _her hardest_ exam = Physics is Sandra's hardest exam = La física es su examen más difícil.
 * Examples:
+    - What is the best computer game you have ever played?
     - small-smallest: Mercury is the smallest planet in the solar system.
     - hard-hardest
     - nic*e*-nicest
@@ -752,27 +763,171 @@
     - bus*y*-busiest
     - eas*y*-easiest
     - happy-happiest
-    - funny-funniest
-    
+    - funny-funniest    
 
-## U5M2
+## U5M3 Excessive and sufficient
 
 * Topics:
-    - a
+    - Quantifiers:
+        * Much
+        * Many
+        * A lot of
+        * Most
+        * A little
+        * little
+        * A few
+        * Few
+    - We use a few for Countable Nouns and a little for Uncountable:
+        + A little sugar
+        + A little water
+        + A little time
+        * A few cars
+
+    She sees a lot of close friends regularly - Ve a muchos de sus amigos cercanos regularmente, con regularidad.
+    - Too and Enough[Inofh]: describe the degree(level) of something
+        + too: more are u need
+        + enough: The amount that u need
+        + too **+** adjective/adverb (too is before the adjective/adverb)
+            - EXCESIVE(more than necessary): More than what is needed or wanted, more than suitable. More than enough
+                * This jacket is _too expensive_. I'm not going to buy it. No way!
+                * It's _too cold_ to go swimming. Let's go to te cinema instead.
+                * The test was _too dificult_. I don't think I'll pass.
+                * U r _too young_ to go a disco. You must be 18 to get in.
+                * Come on! You are too old to ride the Merry-Go-Round.
+            - too + adjective + infinitive:
+                * She's *too short to play* basketball.
+            - too + adverb:
+                * He's always tired because he works too hard
+                * She's going to be late because she's walking too slowly.
+        + adjective/adverb **+** enough: enough is after the adjective.
+            - SUFFICIENT: The sufficient/necessary degree of something.
+                * You are not working _hard enough_. If you don't study more, you won't pass your test.
+                * He is not _tall enough_ to be in the basketball team.
+                * I will never be _rich enough to buy that house.
+                * Come on! You are not small enough to get through that hole[agujero]. You will never reach the other side.[Nunca llegaras al otro lado].
+            - adjective + enough + infinitive:
+                * She is not _old enough to drive_ a car.
+            - adverb + enough: enough is after the adverb
+                * She is not running quickly enough. Quickly describes how run 
+            - - adverb + enough + infinitve: enough is after the adverb
+                * The team is playing well enough to win the game
+        + with nouns:
+            * too many + countable noun (too is before the countable noun in the plurar form.)
+                - I have bought too many banana_s_
+                - There are too many book_s_ in the library
+                - I think you have bought too many apples.
+                - Im fat because I eat too many sweets.
+            * too much + uncountable noun (too is before the uncountable noun in the singular form.) 
+                - You have given me too much rice
+                - I have cooked too much pasta. 
+                - U r making too much noise. 
+                - You have given me to much information. Im confused
+                - They have drunk too much wine. They are going to be ill[embriagar]
+            * enough + countable noun: enough is before the countable noun in the plural form.
+                - They are enough chair_s_ for everybody
+                - Do we have enough plate_s_? Yes, we have 
+                - Is there enough paper in the printer?
+            * enough + uncountable noun: enough is before the uncountable noun in the singular form.
+                - Sorry, there isn't enough cheese for everyone
+                - I would like to buy this watch but I don't have enough money.
+        + Common Mistakes in English:
+            + not + too = a good amount
+                * The bed is too high = I dont like it  
+                * The bed isn't too high = It's fine
+            + not + enough = not a good amount
+                * The bed is low enough = I like it  
+                * The bed is not low enough = I dont like it.
+            + Example:
+                - His behavior[comportamiento] was too impudent[insolente] for me to tolerate.
+                - She's comfortable with a pillow[almohada] and blankest[]
+                - mattress[colchon]
+                - The old one was lumpy and it was sagging(falling down in places)[lleno de vultos y se hundía]
+            
 * Examples:
-    - b
+
+## U6M1  Future actions(predictions, promises, decisions and offerings)
+
+* Topics:
+    - Will Video:
+
+    - Will
+        * Will has a neutral meaning but we use it to talk about facts in the future:
+            - The spaceship will come down in the Pacific ocean tomorrow morning.
+        * Assumptions based in what we think:
+            - I think I'll pass he exam next Thursday.
+        * We use will / won ́t + base form for future predictions, i.e. to say things we think,guess or know about the future.
+            1. We often use I think / I don ́t think + will.
+                + I think he'll fail the exam. I don't think hel'll pass the exam.
+            2. We use probably to say that something is not definite: To say that something is not define, use probably with will for the future.
+                + We'll propably visit the planet
+            3. With positive contractions _will_ becomes _'ll_ and is joined to subject:
+                + Subject + will/'ll + infinitive
+                    - Don't worry I will help you
+                + I will - I'll / you will - you'll / she will - she'll / we will - we'll
+            4. With negative contractions, will not becomes won't:
+                + Subject + will not / won't + infinitive
+                    - He won't eat soup
+                + He will not - He won't / They will not - They won't
+            5. Questions: To form a question using WILL, we reverse the order of the subject and WILL:
+                + Will + subject + infinitive:
+                    - Will he watch  TV tonigh? No, he won't, He'll play videogames.
+                    - Will you marry me? Yes I will
+                    - Will she open the door? Please
+                    - Will he be here tomorrow?
+                    - Will they win the cup? No, They won't
+                    - Will you tell him the truth? Yes, I will
+            6. **Decisions** at the time to speaking: 
+                An instant decision is one that we make based on current circumstances. When we must take a fast choice, this is an instant decision. These are not intentions for the future, but a decision we make quickly. For these instant decision we must use the simple future with WILL. We use WILL to express a decision we take at the moment of speaking:
+                - I feel tired. I won't go to the party.
+                - I won't stay for dinner. I think I'll go home early.
+                - I'm hungry , I'll make myself a sandwich
+                - I left the door open. I'll close it righ now.
+                - I will have a cup of coffe, please.
+                - I will call her tonight
+            7. Offers, promises, predictions:
+                1. Offers: Will often suggests that a speaker will do something voluntarily. A voluntary action is one the speaker offers to do for someone else. Often, we use "will" to respond to someone else's complaint or request for help. We also use "will" when we request that someone help us or volunteer to do something for us. Similarly, we use "will not" or "won't" when we refuse to voluntarily do something.
+                    - I will send you the information when I get it.
+                    - Will you help me move this heavy table?
+                    - I won't do all the housework myself.
+                    - I'll get you 
+                    - Dont worry. I will help you with your homework.
+                    - I will love you forever.
+                    - You will be rich
+                2. Promises: Will is usually used in promises:
+                    - She won't agree whit that. No estará de acuerdo con eso.
+                    - I will call you when I arrive.
+                    - If I am elected President of the United States, I will make sure everyone has access to inexpensive health insu rance.
+                    - I promise I will not tell him about the surprise party.
+                    - Don't worry, I'll be careful.
+                    - I won't tell anyone your secret.
+                3. TO Refuce to do something:
+                    - No, I won't smoke anymore.
+                    - This homework is too difficult I won't do it .
+                4. An assumption[suposición]
+                    - The journey will take around twenty minutes.[El viaje tomara alrededor de 20 minutos.]
+                    - I think you will like these flowers.
+                5. A fact:
+                    - He will get be twenty three next Monday.
+    - Be going to for predictions:
+        * We can also use be going to predict something you know or can see is going to happen. e.g Look at the clouds. It's going to rain. They're playing very well. I'm sure they ́re going to win.
+
+* Examples:
+    - I'm seeing Jane at 6. She'll be late
+    - The movie is in French. We won't understand anything.
+    - It's a great book. I'm sure you'll like it.
+    - I don't think It'll rain tomorrow.
 
 ## To do:
 
-- Friday:
+- Wednesday:
     * 6:30 Study [Y]
-    * 7:30 Help father [Y]
+    * 7:30 Help mother [Y]
     * 8:30 Breakfast
     * 1:00 - 3:00    English Class
         - 705360 834 0492 
         - 4779
-    * 5:00 Activities 
-    * 5:00 Exercise
+    * 4:00 Exercise
+    * 4:00 Activities 
     * 7:00 Dance class
 
 # Intersemestral English V
@@ -780,9 +935,72 @@
 * 834 0492 4779
 * 705360
 
+## Vocabulary
+* Countables and Uncountables Food:
+    - Countables:
+        + Buns, Burgers, Sandwiches, Fries, cookies
+        + Sausages/soseges/
+        + Apples, cherries, grapes[greips], olives[olivs]
+        + Oranges, watermelons, peas/pis/[chicharo]
+        + Salads, pancakes, vegetables[vegshtables]
+        + eggs, carrots, tomatoes, potatoes
+
+    - Uncountables:
+        + Bread, butter, cheese
+        + Cereal, chocolate, mustard, salt/solt/
+        + jam[jeam], milk, honey[miel], water
+        + Coffee, tea, juice
+        + Flour[flawer], rice, sugar[shugar], soup, meat, fruit, seafood
+
+* Most Common Phrasal Verbs with Back:
+    + Answer back: Answering back is to reply to someone in an authority role in a rude argumentative style.
+    + Back somebody up: to back somebody up means to provide them with support publically. In this same way, you can also back up a story, meaning that you support the story or validate it being true.
+        - I didn’t take your sandwich. Scott can back me up because he was with me all day.
+        - Do you remember that time you had to back Tony up when he got in a fight?
+    + Back something up: to back something up is a term often used in technology conversation. When you back something up, it means that you make a copy of it to protect yourself from loss.
+    + Back up: to Back up can also mean to move backward. It’s both used figuratively, such as moving backward in time or a conversation. And literally, in the case of taking a step backward.
+        - Wait, let’s back up for a minute. Did you say you were in Vegas last weekend?
+        - We’re standing too close to the water. Let’s back up because I don’t want to get wet.
+* Words to describe places.
+    + Words that embrace[abrazan] a place:
+        - Alive/alaife/[vivo]-Full of live
+        - Attractive-pleassing[agradable]: charming[encantador,cautivador]
+            + The girl has a charming smile[sonrisa cautivadora]
+        - Beautiful-Having qualities that are pleasing or appealing[atractivas]
+        - Bustling[bullicioso] - Full of life, energy
+        - Cosmopolitan/Cosmopolitən/ - Appealing[Que atrae] to people from all across the globe
+        - Enchanting/ənchenting/[Encantador] - Delightful[delicioso]; fascinating[fascinante]
+        - Fascinating - Alluring[seductor]; captivating[cautivador]
+        - Fresh - Something newly made[recien hecho] and full of vigor
+        - Homey[acogedor] - Cozy[acogedor]; inviting[atractivo]
+        - Inspiring[inspirador] - Enlivening[que anima]; motivating[que motiva]
+        - Lively[animado] - Full of life and spirit
+        - Peaceful[tranquilo] - Calm[calmado]; friendly[amistoso]
+        - Picturesque[pintoresco] - Scenic[Escénico]; beautiful
+        - Unspoiled[intacto] - Untouched by man; pure [No tocado por el hombre]
+        - Vibrant[vibrante] - Full of life; energy
+    + Words to xpress dislike for a place:
+        - Bleak[Desolado] - Gloomy[Lúgubre]; somber[sombrío]
+        - Boring - Dull[aburrido]; uninteresting[sin interés]
+        - Creepy[Espeluznante] - Causing feelings of fear or disgust[Que provoca sentimientos de miedo o disgusto]
+        - Crowded[abarrotado] - Filled to capacity[lleno hasta los topes]
+        - Deserted[desierto] - Abandoned; uninhabited
+        - Desolate[desolado] - Empty[vacio]; bleak[desolado]
+        - Dull - Boring; lacking zest[sin entusiasmo]
+        - Expensive[caro] - Costly[costoso]; having[tener] a very high price
+        - Horrifying/Horfaing/[horripilante] - Frightening/fraigt-ning/;[aterrador] disgusting/disgosting/[repugnante]
+        - Nightmarish[pesadilla] - Resembling a bad dream[que se parece a un mal sueño]
+        - Polluted - Dirty; contaminated
+        - Rundown[rundawn] - In poor condition[En mal estado]
+        - Stormy[tormentoso] - Turbulent[turbulento]; tempestuous[tempestuoso]
+        - Touristy[turistico] - Of or for tourists, suggesting tastelessness[que sugiere mal gusto]
+        - Ugly - Visually unpleasing[Desagradable a la vista]
+
 ## Words mean
 
 * Words: 
+    * lend[prestar]
+    * borrow[pedir prestado ]
     * cleared[limpiado]
     * ironing[planchar]
     * receipt[recibo]
@@ -799,6 +1017,25 @@
     * busy - bizi
 
 ## Pronunciation
+* How to make the UH Vowel sound /ʌ/.
+    - sometimes/'sʌm taImz/ _stressed_ [Uhh]
+    - money/'mʌn i/[uhh] _stressed_ [Uhh]
+    - above/ae'bʌv  _stressed_ [Uhh] 
+    - untie/ʌn'taI/ unstressed [Uhntie]
+    - uphil/ʌp'hIl/ unstressed [Uhp'hil]
+    - fun/fʌn/ _stressed_ [fuhn]
+
+* THE LONG AND SHORT U SOUND:
+    The vowel system is the most complicated part of the pronunciation-spelling system of English, because each vowel letter represents three or four different vowel sounds. The letter “U” has three different sounds, but one thing that is unique about “U” is that it has two Long-vowel sounds.
+
+    The basic sounds of the English letter “U” are: Long-U-1, Long-U-2, and Short-u.
+
+    * Long-U-1: The sound of Long-U-1 is the same as the name of the letter “U”. However, this long-vowel sound is a little bit unusual because Long-vowels usually have two parts, but Long-U-1 has three parts (in IPA: /yuw/). Some common words with this sound are: use / music / huge / cute / unite[yuwnite] / cure / menu[menuw] / fuel[fyuwl] / human[hyuwman] and argue[argyuw].
+
+    * Long-U-2: The second Long-U sound is almost the same as Long-U-1, except that it has only two parts (in IPA: /uw/). Some words with this sound are: true / flute / blue / June / spruce / tune / rule / tube / duty[duwty]-deber and include.
+
+    * Short-u: (like o))Short-u is pronounced in the center (not front, not back) middle (not high, not low) part of the mouth, and the tongue needs to be relaxed. Some common words with this sound are: up / just / but / much / under / us  run / study / number and because.
+
 * The schwa sound /ə/.
     - communication-cəmunicəshion
     - traditional-trədicəonal
@@ -920,5 +1157,5 @@
 
 ## Expressions of gratitude 🎁
 * Share and tell others about this notes 📢
----
+------
 ⌨️ con ❤️ por [Jose-MPM](https://github.com/Jose-MPM) 😊⌨️

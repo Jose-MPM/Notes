@@ -350,9 +350,33 @@ Unfortunately she didn't study, she had 11 siblings!... She was born in Veracruz
         2. I think that the easiest and the best way to get around in Mexico is use the metro lines, because     is the cheapest way travel and if we are lucky it can be very fast and we can get to many places in the city and sometimes we need walk and  it is good for our health so this is not bad.
         
         10. What´s the most popular area to go at night? Garibaldi is the most popular area to go at night. The Plaza is known as Mexico City's home of mariachi music.
-* Ex
-
-
+* Select the correct option:
+    - I eat too much chocolate.
+    - I eat too many potato chips.
+    - Do you drink enough water?
+    - I cant come. Im too busy
+    - This suitcate isn't big enough
+    - I worry too much
+    - You dont go out enough
+    - I dont eat enough vegetables
+* Complete with quantifiers:
+    1. Im not in shape. I dont exercise enough
+    2. It's too far
+    3. There are too amny cars on the 
+    4. I spend too much time on the computer
+    5. I dont read too much-only
+    6. it was too expensive
+    7. There were too many people in the party
+    8. The screen isn't big enough
+* Choose: a few for Countable. a little for Uncountable, a lot of with both
+    1. Can I ask you a few questions about your diet?
+    2. How many of pieces of fruit do you eat a day?
+    3. Hoy much sugar do you put in your coffe?
+    - A little sunshine is good for you, but no more than 15 minutes a day.
+    - I only drink a few cups of coffee a day
+* Notes:
+    - Are you getting enough sleep
+    - cut[cat]-put[]
 # Expressions of gratitude 🎁
 * Share and tell others about this notes 📢
 ---
