@@ -917,19 +917,6 @@
     - It's a great book. I'm sure you'll like it.
     - I don't think It'll rain tomorrow.
 
-## To do:
-
-- Wednesday:
-    * 6:30 Study [Y]
-    * 7:30 Help mother [Y]
-    * 8:30 Breakfast
-    * 1:00 - 3:00    English Class
-        - 705360 834 0492 
-        - 4779
-    * 4:00 Exercise
-    * 4:00 Activities 
-    * 7:00 Dance class
-
 # Intersemestral English V
 
 * 834 0492 4779
