@@ -377,6 +377,49 @@ Unfortunately she didn't study, she had 11 siblings!... She was born in Veracruz
 * Notes:
     - Are you getting enough sleep
     - cut[cat]-put[]
+    - lose[luse]
+## Class Thursday 04-August
+* Questions:
+    - Yes, please. I wi'll
+    - I'll pay you back
+    - It doesn't fit me - I'll take it back to the store and exchange it.
+    - She's at lunch. - That's OK, I'll come back later
+    - It doesn't? I'll return it back, then
+* Write:
+    1. I think they will lose the game
+    2. Will the meeting be long?
+    3. She won't get the job-She's not qualified enough
+    4. Will you see him at work later?
+    5. I don't want to go, it won't be impossible to park
+    6. You won't like that book.
+    7. I'm sure she will love the present I bought her
+    8. There won't be a lot of traffic in the morning.
+    9. You'll find a good job. I'm sure
+    10. Everything will be Ok, so there's no need to worry
+
+## Exam Friday 05-August
+
+* Writting:
+    1. What's is the best vacation you have ever had?
+        The best vacation I have had was the first two weeks of November 2020 I went to Veracruz, My sister and her family(her husband and her daughter) went to the beaches of Veracruz and the invited me. I contemplated the beatiful and peaceful sky full of stars while I was walking on the lovely coastline and listening to the beautiful sound of the wages in the sea. On this vacation I have tested the best dishes that I can taste. I stay in different hotels and hostels and in all we spent a total of 10 days.
+    2. What is the most delicious food you have ever tasted?
+        The most delicious food I have ever tasted was chillepin shrimp, it is the spiciest dish I have ever tasted I love it, because I like , I tasted it on my last vacation with my sister.
+    3. The most beautiful city I've ever been to
+    3. what is the most expensive thing you've ever bought?
+        - The most expensive thing I've ever bought
+    5. who's the most impatient person you know? 
+        - The most impatient person I know
+    6. what's the most frightening movie you've ever seen?
+        - The most frightenign movie I've ever seen
+    7. 
+* Oppositive:
+    - borrow-lend
+    - buy-sell
+    - pass-fail
+    - arrive-leave[left]
+    - take back-when u went to the store
+    - 
+
 # Expressions of gratitude 🎁
 * Share and tell others about this notes 📢
 ---

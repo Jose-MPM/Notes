@@ -15,7 +15,7 @@
             3. b) Bare infinitive + adverbial
             - Do you come here often?
             - Does the bus leave every hour?
-        
+        z
         - YES/NO
             1. Auxiliary verb 
             2. Subject 
@@ -408,6 +408,7 @@
             - (?)
                 * Have you finished?
                 * Has She,he,it finished?
+                
         * Past participle of some verbs:
             - sell-sold
             - spend-spent
@@ -418,35 +419,37 @@
             - mail-mailed(enviado)
             - give-given
             - do-done
-            - score-scored(marcado, anotado)
+            - score-scored(marcado, anotado) 
             - wear-worn
             - fly-flown
             - meet-met
             - pay-paid
-            - see-seen  
-        * No se que es:
+            - see-seen
             - fly-flew
+
         * Just: We use JUST with the Present Perfect to talk about things that happened a short time before now
             - The game has just finished
         
         * Already: 
-            - Already is used with Present Perfect to emphasize that something happened before now, or before it was expected to happen:
+            - Already is used with Present Perfect to emphasize[em 'fisaice] that something happened before now, or before it was expected to happen:
                 - Do you want something to eat?  No , thanks. I have already eaten.
             - Already we're between the haves and the verb (more formal correct position)
-                - I'*ve* **already** *spent* my wages.
+                - I'*ve* **already** *spent* my wages. sueldo-salario
+                    + Ya he gastado mi sueldo.
                 - I have already done it
+                    + Lo he hecho
             - Or at the end of the sentence without changing the meating.
-                - I have done it already
+                - I have done it already.
+                - I've spent my wages already.
         
         * Yet: We use YET with a negative verb to say that something HAS NOT HAPPENED, but we think that it will happen.
-            - They haven't replied to my e-mail letter yet.
+            - They haven't replied[ri-plaid] to my e-mail letter yet.
         
         * We use YET in questions to ask whether something that we expect to happen, has happened.
             - Has it stopped raining yet?
             - Have you found a new apartment yet?
 
         * Notice that we usually put YET at the end of a negative statement or question:
-
             - They haven't replied to my e-mail yet.
             + Have I finished yet? No, sorry, we haven't finished yet.
 
@@ -455,42 +458,9 @@
         * The sentences with _just_ and _already_ are positive.
 
             * Your phone has just rung
-
             * Hamish has just phoned. He's just arrived in London.
-
             * Hamish has already been to Buckingham Palace!
-
             * I've already told you.
-
-
-* Household Chores: (Tareas demesticas)
-    - Sweep the floor - Barrer
-    - Vacuum the floor / Vaquium the fluor - Aspirar
-    - Mop the floor - Trapear
-    - Scrub the floor - Fregar
-    - Set the table - Poner
-    - Wipe off the table - Limpiar
-    - Put the food away - Guardar la comida
-    - Rinse the dishes
-    - Dry/wipe the dishes
-    - Clean the sink
-    - Shut the door
-    - Clean up this mess
-    - Move the furniture
-    - Dust(/Dost) the selves
-    - Clean the tub - Limpiar la bañera
-    - Do the laundry
-    - Sweep the porch - Limpiar el porche
-    - Cut(/Cot) the grass - Cortar la hierba
-    - Mow the lawn - Cortar el cesped
-    - Water the flowers - Regar
-    - Turn on the sprinklers - Encender los aspersores
-    - Trim the hedges(/hedyes) - Recortar los setos
-    - Weed the garden
-    - Fix the roof
-    - Shovel the snow
-    - Scrape the windshield
-    - Wax the car
 
 ## U4M2 Vague time **VS** Specific time
 
@@ -500,12 +470,16 @@
             - [+]
                 + I, You, We, They, She, He, It + past tense verb (regular -ed or irregular past)
                     - She passed the english test.
+                    - Yesterday I went to my dance class
+                    - She lied a lot in the past.
             - [-]
                 + I, You, We, They, She, He, It + did not/didn't + base form of the verb
                     - I didn't get up[levante] late on this vacation.
+                    - I didn't study much in the last week
             - [?]
                 + Did + I, You, We, They, She, He, It + base form of the verb?
                     - Did you eat something?
+                    - Did she call you yesterday?
         * Uses:
             1. To ask about and give more details, you need to use the _past simple_.
                 - ‘Great news! Jane has had a baby!’ [PP]
@@ -514,23 +488,31 @@
             
             2. We use _past simple_ when we refer to an action _that is no longer true in the present but that was true in the past_. [Una acción que ya no es cierta en el presente pero fue verdadera en el pasado].
                 - I studied 3 years at the Colegio de Ciencias y Humanidades plantel Oriente.
+                - 3 years ago I was very weak.
                 - I was fat 2 years ago.
             
             3. The past simple can be used with phrases relating to finished time, such as: yesterday, last week, last month, in 2010, two weeks ago.
                 - Jemma left the company six weeks ago.
+                - Luis finished the college 3 years ago.
                 - My semester finished 4 five weeks ago.
-                - I emailed Tony last week.
+                - I emailed Tony last week. [Yo envíe un correo electronico]
 
     + _Present Perfect_:
         * Form:
             - [+]
                 + I, You, We, They + have/'ve + past participie
                     * I have been to 3 Panteon Rócoco concerts.
+                    * You've flew 3 time on this month
                 + She, He, It + has/'s + past participie
                     * Itzel has come to my house 5 fime.
+                    * Santi has danced in a cabarette.
             - [-]
                 + I, You, We, They + have not/'ve not + past participie
                     * We've not yet entered the next semester.
+                        - Nosotros todavía no hemos entrado al siguiente semestre
+                    * I've not yet found a job
+                        - Todavía no he encontrado un trabajo.
+                    * We've not passed the exam 
                 + She, He, It + has not/'s not + past participie
                     * He's not bought a car.
             - [?]
@@ -543,34 +525,37 @@
                 > * They have been to London several times, this year
                 > * I have studied CC for the last 3 years.
             
-            2. The present perfect tense is often used to tell *up-to-date*[actualizado] news[noticias actuales], But you cannot use the present perfect with phrases _relating to finished time_[relacionadas con el tiempo terminado]:
+            2. The present perfect tense is often[ofen] used to tell *up-to-date*[actualizado] news[noticias actuales], But you cannot use the present perfect with phrases _relating to finished time_[relacionadas con el tiempo terminado]:
                 > * ‘Great news! Jane has had a baby!’ [:correct]
-                > * ‘Great news! Jane has had a baby yesterday! [:bad]
+                > * ‘Great news! Jane has had a baby _yesterday_! [:bad]
             
             3. The present perfect can be used with phrases relating to unfinished time, such as: this week, today, this year:
                 - I’ve seen Alberto three times this week.
+                - I've had a delicious breakfast today.
+                    + Yo he tenido un delicioso desayuno.
                 - That’s the fourth time I’ve seen that film this year.
             
-            4. The present perfect is often used in sentences with these words: just, yet, already, ever, never:
+            4. The present perfect is often used in sentences with these words: just, yet, already[alredy], ever, never:
                 - I’ve just finished the report.
                 - Karen has finished the book already.
                 - I haven’t finished the report yet.
                 - I’ve never been to Spain. Have you ever been? 
             
-            5. The present perfect is used to *describe periods of time* that start in the past and continue until the present. It is often used with for and since.
+            5. The present perfect is used to *describe periods of time* that start in the past and continue[continuw] until the present. It is often used with for and since[since].
                 - I’ve lived here _for_ five years.
                 - James has worked here _since_ last summer
                 - Jose has been thin(delgado) this year.
     
-    + The present perfect and past simple may appear in the same sentence:
-        - I’ve lived here since I was a child.
+    + The present perfect and past simple may[mei] appear in the same sentence:
+        - I’ve lived here since I was a child[chail].
         - Tom has been unemployed since he left the factory.
             
 * Best Examples of present perfect tense:
     - I've[have] never been sick before
     - I've come to talk with you again.
     - I've[aive] made changes for you, Think about that
-    - How long has he been gone? 
+    - How long has he been gone? I have been away for half a year. I was on a trip in the himalayas.
+        + Cúanto tiempo has estado afuera? 
     - I've come to say good-bye.
     - Commuting to work by bike has risen by about 60 percent in 10 years
         + Los desplazamientos al trabajo en bicicleta ha aumentado un 60% en 10 años.
@@ -579,11 +564,12 @@
     - Their mother has not eaten for five months and has lost half of her body weight.
     - Something wonderful has happened. I'm pregnant
     - I've missed you so much
+
 ## U5M1 Similarities and differences
 
 * Topics:
     - Comparisons + As...As:
-        * We use _as + adjective + as_ to say that two things or people are the same adverb in some way[son iguales adverbios de alguna manera], or how actions that two people perform are the same in some way[o como las acciones que dos personas realizan/desempeñan son iguales de alguna manera].
+        * We use _as + adjective[ad_yec'tiv] + as_ to say that two things or people are the same adverb in some way[son iguales adverbios de alguna manera], or how actions that two people perform are the same in some way[o como las acciones que dos personas realizan/desempeñan son iguales de alguna manera].
             + The hat is _as expensive as_ the umbrella = The hat and the umbrella has the same price.
             + He's _as young as_ me = We are the same age.
 
@@ -592,61 +578,38 @@
             - I’m as happy as them. (Not ...as they.) Soy tan feliz como ellos
             - My father is as angry as her
             - John runs as quickly as Mary. [corre tán rápido como]
+            Remember: I-me, he-him, she-her, we-us, them-they.
+        
         * We use *not as..as* to talk a differences between two things or people.
             - The rural school isn't as big as the city school.
-            - I'm not as cherful as her = She is more cheerful than me.
+            - I'm not as cheerful[cherful-alegre] as her = She is more cheerful than me.
             - Sam doesn't run as quickly as Mark = Mark runs more quickly thank Sam.
+            - Luis isn't as strong as me = Luis is stronger than me.
         * Adding emphasis and more meaning to as..as
-            * With _just_ we talk about equals = 
+            * With **_just_ we talk about equals =** 
                 - Autumn is just as beautiful as spring.
-            * not quite <-> < no es tan
+            * **not quite <-> < no es tan**
                 - Spring is not quite as warm as summer = La primavera no es tán cálida como el verano.
-            * almost <-> < es casi tan (to express small difference)
+            * **almost <-> < es casi tan** (to express small difference)
                 - Late autumn is almost as cold as winter. El final de otoño es casi tan frío como el invierno.
             * We use _not nearly_ to express a big difference between the subject and the object of the sentence. <-> A big < 
                 - winter is not nearly as hot as summer
+                    + El invierno _no es tan_ caluroso como el verano
         * Using as..as with adverbs.
             - Ariana sings _just_ as beautifully as Mariah. Ariana canta tan bien como Mariah.
             - My dad coocks almost as well as my mom.
             - My dad **doesn't** cook **quite** as well as my mom.
             - A person doesn't run _nearly_ as fast as a cheetah. [BigDifference]
-            - Doctors don't write as neatly as teachers. Los doctores no escriben con tanta pulcritud como los profesores.
+            - Doctors don't write as nearly as teachers. Los doctores no escriben con tanta pulcritud como los profesores.
             - Doctors don't write nearly as neatluy as teacher. [BigDifference]
             - Actresses dress just as stylishly as models.
-            - The moon is not nearly as hot as the sun.
+            - The moI saw the beatiful and peaceful sky on is not nearly as hot as the sun.
         * We need use the be verb in the correct form
             - Reading is as relaxing as watching TV.[YES]
             - Reading as relaxing as watching TV.[NO]
             - Gorrillas don't live as long as elephants. [YES]
             - Gorrillas not quite as live long as elephants. [NO]
             
-    - Shopping Vocabulary:
-        - https://english-at-home.com/business/shopping-vocabulary/
-        - Words:
-            * spring-primavera
-            * summer-verano
-            * autumn-otoño
-            * winter-invierno
-            * grocery store-a shop that sells food.
-            * greengrocer-frutería-verdulería
-            * butcher-carnicería
-            * baker-pastelería-panificadora
-            * fishmonger-percadería-sells fresh fish.
-            * drugstore, place where sells medicines and toiletries[artículos de aseo]
-            * newsagent-puesto de venta de periodicos
-            * stationer – sells paper goods [papelería] vende artículos de papelería
-            * DIY store – sells things for home improvement. 
-                - Tienda de bricolaje: vende cosas para mejorar el hogar.
-            * hardware shop / hardware store / ironmonger – hard goods, such as nails and screws.
-                - Ferretería - productos duros como clavos y tornillos.
-            * corner shop-a shop on the corner of your street[tienda en la esquina de la calle]
-            * market – market traders (people who work on a market[mercado]) have stalls[puestos] that sell fruit and vegetables, clothes, household items and so on.
-            * gas station (US) sells petrol, car products and sometimes food.
-            * 
-        - Use of 's:
-            * When we talk about shops, we often put an ‘s on the end. For example, “I’m going to the chemist’s / greengrocer’s / butcher’s / baker’s / newsagent’s / fishmonger’s / optician’s.” 
-            * We don’t use an ‘s with these shops: supermarket, hardware store, petrol station, department store.
-        - tired->more tired
 * Examples:
     - I'm as good as I was at painting when I was child
     - Soccer is as exciting as basketball.
@@ -661,10 +624,9 @@
 * Topics:
     - Superlative:
         + Adjectives are words that help us to describe.
-        + We use Superatives + Adjectives to compare a person or a thing with all of the group they are in.
+        + We use Superlatives + Adjectives to compare a person or a thing with all of the group they are in.
     - Rules:
         1. We use _the_ + a superlative adjective, we use "the" before the superlative adjective 'cause we are referring to one specific person or thing.
-
             + This house is the most expensive.
             + This is the best price.
         2. With short adjectives: We make the superlative form of adjectives of one syllable by adding –est:
@@ -683,25 +645,27 @@
             + bad → worst
                 - In my opinion, she is the best actress in Hollywood.
             + far → the furthest
-            + Also note the irregular comparative and superlative forms of the quantifiers little, much and many:
+            
+            + Also[olso] note the irregular comparative and superlative forms of the quantifiers little, much and many:
 
-                + little → the least
-                + much **→** the most+
-                + many → the most
+                - little → the least
+                - much **→** the most+
+                - many → the most
 
         7. Two-syllable adjectives ending in "er","le" or "ow" we usually add -est.
             + clever-cleverest[inteligente, habil, astuto]
                 - Luis is the cleverest person that I've ever met.
             + gentle-gentlest[suave,tierno]
-            + narrow-narrowes[estrecho]
+            + narrow-narrowest[estrecho-más estrecho]
 
     - SUPERLATIVES AND PRESENT PERFECT WITH EVER.
         + What´s the tallest building that you have ever visited ?
         + What´s the most delicious dish that you have ever tasted ?
     
         The Present Perfect is used in two ways:
+
         1. Experiences and finished actions: Remember that we do not use a specific time.
-        2. Unfinished actions: Things that started in the past but are not finished.
+        2. Unfinished[onfinishd] actions: Things that started in the past but are not finished.
     
         We can combine the present perfect with superlative sentences to talk about both experiences and unfinished actions: [▪] We can also switch the order of the sentence.
         - Batman is the best movie that I have seen → The best movie that I have seen is Batman.
@@ -713,7 +677,7 @@
         - He is the tallest man that I’ve seen = He is the tallest man I’ve seen.
         - Itzel is the most wonderful girl that I've ever met = Itzel is the most wonderful girl I've ever met
 
-        We can mention recent experiences and life experiences.
+        We can mention recent experiences and life experiences[expirences].
         - It is the best movie that I have seen recently.
         - It is the best movie that I have seen. (In my whole life)
         - It is the best movie that I have seen in my life.
@@ -729,12 +693,13 @@
     
     - Modify the superlative:
         + "one of the" + superlative + plurar noun
-            - Great Britain is one of the richest countries in the wordl
+            - Great Britain is one of the richest countries in the world
                 + Meaning: There are several very rich countries in the world and Great Britain is one of those countries.
         + "some of the" + superlative + plurar noun
             - NY, London and Tokio are some of the most expensive cities in the wordl
                 + Meaning: There are several very expensive cities in the world and these are some of those cities.
-        + We can also modify a superlative with a ordinal number: "the" + ordinal number + superlative
+        + We can also[olso] modify[modifaiv] a superlative with a ordinal number: 
+            - "the" + ordinal number + superlative
             - cardinal number - ordinal number: 
                 + one - first
                 + two - second
@@ -745,12 +710,12 @@
             - Jane is _my best_ friend.
             - Physics is _her hardest_ exam = Physics is Sandra's hardest exam = La física es su examen más difícil.
 * Examples:
-    - What is the best computer game you have ever played?
+    - What is the best computer game you have ever played?[Que has jugado]
     - small-smallest: Mercury is the smallest planet in the solar system.
     - hard-hardest
     - nic*e*-nicest
-    - fin*e*-finest
-    - rar*e*-rarest
+    - fin*e*-finest[fainest]
+    - rar*e*[rer-rarest[]
     - b*ig*-biggest
     - f*at*-fattest
     - th*in*-thinnest
@@ -771,12 +736,12 @@
     - Quantifiers:
         * Much
         * Many
-        * A lot of
+        * A lot of[Mucho-adverbio]
         * Most
         * A little
         * little
-        * A few
-        * Few
+        * A few[algunos] Countable
+        * Few[pocos]
     - We use a few for Countable Nouns and a little for Uncountable:
         + A little sugar
         + A little water
@@ -786,7 +751,7 @@
     She sees a lot of close friends regularly - Ve a muchos de sus amigos cercanos regularmente, con regularidad.
     - Too and Enough[Inofh]: describe the degree(level) of something
         + too: more are u need
-        + enough: The amount that u need
+        + enough: The amount[amaunt] that u need
         + too **+** adjective/adverb (too is before the adjective/adverb)
             - EXCESIVE(more than necessary): More than what is needed or wanted, more than suitable. More than enough
                 * This jacket is _too expensive_. I'm not going to buy it. No way!
@@ -809,7 +774,7 @@
                 * She is not _old enough to drive_ a car.
             - adverb + enough: enough is after the adverb
                 * She is not running quickly enough. Quickly describes how run 
-            - - adverb + enough + infinitve: enough is after the adverb
+            - adverb + enough + infinitve: enough is after the adverb
                 * The team is playing well enough to win the game
         + with nouns:
             * too many + countable noun (too is before the countable noun in the plurar form.)
@@ -853,22 +818,24 @@
     - Will
         * Will has a neutral meaning but we use it to talk about facts in the future:
             - The spaceship will come down in the Pacific ocean tomorrow morning.
-        * Assumptions based in what we think:
+        * Assumptions[Suposiciones] based in what we think:
             - I think I'll pass he exam next Thursday.
-        * We use will / won ́t + base form for future predictions, i.e. to say things we think,guess or know about the future.
-            1. We often use I think / I don ́t think + will.
-                + I think he'll fail the exam. I don't think hel'll pass the exam.
-            2. We use probably to say that something is not definite: To say that something is not define, use probably with will for the future.
+        * We use will / won't + base form for future predictions[predicciones futuras], i.e. to say things we think, guess or know about the future.[es decir, para decir cosas que pensamos, adivinamos o sabemos sobre el futuro]
+            1. We often use I think / I don't think + will.
+                + I think he'll fail the exam = I think he will fail the exam
+                + I don't think hel'll pass the exam.
+            2. We use probably to say that something is not definite[definit]: To say that something is not define[difaine], use probably with will for the future.
                 + We'll propably visit the planet
             3. With positive contractions _will_ becomes _'ll_ and is joined to subject:
                 + Subject + will/'ll + infinitive
                     - Don't worry I will help you
                 + I will - I'll / you will - you'll / she will - she'll / we will - we'll
-            4. With negative contractions, will not becomes won't:
+            4. With negative contractions, _will not_ becomes _won't_:
                 + Subject + will not / won't + infinitive
-                    - He won't eat soup
-                + He will not - He won't / They will not - They won't
-            5. Questions: To form a question using WILL, we reverse the order of the subject and WILL:
+                    - He _won't_ eat soup.
+                    - He will not - He won't 
+                    - They will not - They won't
+            5. Questions: To form a question using WILL, we reverse[reverse] the order of the subject and WILL:
                 + Will + subject + infinitive:
                     - Will he watch  TV tonigh? No, he won't, He'll play videogames.
                     - Will you marry me? Yes I will
@@ -877,7 +844,7 @@
                     - Will they win the cup? No, They won't
                     - Will you tell him the truth? Yes, I will
             6. **Decisions** at the time to speaking: 
-                An instant decision is one that we make based on current circumstances. When we must take a fast choice, this is an instant decision. These are not intentions for the future, but a decision we make quickly. For these instant decision we must use the simple future with WILL. We use WILL to express a decision we take at the moment of speaking:
+                An instant decision is one that we make based on current circumstance[cir-cumstance]. When we must take a fast choice[choise], this is an instant decision[disicion]. These are not intentions[intenchions] for the future, but a decision we make quickly. For these instant decision we must use the simple future with WILL. We use WILL to express a decision we take at the moment of speaking:
                 - I feel tired. I won't go to the party.
                 - I won't stay for dinner. I think I'll go home early.
                 - I'm hungry , I'll make myself a sandwich
@@ -885,7 +852,7 @@
                 - I will have a cup of coffe, please.
                 - I will call her tonight
             7. Offers, promises, predictions:
-                1. Offers: Will often suggests that a speaker will do something voluntarily. A voluntary action is one the speaker offers to do for someone else. Often, we use "will" to respond to someone else's complaint or request for help. We also use "will" when we request that someone help us or volunteer to do something for us. Similarly, we use "will not" or "won't" when we refuse to voluntarily do something.
+                1. Offers: Will often suggests that a speaker will do something voluntarily. A voluntary action is one the speaker offers to do for someone else. Often, we use "will" to respond to someone else's complaint or request for help. We also use "will" when we request that someone[somewan] help us or volunteer to do something for us. Similarly, we use "will not" or "won't" when we refuse to voluntarily do something.
                     - I will send you the information when I get it.
                     - Will you help me move this heavy table?
                     - I won't do all the housework myself.
@@ -896,20 +863,20 @@
                 2. Promises: Will is usually used in promises:
                     - She won't agree whit that. No estará de acuerdo con eso.
                     - I will call you when I arrive.
-                    - If I am elected President of the United States, I will make sure everyone has access to inexpensive health insu rance.
+                    - If I am elected President of the United States, I will make sure[me asegurare que todos tengan acceso a] everyone has access to inexpensive health insurance [un seguro de médico barato].
                     - I promise I will not tell him about the surprise party.
                     - Don't worry, I'll be careful.
                     - I won't tell anyone your secret.
                 3. TO Refuce to do something:
                     - No, I won't smoke anymore.
-                    - This homework is too difficult I won't do it .
+                    - This homework is too difficult I won't do it[No la haré].
                 4. An assumption[suposición]
                     - The journey will take around twenty minutes.[El viaje tomara alrededor de 20 minutos.]
                     - I think you will like these flowers.
                 5. A fact:
                     - He will get be twenty three next Monday.
     - Be going to for predictions:
-        * We can also use be going to predict something you know or can see is going to happen. e.g Look at the clouds. It's going to rain. They're playing very well. I'm sure they ́re going to win.
+        * We can also use be going to predict something you know or can see is going to happen. e.g Look at the clouds. It's going to rain. They're playing very well. I'm sure they're going to win.
 
 * Examples:
     - I'm seeing Jane at 6. She'll be late
@@ -917,12 +884,62 @@
     - It's a great book. I'm sure you'll like it.
     - I don't think It'll rain tomorrow.
 
-# Intersemestral English V
-
-* 834 0492 4779
-* 705360
-
 ## Vocabulary
+* Shopping Vocabulary:
+    - https://english-at-home.com/business/shopping-vocabulary/
+        - Words:
+            * spring-primavera
+            * summer-verano
+            * autumn-otoño
+            * winter-invierno
+            * grocery store-a shop that sells food.
+            * greengrocer-frutería-verdulería
+            * butcher-carnicería
+            * baker-pastelería-panificadora
+            * fishmonger-percadería-sells fresh fish.
+            * drugstore, place where sells medicines and toiletries[artículos de aseo]
+            * newsagent-puesto de venta de periodicos
+            * stationery[steshioneri] – sells paper goods [papelería] vende artículos de papelería
+            * DIY store – sells things for home improvement. 
+                - Tienda de bricolaje: vende cosas para mejorar el hogar.
+            * hardware shop / hardware store / ironmonger – hard goods, such as nails and screws.
+                - Ferretería - productos duros como clavos y tornillos.
+            * corner shop-a shop on the corner[esquina] of your street[tienda en la esquina de la calle]
+            * market – market traders (people who work on a market[mercado]) have stalls[puestos] that sell fruit[frut] and vegetables, clothes, household items and so on.
+            * gas station (US) sells petrol, car products and sometimes food.
+        - Use of 's:
+            * When we talk about shops, we often put an ‘s on the end. For example, “I’m going to the chemist’s / greengrocer’s / butcher’s / baker’s / newsagent’s / fishmonger’s / optician’s.” 
+            * We don’t use an ‘s with these shops: supermarket, hardware store, petrol station, department store.
+        - tired->more tired
+* Household Chores: (Tareas demesticas)
+    - Sweep the floor - Barrer
+    - Vacuum the floor / Vaquium the fluor - Aspirar
+    - Mop the floor - Trapear
+    - Scrub the floor - Fregar
+    - Set the table - Poner
+    - Wipe off the table - Limpiar
+    - Put the food away - Guardar la comida
+    - Rinse[rinse] the dishes - Enjuagar
+    - Dry/wipe the dishes secar-limpiar
+    - Clean the sink - Limpiar el fregadero
+    - Shut the door - Cerrar
+    - Clean up this mess - Limpia este desorden
+    - Move the furniture
+    - Dust(/Dost) the selves - Quitar el polvo
+    - Clean the tub - Limpiar la bañera
+    - Do the laundry[loundry] -
+    - Sweep the porch - Limpiar el porche
+    - Cut(/Cot) the grass - Cortar la hierba
+    - Mow the lawn - Cortar el cesped
+    - Water the flowers - Regar
+    - Turn on the sprinklers - Encender los aspersores
+    - Trim the hedges(/hedyes) - Recortar los setos
+    - Weed the garden - desherbar el jardín
+    - Fix the roof - arregla el tejado
+    - Shovel[pala] the snow - Quitar la nieve
+    - Scrape[raspa] the windshield - raspar el parabrisas
+    - Wax the car [Encerar]
+
 * Countables and Uncountables Food:
     - Countables:
         + Buns, Burgers, Sandwiches, Fries, cookies
@@ -933,21 +950,22 @@
         + eggs, carrots, tomatoes, potatoes
 
     - Uncountables:
-        + Bread, butter, cheese
-        + Cereal, chocolate, mustard, salt/solt/
+        + Bread[bred], butter, cheese
+        + Cereal, chocolate, mustard[mostard], salt/solt/
         + jam[jeam], milk, honey[miel], water
-        + Coffee, tea, juice
+        + Coffee, tea, juice[yuz]
         + Flour[flawer], rice, sugar[shugar], soup, meat, fruit, seafood
 
 * Most Common Phrasal Verbs with Back:
-    + Answer back: Answering back is to reply to someone in an authority role in a rude argumentative style.
+    + Answer back: Answering back is to reply to someone in an authority role in a rude argumentative[argu_mentativ] style.
     + Back somebody up: to back somebody up means to provide them with support publically. In this same way, you can also back up a story, meaning that you support the story or validate it being true.
         - I didn’t take your sandwich. Scott can back me up because he was with me all day.
         - Do you remember that time you had to back Tony up when he got in a fight?
     + Back something up: to back something up is a term often used in technology conversation. When you back something up, it means that you make a copy of it to protect yourself from loss.
-    + Back up: to Back up can also mean to move backward. It’s both used figuratively, such as moving backward in time or a conversation. And literally, in the case of taking a step backward.
+    + Back up: to Back up can also mean to move backward. It’s both used figuratively[/figuret'vly/-figurativo], such as moving backward in time or a conversation. And literally, in the case of taking a step backward.
         - Wait, let’s back up for a minute. Did you say you were in Vegas last weekend?
         - We’re standing too close to the water. Let’s back up because I don’t want to get wet.
+
 * Words to describe places.
     + Words that embrace[abrazan] a place:
         - Alive/alaife/[vivo]-Full of live
@@ -956,14 +974,14 @@
         - Beautiful-Having qualities that are pleasing or appealing[atractivas]
         - Bustling[bullicioso] - Full of life, energy
         - Cosmopolitan/Cosmopolitən/ - Appealing[Que atrae] to people from all across the globe
-        - Enchanting/ənchenting/[Encantador] - Delightful[delicioso]; fascinating[fascinante]
+        - Enchanting/ənchenting/[Encantador] - Delightful[/delaighful/-delicioso]; fascinating[fascinante]
         - Fascinating - Alluring[seductor]; captivating[cautivador]
         - Fresh - Something newly made[recien hecho] and full of vigor
         - Homey[acogedor] - Cozy[acogedor]; inviting[atractivo]
         - Inspiring[inspirador] - Enlivening[que anima]; motivating[que motiva]
         - Lively[animado] - Full of life and spirit
         - Peaceful[tranquilo] - Calm[calmado]; friendly[amistoso]
-        - Picturesque[pintoresco] - Scenic[Escénico]; beautiful
+        - Picturesque[/picshure'esk/pintoresco] - Scenic[Escénico]; beautiful
         - Unspoiled[intacto] - Untouched by man; pure [No tocado por el hombre]
         - Vibrant[vibrante] - Full of life; energy
     + Words to xpress dislike for a place:
@@ -1141,6 +1159,10 @@
         * watches -> /tf/
         * finishes -> /f/
         * prizes-> /z/
+# Intersemestral English V
+
+* 834 0492 4779
+* 705360
 
 ## Expressions of gratitude 🎁
 * Share and tell others about this notes 📢
