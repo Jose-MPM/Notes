@@ -79,7 +79,6 @@ It seems that during sleep, your brain tidies up ideas and concepts you're think
 * Being in a creative environment, where other people are creative a way of, enhancing(mejorar) your own creativity.
 * _advice_: Don't get hung up if you can't answer a question. Go on to the next, because you can always come back and in fact, often, the answer to the problem that was holding you back may actually pop in to your brain later on in the test. This is how our brains work, things work along parallel tracks. 
 > That success isn't necessarily come by being smart... passionate and persistent. A lot of success in life is that passion and persistence, of really staying the course, staying working on it, and, not letting go. Not giving up, and the most important: * **LEARNING WITH FRESH NEW EYES**
-#### Coment trash: 
 
 ### Summary week 1:
 * In essence people have two fundamentally different modes of thinking that, we've labeled focused and diffuse. 
@@ -89,6 +88,16 @@ It seems that during sleep, your brain tidies up ideas and concepts you're think
 * Memory of course is an important aspect of learning. There are four slots in our working memory. Things can fall out of those slots unless we keep repeating them to hold them in mind. In that sense working memory is like a not very good blackboard. Long term memory, on the other hand, is like a storage warehouse. If you practiced and repeated something well enough to get it into long-term memory, you can usually call it up later if you need, although you may need an occasional bit of repetition to freshen the memory up.
 * It's never a good idea to cram your learning by repeating things many times all in one day. Because that's like trying to build muscle by lifting weights all in one day there's no time for solid structures to grow. We've also learned that the importance of sleep and washing away the toxins that develop during our days activities. We want to avoid taking tests or doing anything difficult with little sleep the night before cause its like trying to think with poison on the brain. And just as importantly, exercise is surprisingly valuable in helping both improve our memory and our ability to learn. 
 * And just as importantly (Y de igual importancia )
+
+## About Learning Languages
+* Just being willing[estar dispuesto] to make mistakes. No tener miedo a equivocarnos
+* You can learn all u want if you dont block yourself. Estar predipuesto a fallar implica fallar.
+    - whether you think you can or think you can't. You are right
+        - self fullfilling prophecies-profecías autocumplidas  
+### Extra:
+    - Haz mapas mentales basado en lo que más te llamo la atención. Checar y ver hasta abstraer bien los fragmentos claves para inspirarte a escribir, inspirar a 
+    - No editar mientras escribes? = Trying to clear the table while you're still eating dinner, is better separating your editing from your actual writing
+    - If you can be conscious of that voice and talk back to it rather than just let it yammer in your ear, then you're better off. 
 
 https://www.facebook.com/groups/proyectomigala/?ref=share
 
