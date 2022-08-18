@@ -1,7 +1,6 @@
 # Artificial Intelligence
 ## Profesor: Víctor Germán Mijangos de la Cruz
 
-
 El campo de la Inteligencia Artificial (IA) se enfoca tanto en el estudio como en la
 construcción de entidades inteligentes. 
 
