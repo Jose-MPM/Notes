@@ -158,6 +158,7 @@ Un agente dentro de un determinado entorno necesita de sensores para percibir la
         - Desconocido: No hay certeza de como se comporta el entorno, no se conocen los resultados de las acciones, cuando el agente no sabe como va a acabar.
             + Detección de spam.
     - En el modelo de lo que quieres, todo es a su conveniencia
+    
 
 ## Class Monday 29 August
 
@@ -175,7 +176,44 @@ Un agente dentro de un determinado entorno necesita de sensores para percibir la
 
 * Agente por aprendizaje: _Que aprende_: Se aprende cuando una agente que opera sobre un entorno desconocido mejora su rendimiento a partir de observar resultados previos de sus acciones y evaluarlos.
 
-## Lab
+## Class Wednesday 31 August
+
+- Utilitarismo
+
+- Agentes para resolver problemas:
+    + Agente basado en objetivo que realiza una planeación para cumplir con los objetivos dados.
+    + Para solucionar los problemas el agente se basan en la _búsqueda_.
+        1. Busqueda Informada: El agente puede estimar que tan lejos se encuentra del objetivo.
+        2. BUsqueda Desinformada: No es capaz de estimar su distancia del objetivo, no tenemos información precisa relacionada con el objetivo.
+            
+            > Si estamos fallando en planear, estamos planeando fallar.
+
+- Para resolver el problema necesitamos definir(la planeación):
+    - Formulación del objetivo: Determinar estado objetivos.
+    - Formulación del problema: Descripción de estados y las acciones para alcanzar un objetivo(abstracción del mundo).
+    - Búsqueda: Simula la secuencia de acciones que lleven al objetivo, elegiendo la más óptima de acuerdo a una función que decidamos.
+    - Ejecución: 
+
+- About example:
+    * Las acciones mueven nuestro agente entre los estados.
+        + Y las acciones del agente por edo también? 
+- Sistema de ciclos:
+    1. Sistema de ciclos abiertos(Open loop): Una vez que el agente ha encotrado la solución, la ejecuta ignorando las persepciones mientras lo hace.[No deja de percibir, solo las ignora.].
+    2. Sistema de ciclos cerrado(Closed loop): Son aquellas en el que el agente ejecuta la solución, pero mientras lo hace moritorea las percepciones que recibe. [Podemos incorporarlas].
+
+- Problema de búsqueda formalizado: 6-tupla = Aútomata.
+    + S=s1...sn, conjunto de estados
+    + S_o in S, edo inicial
+    + F subconjunto S, edos finales
+    + A = a1...an, conjunto de acciones
+    + T: SxA -> S, modelo de transición.
+    + c: función de costo
+
+- Soluciones:
+    + Camino: Secuencia de acciones.
+    + Solución: Camino que te lleva a la solución, i.e. termina en un objetivo.
+    + Solución óptima: Solución que minimiza la función de costo sobre el camino. 
+# Lab
 
 * Qué significa para ti éxito? De acuerdo a eso debes de checar como serán tus recompensas. Procurar la recompensa acumulada[generada?]
 
@@ -188,6 +226,7 @@ Un agente dentro de un determinado entorno necesita de sensores para percibir la
 
 ------
 ## Expressions of gratitude 🎁
-* Share and tell others about this notes 📢
+* :punch: Share and tell others about this notes 📢
+* :+1: Contact and follow me :bowtie:
 ------
-⌨️ con ❤️ por [Jose-MPM](https://github.com/Jose-MPM) 😊⌨️
+⌨️ with much :purple_heart: by [Jose-MPM](https://github.com/Jose-MPM) 😊⌨️
