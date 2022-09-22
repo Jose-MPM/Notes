@@ -208,6 +208,7 @@ Un agente dentro de un determinado entorno necesita de sensores para percibir la
     + F subconjunto S, edos finales
     + A = a1...an, conjunto de acciones
     + T: SxA -> S, modelo de transición.
+        - si estoy en s1 con acción limpiar ent llegamos a s2
     + c: función de costo
 
 - Soluciones:
@@ -248,7 +249,10 @@ Dentro de sus actuadores puede cambiar el estado
                 - pop = expandir nuestro nodo
     - Algoritmo Best-First Search, busca encontrar el camino más adecuado.
         - Ocupa hacer pop al estado menos costoso y expandir ese nodo.
-        - FIFO
+        - FIFO pila de prioridad
+        - Cuando tenemos los pesos iguales cualquiera es el mejor, por lo que podemos sacar aletoriamente
+        - EJEM 37
+
 
 ### Class 07 Sep
 
@@ -291,22 +295,64 @@ Dentro de sus actuadores puede cambiar el estado
 * Bidirectional Search: Buscar de manera simultánea en forma de avance(desde el inicio al final) y de forma de retroceso.
     + Ejemplo:25
 + Algoritmos de búsqueda desinformada.
-    - 
+
 + Busqueda informada (heurística): se basa en la integración de una función heurística:
     - Función heurística: 
-
 
     + Greedy Best-First Search:
         - expande en el primer lugar el nodo n con el valor h(n) más pequeño, es decir: f(n)=h(n).
         - ambicioso por llegar rápido sin tomar en cuenta los costos.
+        - converge a una solución aunque no todos los caminos lleguen a una solución
+        - Nos basamos en la heuristica
     + Busqueda A* : expande el nodo, n que minimiza la función f(n)=g(n)+h(n) donde g es el costo desde el edo init al nodo n, y h es una función heurística al costo del nodo n hacia un edo f.
-
-    Completo: podemos garantizar que podemos llegar del edo inicial al final sin bucles.
+        - Completo: podemos garantizar que podemos llegar del edo inicial al final sin bucles.
     
 ### Assistant 13 Sep
 algorithm DF: lo más profundo hasta encontrar la solucion
 note of A*, plantilla, get_path*
 En el 4 las acciones las puedes definir tu [arriba y abajo]
+
+### Class 14 Sep
++ Algoritmo A* 
+    - ejemplo: 17
++ Heurística admisible: es una que nunca sobre-estima el costo de alcanzar una meta:
+    - h es admisible si para todo n in V: h(n)<= h* (n). donde h* es el costo óptimo.
+    - nos dice exactamente el camino más óptimo.
++ Heurística consistente: si para todo nodo n y todo sucesor n' generado por la acción a se tiene que:
+    - Nos asegura que cada vez que se alcance un nodo será por un camino óptimo
+    - La consistente es un subconjunto de la admisible
+
++ Monótona:
+    - h se dice que monótona si h(n)<=h'(n)
+        - consistencia implica monótomia
++ Nodos ciertamente expandidos
++ Dominio: entre heurísticas
+    - h1 domina a h2 si para todo nodo se cumple: 
+    - Si h1 domina a h2 ent h1 es más eficiente (h2 expande al menos tantos nodos como h1)
+
+### Class 19 Sep
+* Factor de ramificación eficaz
+    - cuantas veces lo elevamos para que nos de el número de nodos.
+* Algoritmo A* fuerte
+    El 20 vimos ejemplo de iteracion del ejercicio 6 de la tarea
+
+### Class 21 Sep
+* A* pesado: 
+* Beam Search
+    - En la frontera siempre tenemos k nodos, los expandimos y nos quedamos con los k mejores
+    - Se expanden todos por iteración
+    - Puede ser no completo y tampoco es de solución optima.
+    - Se ocupa en redes con probas
+        - Si tenemos que todos los caminos nos llevan a un camino.
+    - ejem: 25
+* Búsqueda bidireccional con heurística:
+    - definimos dos problemas:
+        - avance: heurística normal: f_F(n)=g_F(n)+hF(n)
+        - retroceso: nuestra meta es el inicio
+            - acabamos cuando las dos soluciones se interceptan
+    - en cada caso usamos
+* py serch
+* Heuristic search -Stefan Edelkamp
 
 # Lab
 

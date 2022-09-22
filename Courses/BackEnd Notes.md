@@ -28,3 +28,4 @@
 			- Características en Spring:
 				+ @Entity a nivel de clase.
 					+ Sirve para indicar que clases serán administradas para JPA, en especifico por el EntityManager.
+		El 
