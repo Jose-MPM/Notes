@@ -355,7 +355,7 @@ En el 4 las acciones las puedes definir tu [arriba y abajo]
 * Heuristic search -Stefan Edelkamp
 
 ### Class 20 Sep
-* Problema disminuidos, tener una heuristica en un problema con menos restricciones y basarnos en ella para poder crear una heuristica en el problema original(suponiendo que no la conociamos)
+* Problema disminuidos, tener una heuristica en un problema con menos restricciones y basarnos en ella para poder crear una heuristica en el problema original(suponiendo que no la conociamos
 
 ### Assitant 27 Sep
 * algoritmo greedy y A* ejemplo
@@ -379,7 +379,166 @@ En el 4 las acciones las puedes definir tu [arriba y abajo]
 * Agente probabilistico: Toma decisiones en base a preferencias entre posibilidades representados por evento
     - proba radial, entre más te acerques mayor es la proba
         - exponencial de una metrica, en el centro es muy grande pero entre más lejos no
+    - Modelos basados en creencias:
+        - Información probabilistica que el agente tiene del mundo, y puede cambiar con nuevo conocimiento
+### Class 14 Oct
+
+* Estado de creencias: Dirigidas a generar utilidad
+* Utilidad: c/evento tendrá un grado de probabilidad
+    - probabilidad de la
+* Teoría de desición: Basado en la mayor probabilidad y utilidad
+* Modelo grafico:
+    - Distribución: Proba de que dos eventos pasen
+    - Estimación de distribución conjunta
+
+
+### Class 21
+
+- El modelo de Bayes Ingenuo es un modelo gráfico dirigido, representa las probabilidades conjuntas como una gráfica, asume que las los datos visibles x_1,...,x_n son efectos/consecuencias de la clase Y. Buscamos obtener Y, apartir de un conjunto previo de datos podremos obtener las probabilidades
+    - Cada nodo estara asociado a una tabla
+    - ejem 15
+    - Nos permite predecir algo sin la necesidad de observar todo
+    - con variables binarias podemos tener 1 como proba
+
+- Redes bayesianas - Generalización de los Bayes Ingenuos: 
+    - Modelos graficos dirigidos donde si tenemos una conección entre nodos van a ser las condiciones: x->y ent x condiciona a y
     - 
+### Class 24        
+- Propiedad no descendiente
+- Covertura de Markov
+- ejemplo de red bayesiana 35
+- modelos causales
+
+### Class 26
+- Investigamos un fenomeno:
+    - ejemplo de red bayesiana: 40
+- Predicciones de cadena
+
+### Class 28
+- Fase de entrenamiento para crear la grafica que no siempre se hace
+- Ejemplo del algoritmo sobre el de markov
+
+### Class 31
+- Optimizar las creencias:
+- Ejemplo
+
+### Class 04 Nov
+- Procedimiento de avance: Forward: 
+    - Recorre la cadena desde el simbolo inicial hasta el final
+- A = Matriz de transiciones
+- B = Observables
+- Procedimiento de retroceso:   Cuando veamos muchos indices podemos utilizar matrices con producto punto
+
+### Class 07 Nov
+- Algoritmo de Avance-Retroceso y Viterbi, explicación
+
+### Ass 08 Nov
+- Backward 
+
+### Class 09 Nov
+- Ejemplo de Viterbi
+    + calculamos la inicializacion, multiplicar la matriz pi por la fila de nuestro parametro de la delta
+    + Producto externo(25) entre X y Y, = 
+        + x1y1 * x1y2...x1yn    
+        + x2y1 * x2y2...x2yn   
+
+### Class 16 Nov
+
+- Modelos no dirigidos:
+    - En los dirigidos los factores representan la proba condicional
+
+    - En la no dirigida los factores 
+- Proba generativa: p(x|y), la var que observamos es la que esta condicionando, la y
+- Discriminita : p(y|x),
+- thetha son los estados de creencia, valores que representaran nuestro estado de creencia
+- normalizamos para que no exceda de 1
+- bias: factor de y, ajusta los datos para estar mas cerca, en el ejemplo baja los valores 
+- bayes ingenuo
+
+### Class 15,17 Nov
+* Es importante recordar que en lugar de calcular una proba condicional podemos calcular una proba conjunta(y logico). 
+* Un modelo gráfico dirigido estima la proba de una cadena y1,..,yn a partir de una cadena de entrada x1,...,xn(posibles vectores) a partir de maximizar la función objetivo
+* Observaciones: valores de X, Σ = {w_1 , ..., w_M },
+* Simbolos de emisión: S={s 1 , ..., s N }, los valores que pueden tomar la variable Y.
+* Goal: determinate a function de tal forma f:Σ^n -> S^n de modo que una cadena la conviertan en emisiones
+
+### Class 18 Nov
+* Ejemplo de regresión logistica
+* Calculamos un nuevo estado de creencias apartir de un conjunto de datos
+* Evaluación Supervisada
+* Evaluación No Supervisada: 
+    - Clustering
+* HOlds
+
+
+### Class 25 Nov
+* Descripcion del proyecto
+
+### Class 30
+- clasificar
+random_state: semilla para agarrar los datos aleatoriamente
+minMaxScaler los distribuye en escalas entre 0 y 1 
+    - funciones de activación: relu es util cuando no tenemos valores negativos
+        - sirven para:
+    - Se hace una combinación lineal entre el peso de cada var por c/var y su respectivo sesgo
+    - Eso lo recibe la función de activación
+    - sequential
+    - La primera capa tiene el número de atributos ocupados
+    - en medio
+    - La ultima es el número de resultados que queremos
+    - Las capaz Dense son neuronas que se conectan
+- el early_stop es una función que se calcula la perdida, como es que el entrenamiento se aproxima a lo que ya esta
+
+### Class 02  Dic
+
+Las redes neuronales son varias regreciones logisticas/perceptrones
+
+* Algoritmo k-NN:
+    - analisis de varianza: las medias que minimizen la varianza
+* Árbol de decisiones: Algoritmos no parametricos
+* APrendizaje no Autorizado
+    - Reducción de dimensionalidad:
+* k-Means
+
+## Aprendizaje Automatico
+
+Se dice que una máquina aprende de la experiencia E, si su desempeño con respecto a una medida P en una tarea T mejora con la experiencia E
+
+> ¿Cómo podemos construir sistemas computacionales que mejoren en una tarea a partir de la experiencia? ¿Cuáles son las leyes fundamentales que goviernan el “aprendizaje”?
+
+* Podemos clasificar los modelos de aprendizaje como: 
+
+    - Supervisado: Tenemos un conjunto supervisado S = {(x, y) : x ∈ R d , y ∈ Y}, tal que cada x ∈ X se asocia a un y ∈ Y y ŷ = f(x) busca ser lo más cercano a cada y.
+    - No-supervisado: La LM no conoce la supervisación. f(x) es una función de agrupamiento, asigna una clase ŷ que no se conoce previamente.
+
+    Otros tipos de aprendizaje son: aprendizaje por refuerzo, aprendizaje semi-supervisado, aprendizaje auto-supervisado.
+
+* Para llevar a cabo el entrenamiento y la evaluación, generalmente, se dividen los datos en 3
+subconjuntos:
+    1. Entrenamiento: El subconjunto de datos que servirá para estimar el modelo de aprendizaje (70%).
+    
+    2. Validación: Es un subconjunto de datos que se prueba constantemenete para ajustar ciertos requerimiento del modelo de aprendizaje (10-15%).
+
+    3. Evaluación: Es el subconjunto a partir del cuál se determina la capacidad de generalizar del modelo estimado (15-20%).
+
+https://www.kaggle.com/code/alb3rtein/naive-base-classifier para naive
+
+https://github.com/crazzylearners/Machine-Learning/blob/master/K%20Means%20Clustering%20(sklearn).ipynb
+# Lab
+
+El mejor punto es el que menos clasificaciones tienes erroneas
+
+
+# ask about import
+- Ejemplo de Bayes Naive, para determinar la clase a partir de:
+- En una grafica bayesiana, no entiendo a que se refieren con consultas-sacar la proba de ese estado, solo hay que multiplicar la proba condicional por sus padres de cada nodo 
+- Modelo Oculto de Markov de una graf
+- Usarlo para calcularlo la proba
+- Algoritmo de Viterbi
+- 6 Modelo de bayes ingenuo: proba de secuencias?
+- demostrar what
+- wow
+
 # Lab
 
 * Qué significa para ti éxito? De acuerdo a eso debes de checar como serán tus recompensas. Procurar la recompensa acumulada[generada?]
@@ -397,17 +556,13 @@ En el 4 las acciones las puedes definir tu [arriba y abajo]
 
 * Las recompensas inmediata no siempre suele ser lo mejor.
 
-### aumento de calidad de video
-Para aumentar la calidad del video debemos aumentar el número de pixeles, cada video esta dado por imagenes
+* reshape(-1,1) nos permite 
+* en pandas siempre empezamos por los rows, luego las columnas
+    - La desviacion estandar nos dice como se distribuyen los datos
+- Sabiendo que distribución sigue podremos calcular las probas
 
-Aumentar la resolución: 700p -> 1080p
-
-- Observable:
-- Agente:
-- Determinista:
-- Episódico:
-- Estático:
-- Discreto: 
+#### Important
+- primero debemos de saber como son nuestras variables
 
 ------
 ## Expressions of gratitude 🎁
