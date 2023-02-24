@@ -135,8 +135,28 @@ Los beneficios de las actividades de gratificación instantanea con el tiempo(la
 
 	- Leer libros -> Te vuelves más inteligente y aportas valor a ti como persona, teniendo como consecuencia mayores oportunidades para mejorar
 
+### Ignorar su belleza es la clave
 
-### MM
+“El hombre que entrena su mente para no reaccionar ante un hermoso rostro femenino, transformará mágicamente sus interacciones con las mujeres.
+
+Hacer este cambio te animará a dejar de usar palabras como “sexy”, “caliente”, “linda” o “hermosa” para describir a las chicas que te excitan. Y en su lugar usar "es una mujer interesante" o "podría valer la pena conocerla".
+
+Nunca complementes a una mujer por su apariencia y físico, especialmente una mujer con la que no te estés acostando. **Apaga esa parte de tu cerebro que quiere ponerlas en pedestales**. Porque la belleza de una mujer no puede desviarte/desenfocarte de tu propósito del marco masculino. 
+
+Ser todo lo contrario a un simp, ya que estas concentrado en tus cosas, recuerda cuidar tu tiempo y tu atención, los hombres buscan atención sexual de mujeres, mientras que las mujeres quieren atención emocional de hombres. No debes regalar tu atención de manera gratuita a las mujeres, porque tu enfoque es lo más importante que tenemos.
+
+* Recuerda siempre:
+	- Entrena tu mente para no reaccionar ante una mujer atractiva.
+	- Nunca complementes a una mujer por su apariencia y físico ya que debes valorar  a las mujeres por algo más que su belleza, su mentalidad, si es buena persona, o si te suma como persona.
+	- Deja de poner las mujeres en un pedestal.
+	- Pierde el asombro por la belleza femenina y su impotencia bajo su hechizo.
+	- Persigue la excelencia, no las mujeres.
+
+https://www.youtube.com/watch?v=v_a6aXsFqi8
+
+
+### MMm
+
 Trabajar semana a semana:
 
 Cómo obtener los secretos del Hombre Alfa (top 1% de hombres).
@@ -145,6 +165,8 @@ Los 10 Principios para Dominar la Naturaleza Femenina de todas las mujeres.
 Cómo desarrollar una Atracción Magnética rápidamente en cualquier mujer.
 Cómo ser una bestia en la cama en menos de 21 días. Cómo ser la fantasía sexual de cualquier mujer y que ella no pueda dejar de pensar en ti.
 Y mucho más…
+
+Cuida tu estado de animó, tu fisico.
 
 ## Frases
 
@@ -158,3 +180,49 @@ Y mucho más…
 
 * El interés compuesto es la 8° maravilla del mundo. El que lo entiende, lo gana, El que no, lo paga. - Einstan
 
+### La confianza es una habilidad.
+
+No es mágica, no es innata y no es inalcanzable.
+
+Es una habilidad. Como tocar el piano, esquiar y hornear.
+
+Lo que significa que se puede aprender.
+
+Sin embargo, la confianza es una habilidad dentro de las habilidades.
+
+¿Qué es lo que quiero decir?
+
+Quiero decir que la confianza viene cuando aprendes a confiar en ti mismo.
+
+Y esa confianza crece cuando aprendes a gestionar tus emociones, cuando te conviertes en un mejor comunicador, cuando desarrollas una mentalidad implacable.
+
+Cuando desarrollas esas otras tres habilidades, inevitablemente aumentas la confianza en ti mismo, y de ahí tu confianza.
+
+Se podría decir que la confianza es un subproducto de otras habilidades.
+
+Y si en tu vida falta confianza, acepta nuestro Reto gratuito de 3 días. Transformará tu vida.
+
+Si quieres una confianza inquebrantable necesitas:
+
+Aprender a manejar tus emociones, porque si no lo haces siempre serás víctima de las circunstancias de la vida, las bolas curvas desagradables que te envían a ti y a la gente que te rodea. 
+
+Aprende a comunicarte. Así es como consigues que la gente confíe en ti y se deje influir por ti.
+
+Una mentalidad implacable, se trata de confiar en que tienes la capacidad de ver las cosas a través de
+
+###
+
+* Debes tener:
+	- Be strong
+	- Focus on your goals
+	- Be ambitious
+	- Look excelence in all ambits
+	- Control Financiero(gastos e ingresos)
+	- Autoconfianza - fake it until u can make it - toma acción y no le importa lo que digan 
+	- Be disciplined - Hacer lo que tienes que hacer - Escoger entre lo que tienes y lo que quieres tener
+	- dinamicas de atracción? reconoce a las mujeres de alto valor, no regalas tu atención.
+	- control of your emotions - entiende que lo externo no depende de mi y no deja que las emociones te dominen
+	- Be Dangerous - Se un monstruo, controlado - Debes aprender a ser cruel, si no serás victima de las que si se mueven siendo crueles.
+
+Juega, si sigue el juego, seguir escalando el juego, lee su comportamiento.	
+Confía en tí.
