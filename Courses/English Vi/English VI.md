@@ -222,16 +222,351 @@
 		- Ken and Lis don't have to leard english
 		- Susy doesn't have to clean her desk today
 
-# More Ideas
+# Should-Get-Pronouns-Possesive Adjectives
 
-Es normal caer en los excesos sin apreciar la virtud de la moderación. Los vicios son una falta de respeto a la prudencia. La carencia es una falta de respeto a las necesidades. NO IGNORES LAS MODERACIONES.
+* Should: Modal verb
+	- We must use the base form of the infinitive after should, i.e without TO
+		- Should + Verb(base form of infinitive)
+			- I should visit my girlfriend
+			- You should go now!! NOT You should TO go now!!
+	- Uses:
+		0. Opinion:
+			- I don't think u should do that. 
+			- I think he should come over. 
+			- I dont think he should stay home.
+		1. To give a recommendations, a suggestion or an advice[WEAK OBLIGATION]
+			- 
+			- Does your tooth still hurt? Te sigue doliendo el diente? You shoud make an appointment with the dentist. suggestion
+			- You should get a haircut (Recommendation)
+			- I think you should study for the test so that you don't fail(advice)
+		2. Expresses that a situation is likely[PROBABLE] in the present
+			- Mary should be at home by now. Give her a call.
+    		- He should have the letter by now. I sent it a couple of weeks ago.
+    	3. Prediction: Expresses that a situation is likely in the futuru.
+    		- Tomorrow it should be fine
+    		- I posted the cheque yesterday so it should arrive this week. ENVIE el cheque ayer
+    	4. Expresses an obligation that is not as strong as MUST.
+    		- Sometimes Should is used instead of Must to make rules, orders or instructions sound more polite. This may appear more frequently on formal notices or on information sheets.
 
-El vulgo se deja seducir siempre por la apariencia y el éxito
+			- On hearing the fire alarm, hotel guests should leave their room immediately.
+			- Passengers should check in at least 2 hours before departure time.
+			- You should never lie to your doctor.
+			- You should pay more attention in class.
+			- You should be at work before 9.
 
-Diogenes: Si llega a ti algo que va pasado, extiende la mano y sirvete moderamente, si pasa de largo, no lo retengas. Si aún no viene no exhibas tu deseo y espera hasta que llegue a ti. Así con tus hijos, con tu mujer, con los cargos, con la riqueza y algún día serás digno de participar en el banquete digno de los dioses. Pero si no te sirves de lo que te ofrecen, sino que lo desprecias ent no solo participaras del banquete de los dioses sino también de su poder. **Manual de vida.**
+		- All of the above example sentences can have must instead of should making the obligation stronger and less polite.
 
+		5. Was expected in the past but didn't happen (should + have + past participle). This expresses the idea that the subject did not fulfill their obligation in the past or did not act responsibly.
+		 	- You should have given your boss the report yesterday when he asked for it.
+		    - I should have studied more but I was too tired.
+		6. Not fulfilling[CUMPLIR] an obligation (should + be + verb-ing): This expresses the idea that the subject is not fulfilling their obligation or is not acting sensibly.
+		    - You should be wearing your seatbelt. (The person isn't wearing one right now)
+		    - We should be studying for the test. (We are not studying right now and we should)
+		7. Sometimes should is replaced by **ought** to without a change in meaning. Note that ought to sounds more formal and is used less frequently.
+		    - You ought to study more. (= you should study more)
+		    He ought to go home. (= He should go home)
+		    - They ought to stop doing that. (= They should stop doing that)
+		8. She should arrive early
+			- NOT she shoulds arrive early
+				- Should doesnt change for the 3rd person. 
+			- NOT she should arrives early
+
+	- Shouldn't: We use shouldn't to advise not to do something, usually because it is bad or wrong to do. for xpress something that represent a BAD IDEA.
+	    * You shouldn't throw your litter onto the street.
+	    * We shouldn't leave without saying goodbye.
+	    * He shouldn't play with those wires if he doesn't know what he is doing.
+	    * Are you tired? You shouldn't work so much.
+    	* You shouldn't talk like that to your grandmother.
+    - Questions: At the begin we put Should:
+    	- Should I go to school early today?
+    	- Do u think I should try that?
+    	- 
+---
+* Get: The verb GET is one of the most common verbs in English. I t has several different meanings, e.g. arrive, become, and can also be used with many prepositions or adverbs with different menings, e.g. get up, get on with, etc.
+	- get= become (+adjective /past participle)
+		* get divorced
+		* get in shape
+		* get lost
+		* get angry
+		* get married
+		* get nervous
+	- get = become (+comparative)
+		* get worse-empeorar
+		* get better-mejorar
+		* get colder-enfriarse
+	- get + preposition (phrasal verb)
+		* get along (well) with
+		* get off a bus
+		* get up
+	- get = receive
+		* get an email
+		* get a present
+---
+* Pronouns
+	- Possesive adjectives:
+		* I - my
+		* You-yours
+		* He-His
+		* She-Her
+		* It-Its
+		* You-yours
+		* We-our
+		* They-their
+	- POSSESSIVE PRONOUNS: Possessive pronouns are used in English to avoid repeating information that is already clear.
+		* I-mine
+		* You-yours
+		* He-His
+		* She-Hers
+		* You-yours
+		* We-ours
+		* They-theirs
+* L not sound: L COMPLETLY SILENT
+	- alk-ok
+		- talk-tok
+		- walk
+		- chalk-chok-tiza
+	- OULD-oUD
+		- could-coud
+		- would-woud
+		- should-shoud
+	- 
+		- half-haf
+		- salmon-samoon
+	- olk-OUK
+		- folk-fok
+		- yolk-youk
+
+## FIRST CONDITIONAL
+
+* The fisrt conditional is called the future real conditional. It is for future actions.When we are thinking about a possible situation in the future, we use:
+	- If + Present verb, future verb
+
+* This structure is common when talking about possible plans, promises, warnings, threats or for persuading someone. We are predicting a likely result in the future if a condition is fulfilled.
+	- If + Simple Present, Will / Won't ...
+		- If I go to Paris next month for work, I'll visit the Eiffel Tower (Plans)
+		- If I have time, I will help you. (Promise)
+		- If you touch that wire, you will get an electric shock. (Warning)
+		- If you eat my chocolate that is in the fridge, you'll sleep outside with the  dog.  (Threat)
+		- If you take me to the mall, I'll buy you an ice cream. (Persuasion)
+
+* FIRST CONDITIONAL STRUCTURE
+	- **If  +  Subject  +  Simple Present  +  Subject  +  Simple Future**.
+		+ Notice how we use a **comma after** the present tense clause.
+		+ Examples
+			- If it rains, I will wear a jacket.
+			- If he goes to the game, he will buy a ticket at the stadium.
+			- If she doesn't go to university, her parents won't be happy.
+			- If it rains, we will cancel the trip.
+			- If that candidate becomes President, the country will be in trouble.
+			- If I win the competition, I will donate half of the prize money to charity.
+
+	- We can also reverse the order and use:
+		- Future Verb + If + Present Simple
+			* Notice how the comma is not necessary with this word order.
+			* Examples
+				- I will very bussy if my teacher english let homework
+				- U will not get a better job if u dont learn english
+				- U will miss the bus if u dont hurry
+				- the dog will bite u if u pull its tail
+				- My mother will be angry if i dont finish the job.
+				- What will u do if they fire u?
+
+* Normally WILL is used in the main clause of first conditional sentences. However you can also use the modal verbs MAY, MIGHT and COULD when something is a possible consequence (and not a certain one) in the future.
+	- If you are nice to me, I may buy you a gift when I'm in Peru.
+	- If they train a little harder, they might win the match.
+	- If he doesn't do his work, he could get fired.
+
+* USES: 
+	- The first conditional is used for actions in the future that depend on other events. For example:
+ 		- If he works on Friday, we will go shopping on Saturday.
+ 			- This means the shopping won’t happen if the working doesn’t happen.
+ 			- Shopping is dependent on working.
+ 	- Often "when" is used to show future plans. 
+		- When he arrives, we will eat dinner.
+		- I will buy a car when I find a job.
+* More examples:
+	- If - present simple - Subject - will do
+		- If u fall in love with me I will not talk to you.
+		- If it rains tomorrow we will stay at home.
+		- If you kiss her she will become a princess
+	- Subject - will do - If - present simple
+		- I will drive to school If u lend me your car
+		- He won't pass the exam if he doesn't study more
+		- David will come to the party if he feels well. 
+
+* The if separete the conditional of the consequenses
+* e.g. example given
+* ' aphostrofe
+* be in second conditionals
+	- we can use were instead was in I, he,she, it.
+* second conditional: for imaginary or hipothetical situations.
+
+* animals: 
+	- a chicken
+	- a horse
+	- a monkey
+	- snake
+	- a leon
+	- cawn
+
+	- a wasp-abeja madre
+	- the corner spider
+	- a shi-obeja
+	- caow-vaca
+	- camello-cabell
+	- jiraf
+	- murcielgado
+	- elephant
+	- beer
+	- mause-
+	- rabbit
+	- cocodryle
+	- a rat
+	- jelifish
+	- orca
+	- ballena
+	- shark
+
+- stresfull
+	- gi**raffe**
+	- kanga**rro**
+	- mo**squi**to
+	- ca**mel**
+	- **dol**phin
+
+### Second conditional
+
+* Use of 2nd conditional: When we are talking about a situation in the present or future that is hypothetical, unlikely or impossible. we use:
+	- If + past simple, ...Would+verb
+
+The second conditional is called **the present unreal conditional**. It's for hypothetical activities.
+* If i had money, I would buy a car.
+* If he were 16, he could drive
+
+* Uses:
+	- Unreal situation in the present
+		- If i were the teacher. 
+		- If i WERE an animlathe teacher. 
+	- Imaginare events
+		- If I were rich, I would buy a private jey
+		- I would sleep more if i had time.
+	- impossible present situations
+		- I would go to the party, if I didn't have to work.
+		- If I could play piano, I would play for you.
+	- If I were: Note that with the verb To Be we use IF + I / HE / SHE / IT + WERE. The reason we use WERE instead of WAS is because the sentence is in the Subjunctive mood.
+		- If I were not in debt, I would quit my job.
+		- If he were taller, he'd be accepted into the team.
+		- She would be still be correcting my grammar if she were still alive.
+	- COULD can be used instead of WOULD to make the hypothetical present or future more likely.
+		- •      If he trained every day, he could represent his country
+		- •      If I had a little more money, I could buy a caR
+			- Si tuviera un poco
+		- •      If I were rich, I would not work.
+		- •      If he were older, he would understand.
+			- SI el fuera mayor
+	- Second Conditional Questions
+		-      What would you do if you were me?
+		-      If you had $1,000, what would you buy?
+		-      If you could live anywhere in the world, where would you want to live?
+		-      Who would you like to meet, if you could meet anyone?
+		-      Would she come if I paid for her flight?
+		-      Would you accept the job if they offered it to you?
+		- What would you do if you won the lottery?
+		-      What would you do if you saw a U.F.O?
+		- Notice that the questions are unreal situations. In the examples, it is clear that it is impossible to live anywhere in the world or meet anyone in the world.
+	- Examples:	
+		- They'd stick up for me-Ellos sacarían la cabeza por mí.
+		- I'd kick it with who i wanted-Me divertiría con quien yo quiera 
+		- throw on-ponerse cualquier coas
+		- take for granted-dar por hecho
+		- swear-juro
+		- Would you live(vivirias) in an apartment if you lived(vivieras) downtown(en el centro)?
+		
+	* SPEAK CORRECTLY:
+		- Silent Letters:
+			- a-ei: can be silent especially: in wordls that end in ly- 
+				- romantically-romanticly
+				- musically-music-ly
+				- logically-logicly
+			- b always silent when its follows the letter em 
+				- climb-clim
+				- crumb-crum-miga
+				- lamb-lam
+				- thumb-thom-pulgar
+				- dumb-dum
+				- plumber-plumer
+			- b before t
+				- subtle- sotle-sutir
+				- debt-det
+				- doubt-dout
+			- c in sc
+				- muscle-musle
+				- scissors-sissors
+				- fascinate-fa-sinate
+				- scene-sin
+				- scenario-sin+ario
+			- d
+				- Wednesday-wens+day
+				- handsome-han+some
+				- sandwich-sanwich
+			- d and g combine, d no complete silent but combine
+				- edge-ech
+				- knowledge-nowlech
+				- bridge-brich
+				- hedge-hech
+			- e at the end is silent but it can affect the pronunciation 
+				- clue-clu
+				- bake-beik
+				- taste-tast
+			- it can affect the pronunciation:
+				- hop>hope
+				- sit-site[saite]
+				- hid-hide
+				- slid-slide
+			- g
+				- sign-sain
+				- champagne-champein
+				- design-disain
+				- foreign-forein
+			- gh after a 
+				- though-thou
+				- high- hai
+				- light-lait
+				- daughter-dau-taer
+				- bright-brait
+			- h follow by w: wh
+				- what-wat
+				- when- wen
+				- why
+				- whistle- wistle
+			- h in start
+				- honest-onest
+				- hour-our
+			- ch-gh-rh[ar]
+				- choir-coaiar
+				- echo-eco
+				- ghost-gost
+				- rhythm-rithem
+				- rhyme-raime
+			- i only in business-bisness
+			- kn-k no pronouns if we have k follow by n
+				- knife-nafe
+				- know-now
+				- knee-nee
+				- knock-nock
+				- knot-not
+				- knowledge-now-lech
+			- l:
+				- could-cuud
+				- should-shud
+				- talk-tok
+				- walk-wok
+				- yolk-yok
+				- half-haf
+				- calf-caf
+				- salmon-samoen
+### 
 # NEW WORDS:
-
 * Bother-molestar
 * To book-reservar
 * fancy-apetecer
@@ -248,14 +583,38 @@ coarser-más gruesa
 - stream-flujo
 - gates-puertas,wires-cables
 - push-empujar
+- pull-jalar
 - halting-detenerse
 - greater superior
 - pherhaps-quizas
 - shall regard- considerariamos
 - such - tales
+- neat-limpio[niit]
+- tidy-ordenado[taidi]
+- yell-gritar 
+- put on - ponerse
+
+### present simple-
+die-die
+jump-jumps
+
+# fun facts
+
+* bring es como si fueras a un lugar de encuentro con alguien y ellos te dijeran desde el telefono que traigas una
+	- Take es como si al salir tu mama te lo dijera.
+
+Mhh, bring es como si fueras a un lugar de encuentro con alguien y ellos te dijeran desde el telefono que traigas una
+Take es como si al salir tu mama te lo dijera
+
 
 https://goo.gl/maps/Do3qZCrJ5Ydx9Uqd6
 rico: https://www.google.com.mx/maps/place/Rico+Club/@19.4264507,-99.1649122,17z/data=!4m12!1m6!3m5!1s0x85d1ff2c0d71e521:0x4ad137af0f3bbadc!2sRico+Club!8m2!3d19.4264457!4d-99.1627235!3m4!1s0x85d1ff2c0d71e521:0x4ad137af0f3bbadc!8m2!3d19.4264457!4d-99.1627235
 
 
 soberbia:https://goo.gl/maps/bgmV7uFT4uG9668X6
+
+
+https://us02web.zoom.us/j/
+83404924779
+?pwd=
+NnMyMGtnWGhDVFRWdFN2dWx5RGQ4Zz09
