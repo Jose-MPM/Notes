@@ -273,11 +273,605 @@ Tareas: 10%
             - PHY WiFi
             - Antena wifi
         - Puertos LAN, WAN
-*  Capa Física-Dispositivos de Red.
+* Capa Física-Dispositivos de Red.
     - 2 tipos de equipos:   
         - DTE: Data Terminal Equipment: CLIENTES
         - DCE: Data Communications Equipment: equipo activo.
         - 18:34  
+        - puerto CISCO
+        - HUB: concentrador de red: regenera y envia a todos los puertos
+
+## [Capa de enlace](https://www.youtube.com/watch?v=Y2HIq4ge9Qw&list=PLN1TFzSBXi3TYgnUzlVsjdWYLBAaNdq0v&index=21)
+
+* Servicios y funcionalidades implementadas en esta capa:
+    - Proporcionar una interfaz de servicio a la capa de Red.
+        - Tranferir datos de la capa de red del equipo origen a la capa de red del destino, se encarga de transmitir los bits a la máquina de destino para que sean entregados a la capa de red. Virtualmente
+        - Encapsulamiento en capa y capa.25
+
+    - Manejo de **tramas**, formato
+        - La capa de enlace produce un bloque de datos a partir de los datagramas producidos por la capa de Red: trama, donde se incluyen en la parte del encabezado las direcciones fisicas de los equipos que tratamos de ocupar[dirección MAC], se agrega un terminador y se requiere introducir un "separador" al transmitir las tramas.
+        - Si algo falla en las verificaciones la información no debe seguir su flujo en cualquier capa.
+    - **métodos de entramado**:
+        - El equipo destino debe ser capaz de reconocer cuando termina e inicia una trama, aparte del terminador. Introduciendo un separador(espacio de tiempo donde no se transmite nada). Pero debe tomarse en cuenta que a veces no tenemos un medio estable. No es tan confiable
+            - para poder saber donde inicia y donde termina nuestra trama
+        - **Conteo de caracteres**:
+            - Este fue hecho para resolver los problemas de la estabilidad del envio de tramas a traves del tiempo.
+            - primer byte representa el número de bytes ocupados x una trama
+            - método muy suceptible a los errores
+                - si se altera el primer byte podemos tener un error en el tamaño de la trama
+        - **Uso de banderas con relleno de carácteres.**
+            - Banderas para inicializar y terminar la trama-1byte
+            - Y esc + el caracter que representa nuestra bandera:46 
+            - aumento de tamaño x las banderas
+        - **Uso de banderas con relleno de bits.**
+            - c/trama inicia y termina con: 01111110
+            - para evitar que la bandera se repita en la trama cuando tengamos 5 1's colocamos un 0 en el flujo de salida que luego se eliminara en el receptor:
+        - En la capa **de enlace se determina el tamaño min and max de una entrada(trama)**
+            - para determinar si una trama tiene un error
+    - Acceso al medio:
+        - 
+    - Servicios de entrega:
+        - No orientado a la conexión sin confirmación de recepción.
+            - El paquete se desecha si la fase verificadora falla.
+            - Se puede enviar datos pero no esperamos que nos confirmen si fue recibido
+        - No orientado a la conexión con confirmación de recepción
+            - Se envian los datos, se revisa la integración de la info, se desencampsula y envia a las otras capas.
+                - Si se puede entregar a la capa de red, se construye un paquete con el número de paquete recivido que funciona para responder que todo salio bn.*ACK: manera de confirmar la recepción.*
+                - temporizador
+        - Servicio orientado a la conexión con confirmación de recepción
+    - Detección y correción de errores. 
+* Notes:
+    - La capa de transporte es una biblioteca del SO
+    - La capa de enlace es principalmente hardware: tarjeta que implementa la interfaz de red. NIC-Tarjeta de red
+
+### Control de acceso al medio y ethernet
+- https://www.youtube.com/watch?v=qbEME7Bfspc&list=PLN1TFzSBXi3TYgnUzlVsjdWYLBAaNdq0v&index=24
+- FDM: Multiplexión por división de frecuencia.
+    - se dividen en rangos de frecuencia, teniendo canales independientes.
+- TDM: Multiplexión por división de tiempo.
+    - en un canal
+- protocolos: reglas para establecer una correct conección entre varios dispositivos 
+- WDM.
+- Canales de difusión-canales multiacceso o canales de acceso correcto.
+- subcapa MAC: Reglas establecidas para determinar como los emisores pueden tener acceso al medio. 
+    - capa de control al acceso al medio.
+- asignación de acceso al canal.
+- WDM(),FDM-fibra optica multimodo-asignación estática, no tiene la necesidad de esperar que el canal se desocupe
+    - multiflexión entre frecuencias: se hace una asignación estatica del canal, a cada emisor tiene una frecuencia independiente para el.
+- Fibra optica unimodo-TDM: Asignación dinámica, cuando necesitamos compartir un solo canal
+    - supuestos para este tipo:
+        - Tráfico independiente
+        - Canal único que tiene que ser compartido.
+        - Detección de colisiones
+        - Tiempo continuo o ranuras de tiempo
+        - Detección deportadora o sin detección de portadora    
+            - señal activa permanentemente
+
+- Procolos de acceso múltiple-EN una red de difusión:
+    - ALOHA PURO:
+        - Los emisores envian la trama cuando la tengan listas
+        - Se pueden producir colisiones.
+        - Una vez detectada la colisión, se vuelve a trasmitir la trama dañada y se queda detectando posibles colisiones en el medio.
+        - Si no detectamos una colisión, se supone que la trama se pudo transmitir sin problema.
+        - Si se detecta una colisión, se vuelve a esperar un random time y se intenta retransmitir.
+        - Sistemas de contensión: los emisores tienen que contender x el uso del canal(unico, compartido x varios).
+    - CSMA-Acceso Multiple con Detección de portadora(señal transmitida permanentemente):
+        - El emisor escucha el canal para ver si alguien esta transmitiendo.
+            - para detectar la portadora y ver si esta vacio.
+        - Si el canal está vacío el emisor transmite sus datos, si no, esperamos un tiempo aleatorio
+        - Aun así se pueden producir colisiones que dañan la trama.
+        - Los emisores deben detercarla
+        1. CSMA-persistente:
+            - espera hasta que un emisor termine de transmitir e inmediatamente empezamos a transmitir.
+                - podemos tener una cantidad grande de colisiones
+        2. CSMA-no persistente:
+            - al momento de detectar que alguien lo esta ocupando, esperamos un tiempo aleatorio para poder ocupar el canal.
+            - reduce el num de colisiones.
+        3. CSMA-CD con detección de colisiones.
+            - Comienza introduciendo su trama pero al mismo tiempo va detectando colisiones 
+            - Se suspende la transmisión de la trama cuando se detecta una colisión.
+    - ALOHA Ranurado
+        - 
+        - 
+    - Estándar IEEE 802
+        - Diseños para redes PAN, LAN, MAN.
+        - 802.3 - Ethernet - Redes LAN
+            - Ethernet clásica: basada en concentradores
+            - Ethernet conmutada: 
+                - uso de switches
+                    - Disp para el reenvio de tramas, opera en la capa 2
+                    - Reduce la cantidad  de colisiones
+                    - Cuenta con una tabla con todas las dirrecciones fisicas de los disp conectados a sus puertos.
+                    - Topología física de estrella-lógica de bus
+                - Servicio no confiable y no orientado a la conexión
+                - Uso de CRC para verificar de integridad de las tramas.
+                - Estándar: 802.3 CSMA-CD
+                - Comprende la capa física y la capa de enlace.
+                    - se encarga de los mecanismos para acceder al medio
+                    - y determina que caracteristicas debe tener nuestra capa física.
+                - Tipos
+                    - Redes de 100Mbps(Fast Ethernet) 
+                    - Redes de 1000Mbps(Gigabit Ethernet) 
+                    - Redes de 10000Mbps(10 Gigabit Ethernet) 
+                - Sabores:
+                    - El primer núm indica la velocidad de la red.
+                        - 10BASE-T: 
+                        - 100BASE-T
+                        - 10BASE-2
+                        - 100BASE-LX
+                    - BASE se refiere: Ethernet con banda base
+                        - "solamente"(principalmente) se transfiere tráfico  de Ethernet
+                    - la ultima parte indica el medio fisico
+                        - 2-cable Coaxial delgado
+                        - 5-cable Coaxial grueso
+                        - T y TX - par trensado
+                        - F y FX - fibra óptica
+                - Formato de las tramas de ethernet:1:03
+                    - preámbulo
+                    - MAC Destino, MAC Origen
+                    - Tipo: IP, ARP
+                    - Datos: MTU 1500 BYTES unidad máxima para enviar x Ethernet
+                    - CRC
+        - 802.11 - LAN Inalámbrica
+
+### Encapsulación  de protocolos de red
+
+* Cliente: 
+    - Los datos en la capa de aplicación son enviados a traves de algún protocolo que va sobre TCP: HTTP, HTTPS, SSH o sobre UDP: DHCP, TFTP(capa 7)
+    - Se le introduce el header de la capa de transporte: TCP, UDP, ICMP(capa 4) obteniendo así el PAYLOAD de la capa 4. 
+    - A eso se le agrega las cabeceras de la capa 3: IPv6, IPv4 teniendo así el PAYLOAD de la capa 3.
+    - En ethernet se le agregan sus respectivas cabeceras(capa 2) y un campo Trail encargado de la verificación de la trama. 
+    - Cuando esto baja a la capa física: 1, a nivel de la codificación se le agrega un preambulo que indica que ya vamos a estar transmitiendo una trama, al final se hace una pausa para que el canal se estabilice, teniendo así la señal codificada.
+* Encapsulación: lo que se envía a traves de Ethernet.
+
+### Dominio de colisión y dominios de broadcast.
+* Hub: Transmite la misma señal a todos los puertos. Aunque no este destinada para ellos.
+* Colisión de red: Saturación del medio, porque 2 o más equipos quieren transmitir al mismo tiempo, cuando ocurre una colisión, el medio de transmisión queda inutilizable por cierta cantidad de tiempo y todos los equipos dejan de transmitir.
+* **Dominio de colisión: Segmento de red(todos los dispositivos) conectado a un medio de transmición compartido. Todos los dispositivos conectados a un canal de transmisión.**
+* Switches: Tiene una tabla-memoria RAM donde guarda la dir MAC y puertos, pero primero hacemos un braadcast para saber si el destino esta en nuestros dispositivos
+    - broadcast de red: Tipo de transmición que va de un equipo a todos los demás, la señal de puras F's representa la señal-trama del broadcast.
+        - **dominio de broadcast: todos los dispositivos conectados a un switch entran dentor del mismo dominio de broadcast.**
+        - el router puede limitar el dominio del broadcast ya que opera en la capa 3
+        - el dominio del broadcast se puede separar usando vLANs
+    - dominios de colisión y broadcast en un switch:
+        - switches es cascada forman parte del mismo dominio.
+### STP: SPANNING TREE Protocol
+
+* Funcionamiento de un switch
+* bucle de red-no permitidos
+* STP:
+    - Protocolo de capa 2 del mod OSI
+    - Evita bucles en los enlaces redundantes
+    - OPeración dada entre los switches
+    - Switch deben soportar el protocolo STP.
+    - Los switches descubren la topología y crean el árbol de conexiones, el árbol se vuelve a construir si la topología cambia, existe un dispositivo raíz
+    - Cada puerto tiene un id y un costo, y estos pueden estar activos o standby-en espera
+    - Se da preferencia a los puertos más rápidos.
+
+### vLAN 802.1q
+
+* Los switches operan con:
+    - MAC destination
+    - MAC Origin
+    - Type: prótocolo en el que vieene encapsulado
+    - Payload-capa 3
+    - Padding-en caso que se ocupa para que llegue al tamaño pedido
+    - suma de comprobación de la trama
+
+* broadcast storm
+
+* si solo queremos que x dispositivo solo se podría comunicar con Y conjunto
+    - para ello trabajamos con **vLAN**:
+        - Se le agrega un pedazo a la trama, el tag de la vLAN que cuenta con un:
+            - TPID:id bn definido-16 bits
+            - TCI: Tag control information
+                - PCP: priority code point
+                - DEI: Drop Elegible Indicator: nos dice si se puede descartar x alguna razón.
+                - vLAN:  
+                    - la vLAN 1 no lleva tag
+                    - las vLAN con tag son del 2-4094
+                - 
+- vLAN 802.1ad: Q-in-Q: 
+    - contiene un tag de vLAN externo
+    - contiene un tag de vLAN interno-el mismo de siempre
+
+### Capa de Red
+* Servicios de Red:
+    - Entrega garantizada
+    - Garantía de entrega con retardos acotados
+    - Entrega ordenada de paquetes
+    - Garantía de ancho de banda mínimo
+    - Garantizar el tiempo máximo de separación de dos paquetes.
+    - Servicios de seguridad 
+    - Servicio orientado a la conexión o no orientado a la conexión?
+* Internet:
+    - Servicio de mejor esfuerzo (servicio no orientado a la conexión) No se proporcionan los servicios anteriores.
+        - Tipo de redes que se construye con un servicio no orientado a la conección, este trata que lleguen al destino pero no garantiza la entrega
+* datos:    
+    - 2 paquetes consecutivos pueden no seguir la misma ruta 
+    - los protocolos de ruteo permiten recuperarse de problemas como perdidas o saturación de enlaces.
+* Routers:  
+    - 
+    - algoritmos utilizados: protocolos de ruteo
+    - las tablas de los routers nos ayudan a determinar la ruta que seguira un paquete. 
+    - puertos de routers: bidimensionales: entrada fisica y des
+        - entrada: desencapsula la trama que se enviara a traves de un puerto teniendo la info para que sea procesada por switching fabric(salida a traves de un puerto correspondiente)
+            - switching fabric componente tiene varias formas de trabajar:  
+                - espacio de memoria para guardar la copia al buffer por donde se enviara
+                - Bus: enviado al bus y detectado por la salida que coincide-
+                - crossbar
+            - cada router tiene una tabla de ruteo listando cada destino posible y puerto d salida a utilizar.
+        - métricas para determinar costos:
+            - número de saltos
+            - Retardo promedio de un paquete
+            - Distancia física
+            - Políticas
+            - Ancho de banda
+            - Congestión
+            - Costo de la conexión.
+                - 
+    - el running procesor se encarga de ver a donde se dirige el paquete y con base al destino escogemos el puerto
+
+### Capa de red-Dispositivos
+
+### Direcciones IP, lógicas y DNS
+* Cómo identificar de manera única un equipo en una red?
+    -
+* Cómo identificar de manera única un equipo en Internet?
+    - 
+* Direcciones IP y lógicas
+    - 4 bytes para representar la dirección en la parte "Equipo Origen" del paquete
+        - iPv4: las direcciones están formadas por 4 bytes
+            - 1 byte: valores entre 0-255
+    - Direcciones: 
+        - Clase A: fijando el primer número:
+            - 1.X.X.X: 1.0.0.0 -- 1.255.255.255
+                - el número 1 representa la red, lo restante el host.
+                - esquema que forma internet
+                - 16 777 216 posibles direcciones
+                - for countries
+                - Máscara de subred 255.0.0.0
+        - Clase B: fijando los primeros 2 números para poder identificar la red:
+            - 1.1.X.X: 1.1.0.0 -- 1.1.255.255
+                - X.X para identificar el host
+                - REDES AÚN GRANDES: 65536 posibles direcciones
+                - for big organizations
+        - Clase C: fijando los primeros 3 números:
+            - 1.1.1.X: 1.1.1.0 -- 1.1.1.255
+                - el número 1 representa la red, lo restante el host.
+                - esquema que forma internet
+                - la red se identifica con los 3 primeros bytes.
+                - para redes pequeñas, como para una empresa
+        - ejemplo:  
+            - 
+* Direcciones lógicas:
+    - traducción de la dir ip a expresiones equivalentes
+        - 132.248.28.3 -> hp.fciencias.unam.mx
+        - mex, unam, fciencias, nombre del host
+* Asignación de direcciones de forma única.
+    + Internacional
+        - IANA-Internet Assigned Numbers Authority
+        - ICANN-Internet Corporation for Assigned Names and Numbers
+    + Asignación Local-México
+        - NIC México, administración del dominio .mx: .com.mx, .org.mx
+        - Asignación local dentro de México-UNAM
+            - DGTIC: Administración del dominio .unam.mx, por ejemplo: .imate.unam.mx
+    + como se maneja el cambio de palabras a números?
+        - usando DNS:
+            - base de datos que se encarga de la traducción entre dir lógicas e IP's   
+                - encargada de la conversión de direcciones lógicas a dir IP y viceversa
+            - necesitamos que toda red tenga un servicio DNS
+    + 
+###  Cabecera de IPv4 y Fragmentación de Paquetes
+
+* Encabezado IPv4:
+    - Estructura: 2:00: 20 bytes de info obligatoria
+        - tamaño variable dependiendo del tamaño de la parte opcional que va despues de la parte obligatoria
+        - Versión
+        - Longitud de la cabecera, incluyendo la sección de opciones de IP y el relleno.
+        - TOS, Tipo de servicio. 8 bytes    
+            - Preferencia, 3
+                - Prioritario
+                - Inmediato
+            - Tipo de servicio
+                - 1000-Minimizar la demora
+                - 0100-Maximizar la tasa de transferencia
+                - 0010-Maximizar la confiabilidad
+            - MBZ
+        - Longitud total: del paquete, incluyendo los datos 
+        - Identificación, 16 bytes, en cso de usar fragmentación.
+        - FLAGS: 
+            - reservado
+            - DF-Dont Fragment-1 se permite, 0 no
+            - MF-More Fragments-0 ultimo fragmento, 1 hay maś fragmentos
+        - OFFSET: Indica el desplazamiento del fragmento, se usa para reensamblar el paquete en caso de haber sido fragmentado.
+        - tiempo de vida, se suele inicializar en 64 y cada router por el que pasa le resta 1 al paquete ates de enviarlo
+        - protocolo para la capa de transporte
+            - ICMP
+            - IP: ip in ip - encapsulación
+        - checksum: suma de verificación para el encabezado
+        - ip destino y origen.
+        - Opciones: Se utiliza para extender el encabezado, en caso necesario. Su longitud es variable, 
+            - tipo
+                - fc: indica si la opción debe copiarse, en caso de que el paquete se fragmente, 0 no copiar, 1 si
+                - Class: 2 bytes
+                    - 0,Control
+                    - 1, reservado
+                    - 2, Depuración y medición
+                    - 3, reservado
+                - número, depende de lo que quieras calcular
+                    - 4:Internet time stamp
+                        - El campo class tiene el valor 2 y no se establece el campo Fc. Longitud del campo de datos variable. Cada router que atraviesa el datagrama agrega su dirección IP. 
+            - long: En octetos de las opciones, incluyendo los campos tipo y longitud
+            - datos
+            - relleno: para cumplir que todos los bloques sean de 32 bits
+    - MTU: Unidad maxima de transferenia
+
+###  Definición de subredes con VLSM
+
+- Direcciones: 
+        - Clase A: fijando el primer número:
+            - 1.X.X.X: 1.0.0.0 -- 255.0.0.0
+                - el número 1 representa la red, lo restante el host.
+                - esquema que forma internet
+                - 256 direcciones de red
+                - 16 777 216 posibles direcciones de host en cada red
+                - for countries
+                - Máscara de subred 255.0.0.0
+            - rango:
+                - 0.0.0.0 -> 127.255.255.255
+                    - ya que el primer digito binario es 0
+
+        - Clase B: fijando los primeros 2 números para poder identificar la red:
+            - 1.1.X.X: 1.1.0.0 -- 255.255.0.0
+                - X.X para identificar el host
+                - REDES AÚN GRANDES: 
+                - 65536  direcciones de red
+                - 65536  posibles direcciones de host en cada red
+                - for big organizations
+            - rango:
+                - 128.0.0.0 -> 191.255.255.255
+                    - ya que los dos primeros digito binario son 10.
+        - Clase C: fijando los primeros 3 números:
+            - 1.1.1.X: 1.1.1.0 -- 255.255.255.0
+                - el número 1 representa la red, lo restante el host.
+                - 16 777 216 direcciones de red
+                - 256 posibles direcciones de host en cada red
+                - esquema que forma internet
+                - la red se identifica con los 3 primeros bytes.
+                - para redes pequeñas, como para una empresa
+            - rango:
+                - 192.0.0.0 -> 223.255.255.255
+                    - ya que los dos primeros digito binario son 110.
+
+- Al aplicar AND entre la máscara de subred y la dir ip obtenemos los 3 objetos primarios de la ip. Esto para ver si dos dispositivos están en la musma subred.
+    - digamos que A=10.1.1.25, B=10.1.1.15, máscara de subred en IPv4, A AND Mask = 1.1.1.0 = B AND Mask.
+    - si no son iguales, entonces tenemos que no estamos en la misma subred, por lo tanto no puede enviarse directamente, debe enviarse al gateway, para que este se encargue de hacer la conexión con la red distinta
+
+- Problemas por el uso de las máscaras predeterminadas de IPv4
+    - Teniendo la red 1.0.0.0, mask: 255.0.0.0
+        - 1.0.0.0 se ocupa para identificar la red misma,no se ocupa en algún dispositivo
+        - 1.255.255.255 dirección para hacer broadcast
+        - 16 777 211 dir sin uso
+    - Eso es un desperdicio de direcciones sin uso!
+
+- VLSM - Variable Length Subnet Masks - Máscara de subred de tamaño variable
+    - 255.255.255.00000000
+        - m bits más significativos determinan la cantidad de subredes 2^m
+        - los d restantes bits, determinan la cantidad de direcciones en cada subred 2^d
+        - Red de clase c: 132.248.10.0
+        - Mask alternativa: 255.255.255.128
+        - Al aplicarla con redes 132.248.10.1->132.248.10.127 obtenemos 132.248.10.0 
+        - Al aplicarla con redes 132.248.10.128->132.248.10.255 obtenemos 132.248.10.128
+        - Teniendoa así 2 subredes 39
+    - Ejemplo de uso de VLSM para asignar direcciones a varias redes: 
+        - Dirección de red original: 132.248.10.0
+            - Mascara de subred: 255.255.255.192-26 bits
+                -  para la primera subred:
+                    - ocuparemos  
+                        - 132.248.10.0 para dirección de red.
+                        - 132.248.10.1-62 para dirección de host
+                        - 132.248.10.63 para dirección de red.
+                        - se reconoce como 132.248.10.0/26
+        - Quedando así disponibles: 132.248.10.64-132.248.10.255
+            - Para la red A necesitamos 25 direcciones de host, que d nos permite cubrir estas direcciones sin desperdiciar? si d=5 ent 2^5=32 en cada subred, m=3, teniendo 8 posibles subredes
+            - La máscara de subred /27 nos divide a la red 132.248.10.0 en 8 subredes, c/u con 32 direcciones, usando así: 132.248.10.64-95 132.248.64.0/27
+                - donde 132.248.10.64 es su dirección de red
+                - 132.248.10.95 es la dirección de broadcast.
+    - CIDR: Classless Inter-Domain Routing
+        - Esquema de ireccionamiento mediante direcciones IP sin considerar clases predefinidas, en los equpos de red se consideran las máscaras de red para llevar a cabo el ruteo de los paquetes.
+            - Esto nos permite separar el trafico de los broadcast, 
+
+## IP Calc
+
+#### Protocolo ARP-Address Resolution Protocol
+
+SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="a0:8c:fd:a6:69:f7", NAME="eth0"
+* ARP establecido en un RFC826
+    - tipo de hardware, protocolo **ARP**, dirección de quien envia y recibe.
+        - cabecera 6:42
+    - Util para ver si el host responde
+* ICMP paquetes enviados por ping
+- petición a la ip que me quiero conectar y la respuesta y con esto se llena la tabla de ARP
+
+# Fisica
+ntory@Moonlight:~$ hostname -I
+192.168.0.8 192.168.0.9 172.17.0.1 192.168.57.1 
+
+# DEB
+hostname -I
+10.0.2.15 192.168.57.5
+ip neigh
+
+# Cent0s
+10.0.2.15 192.168.57.6
+arp -u
+
+#### Protocolo DHCP
+* Protocolo de configuración dinámica del host
+    - ipv4: RFC-1542 y RFC-2131
+    - ipv6: RFC-3315 y RFC-3633 y RFC-3736
+* Modelo cliente servidor, donde el servidor provee el servicio DHCP, utiliza el puerto 67, el cliente ocupa el 68
+* etapas:
+    - Request-DHCP-DISCOVER: El cliente pide que se le asigne una dir ip 
+        - envia un datagrama UDP de broadcast para que le responda el servidor ya que el cliente no sabe la dir mac ni ip del  server.
+            - FRAME es la parte de la encapsulación. 
+            - capa 2: dir mac del cliente
+                - broadcast
+            - capa 3: el cliente no sabe su dir ip
+            - capa 7: puertos por donde se realizara la comunicacion
+    - OFFER: el server le ofrece una dir ip
+        - el servidor recibe el mensaje DISCOVER
+        - responde:
+            - capa 2: unicast-ya sabe la dir del cliente, la mac origen es la del servidor
+                - se entrega x capa 2 ya que conocemos la MAC de ambos equipos
+                    - no por la 3 porque no conocemos la dir IP
+            - capa 3: ip origen la del server, ip destino broadcast
+            - capa 4: puertos
+            - La respusta incluye:
+                - la IP asignada
+                - tiempo de asignación: 
+                - Máscara de subred
+                - ALGUNOS OTROS PARAMETROS
+    - Request-DHCP-REQUEST: el cliente la pide
+        - El cleinte recibe  el datagrama  OFFER del servidor y hace la petición oficial para la dir IP  que le fue asignada
+            - el cliente pudo haber recibido varias respuestas de OFFER Pero el cliente solo debe decidir x una para poder hacer la petición oficial
+                - el server guarda esta peticion para tener la IP como referencia futura
+                - los otros servidores reciben esta respuesta y descartan la IP que ofrecieron para poder darsela a otro dis.
+    - ACKNOWLEDGE-DHCP-ACK: El server le confirma que pueda ocuparla
+        - el server recibe la petición REQUEST y responde al cliente  para finalizar el proceso de configuración
+        - responde:
+            - capa 2: unicast-ya sabe la dir del cliente, la mac origen es la del servidor
+                - se entrega x capa 2 ya que conocemos la MAC de ambos equipos
+                    - no por la 3 porque no conocemos la dir IP
+            - capa 3: ip origen la del server, ip destino broadcast o puede variar dependiendo del software.
+            - capa 4: puertos
+        - DHCP-NAK:  respuesta que indica que hubo un error al asignar la IP, para que el cliente reinicie el proceso.
+
+#### Protocolo ICMP
+
+Se usa para datos de usuario final, es un prótocolo de apoyo en la suite de la pila de prótocolos de internet. RFC-792,RFC-1122 para IPv4, es un prótocolo de apoyo, envia mensajes de control y diágnostico, es nátivo de la capa 3
+
+* Únicamente ofrece comunicaciones entre hosts:
+    - utiliza datagramas de IP
+    - No implementa funcionalidades de capa 7
+
+* Es la base para herramientas como ping y traceroute
+    - el tipo es 0, codigo 0 es enviado por el ping, y la respuesta es de tipo 0 y codigo 0 .
+
+* Traceroute convencional(ICMP):
+    - Todos los equipos están conectados de alguna manera.
+    - Aumentan el TTL:time to live, en 1 por cada dispositivo que no es el destino, este regresa un UNREACHABLE
+        - los **** son los que tienen bloqueado el ICMP, por lo que se decide solo seguir enviando.
+        - cuando el TTL llega a 0 
+        - el destino dice, si soy, Y REGRESA QUE EL DATAGRAMA SI LLEGO. 
+    - dentro de los mensajes vemos que el destino aún no es alcanzable, que no hay ruta para el host, que el puierto no es alcanzable
+        - para así aumentar nuestro TTL.
+    - Podemos mapear la manera de llegar a nuestro destino
+        - correlacionamos LA INFO de las direcciones IP con bases de datos de geolocalización
+    - Basado en mensajes ICMP, para po
+
+#### Algoritmos de ruteo - Protocolo de Vector de distancia
+
+* Descentralizados
+    - Algoritmos iteraticos, distribuido
+    - Requerimos info de los vecinos(enlaces directos)
+    - Algoritmos de vector de distancia **Distance Vector o DV**
+* Centralizados-globales
+    - Requiere información del estado de toda la red. COncexiones entre todos los nodos y costos
+    - Se puede calcular en un equipo central y replicar en los demás
+    - Algoritmos de estado del enlace(link-state o LS)
+* Ruteo estático(cambios en los enlaces my lentos o inexistentes)
+* Algoritmos sensibles a la carga(adaptativos, cambios dependiendo de la carga, de la saturación de los enlaces).
+
+* **Estas pudiendo sacar tu carrera con 9,6.** No es fácil y lo estás haciendo muy bien, se como mi papá, las cosas se te hacen fáciles, porque llueve o truene tu estás trabajando, perseverante y constante, como todo. **TU PUEDES!!!**
+
+* Vector de distancia(Bellman-Ford)
+    - cada ruteador mantiene una tabla(vector)
+        - inclute todos los destinos conocidos/posibles
+        - mejor distancia a cada destino
+        - enlace a utilizar para llegar a cada destino
+    - se intercambia la información(las mejores rutas) con los vecinos para actualizar las tablas
+    - Vector de distancia =! tabla de ruteo
+        - Calculo de la ruta minima de E a A:
+            - se calculan todas las rutas posibles: E-A A través de Ri = distancia(E,Ri)+costo(Ri,A) y se elige la menor.
+            - Ejemplo de vector de distancia: min 27
+    - Todo esto se calcula en el *Routing processor*.
+
+####  Protocolo de Estado del enlace
+####
+####
+####
+####
+
+### prac 3
+
+* commands:
+    - sudo ifconfig enp1s0 down
+    - nmcli connection down
+    - ntory@Moonlight:~$ nmcli device show enp1s0 
+    - nmcli connection add type ethernet con-name enp1s0
+    - nmcli connection add type ethernet con-name enp1s0
+    - dhclient -r "enp1s0"
+
+* dirreción local: 192.168.0.8/24
+
+* 3.2
+
+* for nmcli: https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/ref-frequent-nmcli-commands_getting-started-with-nmcli
+```bash
+ntory@Moonlight:~$ ip route show
+default via 192.168.0.1 dev enp1s0 proto dhcp metric 100 
+default via 192.168.0.1 dev wlp5s0 proto dhcp metric 600 
+169.254.0.0/16 dev enp1s0 scope link metric 1000 
+172.17.0.0/16 dev docker0 proto kernel scope link src 172.17.0.1 linkdown 
+192.168.0.0/24 dev enp1s0 proto kernel scope link src 192.168.0.8 metric 100 
+192.168.0.0/24 dev wlp5s0 proto kernel scope link src 192.168.0.9 metric 600 
+
+ntory@Moonlight:~$ nmcli connection show enp1s0 | grep -i DNS
+connection.mdns:                        -1 (default)
+ipv4.dns:                               --
+ipv4.dns-search:                        --
+ipv4.dns-options:                       --
+ipv4.dns-priority:                      0
+ipv4.ignore-auto-dns:                   no
+ipv6.dns:                               --
+ipv6.dns-search:                        --
+ipv6.dns-options:                       --
+ipv6.dns-priority:                      0
+ipv6.ignore-auto-dns:                   no
+IP4.DNS[1]:                             10.10.16.21
+IP4.DNS[2]:                             187.185.14.2
+ntory@Moonlight:~$ cat /etc/resolv.conf 
+# This file is managed by man:systemd-resolved(8). Do not edit.
+#
+# This is a dynamic resolv.conf file for connecting local clients to the
+# internal DNS stub resolver of systemd-resolved. This file lists all
+# configured search domains.
+#
+# Run "resolvectl status" to see details about the uplink DNS servers
+# currently in use.
+#
+# Third party programs must not access this file directly, but only through the
+# symlink at /etc/resolv.conf. To manage man:resolv.conf(5) in a different way,
+# replace this symlink by a static file or a different symlink.
+#
+# See man:systemd-resolved.service(8) for details about the supported modes of
+# operation for /etc/resolv.conf.
+
+nameserver 127.0.0.53 # DNS ivp4
+options edns0 trust-ad
+
+```
+
+penhause
+fam viva
+video
+2 ferrari
+mmm
+a los 28
+TENGO 4 años
+
 # Lab   
 /* Cambiar a la rama de la actividad anterior /
 $ git checkout tarea-3
@@ -291,4 +885,24 @@ $ git checkout -b practica-1
 /* Crear carpeta para la entrega de la practica 1 /
 /* (que será entregada de manera individual) /
 $ mkdir -vp docs/practicas/practica-1/ApellidoApellidoNombreNombre
+
+# prac2
+
+enable 
+configure terminal
+erase startup-configuration
+enable password cisco
+enable secret sanfran
+copy running-config startup-config
+ex-> %SYS-5-CONFIG_I: Configured from console by console
+
+
+```bash
+PLANTILLA
+```
+
+# To desinstale something
+ sudo apt list --installed
+ sudo apt-get purge gnome-boxes
+ sudo apt-get autoremove
 

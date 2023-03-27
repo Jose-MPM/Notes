@@ -565,8 +565,377 @@ The second conditional is called **the present unreal conditional**. It's for hy
 				- half-haf
 				- calf-caf
 				- salmon-samoen
-### 
+### PRESENT PERFECT OR SIMPLE PAST?
+
+1. Simple past: Finish time 
+	- Examples:
+		- Itzi went to Acapulco without me this year.
+		- How long *was* Bob Marley a musician? He *was* a musician for twenty years.
+		- How many Grammys *did* he *win*? He didn't win any.
+	- Rules:
+		- Use the SP to talk about a finished period of time in the past.
+		- We use simple past to talk about something that is already finished at the moment.
+	- Formulation:
+		- depend if we use irregular or regular verbs
+			- in regular only add -ed
+			- irregular idk
+
+2. Present perfect=Unfinished time: Is a connection between present and past time. Verb tense used to discuss experiences in the past and completed event and actions up to and including the present simple. **Tiempo verbal utilizado para hablar de experiencias en el pasado y de acontecimientos y acciones completadas hasta e incluyendo el presente simple inclusive**.
+	- Examples:
+		- I have been in Paris twice
+		- How long *has* Ziggy Marley *been* a musician? He's *been* a musician since he was ten.
+		- How many Grammys *has* he *won*? He has won four. - *ha ganado*
+	- Uses:
+		- Experiences in your life
+		- We use present perfect to talk about a period of time from the past until now.
+		- We use to talk or ask about things that have happened in the past, but we don't say when.
+			- Have u seen his new movie? yES, I've seen all his movies.
+		- You can't use PP with time phrases
+		- To describe an action that happened in the past but its still true in the present.
+			- They have been to México.
+				- several times, this year
+		- To describe an action that is no longer true in the present but that was true in the past.
+			- Itzel studied accounting for 4 years at the faculty of Accounting. Now, she is an accounting.
+		- We often use the pp with ever(at any time in your life) or never(at no time in your life)
+			- Have u ever read a Russian novel?
+			- Sara has never worked in a big company.
+		- We also use the pp to talk about something that **has** recently happened.
+			- Have u finished the exercise? No yet.
+			- Your parents have arrived. They're in the living room.
+	- Formulation:
+		- (+)
+			- person--has/have--verb with ed
+				- You have played tennis -> You've played...
+				- I have played
+				- He/she has played -> She's played
+		- (-)
+			- person--has not=hasn't/have not=haven't--verb with ed
+				- You haven't seen that movie
+				- I haven't played
+				- He/she has not played -> She hasn't...
+		- (?)
+			- Have -- I/u/We/They + past participle of main verb
+				- Have u been in London? 
+					- Yes, I have been in London
+					- No, I haven't been in London
+			- Has -- she/he/it/ + past participle of main verb
+				- Have she been in London? 
+					- Yes, she has been in London
+					- No, she hasn't been in London
+	### for or since: Use the pp + for or sice to talk about actions and states that started in the past and are true still now.
+	- Use **for** + a period of time, e.g. for two weeks, for ten years, for a long time, etc
+		- I have been a student in the Faculty of Cience for 4 years.
+		- I've lived in Tokyo for 20 yeasr = I came\[vine\] to live in Tokyo 20 years ago and I live in Tokyo now.
+	- Use **since** with the beginnnig of a period of time, e.g. since 1999, since last June.
+		- I've live in this house since I was a child.
+	- Examples
+		- Where do u live now? In Tokyo
+			- How long have you lived there? I have lived there for 12 years.
+		- Where do u work? I work in a elementary school.
+			- How long have you worked there? I've worked there since 2015.
+	- Use **for** to show us who will benefit from an action.
+		- Today I'm cleaning the house for you
+	- Use **since** can be used to indicate a particular thing because(debido) of which(la cual) something happened or ocurred. Para indicar una cosa particular debido a la cual algo sucedió o ocurrió. **It means because**.
+		- Since there's no more work. I'm going home. 
+
+3. Diferences:
+	- Present P: Action that is complete at the time of speaking:
+		- I've studied 3 sections untill now.
+		- I've already done half of the exercises.
+		- He has driven 500 km so far.
+	- Past S: 
+		- I studied 3 sections last night.
+		- I did half of the exercises before luch.
+		- He drove 500 km yesterday!
+4. Common Mistakes:
+	- Past simple:
+		- **SI**: We bought this car **3 month ago**.
+			- **NO**: We have bought this car **3 month ago**.
+		- **SI**:  I slept well **last night**.
+			- **NO**:  I have slept well **last night**.
+		- **SI**:  She met him when she **was a child**.
+			- **NO**:  She has met him when she **was a child**.
+	- PP
+		- **SI**: I have **already** called him.
+			- **NO**: I **already** called him.
+		- **SI**:  She has **just** come back. [Ella a   caba de volver]
+			- **NO**:  She **just** come back. JUST REFER TO SPECIFIC TIME IN THE PAST 
+		- **SI**:  Prices have gone up this month.
+			- **NO**:  Prices went up this month.
+5. Writting:
+	- I have been studying English since I entered university, my English teacher of this semester is Emma Alejandra Razo Arroyo, I have known her since last semester, I took the course with her last semester. I have been studying and learning abour science computer for 4 years, my favorite skill is speaking because I want to speak in english very well so my purporse for now will be to expand my vocabulary. I have been in English 6 for 5 weeks and I have been afraid of the exams since I did the U3 M2 activities because those quizzes were very long and I´m very slow.
+- Extra:
+	- afraid-asustado-temeroso
+	- fear-miedo-temor
+	- terrified-aterrorizado
+	
+### IT WAS INVENTED IN
+
+#### Passive voice
+
+OBJECT + BE + PAST PARTICIPLE + BY + SUBJECT
+
+The Passive Voice is used in English when **the person or thing that is receiving(que recibe) the action is more important** than the person or thing that is performing the action.
+
+* Present
+	- am.is.are + past participle
+		- (+) Police Officer are protected by bullet-proof vest
+		- (-) The white-out isn't much used today.
+		- (?) Are disposable(desechables) diapers(pañales) used all over the world?
+			- se utilizan pañales desechables en todo el mundo?
+* Past
+	- was-were + past participle
+		- (+) The dishwasher was invented by Josephine Cochrane.
+		- (-) Windshield wipers weren't invented until 1903
+		- (?) When was the washing machine invented?
+
+* Exist two ways of you can say things:
+	- ACTIVE:
+		- Josephine Cochrane invented the dishwashers
+		- I sent Christmas cards to all my friends.
+		- The earthquake destroyed the town last night.
+		- Tom helps Smith
+			- Tom is the subject
+				- doer of action
+			- Helps is the verb-action
+				- **A verb is in the active voice when its form shows _(su forma muestra)_ that something is done to the person or thing denoted by the subject** (que algo es hecho para la persona o cosa indicada por el sujeto).
+			- Smith is the object
+				- receiver of the action
+		- Jose eats pizza
+		- Many people speak english
+		- Tom wrote a book
+		- The government raised taxes
+		- Samantha broke your iPad
+		- The wildfire burned down 20 houses
+		- They hold the festival on July 1st
+		- Reggie drank all the coffe
+		- The president promised a tax break.
+	- PASIVE:
+		- **Be** before **main verb=apst participle**.
+			- The dishwashers was invented by Josephine Cochrane 
+			- Christmas cards were sent to all my friends.
+			- The town was destroyed last night by an earthquake.
+			- Smith is helped by Tom
+				- Smith is the subject
+					- receiver of the action
+				- Tom is the object
+					- doer of action
+				- Helped is the verb-action
+				- is is helping verb
+					- **A verb is in the active voice when its form shows _(su forma muestra)_ that something is done to the person or thing denoted by the subject** (que algo es hecho para la persona o cosa indicada por el sujeto).
+			- Pizza is eaten by Jose
+			- English is spoken by many people
+			- A book was written by Tom - PAST TENSE
+			- Taxes were raised by the government
+			- The cookies were eaten
+			- The iPad was broken
+			- 20 houses were **burned** down by the wildfire(incendio forestal)
+			- The festival was **held** on July 1st 
+			- All the coffe was drunk **by Reggie: WITHOUT BY AD WHO**
+			- A tax break was promised by the president
+
+	-  you can see it is the action or the  result that is the most important factor in the passive sentences.
+	- Voice is a form of a verb that s hows wheter what is denoted by the subject does something or has something done on it.
+		- La voz es la forma del verbo que muestra si lo que denota el sujeto hace algo o se hace algo en él.
+	- When a verb is changed from active voice to passive voice, the object of the transitive verb in the active voice becomes the subject of the transitive verb in the passive voice.
+
+* Uses:
+	1. It is used when the person/thi ng performing the action is unimportant or unknown.
+		- Our car was stolen(robado) last night.
+			- criminal
+		- The window was smashed(Se rompió) 
+		- A house was broken into.
+			- UNa casa fue asaltada
+		- Some valuables were stolen.
+			- Se robaron algunos objetos de valor
+		- A lot of jewelry was taken. 
+			- Fueron tomadas muchas joyas
+	2. It is used when it is obvious who/what is performing the action.
+		- Cameron was sacked(despedido) last week.
+		- After a tornado, Three houses were destroyed, The roof was ripped off each one
+			- 3 cars were flipped over(fueron volcados).
+	3. It is used to describe factual(objetiva) information, especially when describing a process.
+		- The lasagna is baked in an oven for 35 minutes at 250 degrees Celsius.
+	4. It is used in news reports and to give instructions.
+		- Five people were arrested at a nightclub last night.
+	5. To avoid saying the agent
+	6. Patient is topic: Agent less importan than patient.
+		- Sushi was created in Japan
+		- Chocolate was first grown in Mexico
+		- Beer was invented in Egypt.
+	7. To be polite(educado)-avoid assigning(a alguien) blame(culpar).
+		- Omit agent to avoid Blame.
+			- Instead of: You broke a plate
+				- A plate was broken. No big deal
+
+* Only transitive verbs have a passive voice  because they have object
+	- IN intransitive verbs we dont have passive voice because we dont hace object 
+			
+* Pronouns: subject to object
+	- I -> Me
+	- He -> Him
+	- She -> Her
+		- My mom called my sister
+			- She calle her
+	- They -> Them
+	- We -> Us
+	- u -> u
+
+* Tense of the auxiliary "be".
+	- Take the tense of the Main Verb in the active sentence
+		- Active Voice = Someone **ate** the cookies.
+			- Passive Voice = The cookies **was** eaten(past participle)
+
+* The auxiliarty verb must agree with the subject
+	-  SUbject + Aux Verb +  Main Verb
+		- I was eaten
+		- You,we,they were eaten
+		- She, he, it was eaten
+
+* Agent vs Patient
+	- active
+		- Sentence roles.
+			- 
+		- Case roles: describe the relationship that the nouns have to the action of the verb subject 
+			- agent: does the action of the verb
+			- patient: is the person or thing that has the verb dont do it  
+	- passive
+		- subject equals patient
+		- by + agent
+
+#### Pronunciation
+
+- How to count Syllables?
+	- fast-1-fa:st
+	- **per**son / ´pe:sen
+	- **beau**tiful / biu:ti-fel
+	- infor**ma**tion/in-fo'-mei-shon
+	- **break**fast/2-break-fast
+	- ba**na**na/3-'ba-naa:na
+	- to**mo**rrow/tu-mo-rrow
+	- uni**ver**sity/u-ni-ver-si-ti
+	-  
+- We only have one stress syllable, **How to pronounce stress?**
+	- The stress syllable should be louder
+	- a little higher
+	- a little longer in time
+	- the aphostrofe indicates the stress syllable
+	- examples:
+
+- Stress in Two-Syllable words
+	- Always the first is stress
+		- **pic**ture
+		- **min**ute
+		- **mon**ey
+		- **doc**tor
+		- **wa**ter
+		- **hap**py
+		- **yel**low
+		- **use**full
+		- formal-foormal
+		- tiring-taire
+	- nouns
+		- dec**ide**
+		- for**get**
+		- ex**plain**
+		- ar**rive**
+		- re**peat**
+	- exceptions
+		- ho**tel**
+		- **hap**pen
+		- ex**am**
+		- **fin**ish
+	- more examples
+		- because-cause
+		- stolen-sto
+		- awful-aw
+		- actuary-ac
+
+
+- Stress in longer words
+	- can be everywere
+		- at the begining
+			- **a**nyone
+			- **beau**tiful
+			- **pos**sible
+		- in the middle
+			- com**pu**ter
+			- to**mor**row
+			- ex**pen**sive 
+		- at the end
+			- after**noon**
+			- emplo**yee**-employii
+			- Japa**nese**-yapaniss
+
+- In words with 4 or more syllable the stress is always in the middle
+	- infor**ma**tion
+	- com*mu*nicate
+	- pho*to*grapher
+
+- In words that end with: tion, sion, cian the second last syllable is stress
+	- infor*ma*tion
+	- situ*a*tion
+	- poli*ti*cian
+	- elec*tri*cian
+	- dis*cus*sion
+	- re*vi*sion
+- In words-ic
+	- eco*no*mic
+	- dra*ma*tic
+	- at*lan*tic
+	- scien*ti*fic
+
+- words-y: the strees is 2 syllable before the last one.
+	- bi*o*logy-baiOlogi 
+	- *luc*kily-loc-kl-ly
+	- ac*ti*vity
+	- posi*bi*lity
+	- in 3-Syllable-words-ly the strees is at the beginning
+		- *che*mistry-Kmestri
+		- **preg**nancy:preg-nan-si
+		- *rob*bery-ROBbery
+
+- with bigwords from made a short root word, the stress is generauly in the same place as the root
+	- **com**fort
+		- **com**fortable
+		- dis**com**fort
+		- un**com**fortable
+		- **com**fortably
+		- **com**forting
+- The rules follow a orden: *pho*tograph, pho*to*graphy, pho*to*graphic
+	- e*co*nomy, eco*no*mic
+	- *e*ducate, edu*ca*tion
+
+* CONTRASTS AND VOWEL REDUCTIONS
+	- E and i sounds can be lower,short and fast
+
+* WORD FORMATION
+
+# Past Participle
+- sung-sing
+- speak-spoken
+- repair-ed
+- clean-ed
+make-made
+feed-fed-alimentar
+- shown
+- written-wrote
+- made-make
+- done-do
+- steal-stolen
+- learn-learnt
 # NEW WORDS:
+* seeing-ver
+	- sight
+* strabismus(lazy eye)-estrabismo(ojo vago)
+* shown-mostró
+* thief: ladrón
+* burglar: ladrón
+* broke into: allanamiento: entró
+* mess:desorden
+* maids: criadas
+* until=hasta-hasta que
+* still=todavía, aún, aún así.
 * Bother-molestar
 * To book-reservar
 * fancy-apetecer
@@ -618,3 +987,32 @@ https://us02web.zoom.us/j/
 83404924779
 ?pwd=
 NnMyMGtnWGhDVFRWdFN2dWx5RGQ4Zz09
+
+u must hurry up
+
+# SOME VERBS:
+BASE FORM **--** SIMPLE PAST **--** PAST PARTICIPLE
+drink-drank-drunk
+find-found-found
+give-gave-given
+hear-heard-heard
+have/has-had-had
+know-knew-known
+lose-lost-lost
+make-made-made
+meet-met-met
+pay-paid-paid
+send-sent-sent
+spend-spent-spent
+think-thought-thought
+win-won-won
+write-wrote-written
+take-took
+dance-danced
+
+
+## HOW PRONOUNCE?
+frightened/fraingtd
+
+
+to albert cr7 https://www.youtube.com/watch?v=QvbpeETBoGg

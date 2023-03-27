@@ -83,7 +83,125 @@ shodan: engrane de busqueda
         - ssh es una manera de iniciar sesion en un sistema
 
 * Escaneo de directorios
-* bandera-> archivo escondido que debe de salir que debe de salir con te goster
-        - dir buster
 
+* bandera-> archivo escondido que debe de salir que debe de salir con te goster
+- dir buster
 - escaneos en mi compu antes de la instancia
+
+# Practice 2
+
+* Protocolos de Red:    
+        - TCP
+        - ICMP
+        - SSH es lo mismo que SSHv2
+                - basicamente hacen lo mismo
+        - TLS
+        - ISP: Internet Service Provider
+
+* DATA:
+        - .pcap
+        - 
+
+* Para el envio de datos se ocupan 2 protocolos:
+        - TCP: genera más trafico porque es orientado a la conección, ya que se asegura de que llegue todo el tiempo, que no haya pérdida de paquetes.
+        - UDP
+
+* En wireshark
+        - src:source
+        - dst:destination
+                - arp.dst.hlen == 60
+                - 
+* DOC:
+
+        http.response.code == 404
+       http.request.method == GET
+           
+           
+           POST 
+           PUT
+           DELETE
+           
+           Codigos de respuesta de HTTP:
+           
+           20x -- Si reconozco lo que me pides y te voy a responder de alguna manera.
+           30x -- Se de que hablas, pero no lo tengo yo (Redireccion)
+           40x -- No se de hablas (Fallo del usuario)
+           50x -- Reconozco la peticion pero el programador no se encargo de resolver.
+           
+           FTP (File Transfer Protocol) --No se usa cifrado, entonces qué podría pasar?
+           Protocolo de Transferencia de Archivos
+           
+           TCP y UDP, tenemos tambien una manera de enviar informacion segura a través de estos 
+           protocolos TLS (Transport Layer Security)
+           
+           Filtro para FTP: ftp/ftp-data -> Muestra solo el intercambio de informacion
+           
+           tcp.port == 80
+           tcp.port != 80
+           
+           Se pueden componer filtros con la sintaxis de comparaciones en C, es decir:
+           
+           tcp.port == 80 || http.response.code == 404
+
+* Para pasar info entre virtual y fisica:
+        1. Encontrar IP de ambas maquinas
+        2. ejecutar:    
+                - scp dirP_deDondeSeCopia/ubiDelArc direcciónIPdonde_se_pega:ruta/del/archivo
+                        - 44 uso de wire
+
+# 01-03 lab
+
+* ¿Cómo podríamos identificar que un protocolo esta encriptado?
+
+* Intercambio de llaves: Diffie-Hellman
+        - El algoritmo-protocolo en el cual 2 personas/sist pueden realizar un intercambio de llave publica para realizar una comunicación cifrada/encriptada a traves de un canal inseguro
+        - pkgs.org
+* prac3 
+* cifrados:
+        
+* para pasar archivos: 
+        - ip a
+        - scp otro_archivo_a_subir.js miusuario@112.223.4.215:/otra/carpeta/destino/
+        - scp otro_archivo_a_subir.js ntory@112.223.4.215:/otra/carpeta/destino/
+                - scp /home/ntory/Documents/School/2023-2/Cryptography and Security/lab/CyS/P04/Practica4/files/palabras_9car.txt ntory@ 192.168.57.5:/home/ntory/CyS/p04
+                scp palabras_9car.txt ntory@ 192.168.57.5:/home/ntory/CyS/p04
+                - scp /home/ntory/Documents/School/2023-2/Cryptography and Security/lab/CyS/P04/Practica4/files/mas_palabras.txt ntory@192.168.57.5/home/ntory/CyS/p04
+                /home/ntory/CyS/p04
+                - scp mas_palabras.txt ntory@ 192.168.57.5:/home/ntory/CyS/p04
+                - scp alpha-passwords.txt ntory@ 192.168.57.5:/home/ntory/CyS/p04
+                - scp more-t-passwords.txt ntory@ 192.168.57.5:/home/ntory/CyS/p04
+                192.168.57.5
+* hydra:
+        - O si configuras 44.199.201.139 como attackbox2
+git
+hydra -l usuario -p contraseñaAUsar attackbox2 ssh
+44.199.201.139 
+
+hydra -L archivo_de_usuario -p contraseñaAUsar attackbox2 ssh 
+
+hydra -L 315073120 -P palabras_9car.txt: 44.199.201.139  ssh 
+
+                alpha-passwords
+        - ip a for see ur IP
+* actualizar debian:
+        
+### prac4
+
+- Primero realizaremos un escaneo de puertos para encontrar que puertos están activos escuchando by SSH, apoyandonos de nmap ejecutando este comando:
+        - nmap ip -sV -Pn -sT
+        - nmap 44.199.201.139 -sV -Pn -sT
+        
+- Ataques de diccionario
+
+* puertos usados:
+        - MySQL: 3306
+        - HTTP 8080/80
+        - HTTPS: 443
+        - SSH: 22
+* cada quien tiene su bandera
+
+# Actualizar Debian
+apt-get update && sudo apt-get upgrade
+sudo apt dist-upgrade
+
+# ES IMPOSIBLE TENER TODO BAJO CONTROL, TENEMOS QUE DARNOS CUENTA QUE PENSAR DEMASIADO ENE LE FUTURO PUEDE LLEVAR A IMAGINARNOS SITUACIONES Y PROBLEMAS QUE PUEDEN NO _**EXISTIR**_, TODO ESTO CONDUCE A LA ANSIEDAD - EL QUE SUFRE ANTES DE QUE SEA NECESARIO, FUFRE MÁS DE LO NECESARIO.
