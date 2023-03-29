@@ -798,7 +798,38 @@ Se usa para datos de usuario final, es un prótocolo de apoyo en la suite de la 
             - Ejemplo de vector de distancia: min 27
     - Todo esto se calcula en el *Routing processor*.
 
-####  Protocolo de Estado del enlace
+####  Protocolo de Estado del Enlace
+
+* Tareas del ruteador:
+    - Conocer a sus vecinos(descubrir vecinos).
+        - Identificar los routers vivos, identificadose y pedir que se identifiquen
+            - Cada que llega un nuevo router se inicia el algoritmo de ruteo, e indica a los demás routers que hay un nuevo router.
+            - Hasta la tercera identificación damos por perdidio un enlace, y notificar a los dmeás que este ya no existe.
+    - Establecer los costos a sus vecinos(métrica).
+        - Utilizando una métrica, por ejemplo, el tiempo
+            - con paquetes de tipo ECHO, usando un temporizador
+                - como los tiempos pueden variar entonces tomaremos en cuenta el promedio
+                - En qué momento iniciar el temporizador?  
+                    - Se toma en cuenta la carga?
+            - una vez determinados los tiempos podemos construir los paquetes de estado de enlace usando la métrica establecida.
+                - Estructura: 16:01
+                    - nombre: 
+                    - secuencia: 
+                    - Edad: parámetro que no permite que el paqeute viaje de forma permanente y evitar paquetes que reflejen estados antiguos de los enlaces, más porque buscamos evitar la saturación de la red.
+                    - info:
+                        - vecino_i, costo_i
+                - Este es distribuido a todos los paquetes destinos.
+                    - inundación: se le envia a todos los destinos posibles menos al vecino que le hizo llegar el paquete, restandole un punto a la edad 
+                    - 
+                    25:40 
+
+    - Contruir un paquete con la información obtenida.
+    - Enviar el paquete con la información obtenida.
+    - Enviar el paquete  a todos los ruteadores.
+    - Obtener los paquetes correspondientes de todos los ruteadores.
+    - Calcular la ruta más corta a cada destino usando Dijkstra.
+*
+
 ####
 ####
 ####

@@ -21,7 +21,7 @@
 				- I would like to see her tonight
 				- She's pleased to have a new job. Ella esta contenta de tener un
 		
-		2. After _adjectives_:
+		2. After **adjectives**:
 			+ It'll be _nice_ **to meet** your nephews and nieces(sobrinas).
 			+ It's is _important_ **not to be** late.
 			+ She was right to leave early. - Ella hizo bien en irse pronto
@@ -47,10 +47,10 @@
 
 * Gerunds: The gerund is the base form of the verb + ing. It can be affirmative (e.g. going) or negative (e.g. not going).
 	
-	- A gerund is a noun made from a verb by adding "-ing." The gerund form of the verb "read" is "reading." You can use a gerund as the subject, the complement, or the object of a sentence.
-    	+ Reading helps you learn English. subject of sentence
-    	+ Her favorite hobby is reading. complement of sentence
-    	+ I enjoy reading. object of sentence
+	- A gerund(yerond) is a noun(sustantivo=palabra que se utiliza para nombrar un objeto, sujeto, lugar, concepto.) made from a verb by adding "-ing." The gerund form of the verb "read" is "reading." You can use a gerund as the subject, the complement, or the object of a sentence.
+    	+ _Reading_ helps you learn English. subject of sentence
+    	+ Her favorite(feivrite) hobby is _reading_. complement of sentence
+    	+ I enjoy _reading_. object of sentence
 
 	- Gerunds can be made negative by adding "not."
 		+ He enjoys not working.
@@ -58,10 +58,10 @@
 
 	- Use of gerund:
 		1. As the subject or object of a sentence
-			+ **Eating** outside in the summer makes me feel good. [subject]
+			+ **Eating** outside(autsaid) in the summer makes me feel good. [subject]
 			+ My idea of happines is **getting** up late and **not going** to work. [Objets]
 
-		2. After some verbs: like, love, hate, enjoy, finish, go on(continue), mind(importar?), spend(time), empezar, stop and feel like(tener ganas?). 
+		2. After some verbs: like, love, hate, enjoy, finish, go on(continue), mind-maind(importar?), spend(time), begin(bigin)empezar, stop and feel like(tener ganas?). 
 			+ I love **reading** in bed.
 			+ I hate not **getting** up to the airport early.
 			+ U can use all time verbs
@@ -75,28 +75,31 @@
 			+ We discussed going on holiday together. hablamos de irnos de vacas juntos
 			+ I dislike waiting for buses
 			+ I dont mind coming early - no me importa llegar
-			+ He suggested staying at the GH - sugirio quedarse 
+			+ He suggested(soyested) staying at the GH - sugirio quedarse 
 				- NOT suggested to stay
-			+ He kept working, although he felt ill(sentía mal) - el siguio trabajando
+					- i:ai: te pellizcan
+			+ He kept working, although(oltho) he felt ill(sentía mal) - el siguio trabajando
 
 		3. After prepositions: after
 			+ I’m thinking of **buying** a new car.
 			+ He left without **saying** goodbye.
-			+ I drank a cup of coffee **before** leaving.
+			+ I drank a cup of coffee before **leaving**.
 			+ in doing
-			+ Be used to doing, look forward to doing(tener ganas?), commited to doing(comprometerse)
+			+ Be used to(acostumbrarse) doing, look forward(forword) to doing(tener ganas?), commited to doing(comprometerse)
 
 		4. Instead of a noun(sustantivo=palabra que se utiliza para nombrar un objeto, sujeto, lugar, concepto.)
 			+ Smoking isn't allowed here.
 			+ Swimming is a very good exercise
 
-		5. We also use gerund in phrasal verbs:
+		5. We also use gerund in phrasal verbs(verbos compuestos):
+			+ hang out
+			+ I should not think like that
 			+ I gave up smoking. dejé de fumar
 
 ### Can be used with a gerund or infinitive, e.g., 
 
 - It started raining. (empezó a llover) It started to rain.
-- I continued to work = I continued working
+- I continued(continiud) to work = I continued working
 
 - Because We can use both as the subject or complement of a sentence but gerunds usually sound more like normal, spoken English, whereas infinitives sound more abstract. 
 	- gerunds sound more natural and would be more common in everyday English
@@ -104,13 +107,14 @@
 	- Only remember that 90% of the time, you will use a gerund as the subject or complement of a sentence. 
 	- look: 
 		+ Learning is important. normal subject
+			- I loved her
     	+ To learn is important. abstract subject - less common
     	+ The most important thing is learning. normal complement
     	+ The most important thing is to learn. abstract complement - less common
 
-- As the object of a sentence, it is more difficult to choose between a gerund or an infinitive. In such situations, gerunds and infinitives are not normally interchangeable[/inerchang-able]. Usually, the main verb in the sentence determines whether you use a gerund or an infinitive.
+- As the object of a sentence, it is more difficult to choose(chuss) between a gerund or an infinitive. In such situations, gerunds and infinitives are not normally interchangeable[/interchen-yable]. Usually, the main verb in the sentence determines whether you use a gerund or an infinitive.
 	- look:
-		+ He enjoys swimming. "Enjoy" requires a gerund.
+		+ He enjoys swimming. "Enjoy" requires(ricuaiers) a gerund.
     	+ He wants to swim. "Want" requires an infinitive.
 
 - Some verbs are followed by gerunds as objects. 
@@ -188,7 +192,7 @@
 
 ## Have to, dont have to, must, mustn't, can't
 
-* Must express obligation imposed by the speaker while Have to express external obligations
+* *Must* express obligation imposed by the speaker while *Have* to express external obligations
 	- You must to hurry up
 	- I have to complete homeworks and activities at time always
 	- **We use must when the speaker thinks it is necessary or important to do an action**
@@ -213,11 +217,11 @@
 		- Plants must have light
 	- Strong Recommendation
 
-* Mustn't=Prohibition vs Don't haveto
+* Mustn't=Prohibition vs Don't have to = There is no obligation
 	* mustn't: It's prohibited, It's not allowed, it's important that you dont do somethign. **USED TO SHOW A Neg obligation**
 		- U mustn't smoke in the house
 		- You mustn't tell albert = Do NOT tell albert, Yor r not allowed to tell.
-	* don't have to: There is no obligation: You r not required to do something especially if you dont want to **USED TO show that something is not an obligation**
+	* don't have to: *There is no obligation*: You r not required to do something especially if you dont want to **USED TO show that something is not an obligation**
 		- You dont have to tell Efra = U can tell Efra if you want to but it's not necessary.
 		- Ken and Lis don't have to leard english
 		- Susy doesn't have to clean her desk today
@@ -228,13 +232,13 @@
 	- We must use the base form of the infinitive after should, i.e without TO
 		- Should + Verb(base form of infinitive)
 			- I should visit my girlfriend
-			- You should go now!! NOT You should TO go now!!
+			- You should go now!! *NOT* You should *TO* go now!!
 	- Uses:
 		0. Opinion:
 			- I don't think u should do that. 
 			- I think he should come over. 
 			- I dont think he should stay home.
-		1. To give a recommendations, a suggestion or an advice[WEAK OBLIGATION]
+		1. To give a recommendations, a suggestion(SUYEStION) or an advice[WEAK OBLIGATION]
 			- 
 			- Does your tooth still hurt? Te sigue doliendo el diente? You shoud make an appointment with the dentist. suggestion
 			- You should get a haircut (Recommendation)
@@ -256,52 +260,51 @@
 
 		- All of the above example sentences can have must instead of should making the obligation stronger and less polite.
 
-		5. Was expected in the past but didn't happen (should + have + past participle). This expresses the idea that the subject did not fulfill their obligation in the past or did not act responsibly.
+		5. **Was expected in the past but didn't happen** (should + have + past participle). This expresses the idea that the subject did not fulfill(folfillcumplir) their obligation in the past or did not act responsibly.
 		 	- You should have given your boss the report yesterday when he asked for it.
 		    - I should have studied more but I was too tired.
-		6. Not fulfilling[CUMPLIR] an obligation (should + be + verb-ing): This expresses the idea that the subject is not fulfilling their obligation or is not acting sensibly.
+		6. **Not fulfilling[CUMPLIR] an obligation** (should + be + verb-ing): This expresses the idea that the subject is not fulfilling their obligation or is not acting sensibly.
 		    - You should be wearing your seatbelt. (The person isn't wearing one right now)
 		    - We should be studying for the test. (We are not studying right now and we should)
-		7. Sometimes should is replaced by **ought** to without a change in meaning. Note that ought to sounds more formal and is used less frequently.
+		7. Sometimes should is replaced by **ought(deberia)** to without a change in meaning. Note that ought to sounds more formal and is used less frequently.
 		    - You ought to study more. (= you should study more)
-		    He ought to go home. (= He should go home)
+		    - He ought to go home. (= He should go home)
 		    - They ought to stop doing that. (= They should stop doing that)
 		8. She should arrive early
 			- NOT she shoulds arrive early
 				- Should doesnt change for the 3rd person. 
 			- NOT she should arrives early
 
-	- Shouldn't: We use shouldn't to advise not to do something, usually because it is bad or wrong to do. for xpress something that represent a BAD IDEA.
-	    * You shouldn't throw your litter onto the street.
+	- Shouldn't: **We use shouldn't to advise not to do something, usually because it is bad or wrong to do.** for xpress something that represent a BAD IDEA.
+	    * You shouldn't throw your litter(basura) onto(ontu-en) the street.
 	    * We shouldn't leave without saying goodbye.
-	    * He shouldn't play with those wires if he doesn't know what he is doing.
+	    * He shouldn't play with those(dous) wires(cables) if he doesn't know what he is doing.
 	    * Are you tired? You shouldn't work so much.
     	* You shouldn't talk like that to your grandmother.
     - Questions: At the begin we put Should:
     	- Should I go to school early today?
     	- Do u think I should try that?
-    	- 
----
-* Get: The verb GET is one of the most common verbs in English. I t has several different meanings, e.g. arrive, become, and can also be used with many prepositions or adverbs with different menings, e.g. get up, get on with, etc.
+
+* Get: The verb GET is one of the most common verbs in English. It has several different meanings, e.g. arrive, become, and can also be used with many prepositions or adverbs with different menings, e.g. get up, get on with, etc.
 	- get= become (+adjective /past participle)
 		* get divorced
 		* get in shape
 		* get lost
 		* get angry
 		* get married
-		* get nervous
+		* get nervous(nervous)
 	- get = become (+comparative)
 		* get worse-empeorar
 		* get better-mejorar
 		* get colder-enfriarse
 	- get + preposition (phrasal verb)
-		* get along (well) with
+		* get along with-llevase bien
 		* get off a bus
 		* get up
 	- get = receive
 		* get an email
 		* get a present
----
+
 * Pronouns
 	- Possesive adjectives:
 		* I - my
@@ -310,7 +313,7 @@
 		* She-Her
 		* It-Its
 		* You-yours
-		* We-our
+		* We-our(auer)
 		* They-their
 	- POSSESSIVE PRONOUNS: Possessive pronouns are used in English to avoid repeating information that is already clear.
 		* I-mine
@@ -318,7 +321,7 @@
 		* He-His
 		* She-Hers
 		* You-yours
-		* We-ours
+		* We-ours(auers)
 		* They-theirs
 * L not sound: L COMPLETLY SILENT
 	- alk-ok
@@ -326,15 +329,15 @@
 		- walk
 		- chalk-chok-tiza
 	- OULD-oUD
-		- could-coud
-		- would-woud
-		- should-shoud
+		- could-coUd
+		- would-woUd
+		- should-shOO_ud
 	- 
 		- half-haf
 		- salmon-samoon
 	- olk-OUK
-		- folk-fok
-		- yolk-youk
+		- folk-fouk
+		- yolk-y-jOuk
 
 ## FIRST CONDITIONAL
 
@@ -346,34 +349,34 @@
 		- If I go to Paris next month for work, I'll visit the Eiffel Tower (Plans)
 		- If I have time, I will help you. (Promise)
 		- If you touch that wire, you will get an electric shock. (Warning)
-		- If you eat my chocolate that is in the fridge, you'll sleep outside with the  dog.  (Threat)
+		- If you eat my chocolate that is in the fridge, you'll sleep outside with the  dog. (Threat-thret-amenaza)
 		- If you take me to the mall, I'll buy you an ice cream. (Persuasion)
 
 * FIRST CONDITIONAL STRUCTURE
 	- **If  +  Subject  +  Simple Present  +  Subject  +  Simple Future**.
-		+ Notice how we use a **comma after** the present tense clause.
+		+ Notice(noutis) how we use a **comma after** the present tense clause.
 		+ Examples
 			- If it rains, I will wear a jacket.
 			- If he goes to the game, he will buy a ticket at the stadium.
 			- If she doesn't go to university, her parents won't be happy.
-			- If it rains, we will cancel the trip.
+			- If it rains(reins), we will cancel the trip.
 			- If that candidate becomes President, the country will be in trouble.
 			- If I win the competition, I will donate half of the prize money to charity.
 
 	- We can also reverse the order and use:
 		- Future Verb + If + Present Simple
-			* Notice how the comma is not necessary with this word order.
+			* Notice(noutis) how the comma is not necessary with this word order.
 			* Examples
 				- I will very bussy if my teacher english let homework
 				- U will not get a better job if u dont learn english
 				- U will miss the bus if u dont hurry
-				- the dog will bite u if u pull its tail
+				- the dog will bite u if u pull its tail-teil
 				- My mother will be angry if i dont finish the job.
-				- What will u do if they fire u?
+				- What will u do if they fire u?(despiden)
 
 * Normally WILL is used in the main clause of first conditional sentences. However you can also use the modal verbs MAY, MIGHT and COULD when something is a possible consequence (and not a certain one) in the future.
-	- If you are nice to me, I may buy you a gift when I'm in Peru.
-	- If they train a little harder, they might win the match.
+	- If you are nice to me, I may(meI) buy(baI) you a gift when I'm in Peru.
+	- If they train a little harder, they might(mait) win the match.
 	- If he doesn't do his work, he could get fired.
 
 * USES: 
@@ -383,7 +386,8 @@
  			- Shopping is dependent on working.
  	- Often "when" is used to show future plans. 
 		- When he arrives, we will eat dinner.
-		- I will buy a car when I find a job.
+		- I will buy a car when I find(faind) a job.
+
 * More examples:
 	- If - present simple - Subject - will do
 		- If u fall in love with me I will not talk to you.
@@ -437,7 +441,7 @@
 ### Second conditional
 
 * Use of 2nd conditional: When we are talking about a situation in the present or future that is hypothetical, unlikely or impossible. we use:
-	- If + past simple, ...Would+verb
+	- If + past simple, ...**Would(wOud)**+verb
 
 The second conditional is called **the present unreal conditional**. It's for hypothetical activities.
 * If i had money, I would buy a car.
@@ -449,32 +453,32 @@ The second conditional is called **the present unreal conditional**. It's for hy
 		- If i WERE an animlathe teacher. 
 	- Imaginare events
 		- If I were rich, I would buy a private jey
-		- I would sleep more if i had time.
+		- I would(RIA) sleep more if i had time.
 	- impossible present situations
 		- I would go to the party, if I didn't have to work.
 		- If I could play piano, I would play for you.
-	- If I were: Note that with the verb To Be we use IF + I / HE / SHE / IT + WERE. The reason we use WERE instead of WAS is because the sentence is in the Subjunctive mood.
+	- If I were: Note that with the verb To Be we use IF + I / HE / SHE / IT + WERE. **The reason we use WERE instead of WAS is because the sentence is in the Subjunctive mood.**
 		- If I were not in debt, I would quit my job.
 		- If he were taller, he'd be accepted into the team.
-		- She would be still be correcting my grammar if she were still alive.
-	- COULD can be used instead of WOULD to make the hypothetical present or future more likely.
+		- She would be *still be(seguiria)* correcting my grammar if she were still alive(a'laiv).
+	- COULD can be used instead of WOULD*wuOud* to make the hypothetical present or future more likely.
 		- •      If he trained every day, he could represent his country
 		- •      If I had a little more money, I could buy a caR
 			- Si tuviera un poco
 		- •      If I were rich, I would not work.
 		- •      If he were older, he would understand.
 			- SI el fuera mayor
-	- Second Conditional Questions
+	- **Second Conditional Questions**
 		-      What would you do if you were me?
 		-      If you had $1,000, what would you buy?
-		-      If you could live anywhere in the world, where would you want to live?
+		-      If you could(CUUD) live anywhere in the world, where would you want to live?
 		-      Who would you like to meet, if you could meet anyone?
 		-      Would she come if I paid for her flight?
 		-      Would you accept the job if they offered it to you?
 		- What would you do if you won the lottery?
 		-      What would you do if you saw a U.F.O?
-		- Notice that the questions are unreal situations. In the examples, it is clear that it is impossible to live anywhere in the world or meet anyone in the world.
-	- Examples:	
+		- Notice(noutis) that the questions are unreal situations. In the examples, it is clear that it is impossible to live anywhere in the world or meet anyone in the world/wɝːld-wueld.
+	- Examples:	I'd aid
 		- They'd stick up for me-Ellos sacarían la cabeza por mí.
 		- I'd kick it with who i wanted-Me divertiría con quien yo quiera 
 		- throw on-ponerse cualquier coas
@@ -499,13 +503,13 @@ The second conditional is called **the present unreal conditional**. It's for hy
 				- subtle- sotle-sutir
 				- debt-det
 				- doubt-dout
-			- c in sc
+			- c in sc(esci)
 				- muscle-musle
 				- scissors-sissors
 				- fascinate-fa-sinate
 				- scene-sin
 				- scenario-sin+ario
-			- d
+			- d is silent in dn
 				- Wednesday-wens+day
 				- handsome-han+some
 				- sandwich-sanwich
@@ -523,7 +527,7 @@ The second conditional is called **the present unreal conditional**. It's for hy
 				- sit-site[saite]
 				- hid-hide
 				- slid-slide
-			- g
+			- g  in gn
 				- sign-sain
 				- champagne-champein
 				- design-disain
@@ -532,9 +536,9 @@ The second conditional is called **the present unreal conditional**. It's for hy
 				- though-thou
 				- high- hai
 				- light-lait
-				- daughter-dau-taer
+				- daughter-dau-ter
 				- bright-brait
-			- h follow by w: wh
+			- h after w: wh
 				- what-wat
 				- when- wen
 				- why
@@ -542,13 +546,13 @@ The second conditional is called **the present unreal conditional**. It's for hy
 			- h in start
 				- honest-onest
 				- hour-our
-			- ch-gh-rh[ar]
-				- choir-coaiar
+			-  h in ch-gh-rh[ar]
+				- choir-kuaier
 				- echo-eco
 				- ghost-gost
 				- rhythm-rithem
-				- rhyme-raime
-			- i only in business-bisness
+				- rhyme-raim
+			- us only in business-bisness
 			- kn-k no pronouns if we have k follow by n
 				- knife-nafe
 				- know-now
@@ -558,7 +562,7 @@ The second conditional is called **the present unreal conditional**. It's for hy
 				- knowledge-now-lech
 			- l:
 				- could-cuud
-				- should-shud
+				- should-shoud
 				- talk-tok
 				- walk-wok
 				- yolk-yok
@@ -622,12 +626,12 @@ The second conditional is called **the present unreal conditional**. It's for hy
 				- Have she been in London? 
 					- Yes, she has been in London
 					- No, she hasn't been in London
-	### for or since: Use the pp + for or sice to talk about actions and states that started in the past and are true still now.
+	### for or since: Use the pp + for or since(sins) to talk about actions and states that started in the past and are true still now.
 	- Use **for** + a period of time, e.g. for two weeks, for ten years, for a long time, etc
 		- I have been a student in the Faculty of Cience for 4 years.
 		- I've lived in Tokyo for 20 yeasr = I came\[vine\] to live in Tokyo 20 years ago and I live in Tokyo now.
 	- Use **since** with the beginnnig of a period of time, e.g. since 1999, since last June.
-		- I've live in this house since I was a child.
+		- I've live in this house since I was a child(chaild).
 	- Examples
 		- Where do u live now? In Tokyo
 			- How long have you lived there? I have lived there for 12 years.
@@ -649,7 +653,7 @@ The second conditional is called **the present unreal conditional**. It's for hy
 		- He drove 500 km yesterday!
 4. Common Mistakes:
 	- Past simple:
-		- **SI**: We bought this car **3 month ago**.
+		- **SI**: We bought(bo:t) this car **3 month ago**.
 			- **NO**: We have bought this car **3 month ago**.
 		- **SI**:  I slept well **last night**.
 			- **NO**:  I have slept well **last night**.
@@ -660,7 +664,7 @@ The second conditional is called **the present unreal conditional**. It's for hy
 			- **NO**: I **already** called him.
 		- **SI**:  She has **just** come back. [Ella a   caba de volver]
 			- **NO**:  She **just** come back. JUST REFER TO SPECIFIC TIME IN THE PAST 
-		- **SI**:  Prices have gone up this month.
+		- **SI**:  Prices have gone up **this month**.
 			- **NO**:  Prices went up this month.
 5. Writting:
 	- I have been studying English since I entered university, my English teacher of this semester is Emma Alejandra Razo Arroyo, I have known her since last semester, I took the course with her last semester. I have been studying and learning abour science computer for 4 years, my favorite skill is speaking because I want to speak in english very well so my purporse for now will be to expand my vocabulary. I have been in English 6 for 5 weeks and I have been afraid of the exams since I did the U3 M2 activities because those quizzes were very long and I´m very slow.
@@ -708,10 +712,10 @@ The Passive Voice is used in English when **the person or thing that is receivin
 		- Samantha broke your iPad
 		- The wildfire burned down 20 houses
 		- They hold the festival on July 1st
-		- Reggie drank all the coffe
+		- Reggie drank(draenk) all the coffe
 		- The president promised a tax break.
 	- PASIVE:
-		- **Be** before **main verb=apst participle**.
+		- **Be** before **main verb=past participle**.
 			- The dishwashers was invented by Josephine Cochrane 
 			- Christmas cards were sent to all my friends.
 			- The town was destroyed last night by an earthquake.
@@ -739,16 +743,33 @@ The Passive Voice is used in English when **the person or thing that is receivin
 		- La voz es la forma del verbo que muestra si lo que denota el sujeto hace algo o se hace algo en él.
 	- When a verb is changed from active voice to passive voice, the object of the transitive verb in the active voice becomes the subject of the transitive verb in the passive voice.
 
+##### Base - Past Simple - PAST Participle
+- raise-raised-raised
+- hold-held-
+- eat-ate-eaten
+- drink-drank-drunk
+- sing(sin_g) - sang - sung
+- speak-spoke-spoken
+- repair-ed
+- clean-ed
+make-made
+feed-fed-alimentar
+- shown
+- written-wrote
+- make-made-made
+- break-broke-broken
+- stole - - stolen
+- sack(saek)- - sacked
 * Uses:
-	1. It is used when the person/thi ng performing the action is unimportant or unknown.
-		- Our car was stolen(robado) last night.
+	1. It is used when the person/thing performing the action is unimportant or unknown.
+		- Our car was stolen(stoulen-robado) last night.
 			- criminal
-		- The window was smashed(Se rompió) 
+		- The window was smashed(smaeshed-Se rompió) 
 		- A house was broken into.
 			- UNa casa fue asaltada
 		- Some valuables were stolen.
 			- Se robaron algunos objetos de valor
-		- A lot of jewelry was taken. 
+		- A lot of jewelry(yuelri) was taken. 
 			- Fueron tomadas muchas joyas
 	2. It is used when it is obvious who/what is performing the action.
 		- Cameron was sacked(despedido) last week.
@@ -769,7 +790,7 @@ The Passive Voice is used in English when **the person or thing that is receivin
 				- A plate was broken. No big deal
 
 * Only transitive verbs have a passive voice  because they have object
-	- IN intransitive verbs we dont have passive voice because we dont hace object 
+	- IN intransitive verbs we dont have passive voice because we dont have object 
 			
 * Pronouns: subject to object
 	- I -> Me
@@ -781,6 +802,9 @@ The Passive Voice is used in English when **the person or thing that is receivin
 	- We -> Us
 	- u -> u
 
+- done-do
+- steal-stolen
+- learn-learnt
 * Tense of the auxiliary "be".
 	- Take the tense of the Main Verb in the active sentence
 		- Active Voice = Someone **ate** the cookies.
@@ -791,6 +815,7 @@ The Passive Voice is used in English when **the person or thing that is receivin
 		- I was eaten
 		- You,we,they were eaten
 		- She, he, it was eaten
+
 
 * Agent vs Patient
 	- active
@@ -911,19 +936,6 @@ The Passive Voice is used in English when **the person or thing that is receivin
 
 * WORD FORMATION
 
-# Past Participle
-- sung-sing
-- speak-spoken
-- repair-ed
-- clean-ed
-make-made
-feed-fed-alimentar
-- shown
-- written-wrote
-- made-make
-- done-do
-- steal-stolen
-- learn-learnt
 # NEW WORDS:
 * seeing-ver
 	- sight
