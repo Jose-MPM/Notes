@@ -744,6 +744,11 @@ The Passive Voice is used in English when **the person or thing that is receivin
 	- When a verb is changed from active voice to passive voice, the object of the transitive verb in the active voice becomes the subject of the transitive verb in the passive voice.
 
 ## PAST HABITS
+* Video USED TO 
+	- When I was 15 years old
+		- I used to eat a lot of junk food and carbs, and I didn't use to eat a lot of vegetables and fruits and I didn't use to do exercice, and for that I used to be fat
+		
+		- I used to help my dad in his work but I dind't use to do my housework, I only used to do homework... I didnt use to go out with my friends, I used to have few friends, I had good grates but I didnt use to be+ very confident, I didnt use to go on vacation, My family didn't have money for that, I had one dog, it was Coquer, I didn't use to walk with him on the street but I used to play with him.
 
 * USED TO *(SOLÍA)*:used to talk about past habits or actions that are not longer happening in the present: And to describe a habit or regular action from the past and actually we dont have the habit or do the action in the present. Used to + verb
 	- Uses:
@@ -775,12 +780,117 @@ The Passive Voice is used in English when **the person or thing that is receivin
 			- Why did you use to walk to work?
 			- Did they use to work  together at Microsoft?
 			- Did richar use to play football when he was a student
-			- Did u use to go to london every summer?
+			- Did u ,use to go to london every summer?
+
 * MIGHT: the modal verb might is used to express possibility
 	- **might+base form of the verb**
-	- Uses:
-		- 
+	- **May or might?**
+		- May and Might can normally be interchanged without a significant difference in meaning. However. Might often implies a smaller chance of something happening (when expressing possibility)
+			- It may rain (70)
+			- It may rain (70)
+		- When expressing wishes or giving  permission, only May is used
+	- Uses of MAY(MEI)-MIGHT(maiT):
+		- Possibility 
+			- It might(podría) rain later so take an umbrella
+		- Give permission
+			- You may(puedes) have another cookie if u like
+			- 
+		- ask for permission
+			- May I borrow your pen please? 
+		- Express wishes
+			- May the New Year bring u happiness. (que el año nuevo)
+		- Speculate about past actions
+			- She late, She may have missed her plane
+
 	- Structure:
+		- (+) Subject +  might + verb + complement
+			- 
+		- (-) Subject +  might not + verb + complement
+
+- Vocabulary:
+	- Mathematics: math-
+		- division
+		- addition
+		- subtrac(shion)tion-sub
+		- frac(shion)tions
+		- percentage(persentage)
+		- algebra
+	- Geography: Is the study of the physical features of the earth and its atmosphere, and of human activity  as it effects and is affected by these.
+		- volcanoes-volkeinous
+	- History
+		- 
+# Preposicitions of Movements
+- examples
+	* The man went up the stairs
+	* He drove out of the garage and along the street
+	* I ran over the bridge and across the park.
+
+To express movement , use a verb of movement . e.g. go, come, run, walk, etc. and a preposition (or adverb) of movement, e.g. up, down, away, etc.
+
+athrough - a traves
+through- por el
+under-ander
+tork the box
+away from-the ball rolled away from the box-lejos de  
+onto the box-hacia
+towards(tows)-hacia-cerca
+* past-the ball rolled past the box. rodó más alla de la
+	- he is walking past the shop-por delante
+
+off-the ball fell off the box-cayo fuera
+into(intu)- esta entrando-hacia-dentro
+aroudn-alrededor
+along-sobre
+across-cruzar-a traves
+
+## PHRASAL VERB
+
+* A phrasal verb is a verb that with an adverb or a preposition modify or give new meaning to the verb.
+	* verb + adverb or preposition
+- This type of phrasal verb does not have an object
+	- Subject + phrasal verb + complement
+		- Today I wake up at 7:00 am
+	- Always together
+		- get up
+		- wake up
+		- come on
+		- go away
+		- go out
+		- stand up
+		- sit down
+- It can be separated and those phrasal verb has an object
+	- Subject + verb + OBJECT(pronoun,noun) + preposition adverb + complement
+		- I turn my lap off before I went
+		- I wil pick you up at 9 pm
+		- I wil pick up you at 9 pm
+		- I picked up mark at 9 pm yesterday
+		- pick - u, me, him, her , it, ur, them: noun - up
+		- pick up- u, me, him, her , it, ur, them: noun 
+	- 
+		- turn off
+		- furn on
+		- turn up
+		- turn down
+		- pick up-recoger
+		- put away- guardar	
+		- try on
+		- write down- anotar
+		- take back-recuperar
+		- give up- dejar
+		- put away - tirar
+		- throw away- tirar
+		- put on
+- has an object. It cannot be separated
+	- Subject- phrasal verb + object + complement
+		- I looked for my glasses all morning
+		- I looked for them  all morning
+	- examples
+		- look after
+		- looking forward to
+		- look for
+		- get on/off
+		- get along with
+		- look for
 
 ##### Base - Past Simple - PAST Participle
 - raise-raised-raised
@@ -1070,3 +1180,8 @@ to albert cr7 https://www.youtube.com/watch?v=QvbpeETBoGg
 
 
 https://us02web.zoom.us/j/83404924779?pwd=NnMyMGtnWGhDVFRWdFN2dWx5RGQ4Zz09
+
+
+* Video USED TO 
+	- When I was 15 years old
+		- I 
