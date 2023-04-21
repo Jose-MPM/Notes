@@ -828,7 +828,10 @@ Se usa para datos de usuario final, es un prótocolo de apoyo en la suite de la 
     - Enviar el paquete  a todos los ruteadores.
     - Obtener los paquetes correspondientes de todos los ruteadores.
     - Calcular la ruta más corta a cada destino usando Dijkstra.
-*
+
+* Indica de qué forma se maneja la dirección MAC de origen de una trama, cuando se lleva a cabo la conexión con un equipo remoto de una red distinta a la del origen. Como ejemplo puedes considerar la imagen: 
+
+La respuesta correcta es: La dirección MAC de origen se actualiza cada vez que la trama es recibida por un equipo de red y se debe enviar al siguiente enlace o al destino (en los ruteadores)
 
 ####
 ####
@@ -937,3 +940,32 @@ PLANTILLA
  sudo apt-get purge gnome-boxes
  sudo apt-get autoremove
 
+
+# Practica 6
+WAN-vboxnet0
+
+em0 - Red WAN   NAT-Network ¹   NatNetwork  DHCP    10.0.2.Y    Habilitado
+em1 - Red LAN   Host-Only ²     vboxnet0    Estática    192.168.42.254  Deshabilitado
+em2 - Red DMZ   Internal Network ³  intnet  Estática    172.16.1.254    Deshabilitado
+
+
+
+@1muerte1@
+
+https://192.168.42.254:443/
+admin
+Redes-2023-2
+# AZURE
+ejemplar_zoe@comunidad.unam.mx
+Uc2o#Fk7
+
+- -> 
+
+
+
+## SI SABES QUE LLEGARAS A LA CIMA, CADA PASO VOLTEA. porque cuando llegues el ego te dira, que sigue?
+
+La prisa y hambre nacen de la duda de hacer las cosas.
+
+
+mewntalidHumuilde que tropieza- se deja asesorar, pide ayuda no dejes que la soberbia te segue o te mate. NO BUSCA CULPABLES, NI EN EL.

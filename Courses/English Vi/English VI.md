@@ -743,6 +743,45 @@ The Passive Voice is used in English when **the person or thing that is receivin
 		- La voz es la forma del verbo que muestra si lo que denota el sujeto hace algo o se hace algo en él.
 	- When a verb is changed from active voice to passive voice, the object of the transitive verb in the active voice becomes the subject of the transitive verb in the passive voice.
 
+## PAST HABITS
+
+* USED TO *(SOLÍA)*:used to talk about past habits or actions that are not longer happening in the present: And to describe a habit or regular action from the past and actually we dont have the habit or do the action in the present. Used to + verb
+	- Uses:
+		- To describe a state that we had in the past
+			- Mark used to be a chef
+			- Itzi used to like rock music
+			- Marco used to like hamburgers
+	- Structure:
+		- (+) Subject + used to + verb + complement:
+			- I used to eat a lot
+			- When I was a child I used to jump the rode
+			- I used to be rude with others
+			- I never used to behave well when I was child
+			- I used to have long hair. Now I have short hair.
+			- Mark used to work  in an office
+			- Luis suarez used to play in liverpool, now he plays for Barcelona
+			- Sarah used to jog every evening
+		
+		- (-) Subject + didn't use to + verb + complement: **WITHOUT 'd in USED->Use**
+			- I didn't use to eat clean
+			- When I was a child didn't use to clean my teeth after breakfast
+			- I didn't use to swim when I was a child
+			- In the nineteenth century, people didn't use to wear jeans.
+		
+		- (?) Did + Subject + use to + verb + complement?:
+			- Did you use to rida a bike when you were a child?
+			- Did he use to play?
+			- Where did she use to go at the weeekend?
+			- Why did you use to walk to work?
+			- Did they use to work  together at Microsoft?
+			- Did richar use to play football when he was a student
+			- Did u use to go to london every summer?
+* MIGHT: the modal verb might is used to express possibility
+	- **might+base form of the verb**
+	- Uses:
+		- 
+	- Structure:
+
 ##### Base - Past Simple - PAST Participle
 - raise-raised-raised
 - hold-held-
@@ -1028,3 +1067,6 @@ frightened/fraingtd
 
 
 to albert cr7 https://www.youtube.com/watch?v=QvbpeETBoGg
+
+
+https://us02web.zoom.us/j/83404924779?pwd=NnMyMGtnWGhDVFRWdFN2dWx5RGQ4Zz09

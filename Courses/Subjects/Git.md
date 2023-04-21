@@ -1,4 +1,4 @@
-### Git
+	### Git
 
 - [https://es.stackoverflow.com/questions/392420/c%C3%B3mo-puedo-cambiar-de-ramas-en-git] move between branchs
 * instalen zsh y un plugin para que su terminal les diga en todo momento en que rama estan parados.
@@ -58,3 +58,17 @@ $ git config --global alias.br branch
 $ git config --global alias.co commit
 $ git config --global alias.st status
 ```
+
+# Para firmar los commits como distintos usuarios
+
+Cuando uno empieza a trabajar con git, en algún momento fija su configuración global de nombre y correo
+
+git config --global user.name "Pedro Mendez"
+git config --global user.email ola@email.com
+
+La implicancia que tiene esto es que todos los commits que hagas en el equipo quedarán asociados a ese email, a quien se atribuye la autoría del commit.
+
+Es posible configurar un email y nombre distinto para cada repositorio. Si tú te paras en la raíz de tu copia local y pones
+
+git config user.name "Pedro Mendez."
+git config user.email olas@email.com

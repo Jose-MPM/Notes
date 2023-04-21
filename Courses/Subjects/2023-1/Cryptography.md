@@ -1,4 +1,4 @@
-## Cryptography and Security - Anayanzi Delia Martínez Hernández  
+        ## Cryptography and Security - Anayanzi Delia Martínez Hernández  
 Cuidado con la prac de **Explotación de vulnerabilidades**
 Maquina virtual con debian 11
 ssh
@@ -204,4 +204,24 @@ hydra -L 315073120 -P palabras_9car.txt: 44.199.201.139  ssh
 apt-get update && sudo apt-get upgrade
 sudo apt dist-upgrade
 
-# ES IMPOSIBLE TENER TODO BAJO CONTROL, TENEMOS QUE DARNOS CUENTA QUE PENSAR DEMASIADO ENE LE FUTURO PUEDE LLEVAR A IMAGINARNOS SITUACIONES Y PROBLEMAS QUE PUEDEN NO _**EXISTIR**_, TODO ESTO CONDUCE A LA ANSIEDAD - EL QUE SUFRE ANTES DE QUE SEA NECESARIO, FUFRE MÁS DE LO NECESARIO.
+### prac5
+
+* SQLi: Ataque en donde dado un input, se logra manipular el mismo para obtener información de la DT.
+
+        - Podemos interceptar/interferir/modificar la input en sql para que otorgue otro tipo de información, digamos que una query normal se veria:
+        - user: jose-user
+        - password: mypass
+                - select 1 from users where username = 'jose-user' and password ='mypass';
+        - En lugar de dar un usuario normal utilizamos ' OR 1=1;-- o admin'
+                - select 1 from users where username = '' OR 1=1; -- and password ="";
+                        - Esto siempore se evalua a T y ent nos va a conceder un login sin un usuario o contraseña validos
+        - PreparedStatements
+
+* Para mitigar estos ataques podemos utilizar bibliotecas 
+        - sanitizar las entradas: verificar que no nos están metiendo sintaxis del lenguaje en la input.
+
+# ES IMPOSIBLE TENER TODO BAJO CONTROL, TENEMOS QUE DARNOS CUENTA QUE PENSAR DEMASIADO EN EL FUTURO PUEDE LLEVAR A IMAGINARNOS SITUACIONES Y PROBLEMAS QUE PUEDEN NO _**EXISTIR**_, TODO ESTO CONDUCE A LA ANSIEDAD - EL QUE SUFRE ANTES DE QUE SEA NECESARIO, SUFRE MÁS DE LO NECESARIO.
+
+ES IMPOSIBLE TENER TODO BAJO CONTROL, TENEMOS QUE DARNOS CUENTA QUE PENSAR DEMASIADO EN EL FUTURO PUEDE LLEVAR A IMAGINARNOS SITUACIONES Y PROBLEMAS QUE PUEDEN NO EXISTIR, TODO ESTO CONDUCE A LA ANSIEDAD, EL QUE SUFRE ANTES DE QUE SEA NECESARIO, SUFRE MÁS DE LO NECESARIO. PERO SI QUIERES REALIZAR ALGO NO HAY MÁS QUE CONFÍAR EN TU VERSIÓN DE TI QUE DA LO MEJOR DE SÍ PARA OBTENER ESO QUE QUIRES, TUS METAS Y TUS SUEÑOS.
+
+#
