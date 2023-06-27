@@ -173,68 +173,76 @@ disparando la acción
 
 ## Mar15
 
-Lo que niegas te somete. Lo que aceptes te transforma, aquello a lo que te resistes persiste
-
-Las mentiras más común es aquella con la que las personas se engañan a si mismas.
-
-Cultiva tu disciplina aplazando tu insatisfacción instantanea
-Enriquese un mindseft, en cualquier detalle se bueno
-sal constantemente de la zona de confort para progresar a nivel actual
-
-El sabio no busca vivir la vida más prolongada, sino la más intensa
-
-Muerte,  Dejaré de pensar en tí., pero no dejes de pasar a saludar de vez en cuando, me gusta sentirte cerca para recordar que aún quiero vivir un poco más. 
-
-# More Ideas
-
-Es normal caer en los excesos sin apreciar la virtud de la moderación. Los vicios son una falta de respeto a la prudencia. La carencia es una falta de respeto a las necesidades. NO IGNORES LAS MODERACIONES.
-
-El vulgo se deja seducir siempre por la apariencia y el éxito
-
-Diogenes: En un banquete, Si llega a ti algo que va pasado, extiende la mano y sirvete moderamente, si pasa de largo, no lo retengas. Si aún no viene no exhibas tu deseo y espera hasta que llegue a ti. Así con tus hijos, con tu mujer, con los cargos, con la riqueza y algún día serás digno de participar en el banquete digno de los dioses. Pero si no te sirves de lo que te ofrecen, sino que lo desprecias ent no solo participaras del banquete de los dioses sino también de su poder. **Manual de vida.**
-
-**Somos lo que consumimos.**
-
-* Acepta tu vulnerabilidad, se autentico
-* Aplica la inteligencia emocional, empatiza con las demas, domina tus sentimientos
-* No sigas esterotipos
-* busca relaciones profundas.
-* acepta el cambio y aprende del fracaso
-* sientete tu libre, de verdad, se tu mismo.
-    - el mejor guerrero es el educado.
-
-## NO HAY NINGÚN VIENTO FAVORABLE PARA EL QUE NO SABE A QUÉ PUERTO SE DIRIGE.
-
-Parate a pensar realmente a donde quieres ir y que quieres ser, donde quieres estar. Y no únicamente ver lo que estás haciendo en el presente
-
-VOLUMEN CLEAN
-
-NADA ES IMPOSIBLE PARA EL QUE LUCHA, si ENTRENAS TODOS LOD DÍAS!!! si das lo mejor de ti
-
-###  NO te olvides de donde vengas. Ve con la abundancia pero no huyas de la escases
-    
-    - ve al momento,lugar que crees que te llenara, pero no.
-        - presencia total, disfrutar todo, hasta el final. 
-        - usar el corazón, dejar de uír, como eres. 
-        - sentarse con el vacio, el fondo del vacio es el amor propio.
-        - observar y vivir al maximo
-    - to do:
-        - ESTAR AQUÍ, TODO EL DÍA. 
+EXE3: del libro del dragón, depende de la edición puede cambiar la página. Está en el capítulo 6, sección 4.
 
 
-El punto de partida de todo logro es el deseo. Mantén esto constantemente en tu mente. El deseo débil trae resultados débiles, al igual que un pequeño fuego hace una pequeña cantidad de calor. NAPOLEÓN HILL
+* Análisis Léxico: 
+* Análisis semántico: donde checamos el contexto y determinamos los tipos y la correctud de un programa.
+    - Se incluye información significativa en el árbol obtenida de la fase anterior
+        - atributos de los tokens
+        - valores que no son libres de contexto
+* Front-End: ultima fase del compilador que verificará la correción del programa más alla de la forma, a nivel semántico
+
+* Un lenguaje de programación se define mediante:
+    - Reglas sintácticas, mediante gramáticas libres de contexto
+        - simbolos y reglas de estos
+    - Reglas semánticas:
+        - estaticas: propiedades de los programas que serán verificadas en tiempo de compilación.
+        - dinámicas: describen como se ejecutará el programa
+    - El “significado real” de un programa se estudia a través la semántica denotacional que permite asociar un objeto matemático a cada construcción sintáctica del lenguaje a través de funciones semánticas que describen el efecto de ejecutar dicha construcción.
+- Los resultados de la fase del análisis dependiente del contexto constan de
+    1. anotar el árbol sintáctico con atributos, por ejemplo al usar apuntadores a identificadores en la tabla de símbolos;
+    2. recorrer el árbol para generar una representación intermedia alternativa que describa el control de flujo del programa.
+
+- Una gramática con atributos es un complemento a una gramática
+libre de contexto al anotar las producciones con atributos.
+    - Estas gramáticas no especifican el significado del programa sólo ayudan a asociarlo con valores que explican su significado o asociar valores que serán útiles en las siguientes fases de compilación.
+
+# código de 3 direcciónes 
+
+# los diagramas de flujo
+
+lexer y parser agregar lo del for
+despues traducir los fors a whiles
+2. antes de realizar la verificación de tipos debes de agregar los primeros
+
+3 y 4
+
+7- 5:00
 
 
 
-* APRENDER RAPIDO
-        - Define que quieres y necesitas aprender para mejorar y ser eficaz
-        - Deseo intenso x aprender
-        - Siempre estudie cuando pueda con musica clasica suave sin palabras
-        - repetición del espacio, esporadica
-        - toma tiempo-practica como aprender
-        - variedad de estimulos que desafien(desarrolen) tu mente,
-        - lapso de atención, cuando aprendes más es al inicio y al final del periodo de estudio, reposos para tener más periodos, con ello, más inicios y finales
+Este código es una implementación de un traductor o compilador que transforma código en un lenguaje personalizado (denotado como "jelly" en este script) a un lenguaje intermedio utilizando el marco de trabajo nanopass, en el cual cada paso de la transformación es pequeño y fácil de entender y razonar sobre él.
 
-* CyS
-    - Quiero aprender a hacer un ataque x diccionario, ya encontre los puertos
-    - 
+El código está escrito en Racket, un dialecto de Lisp, y utiliza la extensión Nanopass para definir cada paso en la transformación de código fuente a un árbol de sintaxis abstracta (ASA o AST en inglés).
+
+El script está compuesto de varias partes:
+
+Definición de la gramática del lenguaje origen en términos de nanopass. Esto está representado por la declaración define-language.
+Definición de la función que transforma la estructura del lenguaje origen a una estructura intermedia. Esto está representado por la función (->nanopass e).
+Funciones de ayuda para verificar el tipo de ciertos elementos de la gramática (constante? c), (id? i), (tipo? t), (operador? op), (my-boolean? c).
+Parseo y transformación del código fuente utilizando la gramática definida y la función de transformación, y la representación de estos datos en la forma deseada.
+El script podría llamarse "compilador_nanopass_jelly" para describir de manera efectiva su propósito y funcionalidad. Esto destaca el uso del marco de trabajo nanopass para la compilación y el lenguaje origen "jelly" que se está traduciendo.
+
+
+
+
+
+
+El código presentado está en Racket, un lenguaje de programación funcional de la familia Lisp. Aquí se usa la biblioteca nanopass para implementar un compilador de pases múltiples que realiza análisis y transformaciones en el lenguaje intermedio Jelly.
+
+El archivo renombrado.rkt es el que realiza el renombramiento de las variables en un programa. Para ello:
+
+Define una función nueva-variable que crea una nueva variable con un nombre único cada vez que se llama.
+Define una función asignar-variables que crea un mapeo de un conjunto de variables a un conjunto de nuevas variables.
+Define un conjunto de pases de compilación para renombrar las variables en un programa.
+La parte principal de este archivo es el pase de compilación rename-var, que renombra las variables en cada parte de un programa Jelly. Para ello, utiliza funciones definidas en el archivo variables.rkt para recoger todas las variables en cada parte del programa.
+
+El archivo variables.rkt es responsable de recoger todas las variables en un programa Jelly. Para cada parte del programa, define una función (como vars-programa, vars-main, vars-cuerpo, vars-func, vars-met, vars-sent, vars-decla, y vars-expr) que recoge todas las variables en esa parte del programa.
+
+En resumen, el código presentado realiza un análisis y transformación del lenguaje intermedio Jelly, renombrando todas las variables en un programa a variables únicas. Esto puede ser útil en un compilador para facilitar la optimización y el análisis de alias, entre otras cosas.
+
+
+
+
+

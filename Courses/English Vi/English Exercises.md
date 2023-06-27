@@ -116,7 +116,8 @@ turn up- subir
 looking forward-esperando ansioso; I was looking forward ti having a vacation, but unfortunately my father got very sick
 looked up
 goes off- suena la alarma
-take off-quitate
+- take off-quitate
+	- took off
 
 
 * always together, cant be separated: =  no object
@@ -134,28 +135,18 @@ take off-quitate
 	- wake up: when u are sleeping and oper your eyes for the first time.
 * can be separated: + object
 	- call back: return a phone call later
-drop of: leaving someone or something at a particular location.
-*****
-give back:  return something that belongs to someone else as a book
-*****
-pay back : return money that was borrowed
-*****
-pick up:  take something from a particular location
-*****
-put away: Store something or  suppress a feeling.
-*****
-send back:  return something to its sender or origin
-*****
-Take back: Take something given or withdraw a statement
-*****
-Take out: Remove something from a location or get food from a restaurant.
-*****
-Try on: Test the fit or look of clothe
-*****
-Turn off: Stop the function of a device
-*****
-Turn on: Start the function of a device
-*****
+	- drop of: leaving someone or something at a particular location.
+	- give back:  return something that belongs to someone else as a book
+	- pay back : return money that was borrowed
+	- pick up:  take something from a particular location
+	- put away: Store something or  suppress a feeling.
+	- send back:  return something to its sender or origin
+	- Take back: Take something given or withdraw a statement
+	- Take out: Remove something from a location or get food from a restaurant.
+	- Try on: Test the fit or look of clothe
+	- Turn off: Stop the function of a device
+	- Turn on: Start the function of a device
+
 Write down: Record information or ideas by putting them in writing
 
 - NEVER SEPARATED += OBJECT
@@ -172,3 +163,8 @@ set off- partir al aeropuerto
 - turn off the alarm clock = turn the alarm clock off
 	- turn it off
 - VE LAS ULTIMAS IMAGENES!
+
+# exam
+I'm going to talk about one book I have read one month ago, it's call 1984, it was written by George Orwell and published on 8 jule 1949 by Secker & Warburg in UK. It's about a man that live in a period of the world where the government have strict politcs and laws for example the people always had to be watched by your TV and devices that existed in those time and they always have to do the same.
+
+I have read it one time, I liked it a lot because its made me think in how the world could be due to advances in technology or information can be modificated and hide new information

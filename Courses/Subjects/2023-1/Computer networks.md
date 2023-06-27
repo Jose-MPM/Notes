@@ -833,7 +833,13 @@ Se usa para datos de usuario final, es un prótocolo de apoyo en la suite de la 
 
 La respuesta correcta es: La dirección MAC de origen se actualiza cada vez que la trama es recibida por un equipo de red y se debe enviar al siguiente enlace o al destino (en los ruteadores)
 
-####
+#### Protocolo RIP
+
+ssh redes@20.213.161.121
+#We0Gon1Make0It1Thru#   
+
+
+
 ####
 ####
 ####
@@ -957,15 +963,120 @@ admin
 Redes-2023-2
 # AZURE
 ejemplar_zoe@comunidad.unam.mx
-Uc2o#Fk7
+Uc2o#Fk7we
+aCdC1928
 
 - -> 
+Sw8g%Eh3
+
+
+u01n29.a
+
+#We0Gon1Make0It1Thru#
+PAGER=cat systemctl status --full k3s
+0
+#We0Gon1Make0It1Thru#
+#We0Gon1Make0It1Thru#
+#We0Gon1Make0It1Thru#
+ssh redes@20.213.161.121
+ME SIENTO MUY AMADO MI AMOR
+    
+
+21 dias de actitud pura positiva
+actividad puramente positiva
+
+* realidad:
+    - no quiere sentirse entascada e intenta arreglarlo
+        - si tu mujer tienes que decirte no pierdas el tiempo y ponte a trabajar
+            - necesitas conectar con tu lado productivo
+        - que necesites una mujer para subsistir no eres de alto valor
+        - necesitas una mujer para obtener un sentido o enfoque
+            - que te de estabilidad,razón y proposito
+        - controla tus vicios y excesos porque no tienes autocontrol
+        - corrige tus prioridades porque no sabes para donde vas
+
+    - 
+
+
+- Qué es dns y cómo funciona
+- Cómo comprar y configurar un dominio 
+- Las configuraciones básicas para iniciar una máquina virtual en algun web host
+
+FOR REDES: 
+
+eSTADO
+https://www.youtube.com/watch?v=nY-iXXv6RO8&list=PLN1TFzSBXi3TYgnUzlVsjdWYLBAaNdq0v&index=46
+
+DNS
+https://www.youtube.com/watch?v=r4PntflJs9E
 
 
 
-## SI SABES QUE LLEGARAS A LA CIMA, CADA PASO VOLTEA. porque cuando llegues el ego te dira, que sigue?
+AMAZON 
+https://account.amazon.jobs/en-US/jobs/2337339/apply
 
-La prisa y hambre nacen de la duda de hacer las cosas.
+AZUR
+https://www.youtube.com/watch?v=KXkBZCe699A
+
+PRAC8
+https://redes-ciencias-unam.gitlab.io/laboratorio/practica-8/#entregables
+
+https://redes-ciencias-unam.gitlab.io/laboratorio/practica-9/
+LIST
+https://www.youtube.com/playlist?list=PLN1TFzSBXi3QGCMqARFoO1ePBX1P38erB
 
 
-mewntalidHumuilde que tropieza- se deja asesorar, pide ayuda no dejes que la soberbia te segue o te mate. NO BUSCA CULPABLES, NI EN EL.
+DNS
+https://www.youtube.com/watch?v=r4PntflJs9E
+https://www.cloudflare.com/learning/dns/what-is-dns/
+
+Certi SSL X5
+https://www.youtube.com/watch?v=rXqkJi_FTuQ
+
+CONFIG DEB APACHE HTT
+https://www.youtube.com/watch?v=XbQ_dBuERdM
+
+EX
+https://redes-ciencias-unam.gitlab.io/examenes/examen-web/#tabla-de-asignacion-de-equipos
+
+
+cloud fare:
+firewall de capa 7
+darle el control del dns y decirle el registro bueno
+
+modulo de captcha-2fa:
+a lo mejor no nos funciona por el cloud fare
+2fa module autentication es el bueno
+
+en cosas no comunes poner las instrucciones de que fue lo que ocupamos, de tal modo que si otro equipo quiere agregar alguna de nuestras caracteristicas ellos puedan hacerlo, de lo de wordpress y d
+
+
+LA DE AMAZON 
+
+redes@20.213.161.12
+
+
+docs de kernel y lo de la tarea, mover esos a kubernates
+https://www.youtube.com/watch?v=LsrXUsYILII
+
+
+
+12silis21
+
+elike bien lo que quieres, para ser feliz
+
+
+SOLO SE VIVE UNA PUTA VEZ Y TE LA ESTAS PERDIENDO?
+
+NO PUYEDE SER
+
+DUALIDAD, DOLOR Y TRISTEZA
+
+LAS BESTIAS DE LA SELVA NO TIENEN OTRA
+
+LA VOZ SIN ACCION NO TIENE PODER
+
+VENIMOS A SER 
+
+
+TE CREO! SERE REAL HASTA LA MUERTE Y JURO NUNCA ROMPER MI PROMESA

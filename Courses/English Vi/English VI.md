@@ -681,6 +681,16 @@ OBJECT + BE + PAST PARTICIPLE + BY + SUBJECT
 
 The Passive Voice is used in English when **the person or thing that is receiving(que recibe) the action is more important** than the person or thing that is performing the action.
 
+* uses: 
+	1. It is used when the person/thing performing the action is unimportant or unknown.
+		- e.g. Our car was stolen last night.
+	2. It is used when it is obvious who/what is performing the action.
+ 		- Cameron was sacked last week.
+	3. It is used to describe factual information, especially when describing a process.
+		- The lasagna is baked in an oven for 35 minutes at 250 degrees Celsius.
+	4. It is used in news reports and to give instructions.
+		- Five people were arrested at a nightclub last night.
+
 * Present
 	- am.is.are + past participle
 		- (+) Police Officer are protected by bullet-proof vest
@@ -738,10 +748,10 @@ The Passive Voice is used in English when **the person or thing that is receivin
 			- All the coffe was drunk **by Reggie: WITHOUT BY AD WHO**
 			- A tax break was promised by the president
 
-	-  you can see it is the action or the  result that is the most important factor in the passive sentences.
-	- Voice is a form of a verb that s hows wheter what is denoted by the subject does something or has something done on it.
+	- We can see that the action or theresult is the most important factor in the passive sentences.
+	- Voice is a(la forma) form of a verb that shows wheter what is denoted by the subject does something or has something done on it. que indica si lo que indica por el sujeto hace algo o hace algo con el
 		- La voz es la forma del verbo que muestra si lo que denota el sujeto hace algo o se hace algo en él.
-	- When a verb is changed from active voice to passive voice, the object of the transitive verb in the active voice becomes the subject of the transitive verb in the passive voice.
+	- When a verb is changed from active voice to passive voice, the object of the transitive verb in the active voice becomes in the subject of the transitive verb in the passive voice.
 
 ## PAST HABITS
 * Video USED TO 
@@ -750,7 +760,7 @@ The Passive Voice is used in English when **the person or thing that is receivin
 		
 		- I used to help my dad in his work but I dind't use to do my housework, I only used to do homework... I didnt use to go out with my friends, I used to have few friends, I had good grates but I didnt use to be+ very confident, I didnt use to go on vacation, My family didn't have money for that, I had one dog, it was Coquer, I didn't use to walk with him on the street but I used to play with him.
 
-* USED TO *(SOLÍA)*:used to talk about past habits or actions that are not longer happening in the present: And to describe a habit or regular action from the past and actually we dont have the habit or do the action in the present. Used to + verb
+* USED TO *(SOLÍA)*: 	used to talk about past habits or actions that are not longer happening in the present: And to describe a habit or regular action from the past and actually we dont have the habit or do the action in the present. Used to + verb
 	- Uses:
 		- To describe a state that we had in the past
 			- Mark used to be a chef
@@ -786,8 +796,8 @@ The Passive Voice is used in English when **the person or thing that is receivin
 	- **might+base form of the verb**
 	- **May or might?**
 		- May and Might can normally be interchanged without a significant difference in meaning. However. Might often implies a smaller chance of something happening (when expressing possibility)
-			- It may rain (70)
-			- It may rain (70)
+			- It may rain (+70)
+			- It might rain (-70)
 		- When expressing wishes or giving  permission, only May is used
 	- Uses of MAY(MEI)-MIGHT(maiT):
 		- Possibility 
@@ -819,6 +829,7 @@ The Passive Voice is used in English when **the person or thing that is receivin
 		- volcanoes-volkeinous
 	- History
 		- 
+	- imagine-imaegin and imagination:
 # Preposicitions of Movements
 - examples
 	* The man went up the stairs
@@ -832,16 +843,28 @@ through- por el
 under-ander
 tork the box
 away from-the ball rolled away from the box-lejos de  
-onto the box-hacia
+onto(ontu) the box-hacia
 towards(tows)-hacia-cerca
 * past-the ball rolled past the box. rodó más alla de la
 	- he is walking past the shop-por delante
 
 off-the ball fell off the box-cayo fuera
 into(intu)- esta entrando-hacia-dentro
-aroudn-alrededor
+aroudn(eraund)-alrededor
 along-sobre
 across-cruzar-a traves
+
+- we use 
+	- away: to express movement to another place.
+		- go away: 
+		- ran away: The man ran away when he saw the police offer.
+	- back: to express movement to the place where something or somebody was before.
+		- After dinner we went back to our hotel.
+	- Off: to express movement down or away-alejarse
+		- Get off the bus at the train station. 
+		- The man ran off-salio when he saw the police officer.
+
+		https://es.wikihow.com/secar-girasoles
 
 ## PHRASAL VERB
 
@@ -865,8 +888,6 @@ across-cruzar-a traves
 		- I wil pick up you at 9 pm
 		- I picked up mark at 9 pm yesterday
 		- pick - u, me, him, her , it, ur, them: noun - up
-		- pick up- u, me, him, her , it, ur, them: noun 
-	- 
 		- turn off
 		- furn on
 		- turn up
@@ -891,24 +912,57 @@ across-cruzar-a traves
 		- get on/off
 		- get along with
 		- look for
+- breakdown
 
-##### Base - Past Simple - PAST Participle
-- raise-raised-raised
-- hold-held-
-- eat-ate-eaten
-- drink-drank-drunk
-- sing(sin_g) - sang - sung
-- speak-spoke-spoken
-- repair-ed
-- clean-ed
-make-made
-feed-fed-alimentar
-- shown
-- written-wrote
-- make-made-made
-- break-broke-broken
-- stole - - stolen
-- sack(saek)- - sacked
+* **How to pronounce I and i: IPA Internacional**
+	- /i:/ i
+		- sheep:shi:p
+		-  seat:sit
+		- team: /ti:m
+		- key
+			- ki:
+		- meet: mi:t
+		- Examples:
+			- I will leave/li:v here
+			- bean-bi:n
+			- cheap-chi:p
+			- eat-i:T
+			- feel-fi:l
+			- least-li:st
+			- peak-pi:k
+			- sleep-slip
+		- /i/
+			- \-y
+				- only-oun.li
+				- family-faemel.i
+				- happy- haep.i
+			- nouns \_e
+				- me,he-h1,she-sfhi
+
+	- /I/- he
+		- Examples:
+			- I will live/liv here
+			- bean-bi:n
+			- chip-chep
+			- it-et
+			- fill-fell
+			- list-lest-lIst
+			- pick-peck
+			- slip-slIp to slep
+		- sit
+		- miss/mess
+		- ship- chep
+		- give-gev
+		- siks-seks
+
+### Pronunciation. Assimilation.  /t/ followed by  /j/.
+
+* In fluent speech, when one word ends in /t/ and the next begins with a /j/ sound, like 'you' or 'yours', then the two sounds come together and change to /ʧ/. So 'meet you' becomes /miːʧuː/.
+
+
+Read the sentences below and write down the two words where you find this kind of assimilation.
+
+##### Base - Past Simple 
 * Uses:
 	1. It is used when the person/thing performing the action is unimportant or unknown.
 		- Our car was stolen(stoulen-robado) last night.
@@ -1085,6 +1139,445 @@ feed-fed-alimentar
 
 * WORD FORMATION
 
+# The past of the past
+
+* So, neither + auxiliares
+	- exam
+		- 1
+			- A: I love classical music
+			- B: So do i
+			- A: I went to a classical concert last night
+			- B: So did i
+		- 2
+			- A: Im not married
+			- B: Neither am I
+			- A: I dont want to get married
+			- B: Neither do I 
+	- use SO DO I, NEITHER DO I to say that u have something in common with somebody
+		1. Use so + auxiliary + I to respond to affirmative sentences
+			- 1. Use so + auxiliary + subject 
+		2. Use Neither + auxiliary + I to respond to negative sentences
+			- Neither  + verb to do + subject
+- the auxiliary you use depends	on the tense
+	- SImple Present
+		- I dont like classical music
+			- Neither do I
+		- I dont like tennnis
+			- Neither do I
+			- Neither does Mark
+		- I dont want to go home
+			- Neither do I
+			- Neither does Mariana
+	- Present continuous
+		- Im having a good time
+			- So am I
+		- I never drink alcohol
+			- Neither do I
+			- Neither do my parents
+	- can-cant
+		- I can swim
+			- So can I
+	- SImple Past
+		- I didnt like the movi
+			- Neither did I
+		- I was very tired
+			- So was I
+		- I didnt walk to work today
+			- Neither did I
+			- Neither did Mark
+	- would-wouldn't
+		- I wouldn't like to go there
+			- Neither would I
+	- present perfect
+		- I have been to london 3 times
+			- (my parents)
+			- So have my parents
+		- I've been to Brazil
+			- So have I
+		- I have never been to London
+			- Neither have my parents
+- sentences
+	- David scored many goals and so did Alan
+	- David no longer plays football and neither does alan
+		- - David ya no juega al fútbol y tampoco lo hace Alan.
+	- you know how it is with break ups!
+		- NO i dont nad neither do you
+	- When  my father finds out-se entere, he wont be happy-no estara
+		- neither will mine - ni tampoco el mio 
+
+* how to say that something is the same for you or somebody else? 
+
+## past perfect
+hadnt = no había empezado
+had-había
+- time: to for the past perfect, use this grammar structure:	
+	- Subject + had + Past Participle
+		- The past perfect always use "had", for all subjects, which is the verb "have" in the past
+	- (+)
+		- examples:
+			- I had tried sushi before I went to japan
+			- 
+			- When I woke up the yard was all white. It **had snowed** during the night.
+         	- I suddenly realized that **I’d left** my cell phone in the taxi.
+	- (-)
+		- exam:
+			- I hadnt done my homework already. No había hecho ya los deberes
+			- We got home just in time, the game **hadn’t started**.
+			- When she got to class, she realized that she **hadn’t brought** her book.
+	- (?)
+		- exam:
+			- A) I went  to New York City last weekend. I really loved it.
+			- B) Had you been there before ?
+			- A) No, I hadn’t.
+- uses:
+	- Actions in the past that happen before another action
+	- When u have two actions in the past, u need to show which happened first. Use the past perfect for the first action
+	- Use the simple past for the 2nd action.
+		- context
+			- 7:00 I ate dinner. 9:00 She invited me to a restaurant.
+				- She invited me to a restaurant but I had eaten dinner.
+
+	- Theere are some more examples of the past pe
+		- I had never been (past perfect) to his house before I went (simple past) to his party.
+		- I arrived (simple past) at the station at 9:00 am, but the train had left (past perfect).
+        - He hadn’t studied (past perfect) English before he came (simple past) to  Canada.
+
+* PAST PERFECT KEY WORDS.
+	- Words that are common with present perfect can also be used in the past. These include ALREADY, YET, STILL, SINCE, and FOR.
+
+	- He introduced me to his father, and I realized had already met him.
+    - My teacher asked me for my project, but I had not finished it yet.
+    - I ate a lot of food last night for dinner, because I hadn't eaten anything - since breakfast.
+    - I had not seen my sister for 3 months.
+
+- PAST PARTICIPLE
+    - see-seen
+    - FORGET- forgotten
+    - make-made
+    - broke-broken
+
+* FOR SIMILARITIES
+	- Similar: 2 people or things are not exactly the same but are almost the same
+	- Same as: 2 people or things are exactly like each another
+	- Identical : used when looking and twin brothers or sisters where they lookexactly the same.
+	- Look ALike- Looks like: people or things are not identical but have some similarities
+	- Interchangeable: (about things) u can use one instead of the other and the effect will be the same
+	- Copycat: similar or something else and considered to be a copy of it
+
+# HE TOLD ME THAT
+
+* Reported(or indirect) speech
+	- Direct speech
+		- I love u.
+		- I've just arrived
+		- We'll come at eight-vendremos a las 
+		- I dont want to go to the party
+	- Reported speech
+		- He said(that)he loved me.
+		- She said that she had just arrived
+		- He told me that They would come at 8 
+		- Jack told Anna that he didnt want go to the party
+
+* How to use reported speech(relatado, divulgado, declarado)
+	
+	- If you have a sentence in Direct Speech, try to follow our 5 steps to put the sentence into Reported Speech:
+		- Define the type of the sentence (statement, questions, command)
+		- What tense is used in the introductory sentence?
+		- Do you have to change the person (pronoun)?
+		- Do you have to change the tenses?
+		- Do you have to change expressions of time and place?
+
+1. The introductory sentence
+	- If you use Reported Speech there are mostly two main differences.
+		- The introductory sentence in Reported Speech can be in the Present or in the Past.
+			- If the introductory sentence is in the Simple Present, there is no change of tenses.
+				- Direct Speech:Susan: “Mary works in an office.”
+				- Reported Speech: 
+					- Introductory sentence in the Simple Present → Susan says (that) Mary works in an office.
+					- Introductory sentence in the Simple Past → Susan said (that) Mary worked in an office.
+2. Change of persons/pronouns
+	- If there is a pronoun in Direct Speech, it has possibly to be changed in Reported Speech, depending on the situation.
+		- Direct Speech → Susan: “I work in an office.”
+		- Reported Speech → Susan said she worked in an office.
+			- Here I is changed to she.
+3. Change of tenses	
+	- If there is change of tenses in Reported Speech, the tenses are shifted the following way.
+		- Past Simple:
+			- Direct Speech → Peter: “I work in the garden.”
+			- Reported Speech → Peter said (that) he worked in the garden.
+		- Past Simple:
+			- Direct Speech → Peter: “I work in the garden.”
+			- Reported Speech → Peter said (that) he worked in the garden.
+		- simple present:
+			- ¨I can help you¨
+			- He said that he could hep me (Simple past)
+		- (present continuous) to (past continuous)
+			- ¨I’m watching TV¨
+			- She said that she was watching TV
+		- will
+			- ¨I’ll call you¨
+			- He told me he would call me.
+		- simple past to (past perfect)
+			- ¨I met a girl¨
+			- She told me that she had met a girl
+		- (present perfect) to (past perfect)
+			- ¨I’ve broken my leg¨
+			- She said that she had broken her leg,
+
+
+* Direct Speech Reported Speech
+	- this evening       that evening
+	- today/this day    that day
+	- these days         those days
+	- now                 then
+	- a week ago        a week before
+	- last weekend      the weekend before / the previous weekend
+	- next week         the following week
+	- tomorrow           the next/following day
+	- here                  there
+
+* In some cases change of tenses is not necessary, e.g. when statements are still true. Change of tenses is never wrong.
+	- John: “My brother is at Leipzig university.”
+		- John said (that) his brother was at Leipzig university. Or
+		- John said (that) his brother is at Leipzig university.
+* when you use general statements.
+    - Mandy: “The sun rises in the east.”
+    - Mandy said (that) the sun rose in the east. Or
+    - Mandy said (that) the sun rises in the east.
+
+* Summarizing.
+	- Use reported speech to report (to tell somebody) what another person said
+	- We often introduce reported speech with said or told (+ a person).
+	- After said or told that is optional, e.g.  He said (that) he loved me.
+	- Pronouns often change in reported speech, e.g.  I changes to he or she.
+		- ¨I’m tired¨.    She told me (that ) she was tired.
+
+* Say or Tell
+	- You can use said or told in reported speech, but they are used differently. 
+		- You can’t use said with an object or pronoun.
+			- He said (that) he loved me. NOT he said me (that) he loved me.
+		- You must use told with an object or pronoun, you must have a PERSON
+			- He **told me** (that) he loved me. NOT he told  (that) he loved me.
+			- She told us
+	- we use the verb tell to report what someone told us we normally use a pronoun after it
+	- when we use said to say what someone said, we dont normally use a pronoun after it
+		- he said that
+		- she said there were
+		- we said that earlier
+		He said he looked forward to not having to ask his parents to give him rides everywere
+	- say: U say something (to someone)
+		- Helen said "I love u" to her parent
+		- Raj says He has a new job
+		- I said that I was sorry.
+	- tell:	
+		- U tell someone something
+			- Helen told her parent that she loved him
+			- Raj tell me that He has a new job
+			- I told u that I was sorry.
+		- Exception: tell + (joke, story, lie, truth)
+			- He told a joke
+			- Itzel tells good stories
+			- They told a lie
+			- I always tell the thuth
+	- say and tell -> said(seid) and told
+		- Say: to express something  using words
+			- what did he say?
+			- did he say how it happened?
+		- Tell: to give information **to a person!**(name or pronoun)
+			- he told me to do it
+			- what did he tell you
+			- Did he tell you how it happened?
+	- speak and talk -> spoke and talked (tolkt)
+		- spoke is a little more formal
+		- can we talk about your brother?
+		- talk:
+			- to someone
+			- with someone
+			- about (something or someone)
+		- speak:
+			- to someone
+			- with someone
+			- about (something or someone)
+		- we use speak when we are talking about languages
+			- they speak  French
+				- HOW many languages do u speak?
+			- NO they talk French
+		- 
+- -ed in regular verbs
+	- RULES: 
+		1. verbs ends with d or t sound or we use /id/
+			- want>wanted
+		2. verbs ends with a voiceless sounds as : k, p, f, s, sh, ch or th
+			- s sound:
+				- missed
+				- fixed
+				- sliced
+				- promised-t
+		3. verbs ends with a voiced sounds as: sounds d
+			- Any verb that end with a VOWEL sound or the sounds: 
+				- i, m, n, j, r, g, b, v, w,z 
+					- closed-z-
+					- used -> use/d
+					- studied-studi/d
+					- said-sed
+		3.
+	- t
+		- glanced-glanc+t
+	- d
+		- ordered
+		- cried-k	raid
+	- id 
+		- tasted->tasteid
+
+* video
+	- HI Jenny! im so sorry, there is a problem in the underground
+	- we called subway here
+	- right
+	- I tried to call but there is not signal
+	- I been here since 7:45
+	
+	- I knowk, I ran to from the subway station Im so sorry
+	- u r always late, it funny, isn't it?
+	- I said Im sorry, look, why we go back inside the restaurant
+	- Im waiting for a hour for u, I dont want stay anymore
+	- maybe we could go for a walk, we can find another restaurant
+	- i dont feel like a walk, its been a long day
+	- ok
+	- But the night is still young, maybe at time meet holly again
+	- holly?
+	- sorry I dont means said that 
+	- i dont care about holly
+	- forget it Rob, if you dont mind I would like to go home  
+	- listening jenny, holly is just colleague
+	- I said forget it, its ok
+	- no is not okay, look, I know Im always late, I know the underground is the subway, but that's not the point. I'm not interested in Holly, I came to NY for you, the only person I'm interested in is you
+
+# ESTOY EN MODO AVIÓN, PERO DE GUERRA.
+
+# WHO WANTS TO BE A MILLONAIRE?
+
+## Questions(kwes.tyen) without auxiliaries
+
+1. subject question
+	- Sometimes we want to ask about the subject.
+		- We dont know the person or thing who performed the action, and we want to find out.
+		- Who **writes** their songs?
+		- What happened yesterday? A tragedy happened yesterday
+		- Who runs to the shop? Peter runs to the shop
+	- structure:
+		- Q.word + verb in simple present or simple past + object
+			- who want some fruit juice?
+				- we want some fruit juice
+			- What causes cancer? Smoking causes cancer
+			- Who made a sandwich? Dani made a sandwich.
+
+	- When the wh-question word is the subject of the questions:
+		- we dont use an auxiliary verb
+		- We use the same word order as an affirmative sentence
+		- When the **question word** (Who ? What ? Which ? How many ? ) is the **subject** of the verb in the question , we do not use an auxiliary (do , does, did) . The verb is in the third person .
+
+2. Subject question: Only use 3 Qword: Who, What and Which
+	- The asnwer for the question is not the object, but the subject
+	- Who wrote Hamlet? Shakespeare  wrote Hamlet
+		- NO WHO DID WRITE HAMLET?
+	- Who phoned John? 	
+		- Without Auxiliary
+		- The time of the verb changed
+
+	- examples: 
+		- Question word-verb-object
+		- Who wants Ice cream?
+		- What happened?
+		- Who ate the cheese?
+
+	* Question with an auxiliary
+		
+		- To make questions with in simple past and simple present, we normally use the auxiliary verbs: DO / DOES / DID + base form
+			- What music do **you** like ?
+		- In this questions the subject goes after the auxiliary verb.
+			- QUESTION + AUXILIARY + SUBJECT +  BASE FORM
+			- WHat music do **u** like?
+			- Which CD did **he** buy?
+			- WHo did you **go** with 
+		- Object Questions: To know information about the object
+			- in simple present we use: do,does instead in the past simple we use did.
+				- Who **did** jennifer lie to? Jenni lied to **Sam**
+			- QUASM
+				- **QU**ESTION + **A**UXILIARY(Aux-liari) + **S**UBJECT +  **M**AIN BASE FORM VERB + REST + ANSWER
+				- Who do u like? I like my mum
+				- Who did Mary phone last Monday? Mary phoned her uncle
+				- What does he read? He read detective stories.
+				- _What_ **does** smoking cause? Smoking causes **cancer**
+
+	* Object question: we want to know about the receiver of the action.
+		- Who did John phone?
+			- base for of the verb
+			- Use of the auxiliary
+
+- pronunciation:
+	- write-rait
+	- tragedy- traed ye di
+	- their-deer
+
+- video:
+	- The subject is the person or thing that performs the action.
+		- **Smoking** causes cancer
+		- **Karen** likes Fred.
+		- **We** want some fruit juice
+	- The object is the person or thing that is acted upon(sobre la que se actúa), or receives the action.
+		- Smoking causes **cancer**
+		- Karen likes **Fred**.
+		- We want **some fruit juice**.
+		- Juan lied to **Shakira**.
+		- The earthquake damaged my **house**.
+3. In the other verb tenses - present continuos, present perfect, etc. the auxliary verbs are forms of the verb be and have, we still use the verb BE and HAVE in both subject and object question.
+	- Present continuous	
+		- subject Q: who is whashing the car?
+		- object Q: What is Raul whasing?
+			- Paul is whashing the car.
+	- Past continuous	
+		- subject Q: *who* was talking about the problem?
+		- object Q: **What** was the manager talking about?
+			- The *manager* was talking about the **problem**.
+	- Present perfect:
+		- Who has spent $1000 on a computer? My parents has spent ...
+		- How much have your parents spent on a computer? 
+			- My parents have spent 1000 on a computer
+	- Present Continues
+		- _Who_ has been working on this project?
+		- **What** have you been working on?
+			- _I_ have been working on this **project**
+	- Future:
+		- What will help the students?
+		- Who will this book help?
+			- This textbook will help the students
+	- Future with GOING TO:
+		- Who IS GOING to order dessert?
+		- What r u going to order?
+			- Im going to order dessert
+- summary:
+	- When u r going to ask a question in the simple present or simple past using who or what, ask YOURSELF
+		- "Am I asking about the doer of the action or the receiver of the action"
+		- If u asking about the doer/subject, then DONT use do-did-does
+			- NO: who does want fruit juice¡?
+			- YES: Who wants fruit juice?
+			- NO: What did damage your house?
+			- YES: What damaged your house?
+			
+- video:
+	- to stack up:
+	- to thrive:
+	- outcome:
+	- harsh:
+	- to tip:
+	- to shift:
+	- leverage:
+	- fulcrum:
+	- beam:
+
+# Y Llegaste tu, ITZEL Y me DISTE tu fuerza!
+https://www.youtube.com/watch?v=HJvDrT6N-mw
+
 # NEW WORDS:
 * seeing-ver
 	- sight
@@ -1123,7 +1616,24 @@ coarser-más gruesa
 - tidy-ordenado[taidi]
 - yell-gritar 
 - put on - ponerse
-
+ 
+#### PAST Participle
+- raise-raised-raised
+- hold-held-
+- eat-ate-eaten
+- drink-drank-drunk
+- sing(sin_g) - sang - sung
+- speak-spoke-spoken
+- repair-ed
+- clean-ed
+make-made
+feed-fed-alimentar
+- shown
+- written-wrote
+- make-made-made
+- break-broke-broken
+- stole - - stolen
+- sack(saek)- - sacked
 ### present simple-
 die-die
 jump-jumps
@@ -1140,6 +1650,27 @@ Take es como si al salir tu mama te lo dijera
 https://goo.gl/maps/Do3qZCrJ5Ydx9Uqd6
 rico: https://www.google.com.mx/maps/place/Rico+Club/@19.4264507,-99.1649122,17z/data=!4m12!1m6!3m5!1s0x85d1ff2c0d71e521:0x4ad137af0f3bbadc!2sRico+Club!8m2!3d19.4264457!4d-99.1627235!3m4!1s0x85d1ff2c0d71e521:0x4ad137af0f3bbadc!8m2!3d19.4264457!4d-99.1627235
 
+manten tu mente donde quieras
+se concentra en un desempeño excelente
+
+como?
+imagina que esto lo has hecho antes
+que has tenido éxito antes
+como actuarias como si ya hubieras tenido exito en esto
+camina como si fueras un  éxito
+
+
+cada pensamiento tuyo solo es una posibilidad, no un hecho
+si quieres eliminarlos, no les des tu atención, está hace que tu cerebro piense que este es un pensamiento util.
+
+la mayoria tiende a pensar en lo peor que puede pasar, se deslizan a los pensamientos negativos
+
+la duda es natural cuanod no sabes como vendra ese algo nuevo
+
+persona esperanzada
+animada
+con animo, ilución, ganas
+tiene un mejor riego cerebral
 
 soberbia:https://goo.gl/maps/bgmV7uFT4uG9668X6
 
@@ -1170,7 +1701,8 @@ win-won-won
 write-wrote-written
 take-took
 dance-danced
-
+broke- - broken
+go- 	-gone
 
 ## HOW PRONOUNCE?
 frightened/fraingtd
@@ -1185,3 +1717,11 @@ https://us02web.zoom.us/j/83404924779?pwd=NnMyMGtnWGhDVFRWdFN2dWx5RGQ4Zz09
 * Video USED TO 
 	- When I was 15 years old
 		- I 
+* 'spes.efai
+
+
+
+
+* more words
+	- unlike-a diferencia
+	- reverses-invierte
