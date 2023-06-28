@@ -1,4 +1,4 @@
-Estamos en guerra! Porque literal, cuando usamos el télefono estamos luchando vs las más grandes empresas.
+# Estamos en guerra! Porque literal, cuando usamos el télefono estamos luchando vs las más grandes empresas.
 
 ¿Cómo erradicar la adicción al télefono?
 
