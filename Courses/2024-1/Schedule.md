@@ -1,7 +1,51 @@
 # Eight Semester
 
-entro a las 7
-* deobo salir a las 5
+* **si crees que no tienes tiempo para dejar de trabajar tendrás aún menos tiempo para atender una enfermedad.**
+
+* What can I do while I am on the transport?
+    - PUT YOUR MIND ON AIRPLANE MODE
+    - MEET A NEW PERSON AND LEARN SOMETHING NEW!
+        - talking and gossiping with the people  u havent talked to, cause you havent had thetime
+            - no has tenido tiempo
+    - On the way back, read and REVIEW  my class notes to see if they make sense.
+    - If the transport is very full I can listen a audio book. 
+    - Make small accordions before to study them afterwards
+    - Have several activities outside of the carrer
+        - Do flashcards
+        - Listen a new FULL-LENGHT disc of a band at least once per week
+        532889
+    - REVIEW NOTE'S PHOTOS 
+    - Read 
+        - a book 
+            - Phylosophy
+            - new topics
+            - notes
+            - about carrer
+            - guides for the exam
+            - 
+        - magazines
+    - Play:
+        - Chess
+        - sudoku
+        - some phone games
+    - take breakfast
+    - Study school stuff
+        - review notes and several topics
+    - Not think about school stuff
+        - clear your mind
+    - Learn and improve another language
+        - use apps for our growth
+            - duolingo
+            - busu
+            - memsire 
+        - extend and expand my vocabulary
+    - Contemplating and appreciating the environment and urban art
+    - You can ENHACE(en-jense)-MEJORAR and enliven-amenizar with classical music.
+        -  Ask your friends or acquaintance(/əˈkweɪn.təns/) for new music or an album that you should listen to. 
+    about 6
+* entro a las 7
+    * debo salir a las 5
+    *
 * preparar todo before sleep
 * levantarse 4:30
 * Sleep at least seven hours
@@ -141,4 +185,17 @@ El mejor lugar aquí y el mejor momento es ahora. No es todo lo que ya no voy a 
   Agustín Lara
   jose alfredo
 
-  
+  * upbeat-optimista
+
+
+  FERRERO
+  KINDER BUENO
+  DELICE
+  M&M AMARILLAS
+  BON O BON
+  LARIN
+almendras y nueces sin ser tan dulce y tampoco muy amargo 
+
+90% cacao no un 70% barras de chocolate
+
+NEVER BUY CONEJITOS TURIN CAUSE ARE
