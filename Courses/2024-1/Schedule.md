@@ -54,6 +54,7 @@
     - 
 * options 
     - 1:
+        - https://www.misprofesores.com/profesores/Maria-del-Rocio-Sanchez-Lopez_60505?pag=2
         - horario corrido con materias medio faciles PERO NO INTERESAN
     - 2: Redes ivan y MOVILES EMPALMADOS
         - ivan:
@@ -199,3 +200,90 @@ almendras y nueces sin ser tan dulce y tampoco muy amargo
 90% cacao no un 70% barras de chocolate
 
 NEVER BUY CONEJITOS TURIN CAUSE ARE
+
+ no te aferres a ser prodcutivo 24/7, el ocio y el descanso son necesidades básicas y no necesitas ganártelas. Sé libre un ratito al día.
+
+Taxi Driver y Pulp Fiction son películas importantes para la historia del Cine pero la trama de ambas películas es... meh
+
+Que Eren Jeager tiene razón en todo, 
+
+ https://discord.gg/R2WVru4N
+
+
+ organicense
+ Dreams Live 1980 Paris
+ Ntory1
+
+https://classroom.google.com/w/NTYyMTM4Nzc4Nzk2/tc/NTk1NjA3Mjk5NjUw?pli=1
+ 
+
+ LIMPIEZA
+
+https://www.youtube.com/watch?v=T1Bi05ABXbQ
+
+SE APRENDE AL CAMINAR
+
+
+
+JEAN ES HORRIBLE
+BLACK MIRROR
+
+Evangelion
+Debes descansar de 3 a 5 minutos entre series 
+
+# salud
+ INGLES
+ https://www.youtube.com/watch?v=zMe-XKvkOn0
+- errores VER D ENUEVO
+https://www.youtube.com/watch?v=ClevImoRmMA
+- rutina para tamaño
+https://www.youtube.com/watch?v=oYCfsv0ViGc
+- hombros
+https://www.youtube.com/watch?v=tfUO7viZ57M
+
+# audiolibros
+- SER PERDEDOR PARA GANAR?
+https://www.youtube.com/watch?v=dy0ikvqldtgS
+- APOCALYPSIS OPUS
+https://www.youtube.com/c/Apocalypsisopus 
+
+17 https://www.youtube.com/watch?v=Vn4oZJd1tG4
+
+- el placebo eres tú
+https://www.youtube.com/watch?v=yGK9eaSWhiM&list=PL5H0C4cozLDLYTUa4ibRABPtgGE7rx_tG   
+- la ley de la atracción
+https://www.youtube.com/watch?v=J0khsSoe8fo
+- SEMINARIO FENIX
+https://www.youtube.com/watch?v=Fbt7qNMMdas
+# ES EXTRA
+TRABAJO
+https://teloexplicocongatitos.com/calendario/1
+SANTANDER
+https://app.becas-santander.com/es/program/becas-santander-online-english-courses-2023-2nd-call
+
+
+#
+Living in the shadows- Matthew Perryman Jones
+Taste Stary Kids
+
+One of the girls- fin de semana
+
+Gonna Fly Now, con esa duras varios rounds
+Todo el Saturday Night Wrist de Deftones
+álbum Continuum de John Mayer 
+    Belief
+I wanna be yours - artic monkeys
+Aemeeee
+Todo el ost de doom eternal 
+Candy de plan b
+Cualquiera de goetia. Me hacen sentir profana alv
+Las del chivi
+Todo el Afrocuban All Stars
+MORA
+Better than I imagined - Robert Glasper
+When I’m Small - Phantograph
+Wasted on each other - James Bay
+Down in Mexico - The Coasters
+Make it with chu - Queens of the stone age
+Todas las de Rels b 
+User Friendly - Marilyn Manson 
