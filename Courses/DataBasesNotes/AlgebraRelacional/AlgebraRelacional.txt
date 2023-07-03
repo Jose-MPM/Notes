@@ -1,0 +1,150 @@
+---- 
+
+-- Ejemplo 1
+-- σ nombresucursal = 'MERIDA' (prestamo sucursal)
+
+-- Ejemplo 2
+-- σ estado = 'OAXACA' (cliente)
+
+-- Ejemplo 3
+-- ⨝ -- Tener cuidado con los join natural, no por ponerlo nuestra busqueda quedará hecha, El operador PI selecciona un conjunto de atributos
+π nombrecliente (cliente ⨝ (ctacliente ∪ prestatario)) -- Respetando los atributos en común entre cliente y (ctacliente ∪ prestatario): nombrecliente
+π nombrecliente, numcta (cliente ⨝ (ctacliente ∪ prestatario))
+
+-- Ejemplo 4: resta o operador de conjuntos
+(cliente ⨝ (π idcliente ctacliente - π idcliente prestatario))
+-- Los join externos se ocupan para encontrar información faltante
+
+-- Ejemplo 4: join externo izquierdo nos va a dar tanto solamente los que están en el lado izq como los que se encuentrar en el lado izq y der
+π nombrecliente,numcta (cliente ⨝ ((ctacliente ⟕ prestatario) - (ctacliente ⨝ prestatario)))
+
+-- Ejemplo 5
+-- (π idcliente (ctacliente)) proyeccion de la tabla ctacliente saca los idcliente
+
+-- imprime lo que cumple lo segundo y lo regresa con todos los datos en cliente
+-- cliente ⨝ (π idcliente (ctacliente) ∩ π idcliente (prestatario)) 
+
+-- π idcliente,nombrecliente,numcta,numprestamo (cliente ⨝ (ctacliente ⨝ prestatario))
+
+-- Ejemplo 6
+-- por el camino que necesitamos para llegar a la info:
+r = π idcliente,nombrecliente (cliente)
+-- seleccion de la info necesitada
+-- σ nombresucursal = 'TULUM' (r ⨝ prestatario ⨝ prestamo ⨝ sucursal)
+r ⨝ prestatario ⨝ prestamo ⨝ (σ nombresucursal = 'TULUM' (sucursal))
+
+-- En el natural join se superponene los atributos que son comunes, mientras que en el x.join con condicion se muestran
+-- Ejemplo 7
+-- π nombrecliente,numprestamo,importe (cliente ⨝ prestatario ⨝ prestamo)
+r = cliente ⨝ cliente.idcliente = prestatario.idcliente prestatario
+-- x.join
+r ⨝ prestatario.numprestamo = prestamo.numprestamo prestamo
+
+-- Ejemplo 8
+-- Nos quedamos solo con los clientes que viven en CHIAPAS
+r = π idcliente,nombrecliente (σ estado = 'CHIAPAS' (cliente))
+π nombresucursal (r ⨝ ctacliente ⨝ ctacliente ⨝ cuenta ⨝ sucursal)
+
+-- Ejemplo 9
+r = prestatario ⨝ cliente
+π idcliente, nombrecliente,direccion,estado,nacimiento (cliente ⨝ r)
+
+-- Ejemplo 10
+-- Clientes que viven en Campeche
+r = π nombrecliente σ estado = 'CAMPECHE' (cliente)
+-- Sucursales del estado Yucatán
+s = π numsucursal (σ estado = 'YUCATÁN' (sucursal))
+-- Clientes que tienen cuenta en Yucatán
+t = π nombrecliente (cliente ⨝ ctacliente ⨝ cuenta ⨝ s )
+-- Clientes que viven en Campeche y tienen cuenta en Yucatán
+t ∩ r
+
+-- Ejemplo 11
+r = σ importe>60000 (prestamo)
+π idcliente,nombrecliente,numprestamo,importe (cliente ⨝ prestatario ⨝ r)
+
+-- Ejemplo 12
+r = σ saldo < 5000 (cuenta)
+s = π idcliente, nombrecliente (cliente ⨝ ctacliente ⨝ r)
+t = π idcliente, nombrecliente (cliente ⨝ prestatario)
+s - t
+
+-- 5 Funciones de agregación: avg:promedio
+-- Ejemplo 13
+-- Funciones de agregacion 5:
+-- Saldo promedio para todo el banco
+-- γ avg(saldo) -> saldoprom (cuenta)
+-- Conteo de las cuentas que se tienen en todo el banco
+γ count(numcta) -> totalcuentas (cuenta)
+-- consultas que solo dan la información que queremos pero no el detalle, eso es diferente
+-- min saldo del banco
+γ min(numcta) -> menorsaldo (cuenta)
+-- mayor saldo del banco
+γ max(numcta) -> mayorsaldo (cuenta)
+-- γ con un atributo nos permite agruparlos de acuerdo a este atributo
+r= γ numsucursal; avg(saldo) -> saldoprom (cuenta)
+-- saldoprom si existe en la relacion temporal r
+π nombresucursal, saldoprom (r ⨝ sucursal)
+
+-- Ejemplo 14
+-- orden 
+r = σ estado = 'TABASCO' (cliente)
+s = σ importe > 300000 (prestamo)
+t = π idcliente,nombrecliente,numprestamo,importe (r ⨝ prestatario ⨝ s)	
+-- τ nombrecliente asc (t)
+-- τ nombrecliente desc (t)
+-- τ [2] asc (t)
+τ nombrecliente asc, [4] desc (t)
+
+-- Ejemplo 15
+r = γ numsucursal; avg(saldo) -> saldoprom (cuenta)
+s = π nombresucursal,saldoprom (r ⨝ sucursal)
+t = γ max(saldoprom) -> maximo (s)
+s ⨝	saldoprom = maximo t 
+
+-- Ejemplo Borrado A
+--  borrar la imformacion de la cuenta de nuestro cliente
+r = σ nombrecliente = 'ANTONIO CASTRO GALLARDO' (cliente ⨝ ctacliente ⨝ cuenta)
+-- Esto es lo que debiera ocurrir pero no funciona en Relax
+-- cuenta=cuenta-nnumcta, numsucursl, saldo, fecha (r)
+-- ctacliente=ctacliente-nnumcta, idcliente (r)
+
+-- La forma de hacerlo funcionar es con relaciones temporales
+cuental = cuenta - π numcta,numsucursal,saldo,fecha (r)
+ctacliente1 = ctacliente - π numcta,idcliente (r)
+σ numcta = 'C-01034' ctacliente1 -- no aparece en nuestra relacion ctacliente1
+
+-- Ejemplo Borrado B
+s = σ importe ≥ 5000 ∧ importe ≤ 20000 (prestamo)
+prestamo1 = prestamo - s
+-- σ importe ≥ 5000 ∧ importe ≤ 20000 (prestamo1)
+prestatario1 = prestatario ⨝ π numprestamo (prestamo1)
+prestatario1
+
+-- Ejemplo Borrado C
+-- selecciona todas las cuentas del estado de CAMPECHE
+t = σ estado = 'CAMPECHE' (cuenta ⨝ sucursal)
+cuenta1 = cuenta - π numcta,numsucursal,saldo,fecha (t)
+ctacliente1 = ctacliente ⨝ π numcta (cuenta1)
+ctacliente1
+
+
+-- Ejemplo Inserción (Union) A
+-- π numsucursal (σ nombresucursal = 'ACAPULCO' (sucursal))
+cuenta1 = cuenta ∪ ({numcta:string,numsucursal:number,saldo:number,fecha:date 
+	'C-09111',121,30000,2022-05-05}) 
+
+-- σ numcta = 'C-09111' (cuenta)
+-- σ numcta = 'C-09111' (cuenta1)
+-- σ nombrecliente ='ANTONIO CASTRO GALLARDO' (cliente)
+ctacliente1 = ctacliente ∪ ({numcta:string, idcliente:number 
+														'C-09111',1035})
+σ idcliente = 1035 (ctacliente1)
+
+-- Ejemplo Inserción (Union) B
+r = σ nombresucursal = 'TONALA' (prestatario ⨝ prestamo ⨝ sucursal)
+cuenta1 = cuenta ∪ (π numprestamo,numsucursal (r)) ⨯ {saldo:number,fecha:date
+15000,2020-05-05}
+-- Consultas que involucran una fecha
+σ fecha = date('2020-05-05') (cuenta1)
+

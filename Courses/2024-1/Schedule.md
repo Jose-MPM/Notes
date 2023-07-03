@@ -56,16 +56,17 @@
     - 1:
         - https://www.misprofesores.com/profesores/Maria-del-Rocio-Sanchez-Lopez_60505?pag=2
         - horario corrido con materias medio faciles PERO NO INTERESAN
-    - 2: Redes ivan y MOVILES EMPALMADOS
+    - 2: Redes ivan y UNA MAS
         - ivan:
             - https://web.fciencias.unam.mx/docencia/horarios/presentacion/347482
             - Examen  25%
             Proyecto    35%
             Tareas  20%
             Prácticas   20%
-    - 3: redes fisica virtual y robotica
+    - 3: redes fisica PRESENCIAL y robotica
         - red:José Antonio Vázquez Mata
             - link: https://web.fciencias.unam.mx/docencia/horarios/presentacion/347148
+            - NO SE SABE EL HORARIO DE ASSIST
             - temario:
                 - https://drive.google.com/file/d/1VUwh5oDjfcAQZMZKgREwo4PUuGZu4bmr/view
     - 4: graficas y disp?
