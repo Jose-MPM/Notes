@@ -1,5 +1,16 @@
 # Eight Semester
 
+**MEDITA!!!**
+
+* pumahat
+    - https://docs.google.com/forms/d/1Aut08Tk7Ai1TKjroTiNqefOuiWv9rMhRV0az5bCjoPg/viewform?edit_requested=true
+**MEDITA**
+
+CONCENTRATE EN UN HABITO CLAVE
+obsecionate, usa tu fuerza de voluntad para tu desarrollo personal, para ser más fuerte.
+
+si te sientes cansado, toma perspectiva.
+
 * **si crees que no tienes tiempo para dejar de trabajar tendrás aún menos tiempo para atender una enfermedad.**
 
 * What can I do while I am on the transport?
@@ -65,16 +76,17 @@
             Prácticas   20%
     - 3: redes fisica PRESENCIAL y robotica
         - red:José Antonio Vázquez Mata
-            - link: https://web.fciencias.unam.mx/docencia/horarios/presentacion/347148
-            - NO SE SABE EL HORARIO DE ASSIST
+            - link:     
+            - NO HAY ASSISTANT
             - temario:
                 - https://drive.google.com/file/d/1VUwh5oDjfcAQZMZKgREwo4PUuGZu4bmr/view
+        - en lugar de robotica: 
+            - https://web.fciencias.unam.mx/directorio/64325
+            - el internet de las cosas
     - 4: graficas y disp?
         - https://web.fciencias.unam.mx/docencia/horarios/20241/1556/759
     - QUE QUIERES?
         - CONOCER LO MÁXIMO POSIBLE Y DESCUBRIR NUEVAS AREAS
-            - MOVILES
-                - LAB SE EMPALMA CON LAB DE REDES
             - REDES
                 - 
             - ROBOTICA?
@@ -264,8 +276,14 @@ https://app.becas-santander.com/es/program/becas-santander-online-english-course
 
 
 #
+YA ESCUCHE:
+West Coast de la diosota de lana del rey,
+summertime sadness
+# NO
 Living in the shadows- Matthew Perryman Jones
 Taste Stary Kids
+Rocket queen 
+El soundtrack de Matrix (la uno)
 
 One of the girls- fin de semana
 
@@ -288,3 +306,134 @@ Down in Mexico - The Coasters
 Make it with chu - Queens of the stone age
 Todas las de Rels b 
 User Friendly - Marilyn Manson 
+ Dragon Force
+ Devil's Trills Sonata de Tartini
+Still Got The Blues - Gary Moore
+Jack harlow- first class
+prelude 3.0 de slipknot
+El Sus Style - banda0ld
+sleep token
+Glory box - Portishead
+
+leny tavarez-buen polvo
+
+
+Quémame - Chlöe's clue (feat. Daniel, me estás matando)
+• La magia está en tu piel - Surfistas del sistema (¡temazo!)
+• No me alcanza - Dulce y agraz
+• Metadona - Samantha Barrón (bien setsi)
+• Night Dream - LEEBDA (más setsi, todavía)
+• Puro Veneno - Foudeqush
+- King Gizzard and the Lizard Wizard 
+
+
+# take the control of your attention
+- el poder esta en quien puede retener su atención en un mismo tema.
+usa apps que controlen tu uso: news feed erradicator
+- manipula tu entorno para evitar los desencadentes de la distracción
+- entrenate como perro
+    - trabaja por un rato y tras acabar tomas un pequeño descanso con una planificada pequeña reencompensa al final
+        - ser diciplinado en la recompensa, no más de lo planeado
+            - 
+    - aunque el mejor trabajo se hace durante los largos periodos de tiempo
+
+- manuchao
+    - todo es un circo y somos participes de esto.
+        - 
+
+
+
+        A TU MERCED
+* eudaumonion
+    - buen estado del espiritu
+
+- Ejerce tus más elevadas habilidades, desarrollate en mil frentes
+- epicuro
+    - librate de las grandes preocupaciones del mundo
+        - be with friends
+    - 
+
+    libertad raadical: buscarte a tí mismo puede que no sea la solución, porque el yo, no es una idea estática, si no que el yo se transforma todo el tiempo.
+
+    redescubrirte a tí mismo  y tratarte como un proceso creativo para 
+
+
+    - pequeño juego jugado en serio, un buen artista marcial, no se tensa, esta preparado, se prepara para lo que viene.
+    - la palabra yo no existe
+    - solo los debiles se ponen excusas para ser mas fuerte
+
+
+check:
+- https://redes-ciencias-unam.gitlab.io/examenes/examen-kubernetes/
+- ingles
+    - https://www.youtube.com/watch?v=JfwVXfl0EnI&t=4s
+    - https://becas.inroads.org.mx/stuff
+- back:
+    - https://start.spring.io/
+    - https://www.youtube.com/watch?v=pqNCD_5r0IU&t=249s
+- automatas:
+    - https://drive.google.com/drive/folders/1oMLqVM3EF0W9mqiIE9OX5c0Wr_TiwFY3
+
+- mmmm
+    - https://archive.org/details/simple-pickup-project-go
+    - https://ia801603.us.archive.org/
+- google
+    - https://grow.google/intl/es-419_us/certificates/#?modal_active=none
+- inroads:
+    - https://becas.inroads.org.mx/stuff
+- transdormers:https://huggingface.co/docs/transformers/transformers_agents
+- https://docencia.tic.unam.mx/cisco-academy.php
+- a lo mejor para usar en comple:
+    - https://sites.google.com/a/ciencias.unam.mx/cco-2019-1/recursos
+
+- playlist:
+    - https://www.youtube.com/playlist?list=PLbVHrIp7-thA25kK0mU4ZTE7tHr1jgVfK
+
+- 
+    - usa la repeticion como una canción pegajosa que no sale de tu cabeza, la repeticion de afirmaciones positivas crea patrones que crean creencias en tu subconsciente
+    - Siente la visualizacion, como si ya hubieras materializado ese sueño. 
+    - Hacer visualizaciones antes de ir a la cama
+
+    - glory gadget gift depart replace parent shoulder inmate report virus sunset apart glimpse home thunder defense major diamond unfair swarm pact hill gauge mind cruise
+
+
+- METAFISICA!!!
+    - ALMA TRASCENDE 
+
+- USE YOUR CEREBRO
+    - https://www.youtube.com/watch?v=DqXFtylWI10
+- NETFLIX: im thinking of ending things pelicula
+- SUELO PELVICO- https://www.youtube.com/watch?v=bMKPi0pIcG8
+- 
+
+- 
+- Evitar el auto castigo
+No te hará avanzar ni mejorar, ¿Cuándo has visto que entrenen a un perrito con tortura y sea mejor que uno entrenado con premios?
+Auto condicionate, date premios, date gustos por pequeños progresos, revisa bien que tus metas diarias sean pequeñas y alcanzables
+
+
+
+- scp -r BackEndWebDevelopment Administrador@192.168.0.10:"C:\Users\Administrador\Desktop\"
+
+- https://www.linkedin.com/pulse/la-magia-del-inter%C3%A9s-compuesto-como-filosof%C3%ADa-de-vida-aitor-grandes/?originalSubdomain=es
+
+- md
+    - https://github.com/markdown-templates/markdown-emojis
+
+edwin gonzales
+
+
+
+numero de contrato:
+- 019576413
+- jose manuel pedrso mendez
+- 50mb
+- no prescio de isntalacion
+- 20 menos despues del año
+- 419
+- 469
+-  despues del 7 5 dias es 469
+- 5569044217
+- corte de serviio: 7
+- 5 dias menos para respetar pronto pago. 419
+3007
