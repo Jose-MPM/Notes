@@ -413,6 +413,7 @@ Auto condicionate, date premios, date gustos por pequeños progresos, revisa bie
 
 
 
+
 - scp -r BackEndWebDevelopment Administrador@192.168.0.10:"C:\Users\Administrador\Desktop\"
 
 - https://www.linkedin.com/pulse/la-magia-del-inter%C3%A9s-compuesto-como-filosof%C3%ADa-de-vida-aitor-grandes/?originalSubdomain=es
@@ -437,3 +438,11 @@ numero de contrato:
 - corte de serviio: 7
 - 5 dias menos para respetar pronto pago. 419
 3007
+
+
+- https://ayudaizzi.izzi.mx/hc/es/articles/4500067843610-Baja-o-cancelaci%C3%B3n-completa-o-parcial-de-servicios-como-telefon%C3%ADa-video-internet
+
+- Bandita que le trabaja a google, facebook, AWS, u otro coloso, ¿Cómo le hicieron para llegar ahí?
+
+
+- saque su mente de lo que temes, y rehuse a mentener, di alto, cuando quieras parar, para poder cambiar a lo que deseas.
