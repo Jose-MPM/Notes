@@ -130,7 +130,205 @@ An incident usually refers to a data breach-violación or cyber attack; however,
     - Assess organisations' security controls, threat intelligence, and incident response procedures
     - Evaluate and report on insights, with actionable data for companies to avoid real-world instances
 
+# Introduction to Offensive Security
+
+## Web Application Security Risks
+
+* There are a few main categories of common attacks against web applications. Consider the following steps and related attacks.
+
+    - Log in at the website: The attacker can try to discover the password by trying many words. The attacker would use a long list of passwords with an automated tool to test them against the login page.
+    - Search for the product: The attacker can attempt to breach the system by adding specific characters and codes to the search term. The attacker’s objective is for the target system to return data it should not or execute a program it should not. SQLi
+    - Provide payment details: The attacker would check if the payment details are sent in cleartext or using weak encryption. Encryption refers to making the data unreadable without knowing the secret key or password.
+
+### Some vulnerability categories
+
+* Identification refers to the ability to identify a user uniquely. In contrast, authentication refers to the ability to prove that the user is whom they claim to be. The online shop must confirm the user’s identity and authenticate them before they can use the system. However, this step is prone to different types of weaknesses. Example weaknesses include:
+
+    - Allowing the attacker to use brute force, i.e., try many passwords, usually using automated tools, to find valid login credentials.
+    - Allowing the user to choose a weak password. A weak password is usually easy to guess.
+    - Storing the users’ passwords in plain text. If the attacker manages to read the file containing the passwords, we don’t want them to be able to learn the stored password.
+
+- Broken Access Control: Access control ensures that each user can only access files (documents, images, etc.) related to their role or work. For example, you don’t want someone in the marketing department to access (read) the finance department’s documents. Example vulnerabilities related to access control include:
+
+    - Failing to apply the principle of the least privilege and giving users more access permissions than they need. For example, an online customer should be able to view the prices of the items, but they should not be able to change them.
+    - Being able to view or modify someone else’s account by using its unique identifier. For example, you don’t want one bank client to be able to view the transactions of another client.
+    - Being able to browse pages that require authentication (logging in) as an unauthenticated user. For example, we cannot let anyone view the webmail before logging in.
+
+- Injection: An injection attack refers to a vulnerability in the web application where the user can insert malicious code as part of their input. One cause of this vulnerability is the lack of proper validation and sanitization of the user’s input.
+
+- Cryptographic Failures: This category refers to the failures related to cryptography. Cryptography focuses on the processes of encryption and decryption of data. Encryption scrambles cleartext into ciphertext, which should be gibberish to anyone who does not have the secret key to decrypt it. In other words, encryption ensures that no one can read the data without knowing the secret key. Decryption converts the ciphertext back into the original cleartext using the secret key. Examples of cryptographic failures include:
+
+    - Sending sensitive data in clear text, for example, using HTTP instead of HTTPS. HTTP is the protocol used to access the web, while HTTPS is the secure version of HTTP. Others can read everything you send over HTTP, but not HTTPS.
+    - Relying on a weak cryptographic algorithm. One old cryptographic algorithm is to shift each letter by one. For instance, “TRY HACK ME” becomes “USZ IBDL NF.” This cryptographic algorithm is trivial to break.
+    - Using default or weak keys for cryptographic functions. It won’t be challenging to break the encryption that used 1234 as the secret key.
+
+# Operating System Security
+
+## Introduction
+The Operating System (OS) is the layer sitting between the hardware and the applications and programs you are running. 
+
+* When we talk about security, we should think of protecting three things:
+
+    - Confidentiality: You want to ensure that secret and private files and information are only available to intended persons.
+    - Integrity: It is crucial that no one can tamper with the files stored on your system or while being transferred on the network.
+    - Availability: You want your laptop or smartphone to be available to use anytime you decide to use it.
+
+* three weaknesses targeted by malicious users:
+    
+    - Authentication and Weak Passwords: Authentication is the act of verifying your identity, be it a local or a remote system.
+    - Weak File Permissions: Proper security dictates the principle of least privilege. In a work environment, you want any file accessible only by those who need to access it to get work done. On a personal level, if you are planning a trip with family or friends, you might want to share all the files related to the trip plan with those going on that trip; you don’t want to share such files publicly. That’s the principle of least privilege, or in simpler terms, “who can access what?”
+        - Weak file permissions make it easy for the adversary to attack confidentiality and integrity. They can attack confidentiality as weak permissions allow them to access files they should not be able to access. Moreover, they can attack integrity as they might modify files that they should not be able to edit.
+    - 
+## Network Security
+
+A computer network is a group of computers and devices connected with each other. Network security focuses on protecting the security of these devices and the links connecting them. (In more precise terms, network security refers to the devices, technologies, and processes to protect the confidentiality, integrity, and availability of a computer network and the data on it.)
+
+- Examples of hardware appliances include:
+    - Firewall appliance: The firewall allows and blocks connections based on a predefined set of rules. It restricts what can enter and what can leave a network.
+    - Intrusion Detection System (IDS) appliance: An IDS detects system and network intrusions and intrusion attempts. It tries to detect attackers’ attempts to break into your network.
+    - Intrusion Prevention System (IPS) appliance: An IPS blocks detected intrusions and intrusion attempts. It aims to prevent attackers from breaking into your network.
+    - Virtual Private Network (VPN) concentrator appliance: A VPN ensures that the network traffic cannot be read nor altered by a third party. It protects the confidentiality (secrecy) and integrity of the sent data.
+
+- On the other hand, we have software security solutions. Common examples are:
+    - Antivirus software: You install an antivirus on your computer or smartphone to detect malicious files and block them from executing.
+    - Host firewall: Unlike the firewall appliance, a hardware device, a host firewall is a program that ships as part of your system, or it is a program that you install on your system. For instance, MS Windows includes Windows Defender Firewall, and Apple macOS includes an application firewall; both are host firewalls.
+
+- Breaking into a target network usually includes a number of steps. According to Lockheed Martin, the Cyber Kill Chain has seven steps:
+
+    - Recon: Recon, short for reconnaissance, refers to the step where the attacker tries to learn as much as possible about the target. Information such as the types of servers, operating system, IP addresses, names of users, and email addresses, can help the attack’s success.
+    - Weaponization: This step refers to preparing a file with a malicious component, for example, to provide the attacker with remote access.
+    - Delivery: Delivery means delivering the “weaponized” file to the target via any feasible method, such as email or USB flash memory.
+    - Exploitation: When the user opens the malicious file, their system executes the malicious component.
+    - Installation: The previous step should install the malware on the target system.
+    - Command & Control (C2): The successful installation of the malware provides the attacker with a command and control ability over the target system.
+    - Actions on Objectives: After gaining control over one target system, the attacker has achieved their objectives. One example objective is Data Exfiltration (stealing target’s data).
+
+### practice:
+
+- The first step of our attack is Recon; we can speed up our reconnaissance activities using different tools that gather information about the various aspects related to the target.
+    - nmap: Network Mapper: Nmap is a network scanner that helps us discover running machines and any programs running on them that are visible to the outside world.
+        - We just discovered three services running:
+            - FTP server: FTP stands-MEANS for File Transfer Protocol and is used to transfer files between machines.
+            - SSH server: SSH stands for Secure Shell and is used for secure remote login(inicio de sesión). In other words, it allows you to execute commands on a remote system securely.
+            - HTTP server: HTTP stands for Hypertext Transfer Protocol and is used for the web. Whenever you are browsing the web, you are using HTTP or HTTPS. HTTPS is the secure (encrypted) version of HTTP.
+        - You can also notice that Nmap reports on whether the host is up based on whether it receives any response from it. This is useful to know when no ports are open or accessible.
+
+# Introduction to Offensive Security
+
+## Intro to Digital Forensics
+
+Forensics is the application of science to investigate crimes and establish facts. With the use and spread of digital systems, such as computers and smartphones, a new branch of forensics was born to investigate related crimes: computer forensics, which later evolved into, digital forensics.
+
+More formally, digital forensics is the application of computer science to investigate digital evidence for a legal purpose. Digital forensics is used in two types of investigations:
+
+1. Public-sector investigations refer to the investigations carried out by government and law enforcement agencies. They would be part of a crime or civil investigation.
+2. Private-sector investigations refer to the investigations carried out by corporate bodies by assigning a private investigator, whether in-house or outsourced. They are triggered by corporate policy violations.
+
+Whether investigating a crime or a corporate policy violation, part of the evidence is related to digital devices and digital media. This is where digital forensics comes into play and tries to establish what has happened. Without trained digital forensics investigators, it won’t be possible to process any digital evidence properly.
+
+- As a digital forensics investigator, you arrive at a scene similar to the one shown in the image above. What should you do as a digital forensics investigator? After getting the proper legal authorization, the basic plan goes as follows:
+
+    - Acquire the evidence: Collect the digital devices such as laptops, storage devices, and digital cameras. (Note that laptops and computers require special handling if they are turned on; however, this is outside the scope of this room.)
+    - Establish a chain of custody: Fill out the related form appropriately (Sample form). The purpose is to ensure that only the authorized investigators had access to the evidence and no one could have tampered with it.
+    - Place the evidence in a secure container: You want to ensure that the evidence does not get damaged. In the case of smartphones, you want to ensure that they cannot access the network, so they don’t get wiped remotely.
+    - Transport the evidence to your digital forensics lab.
+
+- More generally, according to the former director of the Defense Computer Forensics Laboratory, Ken Zatyko, digital forensics includes:
+
+    - Proper search authority: Investigators cannot commence without the proper legal authority.
+    - Chain of custody: This is necessary to keep track of who was holding the evidence at any time.
+    - Validation with mathematics: Using a special kind of mathematical function, called a hash function, we can confirm that a file has not been modified.
+    - Use of validated tools: The tools used in digital forensics should be validated to ensure that they work correctly. For example, if you are creating an image of a disk, you want to ensure that the forensic image is identical to the data on the disk.
+    - Repeatability: The findings of digital forensics can be reproduced as long as the proper skills and tools are available.
+    - Reporting: The digital forensics investigation is concluded with a report that shows the evidence related to the case that was discovered.
+
+### practice
+
+- At the lab, the process goes as follows:
+    - Retrieve the digital evidence from the secure container.
+    - Create a forensic copy of the evidence: The forensic copy requires advanced software to avoid modifying the original data.
+    - Return the digital evidence to the secure container: You will be working on the copy. If you damage the copy, you can always create a new one.
+    - Start processing the copy on your forensics workstation.
+
+- Document Metadata:
+    - When you create a text file, TXT, some metadata gets saved by the Operating System, such as file creation date and last modification date. However, much information gets kept within the file’s metadata when you use a more advanced editor, such as MS Word. There are various ways to read the file metadata; you might open them within their official viewer/editor or use a suitable forensic tool. Note that exporting the file to other formats, such as PDF, would maintain most of the metadata of the original document, depending on the PDF writer used.
+        - Let’s see what we can learn from the PDF file. We can try to read the metadata using the program *pdfinfo*. Pdfinfo displays various metadata related to a PDF file, such as title, subject, author, creator, and creation date. 
+            - on kali:
+                - sudo apt install poppler-utils
+    - Photo EXIF Data: Exchangeable Image File Format it is a standard for saving metadata to image files. Whenever you take a photo with your smartphone or with your digital camera, plenty of information gets embedded in the image. The following are examples of metadata that can be found in the original digital images:
+        - Because smartphones are equipped with a GPS sensor, finding GPS coordinates embedded in the image is highly probable. The GPS coordinates, i.e., latitude and longitude, would generally show the place where the photo was taken.
+            - If you take the above coordinates and search one of the online maps, you will learn more about this location. Searching [Microsoft Bing Maps](https://www.bing.com/maps?cp=51.514418%7E-0.094094&lvl=21.0&mo=om.1) or Google Maps for 51° 31' 4.00" N, 0° 5' 48.30" W reveals that these coordinates indicate that the image was taken very near to the Museum of London. 
+                - We only replaced deg with ° for our search to work.) We noticed that the coordinates were converted to decimal representation on the search page: 51.517776, -0.09675.
+                    - example: 
+                        - GPS Position                    : 51 deg 30' 51.90" N, 0 deg 5' 38.73" W
+            - on kali:
+                - sudo apt install libimage-exiftool-perl
+        - Camera model / Smartphone model
+        - Date and time of image capture
+        - Photo settings such as focal length, aperture, shutter speed, and ISO settings
+
+## Security Operations
+
+- A Security Operations Center (SOC) is a team of IT security professionals tasked with monitoring a company’s network and systems 24 hours a day, seven days a week. Their purpose of monitoring is to:
+    - Find vulnerabilities on the network: 
+        - A vulnerability is a weakness that an attacker can exploit to carry out things beyond their permission level. A vulnerability might be discovered in any device’s software (operating system and programs) on the network, such as a server or a computer. For instance, the SOC might discover a set of MS Windows computers that must be patched against a specific published vulnerability. Strictly speaking, vulnerabilities are not necessarily the SOC’s responsibility; however, unfixed vulnerabilities affect the security level of the entire company.
+    - Detect unauthorized activity
+        - Consider the case where an attacker discovered the username and password of one of the employees and used it to log in to the company system. It is crucial to detect this kind of unauthorized activity quickly before it causes any damage. Many clues can help us detect this, such as geographic location.
+    - Discover policy violations
+        - A security policy is a set of rules and procedures created to help protect a company against security threats and ensure compliance. What is considered a violation would vary from one company to another; examples include downloading pirated media files and sending confidential company files insecurely.
+
+    - Detect intrusions: Intrusions refer to system and network intrusions. One example scenario would be an attacker successfully exploiting our web application. Another example scenario would be a user visiting a malicious site and getting their computer infected.
+
+    - Support with the incident response: An incident can be an observation, a policy violation, an intrusion attempt, or something more damaging such as a major breach. Responding correctly to a severe incident is not an easy task. The SOC can support the incident response team handle the situation.
+
+### Elements of Security Operations
+
+* Data Sources
+    - Server logs: . Logs contain information about various activities, such as successful and failed login attempts, among many others. There is a trove of information that can be found in the server logs.
+    - DNS activity: DNS stands for **Domain Name System**, and it is the protocol responsible for converting a domain name, such as tryhackme.com, to an IP address, such as 10.3.13.37, among other domain name related queries. One analogy of the DNS query is asking, “How can I reach TryHackMe?” and someone replying with the postal address. In practice, if someone tries to browse tryhackme.com, the DNS server has to resolve it and can log the DNS query to monitoring. The SOC can gather information about domain names that internal systems are trying to communicate with by merely inspecting DNS queries.
+    - Firewall logs: A firewall is a device that controls network packets entering and leaving the network mainly by letting them through or blocking them. Consequently, firewall logs can reveal much information about what packets passed or tried to pass through the firewall.
+    - DHCP logs: DHCP stands for Dynamic Host Configuration Protocol, and it is responsible for assigning an IP address to the systems that try to connect to a network. One analogy of the DHCP request would be when you enter a fancy restaurant, and the waiter welcomes you and guides you to an empty table. Know that DHCP has automatically provided your device with the network settings whenever you can join a network without manual configuration. By inspecting DHCP transactions, we can learn about the devices that joined the network.
+
+    - A SOC might use a Security Information and Event Management (SIEM) system. The SIEM aggregates the data from the different sources so that the SOC can efficiently correlate the data and respond to attacks.
+
+- SOC Services:
+    - Monitor security posture-monitorear la postura de seguridad: 
+    - Vulnerability management: This refers to finding vulnerabilities in the company systems and patching (fixing) them. (not necessarily)
+    - Malware analysis: The SOC might recover malicious programs that reached the network. The SOC can do basic analysis by executing it in a controlled environment. 
+    - Intrusion detection: An intrusion detection system (IDS) is used to detect and log intrusions and suspicious packets. The SOC’s job is to maintain such a system, monitor its alerts, and go through its logs as the need dictates.
+    - Reporting: It is essential to report incidents and alarms. Reporting is necessary to ensure a smooth workflow and to support compliance requirements.
+
+* Proactive services refer to the tasks handled by the SOC without any indicator of an intrusion. Example proactive services carried out by the SOC include:
+    - Network security monitoring (NSM): This focuses on monitoring the network data and analyzing the traffic to detect signs of intrusions.
+    - Threat hunting: With threat hunting, the SOC assumes an intrusion has already taken place and begins its hunt to see if they can confirm this assumption.
+    - Threat Intelligence: Threat intelligence focuses on learning about potential adversaries and their tactics and techniques to improve the company’s defences. The purpose would be to establish a threat-informed defence.
+- THREAT-amenazas
+- HUNTING-caza
+
 ## New Words
+- THREAT-amenazas
+- HUNTING-caza
+- go through - revisar
+- to aid-ayudar
+- trove-tesoro
+- a data breach: violación de datos
+- reconnaissance/ree-co_noi_sens/-reconocimiento
+- feasible-factible
+- intrusions-intrusiones
+- proper-adecuada
+- dictates-dicta
+- aware-consiente
+- targeted-a los que apuntan
+- seeks-busca
+- accomplish-cumplir
+- tamper-manipular
+- plenty-infinidad
+- intended-dedicada
+- layer-capa
+- Relying-confiar,depender
+- gibberish-galimatías: spoken or written words that have no meaning
+- scrambles-transforma
+- straightforwardly-directamente
 - guilty-culpables
 - charging-acusando
 - breaches-violaciones-infracciones
@@ -140,7 +338,7 @@ An incident usually refers to a data breach-violación or cyber attack; however,
 - arrange-organizar
 - aims-pretende-objetivos
 - gather-reunir
-- loopholes-laginas-vacios 
+- loopholes-lagunas-vacios 
 - landscape-paisaje
 - whenever-siempre que
 - weakness-debilidad
@@ -149,28 +347,8 @@ An incident usually refers to a data breach-violación or cyber attack; however,
 - suspicious-sospechoso
 - carry out-llevar a acabo-realizar
 
-# Read more!
 
-Ya sé que todos “odiamos ser adultos” y que nos gusta el KFC y así, pero si todos deberíamos tener resuelto esto:
+# Protect your home: CiberSecurity to IoT
 
-Deberías tener tu e-firma en una USB. De preferencia tener una Constancia de situación fiscal y una opinión de cumplimiento recientes.
 
-No solo deberías saber en qué Afore estás asignado sino de preferencia hacer alguna aportación voluntaria o un PPR si tienes la posibilidad.
-
-Deberías tener un Drive al que puedas tener acceso desde tu celular con TODOS tus documentos oficiales digitalizados.
-
-Deberías tener tu CV en inglés y en español. Una semblanza o portafolio si eres independiente o emprendedor a la mano, en el drive.
-
-Deberías tener historial crediticio bueno. Saca una tarjeta de crédito, un plan de teléfono lo que sea y paga a tiempo, a menos que tengas la vida resuelta y nunca vayas a necesitar un crédito. Si es así qué buena onda.
-
-Deberías tener un fondo de emergencia de liquidez inmediata o a un día, de 1 a 3 meses de ingreso.
-
-Al menos una persona de tu familia debería saber dónde están todos tus documentos personales, pólizas de seguros, cuentas bancarias, inversiones. Por si te mueres.
-
-Deberías tener beneficiarios en todas tus cuentas. Ese beneficiario debería saber que lo es. Dijera tu tía, un día estamos, al otro no.
-
-Las app de inversiones (Dinn, GBM+, etcétera) también tienen la opción de establecer beneficiarios, búscale, desígnalos. Avísales.
-
-Deberías saberte tu RFC, tu CURP, tu NSS, tu cédula profesional si tu carrera lo exige. De memoria, así como “Mis ojos lloran por ti”.
-
-Deberías evitar el KFC 😪. Es mucha grasa.
+https://haak.com.mx/protegiendo-tu-hogar-conectado-ciberseguridad-para-el-internet-de-las-cosas/
