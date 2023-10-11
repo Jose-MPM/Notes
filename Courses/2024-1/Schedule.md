@@ -1,19 +1,81 @@
 # Eight Semester
-# boooks
- Te recomiendo leer "El Elemento", "Encuentra tu Elemento" ambos de Ken Robinson, "Hazlo tan bien que no puedan ignorarte" de Cal Newport y "Descubre tus fortalezas" de Tom Rath y Don Clifton.
 
+* **MEDITA!!!
+Pensar las decisiones y desconfiar del primer impulso, pues no hay marcha atrás después de dar un paso.**
 
-**MEDITA!!!**
+##  inscripcion
+
+# IMPORTANTE Cde laTierra.
+- Temas Selectos de Ciencias Espaciales II, Optativas
+    - mecatronica
+    - https://web.fciencias.unam.mx/docencia/horarios/20241/1443/619
+
+* indice fisica
+    - https://web.fciencias.unam.mx/docencia/horarios/indiceplan/20241/1081
+- indice computing
+    - https://web.fciencias.unam.mx/docencia/horarios/indiceplan/20241/1556
+
+*  Temas Selectos de Física Computacional III
+    - https://www.fciencias.unam.mx/docencia/horarios/20241/1081/2076
+        - https://web.fciencias.unam.mx/docencia/horarios/20241/1081/2045
+
+- BASES Y ESTRATEGIAS DE LA COMUNICACIÓN PARA LA DIVULGACIÓN DIGITAL DE LA CIENCIA
+
+* 8ver semester scheduler:
+    - 1. Concurrent Computing
+        - virtual-gilde
+            - https://web.fciencias.unam.mx/docencia/horarios/presentacion/347462
+    - 2. Introduction to the Internet of Things
+        - https://sites.google.com/ciencias.unam.mx/introduccion-iot-fc/contacto?authuser=0
+    - 3. Computational Complexity
+        - whats
+            - https://chat.whatsapp.com/CzQLjFdG0uu8mXOjtqLbBg
+            - participación de clase y avance rapido
+        - osc
+        https://web.fciencias.unam.mx/docencia/horarios/20241/1556/269
+    - 4. Technologies to Internet Development-Tecnologías para Desarrollos en Internet
+        - https://web.fciencias.unam.mx/docencia/horarios/presentacion/347497
+            - 
+    - 5. Redes Neuronales
+        - fisico
+            - https://web.fciencias.unam.mx/docencia/horarios/presentacion/347148
+            - libro:
+                - https://www.deeplearningbook.org/
+    - 6. Temas Selectos de la Historia de la Física
+        - divulgación de la ciencia
+        - BASES Y ESTRATEGIAS DE LA COMUNICACIÓN PARA LA DIVULGACIÓN DIGITAL DE LA CIENCIA
+        - Communication foundations and strategies for digital science popularization
+        - https://web.fciencias.unam.mx/docencia/horarios/presentacion/347161
+* ya no: 
+    - robotica
+        - autodesk
+            - fushion 360
+            - fushion web
+            - 7gibbv7
+            - eric joel
+            - Temas selectos de ciencias espaciales.
+                - ciencias de la tierra.
+                - 1061
+                - examen profesional
+                    - antes del viernes 
+        - lunes y miercoles, y clase el dia de lab
+        - kid basico 
+            - max 2 semanas, contando esta
+        - lista de material:
+            - microcontrolador
+            - photoboard 
+            - 5volts eliminador
+        - copilco-quinetronica
+        - unit-electronics
+            - friki
+        - entrega una semana antes del
+            - concurso una semana antes de que termine el semestre
+
 * santander
     - https://app.becas-santander.com/es/program/becas-santander-learn-chatgpt?utm_source=Email_other&utm_medium=Email&utm_campaign=ChatGPT2023_Corporativo_Santander_Universidades_BBDD_CTA_bt_es
+
 * redpuma:
     - https://redpuma.unam.mx/Registro/Inicio.aspx#
-CONCENTRATE EN UN HABITO CLAVE
-obsecionate, usa tu fuerza de voluntad para tu desarrollo personal, para ser más fuerte.
-
-si te sientes cansado, toma perspectiva.
-
-* **si crees que no tienes tiempo para dejar de trabajar tendrás aún menos tiempo para atender una enfermedad.**
 
 * What can I do while I am on the transport?
     - PUT YOUR MIND ON AIRPLANE MODE
@@ -26,7 +88,6 @@ si te sientes cansado, toma perspectiva.
     - Have several activities outside of the carrer
         - Do flashcards
         - Listen a new FULL-LENGHT disc of a band at least once per week
-        532889
     - REVIEW NOTE'S PHOTOS 
     - Read 
         - a book 
@@ -35,7 +96,6 @@ si te sientes cansado, toma perspectiva.
             - notes
             - about carrer
             - guides for the exam
-            - 
         - magazines
     - Play:
         - Chess
@@ -55,78 +115,14 @@ si te sientes cansado, toma perspectiva.
     - Contemplating and appreciating the environment and urban art
     - You can ENHACE(en-jense)-MEJORAR and enliven-amenizar with classical music.
         -  Ask your friends or acquaintance(/əˈkweɪn.təns/) for new music or an album that you should listen to. 
-    about 6
-* entro a las 7
-    * debo salir a las 5
-    *
 * preparar todo before sleep
 * levantarse 4:30
 * Sleep at least seven hours
     - go to beed 9:00
     - sleep 9:30
-    - 
 * options 
-    - 1:
-        - https://www.misprofesores.com/profesores/Maria-del-Rocio-Sanchez-Lopez_60505?pag=2
-        - horario corrido con materias medio faciles PERO NO INTERESAN
-    - 2: Redes ivan y UNA MAS
-        - ivan:
-            - https://web.fciencias.unam.mx/docencia/horarios/presentacion/347482
-            - otra opcion
-                - https://web.fciencias.unam.mx/docencia/horarios/presentacion/347489
-            - Examen  25%
-            Proyecto    35%
-            Tareas  20%
-            Prácticas   20%
-    - 3: redes fisica PRESENCIAL y robotica
-        - red:José Antonio Vázquez Mata
-            - martes y jueves de 18 a 19:30 hrs.
-            - link:     
-            - NO HAY ASSISTANT
-            - temario:
-                - https://drive.google.com/file/d/1VUwh5oDjfcAQZMZKgREwo4PUuGZu4bmr/view
-        - en lugar de robotica: 
-            - https://web.fciencias.unam.mx/directorio/64325
-            - el internet de las cosas
-    - 4: graficas y disp?
-        - https://web.fciencias.unam.mx/docencia/horarios/20241/1556/759
     - QUE QUIERES?
         - CONOCER LO MÁXIMO POSIBLE Y DESCUBRIR NUEVAS AREAS
-            - REDES
-                - 
-            - ROBOTICA?
-                - https://web.fciencias.unam.mx/docencia/horarios/20241/1556/820
-                    - SE EMPALMA
-
-
-* PUMAHAT
-    - https://docs.google.com/forms/d/1Aut08Tk7Ai1TKjroTiNqefOuiWv9rMhRV0az5bCjoPg/viewform?edit_requested=true
-    - pumahat@protonmail.com
-    - 
-* Computational Complexity- OBLIGATORIO ENTRAR
-    - info
-Grupo 7012, 40 lugares.  Modalidad virtual
-Profesor    Oscar Hernández Constantino ma ju   16 a 17:30
-Ayudante    Malinali Gónzalez Lara  lu mi   15 a 16
-* Tecnology for Internet Development - FOR WORK EZ
-    - 
-* Neuronal Network or robotica? 
-    - 
-* https://web.fciencias.unam.mx/docencia/horarios/presentacion/347143
-    -
-* Investigación de operaciones: 11-12
-    - https://web.fciencias.unam.mx/docencia/horarios/presentacion/347236
-
-* Temas Selectos de Fis Comp1 IA EN LA FISICA
-    - https://web.fciencias.unam.mx/docencia/horarios/presentacion/347143
-
-* Concurrent Computing-VIRTUAL! GRABACIONES
-    - 
-Grupo 7093, 40 lugares.  Modalidad virtual
-Profesor    Gilde Valeria Rodríguez Jiménez lu mi vi    10 a 11
-Ayudante    Hermilo Cortés González ma ju   10 a 11
-Ayud. Lab.  Hermilo Cortés González
-
 
 - Previous Semester's Grades
     10-Machine Learning-5 :c
@@ -135,55 +131,41 @@ Ayud. Lab.  Hermilo Cortés González
     9-Compilers-8
     9-English-8
     5-Complex-0
-
-- **solo con el corazón se puede ver claramente, lo que es esencial es invisible a los ojos,**
-
 - where can i go?
     - biblioteca vasconcelos
     - Central UNAM.
     - a biblioteca de México tiene 5 salas hermosas muy confortables, puedes estar todo el día en el lugar , de lunes a domingo con horario extendido, sonde sea que te sientes estarás como en una biblioteca de diseño extranjero.
     - la biblioteca Benjamín Franklin 
     - Ir a hacer kayak a Xochimilco y ver el amanecer, tomar un tour de fin de semana a algún lado, ir a casa barragán qué esta muuuuy bonito, ir al nido de quetzalcoatl qué esta 10/10
-- apenas k te dijo tu mami
-* mis prof 
-    - https://www.misprofesores.com/escuelas/Facultad-de-Ciencias-UNAM_2842
 
-notes:
+### important
 Qué tengo? La última oportunidad para poder estudiar algo de "calidad", en la UNAM, de aprender de la mejor manera, nuevas cosas y descubrir que área te apasiona, para exponerme a personas con el privilegio de estudiar, 
 
 A cambio de: 5 Horas!
 
 Qué quiero? Ver para dentro!
 
+# More text
 
-Validación, se tacaño con esta, tal ves no limitar o imponer los limites pero si decirle que no andarias con ese tipo de morras
+- CONCENTRATE EN UN HABITO CLAVE
+    - obsecionate, usa tu fuerza de voluntad para tu desarrollo personal, para ser más fuerte.
+    - si te sientes cansado, toma perspectiva.
+    
+* **si crees que no tienes tiempo para dejar de trabajar tendrás aún menos tiempo para atender una enfermedad.**
 
-Previamente ya habíamos aclarado que no te iba a decir mucho sobre lo de las piernas, pero creo que encontrado la razón, 
+- **solo con el corazón se puede ver claramente, lo que es esencial es invisible a los ojos,**
 
-te había comentado que yo no andaría con una mujer con piernas más pequeñas que yo, o que no hagan ejercicio, y pues de hechoen su momento una razón por la que decidi andar contigo fue porque hacías ejercicio, eso me atraía mucho.
+* Validación, se tacaño con esta, tal ves no limitar o imponer los limites pero si decirle que no andarias con ese tipo de morras
+    - entre más tacaño seas más van a querer que gastemos en ellas
 
+* C0MIENDO BIEN, ENTRENANDO FUERTE Y DE FORMA CORRECTA Y DORMIR BIEN PARA RECUPERARTE ES LO QUE REALMENTE FUNCIONA
 
-
-C0MIENDO BIEN, ENTRENANDO FUERTE Y DE FORMA CORRECTA Y DORMIR BIEN PARA RECUPERARTE ES LO QUE REALMENTE FUNCIONA
-
-
-entre más tacaño seas más van a querer que gastemos en ellas, 
-
-
-
-
-No DISTRACCIONES!
-* TO READ AGAIN:
-> JM:
-Soy obsesivo con todo, sere EL tipico wey obsesivo, lo voy a hacer, TRABAJAre EN MI, Muy cabron
-
-Entendimiento de la industria(Ver el big picture)
-
-Trabaja para ti, es lo mejor, para tener armas en el futuro, herramientas para la vida.
-
-No puedes confíar en tu talento o lo que sea, tienes que dejar la vida pasar, tienes que hacer lo que sientas que tienes que hacer, tener huevos y aventarte.
-
-No puedes controlar nada, dejate vivir.
+* No DISTRACCIONES!
+    - Soy obsesivo con todo, sere EL tipico wey obsesivo, lo voy a hacer, TRABAJAre EN MI, Muy cabron
+    - Entendimiento de la industria(Ver el big picture)
+    - Trabaja para ti, es lo mejor, para tener armas en el futuro, herramientas para la vida.
+    - No puedes confíar en tu talento o lo que sea, tienes que dejar la vida pasar, tienes que hacer lo que sientas que tienes que hacer, tener huevos y aventarte.
+    - No puedes controlar nada, dejate vivir.
 
 La vida es toda una experiencia, Vivir.
 
@@ -635,6 +617,7 @@ El salado en Acatitla x1000
 Y los domingos por tepalcates, el tianguis es extenso
 
 # libros:
+Hacía la Mágica Presencia, del Maestro Saint Germain    
 El aviso de privacidad y uso de datos de Meta/IG/Threads 
 No lean Desierto (2014) de autor anónimo..
 La etica de nicomaco, de la amistad de aristoteles etc
@@ -754,6 +737,415 @@ Después de eso empecé a dormir mejor, comer más, también deje de tomar alcoh
 No sé si he encontrado mi pasión definitiva, pero ahora mismo estoy muy bien conmigo mismo.
 Dale más importancia a tu salud y verás como las cosas mejoran, ya dependerá de ti ir probando cosas nuevas hasta que encuentres algo que te apasione.
  
+Caminando bajo una tormenta, temblando y muriendo de frío y ver cómo los árboles no les molestaba nada de eso, me fascinó ver qué son tan resistentes comparado a mi, me enamoré de la vida y de analizar todo ❤️
+
+Renunciar a la necesidad de aprobación externa y con confianza en uno mismo
 
 
   http://www.dgoae.unam.mx/
+
+
+
+EL PESO DEL PENSAMIENTO. 
+Esta escultura refleja de qué forma llenamos nuestra mente de pensamientos sobre lo que sucedió en el pasado o lo que vendrá en el futuro, impidiendo disfrutar de cada instante del presente y las consecuencias de esto en nuestra vida…
+Nuestros pensamientos nos dominan a tal grado que gobiernan nuestras vidas.
+Nuestro exceso de pensamientos dañinos nos generan una preocupación y tensión constante, la culpa por el pasado y la angustia por el futuro.
+Cuando somos capaces de generar mayormente pensamientos positivos y optimistas, el cerebro comparte su lugar con el corazón, dándose un equilibrio más sano para nuestras vidas.
+Concéntrense en el aquí y ahora … lo pasado, pasó y no lo podemos cambiar… el futuro es incierto… permítanse VIVIR cada segundo siendo el 100% conscientes de ello…
+
+siddartha-hermann hesse
+
+Una mente ocupada acaba con cualquier vicio, recordemos que el ocio es la madre de todos los vicios.
+
+Pensar como adulto, vivir  como joven, aconsejar como anciano y no dejar de soñar como niño.
+
+Banda! Me acabo de enterar de estos comedores comunistas, perdón, comunitarios en los que les sirven bien y cuestan como $12. ¿Y que creen? Hay uno cerquita del metro CU. Espero que les ayude!! 🤗
+Calle Ilama 56, Pedregal de Santo Domingo, Coyoacán.
+Lunes a Viernes de 9:00 a 15:30
+
+
+
+
+hay que tragarse el orgullo para hacer las cosas bien
+
+
+cada dia más chichon
+como goku!!!
+
+resurgiendo como sintoma
+zoo humano-desmond morris
+
+
+***ACELERADO COMO UN MOSTER***
+
+# boooks
+* Te recomiendo leer "El Elemento", "Encuentra tu Elemento" ambos de Ken Robinson, "Hazlo tan bien que no puedan ignorarte" de Cal Newport y "Descubre tus fortalezas" de Tom Rath y Don Clifton.
+
+* Sidharta de Herman Hesse, 1984 de George Orwell, El Llano en llamas de Juan Rulfo o Crónica de una muerte anunciada de García Márquez.
+
+* “Siento que es nuestra responsabilidad ir más allá de crear excusas para aceptar la violencia en los medios. 
+
+En nuestro estado actual del mundo, siempre inventamos razones para decir que la violencia es en realidad defensa propia. Así que quería un personaje que no permita tales excusas dentro de sí mismo, y ese fue el comienzo de Vinland Saga.
+Siempre supe sobre qué quería escribir.
+Si a la gente no le gusta lo que escribo, simplemente perderé mi trabajo. Pero más allá de eso, siempre quise escribir una historia sobre violencia, felicidad y paz. Y eso nunca ha cambiado a lo largo de la historia, y en este punto, no hay vuelta atrás”.
+~Makoto Yukimura (autor de VINLAND SAGA) para el medio IndieWire.
+
+https://foursquare.com/v/4c374a320a71c9b604863ec9
+
+* a lom c
+ali aka mind 
+ah charlie de hijos bastardos 
+santaflow
+anita tijoux
+
+# 419 antes del 12 agosto
+
+### izzi
+banco azteca-
+ACDC1928.
+REFERENCIAS BANCRIAS
+
+OXXO
+09000001196968340
+469
+12-17 PRECIO LISTA
+7-12 419 PRONTO PAGO
+
+* to english
+    - https://learningroom.becas-santander.com/
+* ronald
+    - https://www.youtube.com/watch?v=94At0VjRocg
+    - segunda
+        - https://www.youtube.com/watch?v=PAHNaFOjMuY
+- 20 Ejercicios para saber qué hacer con tu vida 
+    - https://www.youtube.com/watch?v=i2hOzR2r7hA
+
+- Ajedres:  
+    - https://www.gaceta.unam.mx/el-ajedrez-una-estrategia-de-vida/?fbclid=IwAR3p_uajmgnEG83i79n_INh9eQGpXWM7HD7KPz8x7Qghw0jEK0Zy5B0aHt0
+    - **Pensar las decisiones y desconfiar del primer impulso, pues no hay marcha atrás después de dar un paso**.
+
+Las expectativas y los juicios que añadimos a la realidad
+
+"En lugar  de comprar a tus hijos lo que nunca tuviste, deberías enseñarles todo lo que nunca te enseñaron, lo material se desgasta, pero el conocimiento permanece"
+
+Serie: On My Block (3x05)
+Plataforma: Netflix
+
+* como meditar
+    - SEntarte 
+        - donde quieras como quieras, el chiste es estar comodo
+    - respirar
+        - cierra los ojos, cuando inhalas 
+    - atención
+        - en el aire que entra y sale, al 100
+    - Actitud
+        - La clave es que nos enseña a no ser dramaticos, 
+            - be ecuanime
+        - el trabajo de la mente es crear puntos, ent no te desanimes por tantas distracciones
+        - ent por cada vez que te distraigas la traeras a la atención.
+* el cerebro no puede distinguir entre la realidad y la imaginación, de ahí la visualización puede ayudar a lograr lo que quieres
+- las actitudes positivas al envejecimiento puede extender la vida.
+- si piensas que 
+- entre más positivos somos podremos mantenernos jovenes y envejecer más lentamente
+- es una mentira que de viejo dejas de aprender, sigues aprendiendo pero más lento.
+* REGULA TUS ESTADOS DE DOPAMINA, HAY QUE CASTIGARSE BANDA, NO SOLO DARSE LO BUENO
+
+* Un año en el espacio skot kelli
+
+* BABBEL
+    - ser bilingue contribuye al cuidado del cerebro
+    - cada que aprendemos algo nuevo le ayudamos al cerebro a crear nuevas redes.
+    - el refuerzo hace que el pensamiento crezca, la repetición hace al maestro
+    - la capacidad esta en nuestros hábitos, entorno, el estilo de vida es fundamental
+        - aprende algo nuevo, conocer personas nuevas
+    - consumo de alcohol, daña la estructura del cerebro.   
+        - dormir mal
+    - TU CEREBRO NATURALMENTE ESTA LISTO PARA CAMBIAR
+        - descansa
+        - comer bien
+            - omega 3, antioxidantes
+        - retalo para que se adapte y crezca(establece retos, afrentarse a cosas que no conozco)
+            - interesado por el mundo, azombrarte! 
+                - nuevos ruidos, todo! 
+                - con intención!
+        - varia en tu aprendizaje como si fueras un niño
+        - **meditar**!!!
+            - no te frustes, no abandones 
+        - fisicamente activo-muevete
+    - INCOGNITO DAVID EAGLEMEN  
+
+https://youtu.be/N9Z0O-4QkcA?si=I-V3mBMLiwiAsaud
+
+# to the kids
+Los niños se convertirán en quienes dices ser.
+Eres muy inteligente Santi!!!
+Tu eres fuerte santi, si puedes!! Se FUERTE-GRANDE duro santi y a la vez noble
+Recuerda donde pones las cosas! No olvides lo que digan santi, te amo mucho!!!
+Esta mal ser grosero santi... no esta bien pegarle a mama 
+Eres muy lindo santi! que amable eres!! saluda al niño que este solito! que juegue contigo!! 
+**ayudale a papa**, esta con el...
+Tu puedes ser quien quieras!
+Quiénes creemos que son importa.
+Se convertirá en su voz interior.x
+Si le decimos a alguien algo lo suficiente
+ellos lo creen—
+    Especialmente nuestros impresionables y vulnerables niños.
+Así que, habla con tus hijos como si fueran las personas más amables, inteligentes y mágicas en este mundo que pueden hacer cualquier cosa por la que trabajan.
+Porque lo que creen es en lo que se convertirán.
+TU ERES UN NIÑO MUY SANO! TU PUEDES! SERLO MÁS!
+
+* NO PICOS DE INSULINA
+
+
+# books
+- how to win friends and influence people 
+- la historia del loco
+    - john katzenbach
+- azteca
+
+* Recuerde la sabiduría del agua: **"El agua nunca discute con sus obstáculos, sino que los rodea”**. Que su vida sea llena de victorias, no importa si son grandes o pequeñas, lo importante es celebrar cada una de ellas.
+
+# 
+Durante un tiempo fuí vecino de un médico cuyo pasatiempo era plantar  árboles en el enorme patio de su casa.  
+Desde mi ventana veía como día a  día los plantaba. Lo que más me llamaba la atención era que no regaba  los arbolitos. Tanta era mi curiosidad que fuí a preguntarle. 
+Me dijo que si regaba sus arbolitos, las raíces se acomodarían en la superficie y quedarían siempre esperando el  agua que él diariamente les daba. 
+Al no regarlos, éstos tardarían más  en crecer, pero sus raíces se verían obligadas a profundizar en la  tierra en busca del agua y de los nutrientes que se encuentran en las  capas más profundas del suelo.
+Así, los árboles tendrían raíces profundas y serían más resistentes.  
+Al cabo de un tiempo fuí a vivir a otro país, cuando después de varios  años regresé a mi antigua casa, noté que mi vecino había cumplido su  sueño, tenía un hermoso bosque.  
+De pronto llegó el rigor del  invierno y en un día muy ventoso, cuando todos los árboles de la calle  estaban arqueados por el viento, pude notar la solidez de los árboles de  mi vecino, que casi ni se movían.
+Las adversidades por las  cuales aquellos árboles habían pasado, al ser privados de agua, les  había beneficiado mucho más, que el confort o un trato mucho más  delicado.
+Todas las noches antes de ir a acostarme doy siempre una mirada a mis hijos. Les observo y veo cómo ellos van creciendo.
+“Siempre pedimos que las cosas sean fáciles, pero en verdad lo que  necesitamos es pedir que en nuestro interior se formen raíces fuertes y  profundas; de tal modo, que cuando las tempestades lleguen, sin previo  aviso y los vientos helados soplen, seamos capaces de resistir en lugar  de ser derrotados y destruidos como lo son los árboles sin raíces  profundas. 
+Texto de la Web
+Y así con nuestros hijos! Enseñemosle a defenderse solos en la vida! ..Si un día inesperado nos toca estar lejos de ellos,que sepan resolver sin nuestra presencia, eso es lo más grandioso que podemos dejarle...
+
+* resiliencia
+    - siempre da un poco más
+- enjoy the process
+- curiosidad tecnologica prolongada
+- atrevete a soñar
+- cultura y simulacro 
+
+* psql:
+    - sudo -u postgres psql
+    - CREATE USER rootBank WITH PASSWORD '123456';
+    - ALTER USER rootBank CREATEDB;
+    - psql -U rootbank -d postgres
+    -  GRANT CREATE ON SCHEMA public TO rootbank;
+    - ALTER USER postgres PASSWORD '123456';
+
+    - to enter:
+        - psql -U rootbank -d bankdb
+    - \dt
+    - \d
+    para permisos
+        - GRANT CREATE ON SCHEMA public TO rootbank;
+
+* mydjangoenv
+    - 
+
+* sat
+    - chat
+        - http://chat.sat.gob.mx/
+    - rfc:
+        - 
+    - **STATUS DE CITA**
+        - https://citas.sat.gob.mx/listaCita
+    - cita
+        - https://citas.sat.gob.mx/consultaCita/datosPersonales
+    - obten tu rfc:
+        - https://www.sat.gob.mx/tramites/28753/obten-tu-rfc-con-la-clave-unica-de-registro-de-poblacion-curp
+
+    - CASA
+        - 5590530014
+
+        - THE LAST:
+            - SU TRÁMITE HA FINALIZADO RF2023139603017 
+        - ANTEPENULTIMA:
+            - SU TRÁMITE HA FINALIZADO RF2023139602901 
+
+        -   PEMM991116N19
+        PEMM991116N19
+
+- DOCS
+    - https://drive.google.com/file/d/1FE9gNKBqGOFXngXEiARiqCRMIYMqzzU0/view
+
+- FOLIO-XaU56llk41J
+    - XaU56llk41J
+- bbva docs
+    - https://drive.google.com/file/d/1FE9gNKBqGOFXngXEiARiqCRMIYMqzzU0/view
+        
+
+- np, p, algoritmos de aproximacion
+- pract algoritmo verificador, ahora si responder la pregunta de decisión
+- expo 1 -último mes de clases 
+
+- repeticiones pueden generar distracciones respecto a saber quien esta hablando
+    - la mente se distrae al encontrar sonidos que rimen
+    - rapido corren los carros en el ferrocarril
+    - neuromarketing- al cerebro le encantan las tonaditas pegajosas
+- liner problem, linealizacion
+    
+- irse a los bosques a no hablar con nadie
+
+quarcissus
+- saber decir que no
+
+- difucion ciberseguridad
+    - https://youtube.com/@_JohnHammond
+    - https://www.youtube.com/@alancf96
+    - https://huntress.ctf.games/
+    -  https://darknetdiaries.com/episode/
+    - https://www.youtube.com/@alancf96/videos 
+
+- for resume:
+    - **People love modesty, but they dont hire it- no la contrata**
+        - it's the moment to be humble
+        - muestra de que estas hecho
+        - da una razón para que te escogan, recuerda que estas en una competición
+            - be agresive and no te congengas
+        - que se vea lo más impresionante e impactante posible
+        - ADOPTA LA MENTALIDAD DE CRECIMIENTO GANADORA
+    - Make a strong impression with a single page
+        - u only have 7 seconds to convence them
+            - solo incluye lo escencial 
+    - Make it easy to learn about you
+        - encabezado: linkedin, num, sitio, correo, git 
+    - Describe yourself with skills, not words
+        - rapida descripción de mi experiencia técnica
+    - Make a preemptive strike
+        - educación abajo de experiencia
+            - estas aplicando a una empresa
+    - Exaggerate
+        - exagerar tu impacto es aceptable siempre y cuando no sea una mentira
+            - puedes agregarle especias para mejorarlo
+    - Quantity
+        - they love metrics
+            - reduce the api latency significantly vs reduced the api latency by 80% from 10 to 2 s
+    - provide business context
+        - tienes que hablar de modo que todos entendamos, supongamos que el reclutador no sabe de codigo, no caigas en especificaciones del lenguaje
+    - stay relevant
+        - no te extiendas en cosas que no sean tan importantes
+        - a ellos no les importan tus skills no tecnicas o hobbies
+    - value yourself
+        - you're worth  much more than u think, stop putting additives  like entry level
+        - u can explain your expertise level when they ask dont
+    1. If your resume is dense, it’s ok to bold critical information.
+    2. Use the “So What?” test. After reading about your contribution, the reviewer shouldn’t think, “So what?”
+    3. It’s ok to have different versions of resumes for different companies or roles.
+    -  The source of positivity is self-belief. It spreads when you have confidence in who you are and what you're doing.
+
+- repensando tu masculinidad.
+    - 24 oct
+    - 15 nov no abra
+    - 29
+    - dec 6
+    - 4-11-25 oct
+    -
+
+- to comple-
+    - sí M' codifica a M y M decide a L. Entonces, M' decide por medio de M al complemento de L?
+    - to participate:
+        - https://www.youtube.com/watch?v=VyHbd6sx5Po
+            - de que va la prueba
+        -  en el 4 otro ejemplo
+        - en el 2 es una MT normal, y si das el analisis.
+            - sale con una cinta
+        - referencias para el 1 y 4
+        - para la concatenacion
+            - combinacion de interseccion
+            - transición del estado final de la primera maquina al inicial de la segunda 
+                - las MT tienen una función de transcición, esta transcición es de MT
+                    - sabemos q para por la def de lenguajes decidibles, por lo que existe una MT que lo reconoce pero siempre para, un estado de aceptación. 
+
+- un recordatorio del implacable avance del tiempo
+    - Y MORIRAS, PASARAS. 
+
+- REMEMBER:
+    - BECA: https://www.integra.unam.mx/estudiantes/
+        - 7
+    - INROADS: 
+        - https://becas.inroads.org.mx/stuff
+    - TDI
+        - GIT:  
+            - https://github.com/Rogarpa/TDI/tree/TareaL-Bootstrap
+            - https://github.com/Rogarpa/TDI/blob/TareaL-Bootstrap/TareaL-Bootstrap/Recetas/index_recetas.html
+    - COmplex:
+        - OVER
+            - https://www.overleaf.com/project/651c57a92fbba5c41ef4231d
+        - to1; https://classroom.google.com/c/NDY5MDM4ODA0NTU1/a/NDczMzk5MTk0MzUy/details
+        - t3: https://classroom.google.com/c/NjE3ODgxNzEzODM2/a/NTkwMDY5NTQyNTQ0/details
+    - Neuronal Network
+        - c7: https://www.youtube.com/watch?v=LBKSzbtq5ZM&list=PLwq68Z6Xrh2Cr6Zbwr4OQhqQnpw51pFyk&index=11
+        - lista: https://www.youtube.com/playlist?list=PLwq68Z6Xrh2Cr6Zbwr4OQhqQnpw51pFyk
+
+
+
+Son drogas emergentes, son más baratas que la marihuana, la cocaína, los efectos son más duraderos y contienen compuestos más tóxicos. Entre ellas, las más populares MS(Marihuana sintética) y las sales de baño.
+
+La segunda columna es para las palabras claves relacionadas con la pregunta. ideas u otras preguntas que ayudan a responder la primera pregunta. 
+
+
+## el amor
+Yo siempre he pensado que el amor de tu vida no es la persona de quién más te enamoras, sino la persona que se queda hasta el final aún conociendo tus defectos y esas personas no conocen el final, así como Carl, ellos se llegaron a casar. Dieron su vida hasta el final, y por más problemas, no se rindieron (lo que hoy en día muchos hacen) cómo no apostar a que fuera su único amor, si ella lo dió todo igual que él. Yo apostaría a un amor así 😥
+Yo quiero mucho a mi amorcito, no solamente lo llevo en mi mente sino en mi alma y aunque no soy su esposa aún, trato de guardarme y siempre hago oración para no fallarle a él ni a mi, ya que yo si apostaría por un amor como él hasta el final, incluso cuando por alguna extraña razón yo no estaría en su vida o el en mi vida, siempre lo llevaría acá ♡ en mi corazón y de ahí nadie ni nada lo sacaría. La fidelidad no solamente se vive en vida sino que trasciende. Lo quiero mucho 🥺
+
+- peli to santi:
+    . | La familia del futuro (2007).
+- una vez que lo desbloqueas, la realidad es tuya
+
+- Trata a los pesos ligeros como si fuesen pesados para que algún día puedas tratar a los pesos pesados como si fueran ligeros.
+
+duda de todo, ten cuidado con 
+
+todo lo que crece para dentro crece para afuera
+
+# TO READ AGAIN
+
+hay muchos factores que toman para entrar; en aws se crea nueva tecnología que lidera el mercado, entonces se busca gente que no solo tenga buenas bases técnicas, sino que tengan la capacidad de inventar, resolver problemas, lidiar con la ambigüedad, etc. y además varios han hecho investigación, trabajado en otros lados, etc. Hay muchas posiciones no solo de software engineering, también de applied scientist, quality assurance, program management, etc. El camino que tomas para llegar a cada una es muy diferente, pero usualmente requiere mucha dedicación y un gran motivo, no solo querer entrar “por el nombre”
+
+Mi consejo sería poner tu perfil de LinkedIn al tiro, aplicar si no te contactan, mandar solicitud de amistad en LinkedIn a reclutadores que trabajen donde te interesa, obvio inglés muy bien si quieres fuera de Mexico, buscar el temario de la posición que te interesa y estudiar porque esas empresas tienen un temario bien definido. Y también hay que tener suerte.
+
+Entrar al FAANG(M) como primera opción sin experiencia es suicidio. Recomiendo ir ganando experiencia e ir entrevistándose con pequeñas empresas (startups), y armar un currículum participando en proyectos de software libre. Ya con un poco de actividad en github y linked in los reclutadores llegarán y es un cortejo, no es aventarse a la
+primera y a lo primero que ofrezcan, es conocer el proceso y ganar más experiencia en el proceso de entrevistas.
+
+***Es un asunto de saber con los años que es lo que vale uno y que es lo que uno quiere hacer.***
+
+Leetcode
+
+Pero la vdd la carrera de CC te deja (en mi caso) bien preparada, eso sí yo me eché un mes de puro leetcode. Casi todos entran a FAANG como primera experiencia. Y sin exp entras ganando al menos 120k al año.
+El único consejo que doy es no hagas caso a ningún consejo, incluso al mío. Me entiendes? Bueno escucha los consejos pero cuestionalos. No hagas algo porque alguien te dijo que no lo hagas sólo porque a esa persona no le funciono, tampoco hagas algo sólo pq a alguien le funcionó.
+
+No lo hagas, es pura explotación mental y física a cambio de dinero.
+Te sugiero intentes entrar en empresas europeas tipo farmaceuticas, bioingeniería, energía o ingeniería tipo Bayer (DE), BioNtech (DE), Equinor (NO), Shell (NL/UK), Siemens (DE), ASML (NL).
+En estas empresas tampoco es “facilícimo” pero tampoco es una hazaña. Si vas por programación o ciencias de datos yo te sugeriría leer experiencias de otros y usar hackerone y datacamp.
+Te pagan muy bien, vives mejor en Europa, te explotan menos, hay proyectos muy interesanres y no solo estar haciendo ciencia de datos para vender-vender-vender espiando (aquí hay GDPR que protege tus datos personales), por ejemplo tienes meses de vacaciones al año, tu esposa/o tiene 8 meses de sueldo pagado cuando tienen un hijo, cientos de prestaciones y bonos. La gente acá no requerimios “ponernos la camiseta” de la empresa porque aquí los sindicados están bien posicionados y todos hacen sus obligaciones con los empleados y más.
+A mi me ofrecieron ya después de estar en este tipo de empresas chamba en Facebook y Amazon, pero la verdad por ahora ando en un statu quo donde tengo proyectos importantes inclusive académicos intereuropeos y también tengo tiempo para tomar clases de piano, ir al gimnasio, leer literatura nada que ver con mi trabajo e irme de vacaciones un mes si quiero. También tienes mucho presupuesto para training al igual que esas empresas que mencionas.
+EEUU es un paisucho que sigue neoesclavizando y es imposible comprar una casa en una ciudad decente. Allá los sindicados literal son “del diablo” por sus creencias tontas con su modelo ultraliberal. Por acá es común querer consentir al empleado para que haga su trabajo feliz en vez de sólo pagarle mucho a cambio de aturdirlo y alienarlo de su vida personal.
+
+Opción 1: arma un LinkedIn que haga que ellos te contacten. (en mi caso busco las aptitudes que piden para “x” puesto y si yo las tengo las pongo en mi perfil)
+Opción 2: visita las páginas de careers y sube tu aplicación a la vacante que más te acomode
+(Didi, paypal, Amazon, etc. )
+
+Yo estuve como soporte técnico de campo para Amazon México en la sucursal de Tepotzotlán aplique en el sitio de Amazonjobs.com y hasta el 3 intento logré quedar entre cada intento tienes que esperar 3 meses me pidieron la cert COMPT+ y la CPTS de Google afortunadamente no me pidieron Uni también me pidieron un a excelente atención a usuarios finales así como experiencia con modelo OSI y Conocimiento en redes 4 meses después me corrieron por qué configure mal el DNS y el sistema de envíos de la sucursal se cayó durante 2 HRS 😞 lo mejor de todo son lo bonos de bienvenida y el de KPIS son casi 2 meses de salario pero tienes que durar mínimo un año para conservarlo yo como solo dure 4 meses lo tuve que devolver la comida es gratis como empleado así como snacks y cosas de ese estilo lo malo era que el lugar me quedaba muy lejos y aveces la jornada se alargaba un poco más de lo habitual.
+Pd. Si te corren puedes volver aplicar hasta los 2 años a Amazon.
+Pd2; Después que envías tu CV debes de revisar las actualizaciones contantes en total son 3, entrevistas más 1 vídeo y una entrevista en la plataforma de Amazon que es como un vídeo en caso que apliques a Soporte.
+
+**Reclutadores de Amazon, Oracle, Printerest, Paypal me contactaron para aplicar al proceso de selección pero desafortunadamente siempre me quedaba en el primer filtro de resolver un problema mediante un algoritmo en 30 minutos, la última ocasión qué pasó eso me dio tanto coraje que me suscribí a una plataforma LetCode ($5000 al año) donde tienen programas para aprender a resolver problemas mediante algoritmos, me pegue bien macizo a resolver varios ejercicios y cuando me sentí preparado volví a aplicar a PayPal; resulta que el primer problema que me ponen en la entrevista ya lo había resuelto en LetCode ya los demás filtros los pasé y ahora estoy ahí trabajando muy contento y a gusto, algo similar me paso con el inglés ya que estaba bien piedra y pues igual me daba coraje que se fueran las oportunidades hasta que decidí pagar clases particulares $900 a la semana para aprender y si funcionaron. Cabe mencionar que vengo de una familia que no tiene gran poder adquisitivo y todo lo que he pagado para mejorar mis habilidades profesionales ha sido del mismo dinero que he ganado trabajando como desarrollador. Conclusión: Siempre que puedas invertir en ti no lo veas como un gasto sino como inversión y que dará frutos en algún plazo. Y si claro no podía faltar que es por trabajar duro, buscar más allá de lo que te piden y aprender las nuevas tecnologías para estar actualizado y mostrar que eres capaz de sacar la chamba adelante.**
+
+ Confirmo, en mi caso Paypal basó la prueba técnica en la pruebas que ofrece HackerRank y también puedes adquirir una suscripción a HackerRank para prepararte.
+
+ Te recomiendo postularte para empresas que tengan la certificación y de verdad lleven a cabo lo de great place to work
+
+* To comple:    
+    - El ejemplar de entrada debe ir en la codificación que porpusimos
+    -  el certificado es un ejemplar concreto?
+    - fase aleatoria:   
+        - generador de certificados en tiempo polinomial
+    - para el verificador
+        - buscar ciclos dentro del subconjunto de v'
+        - todas las adyacencias(ver video del 11-oct aprox 45 )
+    - permutaciones de tamaño k de los vertices de la grafica
+        - solo que puedes encontrar repeticiones de graficas
+* TO TDI:
+    - ACDC1928
