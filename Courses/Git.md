@@ -10,7 +10,6 @@ $ git push origin main
 * este es el plugin de zsh para que la terminal les de contexto de git https://ohmyz.sh. De todas maneras ya se los puse en el canal de general en slack 
 
 * New branch
-
 ```bash
 $ git branch <name-of-branch>
 ```

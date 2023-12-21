@@ -1,87 +1,99 @@
 # Eight Semester
+- la vida, en su esencia significa crucifixión, para el ego racional parece ser la muerte: el puer aeternus, marie louise von franz
+- openlivery
+cutember.org
+librivox
+- tu vida esta completa, no necesitas esa droga
+- o qué vacio tratas de llenar?
+- tu si sabes como pasartela bien sin eso, o apoco no? 
+- la azucar es la peor droga, ten cuidado con los refrescos, son de lo malo. 
+sudo dmesg
+- la zaga after mc ardilla
 
+relaja los nervios para que tomes la mejor decisión.
+- CONOCETE, EN QUE HORARIO Y QUE LUGAR ERES MÁS EFECTIVO
+
+- iot:  
+    - 25/60 * 57 = 23.75
+    - 40 ÷ 50 × 48 = 38.4
+    - 22.7
+    = 8.48
+- promedio
+    - Internet of things
+        - 8
+    - complejidad
+        - 10
+    - Technologies to the Internet Development
+        - 9
+    - concurrent computing
+        - ?
+    - Science Div
+        - 10
+    - Neuronal Network Introduction
+        - ?
+- método blurting
+- ley de parkinson
+- segundo cerebro
+- ciclos de energiá 
+- metodo feyman
+- repeticion espaciada
+
+// Credenciales de nuestro wifi
+const char* ssid = "Totalplay-2.4G-3a38";
+const char* password = "mM2D6JGhDkRLxRqa";
+
+// Credenciales para la inicialización de Telegram BOT (token y chatId)
+String BOTtoken = "6892080700:AAEKUectM8_3qK7jImJR3DFYNire1sTP5-g";  
+String CHAT_ID = "6230497577";
+- hector: 
+    -  55 1004 5170
+- reading minds thrown body language
+- how to manipulate relations
+- the dark magic of communication how we manipulate others christopher cummings
+- the secret  to understanding humans larry c rosen
+- its not maniuplate, its strategic communication keisha brewe
+- the power of seduction in our everydat lives - chen lizra
+
+
+- La mentalidad focus, es impresindible, estabilidad emocional, creetela, tu puedes, la mentalidad positiva es buena
+- Es tu oportunidad de salir del hoyo, no es tarde, es momento de que lo hagas, tal vez si hay personas que tomaron la decisión de entrar antes que tú, pero aun así puedes adentrarlo y serlo bien.
+
+- DoFasting  app, ejercicios de alta intensidad y duchas frías
+APRENDE A HABLAR Y ESCUCHAR EN EL LENGUAJE DEL OTRO..
+- ABRAZA CADA INSTANTE DE AMOR
+- EL LENGUAJE ES NUESTRA ARMA 
+
+* problema procrastinado, problema multiplicado
+* no necesitas más tiempo para ser más feliz y valorar tu vida, necesitas valor más tu tiempo para ser más feliz en tu vida.
+* La felicidad no es hacer lo que uno quiere, si no querer lo que uno hace
+https://me-qr.com/text/1860302/show
+* to check
+    - https://sites.google.com/ciencias.unam.mx/becas/abiertas
+
+* Qué quiero? ¿Qué necesito? Dejar de distraerme y Ver para dentro!
 * **MEDITA!!!
 Pensar las decisiones y desconfiar del primer impulso, pues no hay marcha atrás después de dar un paso.**
 
 ##  inscripcion
-
-# IMPORTANTE Cde laTierra.
-- Temas Selectos de Ciencias Espaciales II, Optativas
-    - mecatronica
-    - https://web.fciencias.unam.mx/docencia/horarios/20241/1443/619
-
-* indice fisica
-    - https://web.fciencias.unam.mx/docencia/horarios/indiceplan/20241/1081
-- indice computing
-    - https://web.fciencias.unam.mx/docencia/horarios/indiceplan/20241/1556
-
-*  Temas Selectos de Física Computacional III
-    - https://www.fciencias.unam.mx/docencia/horarios/20241/1081/2076
-        - https://web.fciencias.unam.mx/docencia/horarios/20241/1081/2045
-
-- BASES Y ESTRATEGIAS DE LA COMUNICACIÓN PARA LA DIVULGACIÓN DIGITAL DE LA CIENCIA
-
 * 8ver semester scheduler:
-    - 1. Concurrent Computing
-        - virtual-gilde
-            - https://web.fciencias.unam.mx/docencia/horarios/presentacion/347462
-    - 2. Introduction to the Internet of Things
-        - https://sites.google.com/ciencias.unam.mx/introduccion-iot-fc/contacto?authuser=0
-    - 3. Computational Complexity
-        - whats
-            - https://chat.whatsapp.com/CzQLjFdG0uu8mXOjtqLbBg
-            - participación de clase y avance rapido
-        - osc
-        https://web.fciencias.unam.mx/docencia/horarios/20241/1556/269
-    - 4. Technologies to Internet Development-Tecnologías para Desarrollos en Internet
-        - https://web.fciencias.unam.mx/docencia/horarios/presentacion/347497
-            - 
-    - 5. Redes Neuronales
-        - fisico
-            - https://web.fciencias.unam.mx/docencia/horarios/presentacion/347148
-            - libro:
-                - https://www.deeplearningbook.org/
-    - 6. Temas Selectos de la Historia de la Física
-        - divulgación de la ciencia
+    - 1. Concurrent Computing ? 10 Of course that yes 
+    - 2. Computational Complexity ? The complex is for me
+    - 3. Technologies to Internet Development-Tecnologías para Desarrollos en Internet? I love practice this!
+    - 4. Introduction to the Internet of Things ? I neeed it!!!!!
+    - 5. Redes Neuronales ? 10 sounds perfect
+        - libro:
+            - https://www.deeplearningbook.org/
+    - 6. Temas Selectos de la Historia de la Física ? 10 obviously
         - BASES Y ESTRATEGIAS DE LA COMUNICACIÓN PARA LA DIVULGACIÓN DIGITAL DE LA CIENCIA
-        - Communication foundations and strategies for digital science popularization
-        - https://web.fciencias.unam.mx/docencia/horarios/presentacion/347161
-* ya no: 
-    - robotica
-        - autodesk
-            - fushion 360
-            - fushion web
-            - 7gibbv7
-            - eric joel
-            - Temas selectos de ciencias espaciales.
-                - ciencias de la tierra.
-                - 1061
-                - examen profesional
-                    - antes del viernes 
-        - lunes y miercoles, y clase el dia de lab
-        - kid basico 
-            - max 2 semanas, contando esta
-        - lista de material:
-            - microcontrolador
-            - photoboard 
-            - 5volts eliminador
-        - copilco-quinetronica
-        - unit-electronics
-            - friki
-        - entrega una semana antes del
-            - concurso una semana antes de que termine el semestre
-
 * santander
     - https://app.becas-santander.com/es/program/becas-santander-learn-chatgpt?utm_source=Email_other&utm_medium=Email&utm_campaign=ChatGPT2023_Corporativo_Santander_Universidades_BBDD_CTA_bt_es
 
 * redpuma:
-    - https://redpuma.unam.mx/Registro/Inicio.aspx#
 
 * What can I do while I am on the transport?
     - PUT YOUR MIND ON AIRPLANE MODE
     - MEET A NEW PERSON AND LEARN SOMETHING NEW!
         - talking and gossiping with the people  u havent talked to, cause you havent had thetime
-            - no has tenido tiempo
     - On the way back, read and REVIEW  my class notes to see if they make sense.
     - If the transport is very full I can listen a audio book. 
     - Make small accordions before to study them afterwards
@@ -89,7 +101,7 @@ Pensar las decisiones y desconfiar del primer impulso, pues no hay marcha atrás
         - Do flashcards
         - Listen a new FULL-LENGHT disc of a band at least once per week
     - REVIEW NOTE'S PHOTOS 
-    - Read 
+    - Read
         - a book 
             - Phylosophy
             - new topics
@@ -116,10 +128,10 @@ Pensar las decisiones y desconfiar del primer impulso, pues no hay marcha atrás
     - You can ENHACE(en-jense)-MEJORAR and enliven-amenizar with classical music.
         -  Ask your friends or acquaintance(/əˈkweɪn.təns/) for new music or an album that you should listen to. 
 * preparar todo before sleep
-* levantarse 4:30
-* Sleep at least seven hours
-    - go to beed 9:00
-    - sleep 9:30
+* levantarse 7:00 am
+* Sleep at least six hours
+    - prepare and go to beed 12:30
+    - sleep 1:00 am
 * options 
     - QUE QUIERES?
         - CONOCER LO MÁXIMO POSIBLE Y DESCUBRIR NUEVAS AREAS
@@ -131,6 +143,7 @@ Pensar las decisiones y desconfiar del primer impulso, pues no hay marcha atrás
     9-Compilers-8
     9-English-8
     5-Complex-0
+
 - where can i go?
     - biblioteca vasconcelos
     - Central UNAM.
@@ -143,41 +156,6 @@ Qué tengo? La última oportunidad para poder estudiar algo de "calidad", en la 
 
 A cambio de: 5 Horas!
 
-Qué quiero? Ver para dentro!
-
-# More text
-
-- CONCENTRATE EN UN HABITO CLAVE
-    - obsecionate, usa tu fuerza de voluntad para tu desarrollo personal, para ser más fuerte.
-    - si te sientes cansado, toma perspectiva.
-    
-* **si crees que no tienes tiempo para dejar de trabajar tendrás aún menos tiempo para atender una enfermedad.**
-
-- **solo con el corazón se puede ver claramente, lo que es esencial es invisible a los ojos,**
-
-* Validación, se tacaño con esta, tal ves no limitar o imponer los limites pero si decirle que no andarias con ese tipo de morras
-    - entre más tacaño seas más van a querer que gastemos en ellas
-
-* C0MIENDO BIEN, ENTRENANDO FUERTE Y DE FORMA CORRECTA Y DORMIR BIEN PARA RECUPERARTE ES LO QUE REALMENTE FUNCIONA
-
-* No DISTRACCIONES!
-    - Soy obsesivo con todo, sere EL tipico wey obsesivo, lo voy a hacer, TRABAJAre EN MI, Muy cabron
-    - Entendimiento de la industria(Ver el big picture)
-    - Trabaja para ti, es lo mejor, para tener armas en el futuro, herramientas para la vida.
-    - No puedes confíar en tu talento o lo que sea, tienes que dejar la vida pasar, tienes que hacer lo que sientas que tienes que hacer, tener huevos y aventarte.
-    - No puedes controlar nada, dejate vivir.
-
-La vida es toda una experiencia, Vivir.
-
-Se soluciona caminando, la vida es un experimento práctico, hacer las cosas, descubrir mi identidad o quien soy mediante la acción.
-
-
-Vale verga lo que todos digan, no te claves en nada.
-
-Creo que lo mejor es no desear nada, no esperar nada, lo necestias? que es extra? Tu eres el que estropeas, bloqueas, tu eres el mismo ser que controla tu vida, que se bloquea. el que limita las abstacciones de la vida y las encapsula a traves del ego.
-
-
-Mucho futuro es ansiedad y mucho pasado es depresión.
 El mejor lugar aquí y el mejor momento es ahora. No es todo lo que ya no voy a vivir, ni todo lo que me falta por vivir.
 
 
@@ -188,7 +166,7 @@ El mejor lugar aquí y el mejor momento es ahora. No es todo lo que ya no voy a 
 
   * upbeat-optimista
 
-
+* itzel's tastes(like)
   FERRERO
   KINDER BUENO
   DELICE
@@ -203,7 +181,7 @@ NEVER BUY CONEJITOS TURIN CAUSE ARE
 
  no te aferres a ser prodcutivo 24/7, el ocio y el descanso son necesidades básicas y no necesitas ganártelas. Sé libre un ratito al día.
 
-Taxi Driver y Pulp Fiction son películas importantes para la historia del Cine pero la trama de ambas películas es... meh
+Taxi Driver y Pulp Fiction
 
 Que Eren Jeager tiene razón en todo, 
 
@@ -213,20 +191,13 @@ Que Eren Jeager tiene razón en todo,
  organicense
  Dreams Live 1980 Paris
  Ntory1
-
 https://classroom.google.com/w/NTYyMTM4Nzc4Nzk2/tc/NTk1NjA3Mjk5NjUw?pli=1
  
 
  LIMPIEZA
-
 https://www.youtube.com/watch?v=T1Bi05ABXbQ
 
-SE APRENDE AL CAMINAR
-
-
-
-JEAN ES HORRIBLE
-BLACK MIRROR
+- JEAN ES HORRIBLE-BLACK MIRROR
 
 Evangelion
 Debes descansar de 3 a 5 minutos entre series 
@@ -262,10 +233,6 @@ SANTANDER
 https://app.becas-santander.com/es/program/becas-santander-online-english-courses-2023-2nd-call
 
 
-#
-YA ESCUCHE:
-West Coast de la diosota de lana del rey,
-summertime sadness
 # NO
 Living in the shadows- Matthew Perryman Jones
 Taste Stary Kids
@@ -326,30 +293,19 @@ usa apps que controlen tu uso: news feed erradicator
 
 - manuchao
     - todo es un circo y somos participes de esto.
-        - 
-
-
-
-        A TU MERCED
 * eudaumonion
     - buen estado del espiritu
-
-- Ejerce tus más elevadas habilidades, desarrollate en mil frentes
+    - Ejerce tus más elevadas habilidades, desarrollate en mil frentes
 - epicuro
     - librate de las grandes preocupaciones del mundo
         - be with friends
-    - 
 
-    libertad raadical: buscarte a tí mismo puede que no sea la solución, porque el yo, no es una idea estática, si no que el yo se transforma todo el tiempo.
+- libertad raadical: buscarte a tí mismo puede que no sea la solución, porque el yo, no es una idea estática, si no que el yo se transforma todo el tiempo.
+    - redescubrirte a tí mismo  y tratarte como un proceso creativo para 
 
-    redescubrirte a tí mismo  y tratarte como un proceso creativo para 
-
-
-    - pequeño juego jugado en serio, un buen artista marcial, no se tensa, esta preparado, se prepara para lo que viene.
+- pequeño juego jugado en serio, un buen artista marcial, no se tensa, esta preparado, se prepara para lo que viene.
     - la palabra yo no existe
     - solo los debiles se ponen excusas para ser mas fuerte
-
-
 check:
 - https://redes-ciencias-unam.gitlab.io/examenes/examen-kubernetes/
 - ingles
@@ -376,14 +332,6 @@ check:
 - playlist:
     - https://www.youtube.com/playlist?list=PLbVHrIp7-thA25kK0mU4ZTE7tHr1jgVfK
 
-- 
-    - usa la repeticion como una canción pegajosa que no sale de tu cabeza, la repeticion de afirmaciones positivas crea patrones que crean creencias en tu subconsciente
-    - Siente la visualizacion, como si ya hubieras materializado ese sueño. 
-    - Hacer visualizaciones antes de ir a la cama
-
-    - glory gadget gift depart replace parent shoulder inmate report virus sunset apart glimpse home thunder defense major diamond unfair swarm pact hill gauge mind cruise
-
-
 - METAFISICA!!!
     - ALMA TRASCENDE 
 
@@ -391,14 +339,6 @@ check:
     - https://www.youtube.com/watch?v=DqXFtylWI10
 - NETFLIX: im thinking of ending things pelicula
 - SUELO PELVICO- https://www.youtube.com/watch?v=bMKPi0pIcG8
-- 
-
-- 
-- Evitar el auto castigo
-No te hará avanzar ni mejorar, ¿Cuándo has visto que entrenen a un perrito con tortura y sea mejor que uno entrenado con premios?
-Auto condicionate, date premios, date gustos por pequeños progresos, revisa bien que tus metas diarias sean pequeñas y alcanzables
-
-
 
 
 - scp -r BackEndWebDevelopment Administrador@192.168.0.10:"C:\Users\Administrador\Desktop\"
@@ -408,12 +348,8 @@ Auto condicionate, date premios, date gustos por pequeños progresos, revisa bie
 - md
     - https://github.com/markdown-templates/markdown-emojis
 
-edwin gonzales
 
-
-
-numero de contrato:
-
+# izzi numero de contrato:
 - 0119576413 NOOO
     - SII
         - 0119696834
@@ -445,9 +381,7 @@ Guerreros del bajo, Flowklorikos, Rapper school, Faruz Feet, A.C.O., Portavoz, S
 Junior Cyber Security Specialist
 
 * conda
-Another answer, given in this question that worked for me on this error message was:
-
-source activate base
+    - source activate base
 
 So a full example could be:
 
@@ -526,7 +460,15 @@ anaconda-navigator
 
 
 #  NO PAGUES POR ALGO QUE NO NECESITAS, NO COMPRES COSAS QUE PIERDAN EL VALOR SALIENDO DE LA TIENDA...
+- usa la repeticion como una canción pegajosa que no sale de tu cabeza, la repeticion de afirmaciones positivas crea patrones que crean creencias en tu subconsciente
+    - Siente la visualizacion, como si ya hubieras materializado ese sueño. 
+    - Hacer visualizaciones antes de ir a la cama
 
+    - glory gadget gift depart replace parent shoulder inmate report virus sunset apart glimpse home thunder defense major diamond unfair swarm pact hill gauge mind cruise
+
+- Evitar el auto castigo
+    - No te hará avanzar ni mejorar, ¿Cuándo has visto que entrenen a un perrito con tortura y sea mejor que uno entrenado con premios?
+    - Auto condicionate, date premios, date gustos por pequeños progresos, revisa bien que tus metas diarias sean pequeñas y alcanzables
 
 * ABSTENTE A LA dopamina rapida
     - pq ya no vas a querer hacer otro tipo de cosas
@@ -536,15 +478,6 @@ anaconda-navigator
         - lo que haces te apaciona?
             - 
     - RECONECTATE con tu yo más primitivo
-
-
-*  Escanear en un solo archivo PDF a COLOR, lo siguiente:
-    - la tira de materias reciente, credencial UNAM y 
-    - **carnet de seguro médico facultativo.**
-        - 
-
-Las inscripciones son del 7 al 19 (como el semestre pasado, metes tus grupos un día y al siguiente a las 8am sabrás en cuáles fuiste aceptadx y en cuáles no).
-Entramos a clases el 14.
 
 # How be clean
 
@@ -915,7 +848,8 @@ Al cabo de un tiempo fuí a vivir a otro país, cuando después de varios  años
 De pronto llegó el rigor del  invierno y en un día muy ventoso, cuando todos los árboles de la calle  estaban arqueados por el viento, pude notar la solidez de los árboles de  mi vecino, que casi ni se movían.
 Las adversidades por las  cuales aquellos árboles habían pasado, al ser privados de agua, les  había beneficiado mucho más, que el confort o un trato mucho más  delicado.
 Todas las noches antes de ir a acostarme doy siempre una mirada a mis hijos. Les observo y veo cómo ellos van creciendo.
-“Siempre pedimos que las cosas sean fáciles, pero en verdad lo que  necesitamos es pedir que en nuestro interior se formen raíces fuertes y  profundas; de tal modo, que cuando las tempestades lleguen, sin previo  aviso y los vientos helados soplen, seamos capaces de resistir en lugar  de ser derrotados y destruidos como lo son los árboles sin raíces  profundas. 
+**Siempre pedimos que las cosas sean fáciles, pero en verdad lo que  necesitamos es pedir que en nuestro interior se formen raíces fuertes y  profundas; de tal modo, que cuando las tempestades lleguen, sin previo  aviso y los vientos helados soplen, seamos capaces de resistir en lugar  de ser derrotados y destruidos como lo son los árboles sin raíces  profundas.**
+
 Texto de la Web
 Y así con nuestros hijos! Enseñemosle a defenderse solos en la vida! ..Si un día inesperado nos toca estar lejos de ellos,que sepan resolver sin nuestra presencia, eso es lo más grandioso que podemos dejarle...
 
@@ -972,21 +906,12 @@ Y así con nuestros hijos! Enseñemosle a defenderse solos en la vida! ..Si un d
 
 - FOLIO-XaU56llk41J
     - XaU56llk41J
-- bbva docs
-    - https://drive.google.com/file/d/1FE9gNKBqGOFXngXEiARiqCRMIYMqzzU0/view
-        
 
-- np, p, algoritmos de aproximacion
-- pract algoritmo verificador, ahora si responder la pregunta de decisión
-- expo 1 -último mes de clases 
 
 - repeticiones pueden generar distracciones respecto a saber quien esta hablando
     - la mente se distrae al encontrar sonidos que rimen
     - rapido corren los carros en el ferrocarril
     - neuromarketing- al cerebro le encantan las tonaditas pegajosas
-- liner problem, linealizacion
-    
-- irse a los bosques a no hablar con nadie
 
 quarcissus
 - saber decir que no
@@ -1035,28 +960,6 @@ quarcissus
     3. It’s ok to have different versions of resumes for different companies or roles.
     -  The source of positivity is self-belief. It spreads when you have confidence in who you are and what you're doing.
 
-- repensando tu masculinidad.
-    - 24 oct
-    - 15 nov no abra
-    - 29
-    - dec 6
-    - 4-11-25 oct
-    -
-
-- to comple-
-    - sí M' codifica a M y M decide a L. Entonces, M' decide por medio de M al complemento de L?
-    - to participate:
-        - https://www.youtube.com/watch?v=VyHbd6sx5Po
-            - de que va la prueba
-        -  en el 4 otro ejemplo
-        - en el 2 es una MT normal, y si das el analisis.
-            - sale con una cinta
-        - referencias para el 1 y 4
-        - para la concatenacion
-            - combinacion de interseccion
-            - transición del estado final de la primera maquina al inicial de la segunda 
-                - las MT tienen una función de transcición, esta transcición es de MT
-                    - sabemos q para por la def de lenguajes decidibles, por lo que existe una MT que lo reconoce pero siempre para, un estado de aceptación. 
 
 - un recordatorio del implacable avance del tiempo
     - Y MORIRAS, PASARAS. 
@@ -1083,7 +986,7 @@ quarcissus
 
 Son drogas emergentes, son más baratas que la marihuana, la cocaína, los efectos son más duraderos y contienen compuestos más tóxicos. Entre ellas, las más populares MS(Marihuana sintética) y las sales de baño.
 
-La segunda columna es para las palabras claves relacionadas con la pregunta. ideas u otras preguntas que ayudan a responder la primera pregunta. 
+- div: La segunda columna es para las palabras claves relacionadas con la pregunta. ideas u otras preguntas que ayudan a responder la primera pregunta. 
 
 
 ## el amor
@@ -1091,61 +994,310 @@ Yo siempre he pensado que el amor de tu vida no es la persona de quién más te 
 Yo quiero mucho a mi amorcito, no solamente lo llevo en mi mente sino en mi alma y aunque no soy su esposa aún, trato de guardarme y siempre hago oración para no fallarle a él ni a mi, ya que yo si apostaría por un amor como él hasta el final, incluso cuando por alguna extraña razón yo no estaría en su vida o el en mi vida, siempre lo llevaría acá ♡ en mi corazón y de ahí nadie ni nada lo sacaría. La fidelidad no solamente se vive en vida sino que trasciende. Lo quiero mucho 🥺
 
 - peli to santi:
-    . | La familia del futuro (2007).
-- una vez que lo desbloqueas, la realidad es tuya
+    - | La familia del futuro (2007).
 
-- Trata a los pesos ligeros como si fuesen pesados para que algún día puedas tratar a los pesos pesados como si fueran ligeros.
-
-duda de todo, ten cuidado con 
-
-todo lo que crece para dentro crece para afuera
+- duda de todo, ten cuidado con 
+    - todo lo que crece para dentro crece para afuera
 
 # TO READ AGAIN
 
-hay muchos factores que toman para entrar; en aws se crea nueva tecnología que lidera el mercado, entonces se busca gente que no solo tenga buenas bases técnicas, sino que tengan la capacidad de inventar, resolver problemas, lidiar con la ambigüedad, etc. y además varios han hecho investigación, trabajado en otros lados, etc. Hay muchas posiciones no solo de software engineering, también de applied scientist, quality assurance, program management, etc. El camino que tomas para llegar a cada una es muy diferente, pero usualmente requiere mucha dedicación y un gran motivo, no solo querer entrar “por el nombre”
+- hay muchos factores que toman para entrar; en aws se crea nueva tecnología que lidera el mercado, entonces se busca gente que no solo tenga buenas bases técnicas, sino que tengan la capacidad de inventar, resolver problemas, lidiar con la ambigüedad, etc. y además varios han hecho investigación, trabajado en otros lados, etc. Hay muchas posiciones no solo de software engineering, también de applied scientist, quality assurance, program management, etc. El camino que tomas para llegar a cada una es muy diferente, pero usualmente requiere mucha dedicación y un gran motivo, no solo querer entrar “por el nombre”
 
-Mi consejo sería poner tu perfil de LinkedIn al tiro, aplicar si no te contactan, mandar solicitud de amistad en LinkedIn a reclutadores que trabajen donde te interesa, obvio inglés muy bien si quieres fuera de Mexico, buscar el temario de la posición que te interesa y estudiar porque esas empresas tienen un temario bien definido. Y también hay que tener suerte.
-
-Entrar al FAANG(M) como primera opción sin experiencia es suicidio. Recomiendo ir ganando experiencia e ir entrevistándose con pequeñas empresas (startups), y armar un currículum participando en proyectos de software libre. Ya con un poco de actividad en github y linked in los reclutadores llegarán y es un cortejo, no es aventarse a la
+- Mi consejo sería poner tu perfil de LinkedIn al tiro, aplicar si no te contactan, mandar solicitud de amistad en LinkedIn a reclutadores que trabajen donde te interesa, obvio inglés muy bien si quieres fuera de Mexico, buscar el temario de la posición que te interesa y estudiar porque esas empresas tienen un temario bien definido. Y también hay que tener suerte.
+- Entrar al FAANG(M) como primera opción sin experiencia es suicidio. Recomiendo ir ganando experiencia e ir entrevistándose con pequeñas empresas (startups), y armar un currículum participando en proyectos de software libre. Ya con un poco de actividad en github y linked in los reclutadores llegarán y es un cortejo, no es aventarse a la
 primera y a lo primero que ofrezcan, es conocer el proceso y ganar más experiencia en el proceso de entrevistas.
 
-***Es un asunto de saber con los años que es lo que vale uno y que es lo que uno quiere hacer.***
+- to work: 
+    * ***Es un asunto de saber con los años que es lo que vale uno y que es lo que uno quiere hacer.***
+    * **El único consejo que doy es no hagas caso a ningún consejo, incluso al mío. Me entiendes? Bueno escucha los consejos pero cuestionalos. No hagas algo porque alguien te dijo que no lo hagas sólo porque a esa persona no le funciono, tampoco hagas algo sólo pq a alguien le funcionó.** No lo hagas, es pura explotación mental y física a cambio de dinero.
+        - Te sugiero intentes entrar en empresas europeas tipo farmaceuticas, bioingeniería, energía o ingeniería tipo Bayer (DE), BioNtech (DE), Equinor (NO), Shell (NL/UK), Siemens (DE), ASML (NL). En estas empresas tampoco es “facilícimo” pero tampoco es una hazaña. Si vas por programación o ciencias de datos yo te sugeriría leer experiencias de otros y usar hackerone y datacamp.
+        - Te pagan muy bien, vives mejor en Europa, te explotan menos, hay proyectos muy interesanres y no solo estar haciendo ciencia de datos para vender-vender-vender espiando (aquí hay GDPR que protege tus datos personales), por ejemplo tienes meses de vacaciones al año, tu esposa/o tiene 8 meses de sueldo pagado cuando tienen un hijo, cientos de prestaciones y bonos. La gente acá no requerimios “ponernos la camiseta” de la empresa porque aquí los sindicados están bien posicionados y todos hacen sus obligaciones con los empleados y más.
+        - A mi me ofrecieron ya después de estar en este tipo de empresas chamba en Facebook y Amazon, pero la verdad por ahora ando en un statu quo donde tengo proyectos importantes inclusive académicos intereuropeos y también tengo tiempo para tomar clases de piano, ir al gimnasio, leer literatura nada que ver con mi trabajo e irme de vacaciones un mes si quiero. También tienes mucho presupuesto para training al igual que esas empresas que mencionas.
+        - EEUU es un paisucho que sigue neoesclavizando y es imposible comprar una casa en una ciudad decente. Allá los sindicados literal son “del diablo” por sus creencias tontas con su modelo ultraliberal. Por acá es común querer consentir al empleado para que haga su trabajo feliz en vez de sólo pagarle mucho a cambio de aturdirlo y alienarlo de su vida personal.
+    - Te recomiendo postularte para empresas que tengan la certificación y de verdad lleven a cabo lo de great place to work
+        - APLICA:   
+            - Opción 1: arma un LinkedIn que haga que ellos te contacten. (en mi caso busco las aptitudes que piden para “x” puesto y si yo las tengo las pongo en mi perfil)
+            - Opción 2: visita las páginas de careers y sube tu aplicación a la vacante que más te acomode (Didi, paypal, Amazon, etc. )
+    - Siempre que puedas invertir en ti no lo veas como un gasto sino como inversión y que dará frutos en algún plazo. Y si claro no podía faltar que es por trabajar duro, buscar más allá de lo que te piden y aprender las nuevas tecnologías para estar actualizado y mostrar que eres capaz de sacar la chamba adelante.**
+    - PRACTICE On pages
+        - Paypal basó la prueba técnica en la pruebas que ofrece HackerRank y también puedes adquirir una suscripción a HackerRank para prepararte.
+        - LetCode:
+        - ingles presencial
 
-Leetcode
+- debate chomsky:
+    - https://www.youtube.com/watch?v=GazE5vFuFMs
 
-Pero la vdd la carrera de CC te deja (en mi caso) bien preparada, eso sí yo me eché un mes de puro leetcode. Casi todos entran a FAANG como primera experiencia. Y sin exp entras ganando al menos 120k al año.
-El único consejo que doy es no hagas caso a ningún consejo, incluso al mío. Me entiendes? Bueno escucha los consejos pero cuestionalos. No hagas algo porque alguien te dijo que no lo hagas sólo porque a esa persona no le funciono, tampoco hagas algo sólo pq a alguien le funcionó.
+- to g: 
+    * Validación, se tacaño con esta, tal ves no limitar o imponer los limites pero si decirle que no andarias con ese tipo de morras
+        - entre más tacaño seas más van a querer que gastemos en ellas
+    - tengo curiosidad por saber algo, dime alugnas pistas pero yo adivino
+        - tipo un videojuegos
+            - dejala con su curiosidad
+        - convierte lo logico en emocional
 
-No lo hagas, es pura explotación mental y física a cambio de dinero.
-Te sugiero intentes entrar en empresas europeas tipo farmaceuticas, bioingeniería, energía o ingeniería tipo Bayer (DE), BioNtech (DE), Equinor (NO), Shell (NL/UK), Siemens (DE), ASML (NL).
-En estas empresas tampoco es “facilícimo” pero tampoco es una hazaña. Si vas por programación o ciencias de datos yo te sugeriría leer experiencias de otros y usar hackerone y datacamp.
-Te pagan muy bien, vives mejor en Europa, te explotan menos, hay proyectos muy interesanres y no solo estar haciendo ciencia de datos para vender-vender-vender espiando (aquí hay GDPR que protege tus datos personales), por ejemplo tienes meses de vacaciones al año, tu esposa/o tiene 8 meses de sueldo pagado cuando tienen un hijo, cientos de prestaciones y bonos. La gente acá no requerimios “ponernos la camiseta” de la empresa porque aquí los sindicados están bien posicionados y todos hacen sus obligaciones con los empleados y más.
-A mi me ofrecieron ya después de estar en este tipo de empresas chamba en Facebook y Amazon, pero la verdad por ahora ando en un statu quo donde tengo proyectos importantes inclusive académicos intereuropeos y también tengo tiempo para tomar clases de piano, ir al gimnasio, leer literatura nada que ver con mi trabajo e irme de vacaciones un mes si quiero. También tienes mucho presupuesto para training al igual que esas empresas que mencionas.
-EEUU es un paisucho que sigue neoesclavizando y es imposible comprar una casa en una ciudad decente. Allá los sindicados literal son “del diablo” por sus creencias tontas con su modelo ultraliberal. Por acá es común querer consentir al empleado para que haga su trabajo feliz en vez de sólo pagarle mucho a cambio de aturdirlo y alienarlo de su vida personal.
+- https://drive.google.com/file/d/1vJV23kE4MAW21Gi2yt6aXKaSowzndCel/view
 
-Opción 1: arma un LinkedIn que haga que ellos te contacten. (en mi caso busco las aptitudes que piden para “x” puesto y si yo las tengo las pongo en mi perfil)
-Opción 2: visita las páginas de careers y sube tu aplicación a la vacante que más te acomode
-(Didi, paypal, Amazon, etc. )
+- consejos: 
+    - exercise:
+        - Trata a los pesos ligeros como si fuesen pesados para que algún día puedas tratar a los pesos pesados como si fueran ligeros.
+        - * **si crees que no tienes tiempo para dejar de trabajar tendrás aún menos tiempo para atender una enfermedad.**
+        - * C0MIENDO BIEN, ENTRENANDO FUERTE Y DE FORMA CORRECTA Y DORMIR BIEN PARA RECUPERARTE ES LO QUE REALMENTE FUNCIONA
+    - life: 
+        -  nadie se ilumina viendo figuras de luz, según Carl Jung, solo viendo la sombra es cuando puedes iluminarla, la dualidad no existe en otros planos pero en este sí, volteando a verla puedes transformar la sombra
+        - mas vale un mal arreglo  que un buen plan
+        - CONCENTRATE EN UN HABITO CLAVE
+            - obsecionate, usa tu fuerza de voluntad para tu desarrollo personal, para ser más fuerte.
+            - si te sientes cansado, toma perspectiva.
+    - think:
+        - **solo con el corazón se puede ver claramente, lo que es esencial es invisible a los ojos,**
 
-Yo estuve como soporte técnico de campo para Amazon México en la sucursal de Tepotzotlán aplique en el sitio de Amazonjobs.com y hasta el 3 intento logré quedar entre cada intento tienes que esperar 3 meses me pidieron la cert COMPT+ y la CPTS de Google afortunadamente no me pidieron Uni también me pidieron un a excelente atención a usuarios finales así como experiencia con modelo OSI y Conocimiento en redes 4 meses después me corrieron por qué configure mal el DNS y el sistema de envíos de la sucursal se cayó durante 2 HRS 😞 lo mejor de todo son lo bonos de bienvenida y el de KPIS son casi 2 meses de salario pero tienes que durar mínimo un año para conservarlo yo como solo dure 4 meses lo tuve que devolver la comida es gratis como empleado así como snacks y cosas de ese estilo lo malo era que el lugar me quedaba muy lejos y aveces la jornada se alargaba un poco más de lo habitual.
-Pd. Si te corren puedes volver aplicar hasta los 2 años a Amazon.
-Pd2; Después que envías tu CV debes de revisar las actualizaciones contantes en total son 3, entrevistas más 1 vídeo y una entrevista en la plataforma de Amazon que es como un vídeo en caso que apliques a Soporte.
+- una vez que lo desbloqueas, la realidad es tuya? but what?
 
-**Reclutadores de Amazon, Oracle, Printerest, Paypal me contactaron para aplicar al proceso de selección pero desafortunadamente siempre me quedaba en el primer filtro de resolver un problema mediante un algoritmo en 30 minutos, la última ocasión qué pasó eso me dio tanto coraje que me suscribí a una plataforma LetCode ($5000 al año) donde tienen programas para aprender a resolver problemas mediante algoritmos, me pegue bien macizo a resolver varios ejercicios y cuando me sentí preparado volví a aplicar a PayPal; resulta que el primer problema que me ponen en la entrevista ya lo había resuelto en LetCode ya los demás filtros los pasé y ahora estoy ahí trabajando muy contento y a gusto, algo similar me paso con el inglés ya que estaba bien piedra y pues igual me daba coraje que se fueran las oportunidades hasta que decidí pagar clases particulares $900 a la semana para aprender y si funcionaron. Cabe mencionar que vengo de una familia que no tiene gran poder adquisitivo y todo lo que he pagado para mejorar mis habilidades profesionales ha sido del mismo dinero que he ganado trabajando como desarrollador. Conclusión: Siempre que puedas invertir en ti no lo veas como un gasto sino como inversión y que dará frutos en algún plazo. Y si claro no podía faltar que es por trabajar duro, buscar más allá de lo que te piden y aprender las nuevas tecnologías para estar actualizado y mostrar que eres capaz de sacar la chamba adelante.**
 
- Confirmo, en mi caso Paypal basó la prueba técnica en la pruebas que ofrece HackerRank y también puedes adquirir una suscripción a HackerRank para prepararte.
+# To me:
 
- Te recomiendo postularte para empresas que tengan la certificación y de verdad lleven a cabo lo de great place to work
+- Don't get distracted!
+    - Im obsessive with all, I'll be the typical obsessive person, nerdo, I'm going to do it, I will work on me, I will work on myself in a big, brutal way. Because working for u is the best thing u can do, to have weapons in the future, tools for life.
+- Understand the industry, the big and whole picture
+- u can't rely on yr talent or whatever, u dont have to let the life pass u by, u must to do what u feel u have to do, have balls and go for it. 
+- Remember that u cant control nothing, let urself live! Life is all about a experience, and it solved by walking, life is a practical experiment, doing things, discovering my identity or who Im through action.
+    - No matter what people say, dont get locked into anything
+- I think that we will ever  be full, we will always want something more.
+Creo que lo mejor es no desear nada, no esperar nada, lo necestias? que es extra? Tu eres el que estropeas, bloqueas, tu eres el mismo ser que controla tu vida, que se bloquea. el que limita las abstacciones de la vida y las encapsula a traves del ego.
 
-* To comple:    
-    - El ejemplar de entrada debe ir en la codificación que porpusimos
-    -  el certificado es un ejemplar concreto?
-    - fase aleatoria:   
-        - generador de certificados en tiempo polinomial
-    - para el verificador
-        - buscar ciclos dentro del subconjunto de v'
-        - todas las adyacencias(ver video del 11-oct aprox 45 )
-    - permutaciones de tamaño k de los vertices de la grafica
-        - solo que puedes encontrar repeticiones de graficas
-* TO TDI:
-    - ACDC1928
+
+**Mucho futuro es ansiedad y mucho pasado es depresión.**
+
+- Srimad Bhagavatam
+- “Secretos de las zonas azules” de Dan Buettner.
+- to longevidad:
+    - Creo que la alimentación tiene importancia, el mantenerte activo físicamente también. Pero definitivamente lo que ayuda a que llegues a viejo con esa energía es el no preocuparse tanto por las cosas, saber desprenderse de los traumas, y mantenerse mentalmente sano. Si vives sumido en la ansiedad y el estrés, o sufriendo por tu pasado, ¿cómo crees que vas a llegar? 
+
+- "memento mori”, significa “recuerda que te vas a morir”, y se va a acabar, y has dejado pasar el tiempo...
+    - No da agobio porque si hay algo más feo que pensar en la muerte, es imaginar tus últimos momentos y ver pasar delante tuyo a la versión de ti que pudo ser pero no fue porque no te animaste.
+
+- He estado pensando bastante en dónde estoy y hacia dónde quiero ir. Tu lo has hecho?
+
+
+- xplain
+- las redes sociales, te encasillan, te reafirman y endurecen la burbuja, le enseñas a tu cerebro que no debe trabajar, que como maximo ocupara 30s para interpretar y enteder algo, pero que necesita olvidarlo para poder interpretar otra cosa, sin embargo la vida es un suceso que se construye a lo largo del tiempo, de la memoria, solo con ideas que se basan sobre otras muy antiguas, que necesitas para enteder, y eso es todo lo contrario a la espontaniedad inmensa.... el mundo no hace sentido, si entiendes al mundo como eventos fragmentos, aislados, de 5s, pq no tendras la capacidad de entenderlo. CUIDATE!
+    - ESTAS PERDIENDO EL TIEMPO!   
+        - sal del gallinero! vuelcate contigo mismo
+    - es una forma de engañarte, no necesitas recordar un evento pq le has tomado una foto, has delegado esa responsabilidad, pero la realidad es que debes de hacer el esfuerzo de acordarte.... que has hecho...
+
+- por qué haces lo que haces? por qué le haces daño? si dices que NO quieres hacerle daño, si dices que se merece lo mejor, 
+- quieres ser feliz?
+    - olvidate del pasado, concentrate en la felicidad que puedes tener en el ahora, en el presente.
+    - la experiencia le debería de dar a uno la intuición del afecto de las sigueinte acción en la "felicidad" total.
+        - recompensa inmediata?
+            - NO TE PUEDES IR SIEMPRE POR LA ACCIÓN QUE TE MÁS FELICIDAD INMEDIATA
+    - en la medida de lo posible, limita lo más q puedas las redes sociales, abrete a la oportunidad de conocer a las personas que están a tu lado en lugar de las redes, JUEGALE A LA OLD SCHOOL, SE MUY REBELDE! Sí! Es complicado salir, por el miedo que tienes a escucharte te distraés, con un podcast, con musica, con podcast, pero te tienes que dar el tiempo a tí.
+    - MEDITA!
+    - COMPLICA TUS HABITOS ADICTIVOS, no pongas timer, genuinamente BORRALAS
+
+- estamos en una carrera de demostrar, sobresalir, ser famoso, etc, pero por que? la realidad es q no debemos demostrar nada.
+    - entre menos pretensiosos, menos plasticos las personas valen más la pena
+
+0. obtener los audios
+1. primer paso limpiar el ruido de nuestro primer audio
+    * wav
+    * una vez seleccionado el audio, la parte del ruido, en EFECTO LE DAMOS A reducción de ruido
+    * luego seleccionas todo el ruido y vuelves a la reducción de ruido para aplciarlo, 
+2. Ecualización, para resaltar lo que quieremos hacer.
+    - efecto: EQ, de curva de filtro
+    - ganancia: que tanto abre su oido el microfono para escuchar, no es de volumen, 
+    - ecualizador 
+3. Amplificar en efectos: volumen y amplificacion
+    - para hacer que nuestros sonidos suaves se escuchen más sin anteral las que ya se escuchan fuerte
+        - para no afectar las fuertes, ahora tenemos que comprensar
+4. normalizar para escuchar 
+5. para los gritos vas a efecto, en steve daulton desvancener progressivamente de estudio 
+    - podemos limitar 
+
+- canales de hasta arriba las voces y luego los efectos o ruidos de fondo
+- cuando se escucha eco es la rebeneracion
+
+- MI LINKG: https://qrco.de/beWVQz
+
+¿Qué elementos sientes que faltan en tu matrimonio? ¿Tienes expectativas poco injustas de tu pareja? ¿Por qué permitiste que sucediera? ¿Estás preparado para enfrentar las consecuencias de tus acciones? 
+
+que significa?
+Null annotation types have been detected in the project. Do you wish to enable null analysis for this project?
+
+h2 manejador de base de datos que funciona en memoria con JPA podemos avanzar
+
+
+ # SS programa: https://drive.google.com/file/d/1ulQ5c3f77ZWcH96QS-a0mw6EpnQ_xR5B/view
+
+spring tools suit boot sts
+
+- "33306:3306"  
+    - lado izq al que te vas a conectar
+    - predeterminado del servicio.
+- data
+jetbrains
+datagrip:solo bases
+intellij IDEA: 
+DBeaver-gratis menos pesado
+
+@column(lenght = 100, nullable=false)  es para validación en la base de datos
+@NotNull, validación de spring
+
+* BECA
+    - https://www.iie.org/programs/exxonmobil-scholarship-for-research-mexico/
+* el labor del body sabda
+
+# TDI
+http://localhost:8080/AgregarProducto
+
+https://github.com/ohconstantino/spring_tdi/blob/main/src/main/java/fciencias/unam/tdi/demo/controller/SemestreController.java
+
+https://github.com/Jose-MPM/SyL/blob/main/src/main/resources/templates/agregarProducto.html
+
+https://github.com/ohconstantino/spring_tdi/commit/99d2ef938ba5cd413d9e06a8cbcd1847c3300705#diff-c410a89cbedd4ea12c23b0990570c4465a00934174a9d52973701c3336c4757b
+
+* tweet = parrago introductorio de la historia
++ copy: 
+    - copy in: texto dentro de la imagen
+    - copy out: lo que va en la publicación, en el post podemos usar emojis
+        - picale al #hoy nos uniremos al mes de la #ciberseguridad! por eso te compartimos conocimiento muy valioso.
+        - # to generate tendencía 
+        - # de acuerdo a los hilos de conversación que seguiras
+            - definir un tipo de contenido usando los hast 
+
+* acciones que llevare a lo largo de mes para producir nuestro contenido.
+* calendario de difusión
+* parrilla: todo lo que publicaré tal cual en mi red
+    - hora/día  lunes-day of
+        - copy, link al blog, link a la imagen
+    - primero publicamos el copy out
+- 29 nov - sumi fest
+    - TAMAÑO tabloide-poster
+* fechas:
+    - do
+
+
+# to comple:
+
+* La mayoría de los problemas en ciencias de la complejidad se abordan como problemas NP, y varios sistemas complejos, incluyendo el desdoblamiento de proteínas, se clasifican dentro de esta categoría. La pregunta clave es: ¿Qué nos indica el hecho de que tengamos este tipo de problemas que, como mínimo, son de tipo NP? Podría sugerir que somos sistemas que van más allá de una Máquina de Turing Determinista (MTD). Esta reflexión nos sumerge en cuestiones filosóficas, como si la vida es computable debido a que NP=P, o si tiene sentido perseguir el desarrollo de una inteligencia artificial generalizada cuando nuestro propio sistema ni siquiera puede ser completamente computable. Este dilema plantea interrogantes sobre la verdadera naturaleza de la inteligencia y sus límites en el contexto de la complejidad computacional.
+
+- todo: 
+    - que estudios o programas existen para el desdoblamiento de proteínas
+    - buscar articulos donde se ahble de esto para decir que esto entra dentor de NP, para reafirmar que es NP
+
+
+# como vencer el miedo 
+- canaliza el mieod, interpretalo como un plus de energía, tu cerebro see esta preparando para lo que se viene, tu cuerpo esta entrando en un estado de hiperconsciencia, el miedo es la emoción que sientes al exfrentarte a una situación que genera una incomodidad que no depende de tí pero puede ayudarte a mejorar
+- ve el miedo como si fuera un videojuego, sube de nivel, sometiendote al estres creas nuevas redes neuronales, es la música que te prepara para el combate, es una misión para ganar exp y subir de nivel
+- tu padre ya lo ha heco, vencio el miedo y conocio a tu padre, gracias a que consiguio ese trabajo tu vives, serás el único que no respetará el trabajo de toda tu familia, HONOR Y RESPETO
+    - Pedro Méndez, mi papa pudo con eso, fue un buen gallo, si fallas rompe el apellio que tienes
+- piensa en todo lo que puedas perder
+    - todo lo que puedes perder esta del otro lado del miedo, por qué tienes miedo a fracasar? ese es el camino, necesitas fracasar para aprender, echale un par de huevos, estas diseñado para creer. NO TE ARREPIENTAS DE LO QUE NO PUDISTE HACER
+- la regla de loos 5s, entras en el patrón de pensamientos negativos, cuenta de 0-5, patrón lógico, actua antes de terminar la cuenta, 5,4,3,2,1 ACTUA
+    - Confía en tí.
+
+- que falta de amor te tuviste para engañar a itzel con una gorda puta, en un teibol bien culero
+    - el alcohol hace que el pasito de aquí alla esta aquí en corto.
+- enconmiedate y sabe soltar
+- que patrones sigues que están mal? estas dispuesto a cambiar? es la oportunidad de renacer e inicar de 0.
+el misticizmo de la vida, así es como pasan las cosas, las cosas no hubieran pasado de otra manera, 
+
+busca crecer, establece tu vida y apartir explora, pero siempre siguiendo un camino.
+
+- genjibre-kukuma
+    - kase
+    - pelilla
+- YO NO quiero arrancar el hermoso brillo de tu vida ni contagiarte con mi sombre.
+
+- https://github.com/Jose-MPM/SyL/tree/main/src/main/java/fciencias/unam/SyL/controller
+https://github.com/Jose-MPM/SyL/blob/main/src/main/java/fciencias/unam/SyL/controller/HomeController.java
+https://github.com/Jose-MPM/SyL/blob/main/src/main/java/fciencias/unam/SyL/controller/InventarioController.java
+https://github.com/Jose-MPM/SyL/blob/main/src/main/java/fciencias/unam/SyL/entity/Inventario.java
+
+https://docs.google.com/document/d/1AP4hGy2koKtb5oykxTQYHy7wD1FAkfrwggVQe_ba_-I/edit#heading=h.4lqp25cx7kth
+
+
++ project:
+    - Para incrementar esta expresividad y conseguir que las redes neuronales no sean funciones lineales se intercalan las capas lineales con funciones no lineales, llamadas funciones de activación. En nuestro caso utilizamos 
+
+- input:
+
+# load MNIST dataset
+from tensorflow.keras.datasets import mnist
+(x_train, _), (x_test, _) = mnist.load_data()
+
+image_size = x_train.shape[1]
+x_train = np.reshape(x_train, [-1, image_size, image_size, 1])
+x_test = np.reshape(x_test, [-1, image_size, image_size, 1])
+x_train = x_train.astype('float32') / 255
+x_test = x_test.astype('float32') / 255
+print(x_train.shape)
+
+noise_factor = 0.5
+x_train_noisy = x_train + noise_factor * tf.random.normal(shape=x_train.shape)
+x_test_noisy = x_test + noise_factor * tf.random.normal(shape=x_test.shape)
+
+x_train_noisy = tf.clip_by_value(x_train_noisy, clip_value_min=0., clip_value_max=1.)
+x_test_noisy = tf.clip_by_value(x_test_noisy, clip_value_min=0., clip_value_max=1.)
+
+# Definir la clase del modelo autoencoder Denoise
+class Denoise(Model):
+
+  def __init__(self):
+    super(Denoise, self).__init__()
+    # Parámetros de la red
+    input_shape = (image_size, image_size, 1)  # Tamaño de las imágenes (MNIST es 28x28)
+    batch_size = 32
+    kernel_size = 4
+    latent_dim = 16
+
+    # Construir el modelo del codificador
+    inputs = Input(shape=input_shape, name='Input_encoder')
+    x = inputs
+    x = Conv2D(filters=32, kernel_size=kernel_size, strides=2, activation='relu', padding='same')(x)
+    x = Dropout(0.20)(x)
+    x = Conv2D(filters=64, kernel_size=kernel_size, strides=2, activation='relu', padding='same')(x)
+    shape = K.int_shape(x)
+    x = Flatten()(x) # para generar el latent vector
+    latent = Dense(latent_dim, name='Latent_vector')(x)
+    self.encoder = Model(inputs, latent, name='encoder')# instantiate encoder model
+
+    # Construir el modelo del decodificador
+    latent_inputs = Input(shape=(latent_dim,), name='decoder_input')
+    x = Dense(shape[1] * shape[2] * shape[3])(latent_inputs)
+    x = Reshape((shape[1], shape[2], shape[3]))(x)
+
+    # 2 capas Conv2DTranspose(64)-Conv2DTranspose(32) que hacen lo contrario a las que ocupamos en el encoder
+    x = Conv2DTranspose(filters=64, kernel_size=kernel_size, strides=2, activation='relu', padding='same')(x)
+    x = Conv2DTranspose(filters=32, kernel_size=kernel_size, strides=2, activation='relu', padding='same')(x)
+    # reconstruct the denoised input
+    outputs = Conv2DTranspose(filters=1, kernel_size=kernel_size,
+                              padding='same', activation='sigmoid', name='decoder_output')(x)
+    self.decoder = Model(latent_inputs, outputs, name='decoder')# instantiate decoder model
+
+  def call(self, x):
+    encoded = self.encoder(x)
+    decoded = self.decoder(encoded)
+    return decoded
+
+autoencoder = Denoise() # creamos una instancia de Denoise para usar el autoencoder
+
+from tensorflow.keras.callbacks import ReduceLROnPlateau
+# Definir el callback ReduceLROnPlateau
+reduce_lr_callback = ReduceLROnPlateau(monitor='val_loss', factor=0.2, patience=3, min_lr=0.0001)
+
+# Compilar el modelo con el optimizador y el learning rate inicial
+initial_learning_rate = 0.001
+optimizer = tf.keras.optimizers.Adam(learning_rate=initial_learning_rate)
+autoencoder.compile(optimizer=optimizer, loss=losses.MeanSquaredError())
+
+autoencoder.fit(x_train_noisy, x_train,
+                epochs=8, shuffle=True,
+                validation_data=(x_test_noisy, x_test),
+                 callbacks=[reduce_lr_callback])
+
+encoded_imgs = autoencoder.encoder(x_test_noisy).numpy()
+decoded_imgs = autoencoder.decoder(encoded_imgs).numpy()
+
+x_decoded = autoencoder.predict(x_test_noisy)
+
