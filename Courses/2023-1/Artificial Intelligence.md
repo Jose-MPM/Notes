@@ -1,4 +1,5 @@
 # Artificial Intelligence
+
 ## Profesor: Víctor Germán Mijangos de la Cruz
 
 El campo de la Inteligencia Artificial (IA) se enfoca tanto en el estudio como en la
@@ -72,14 +73,15 @@ ___
     - Agente que realiza acciones óptimas con base en su experiencia.
         + Óptimo: El consecualismo señala que podemos evaluar el comportamiento de un agente a partir de sus consecuencias necesitando así poder medir el rendimiento:
             * Es decir, necesitamos medir nuestro rendimiento[es decir, nuestras consecuencias]
-                - > Regla general: _es mejor medir la utilidad de acuerdo con lo que se quiere en el entorno, más de acuerdo con cómo se cree que el agente debe comportarse.
-                - Medida de rendimiento:
+                - Regla general: es mejor medir la utilidad de acuerdo con lo que se quiere en el entorno, más de acuerdo con cómo se cree que el agente debe comportarse.
+                - Medida de rendimiento: 
 
     - Racionalidad: 
         1. Medida de rendimiento que define el criterio de éxito.
         2. Conocimiento previo acerca del ambiente[entorno].
         3. Acciones que se pueden realizar
         4. Secuencia de percepciones[experiencia, memoria]
+    
     Buscando una mejora con el tiempo. 
     
     - Agente racional: Agente que selecciona la _acción_ que maximice la _medida de rendimiento_ a partir de la _experiencia_(secuencia de percepciones) y su _conocimiento previo_ a cerca del ambiente.

@@ -206,12 +206,6 @@ lexer y parser agregar lo del for
 despues traducir los fors a whiles
 2. antes de realizar la verificación de tipos debes de agregar los primeros
 
-3 y 4
-
-7- 5:00
-
-
-
 Este código es una implementación de un traductor o compilador que transforma código en un lenguaje personalizado (denotado como "jelly" en este script) a un lenguaje intermedio utilizando el marco de trabajo nanopass, en el cual cada paso de la transformación es pequeño y fácil de entender y razonar sobre él.
 
 El código está escrito en Racket, un dialecto de Lisp, y utiliza la extensión Nanopass para definir cada paso en la transformación de código fuente a un árbol de sintaxis abstracta (ASA o AST en inglés).
@@ -223,11 +217,6 @@ Definición de la función que transforma la estructura del lenguaje origen a un
 Funciones de ayuda para verificar el tipo de ciertos elementos de la gramática (constante? c), (id? i), (tipo? t), (operador? op), (my-boolean? c).
 Parseo y transformación del código fuente utilizando la gramática definida y la función de transformación, y la representación de estos datos en la forma deseada.
 El script podría llamarse "compilador_nanopass_jelly" para describir de manera efectiva su propósito y funcionalidad. Esto destaca el uso del marco de trabajo nanopass para la compilación y el lenguaje origen "jelly" que se está traduciendo.
-
-
-
-
-
 
 El código presentado está en Racket, un lenguaje de programación funcional de la familia Lisp. Aquí se usa la biblioteca nanopass para implementar un compilador de pases múltiples que realiza análisis y transformaciones en el lenguaje intermedio Jelly.
 
@@ -241,8 +230,3 @@ La parte principal de este archivo es el pase de compilación rename-var, que re
 El archivo variables.rkt es responsable de recoger todas las variables en un programa Jelly. Para cada parte del programa, define una función (como vars-programa, vars-main, vars-cuerpo, vars-func, vars-met, vars-sent, vars-decla, y vars-expr) que recoge todas las variables en esa parte del programa.
 
 En resumen, el código presentado realiza un análisis y transformación del lenguaje intermedio Jelly, renombrando todas las variables en un programa a variables únicas. Esto puede ser útil en un compilador para facilitar la optimización y el análisis de alias, entre otras cosas.
-
-
-
-
-

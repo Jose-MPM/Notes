@@ -1,7 +1,5 @@
 # Notes of Operating Systems
 
-> Mantente fuerte, positivo y nunca te rindas. ― Roy T. Bennett, The Light in the Heart
-
 ## Lab
 
 En C solo hay funciones.
@@ -44,9 +42,6 @@ En C solo hay funciones.
     * Comandos:
         - make build/thread/alarm-single.result
         - make build/tests/thread/alarm-single.result PARA REVISAR LAS PRUEBAS
-
-    * en el tick
-    si ordenamos la lista
 
 - Priority Scheduling:
     + Scheduler(Calendarizador):
@@ -200,8 +195,6 @@ int* pointer_to_value = &value
         - **El calendarizador es preemptive si el proceso con más alta prioridad siempre se esta ejecutando.**
     * Mantener la lista ordenada o sacar el máximo, luego hacer que sea preemptive, es decir cuando entre un proceso a la ready list con mayor prioridad que el proceso actual este se ejecute
         - priority-preempt  debe poner en ejecución el mismo hilo ejecutar: 
-        - exe:1:46
-        - 58
 
 * 14 October
     * _thread yield_, yo procesador cedo el procesador a traves del schedule
@@ -227,7 +220,6 @@ int* pointer_to_value = &value
         - funciones
     - load_avg
     - thread_tick
-    -
 * 25 oct
     - load1, recent cpu iterar en la lista de todos los procesos 
     - int recent_cpu  debe de ir en struct thread
@@ -257,12 +249,11 @@ Tener un Fire-Hardware tener todas
 
     * No tenemos una estructura de alto nivel pero hay implementaciones que actuan sobre estos procesos:
         - start_process-crea el nuevo proceso de usuario
-            + 
-        - 
     
     * Al igual que los hilos su parte más importante es el entorno de ejecución
     
     * Espacio de Usuario:Ocupamos definir dentro del espacio virtual una serie de renglones y llimites ya que en el modo virtual no podemos acceder directo a la memoría física
+
 2. Llamadas al sistema:
     Las llamadas a sistema permiten que los usuarios realizar operaciones que solamente puede realizar el kernel, buscando que el usuario no tenga un acceso directo a operaciones que pueden poner en riesgo el so, por lo que necesitaremos que un proceso de usuario ceda el control del procesador al so, implicitamente necesitamos un cambio de privilegios de ejecución.
 
@@ -315,9 +306,6 @@ Tener un Fire-Hardware tener todas
             - una pagina en el secondary storage puede estar en el file system o el swap
             - si un proceso tiene una pagina en el swap entonces ocupamos el spd
             - upage: que proceso se asigno
-
-* Que hay que hacer en la pract: 1dic
-    - entre los dos saben donde esta todo lo que ocupa el proceso 
 
 ### Notes:
 
@@ -398,24 +386,6 @@ ls -l
 You selected this USER-ID:
     "Manuel <jose_manuel@ciencias.unam.mx>"
 
-Change (N)ame, (E)mail, or (O)kay/(Q)uit? o
-We need to generate a lot of random bytes. It is a good idea to perform
-some other action (type on the keyboard, move the mouse, utilize the
-disks) during the prime generation; this gives the random number
-generator a better chance to gain enough entropy.
-We need to generate a lot of random bytes. It is a good idea to perform
-some other action (type on the keyboard, move the mouse, utilize the
-disks) during the prime generation; this gives the random number
-generator a better chance to gain enough entropy.
-gpg: key 443EFCCC3BCA1FEA marked as ultimately trusted
-gpg: directory '/home/ntory/.gnupg/openpgp-revocs.d' created
-gpg: revocation certificate stored as '/home/ntory/.gnupg/openpgp-revocs.d/B03B37CCF5D33CC4A95355B9443EFCCC3BCA1FEA.rev'
-public and secret key created and signed.
-
-pub   rsa3072 2022-09-02 [SC] [expires: 2024-09-01]
-      B03B37CCF5D33CC4A95355B9443EFCCC3BCA1FEA
-uid                      Manuel <jose_manuel@ciencias.unam.mx>
-sub   rsa3072 2022-09-02 [E] [expires: 2024-09-01]
 
 ntory@Moonlight:~$ pass init B03B37CCF5D33CC4A95355B9443EFCCC3BCA1FEA
 mkdir: created directory '/home/ntory/.password-store/'

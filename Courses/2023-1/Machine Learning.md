@@ -1,23 +1,9 @@
 ## Patters Recognition and Machine Learning - Sergio Hernández López
-info por correo y primer día de clase :o
-
-* Calificación
-https://www.youtube.com/watch?v=HlRhFDY1Bmg
-	- Trabajos en clase y tareas: 40%
-
-	- Laboratorio: 30% Tareas cada 2 
-		- control+espacio
-
-	- Proyecto final 30%
-		- primer avance regresando de semana santa
-		- presentacion en la segunda semana de examenes
 
 https://www.kaggle.com/code/jaytee691/melanoma-cnn-pytorch-f1-score-92
 https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 https://docs.google.com/document/d/1BZ5__JB77rZlZS2ZNUrV0SEB7Cw0vP9AeAD58SSc15s/edit#
 https://docs.google.com/presentation/d/1NJG6PRw2F6pn9TU8B4ZLJ-LPIZDYnxGkLku_v0fTVCo/edit#slide=id.gc6f90357f_0_0
-
-----
 
 - resaltar la diferencia entre hacer fine tuning de un LLM para tareas de lenguaje natural, y hacerlo con los mismos datos de entrenamiento pero sin un LLM previo.}
 	- fine tuning de GPT-2 
@@ -32,16 +18,15 @@ https://docs.google.com/presentation/d/1NJG6PRw2F6pn9TU8B4ZLJ-LPIZDYnxGkLku_v0fT
 	dataset = load_dataset('celikmus/mayo_clinic_symptoms_and_diseases_v1')
 
 	puedes rescatar algo de aqui? y el contexto de este chat?
+
 # Expo
 
 * Este modelo sigue la arquitectura de una Red Neuronal Recurrente de Long Short-Term Memory (LSTM) bidireccional, 
 
+## razón de elección
 
-razón de elección
-
-estos modelos destacan por su capacidad de entender las dependencias de largo plazo en los datos de secuencia, considerando tanto el contexto pasado como el futuro de cada punto en la secuencia de texto.
+- estos modelos destacan por su capacidad de entender las dependencias de largo plazo en los datos de secuencia, considerando tanto el contexto pasado como el futuro de cada punto en la secuencia de texto.
 	- Recurrent neural networks: cada componente comparte los mismos pesos.
-		- 
 	- las redes neuronales estándar feedforward cada componente del vector de entrada tiene sus pesos
 
 El núcleo del modelo es la capa LSTM bidireccional. A diferencia de las LSTMs estándar que solo consideran el contexto pasado de una secuencia, las LSTMs bidireccionales también tienen en cuenta el contexto futuro. 
@@ -52,12 +37,11 @@ El modelo procesa el texto de entrada mediante tres pasos clave: el \textit{toke
 
 La implementación de \textit{tokenizer} en este caso es proporcionada por Keras y es específica para el conjunto de datos de entrenamiento. Posteriormente se realiza el \textit{padding} para asegurar que todas las secuencias de palabras tengan la misma longitud. Para este modelo, la longitud máxima se establece en base al texto más largo en el conjunto de datos. 
 
-		Después se lleva a cabo el \textit{embedding}, la capa de \textit{embedding} se entrena junto con el modelo para aprender representaciones vectoriales semánticamente significativas de las palabras.
+Después se lleva a cabo el \textit{embedding}, la capa de \textit{embedding} se entrena junto con el modelo para aprender representaciones vectoriales semánticamente significativas de las palabras.
 
 Por último tenemos una capa densa con activación softmax que clasifica la salida de la LSTM bidireccional en una de las categorías de etiquetas, que representan diagnósticos médicos en este caso. La función softmax asegura que las salidas del modelo sean probabilidades que suman 1, y la categoría con la mayor probabilidad se elige como la predicción del modelo. Para el entrenamiento se utiliza el optimizador Adam y la función de pérdida de entropía cruzada categórica para etiquetas codificadas como números enteros. La métrica de evaluación es la precisión. Los pesos del modelo se actualizan mediante retropropagación a lo largo de múltiples épocas, establecido en 32.
 
 Los datos de entrada para el entrenamiento son la descripción de los síntomas, y las salidas esperadas son los diagnósticos correspondientes, lo que permite un entrenamiento supervisado.
-
 
 vocab_size: Este es el tamaño de tu vocabulario, que es el número total de palabras únicas en tu conjunto de datos. La capa de embedding necesita saber esto para crear la matriz de embedding.
 
@@ -82,7 +66,6 @@ Dense: Esta es la capa de salida del modelo. Tiene tantas unidades como etiqueta
 
 **Finalmente, el modelo se compila con la función de pérdida sparse_categorical_crossentropy, que es apropiada para problemas de clasificación multiclase con etiquetas enteras. El optimizador adam se utiliza para ajustar los pesos del modelo durante el entrenamiento, y la métrica de 'accuracy' (exactitud) se utilizará para evaluar el rendimiento del modelo.**
 
-
 Pérdida (Loss): Esta es la función de pérdida que el modelo trata de minimizar durante el entrenamiento. Un valor alto de pérdida sugiere que el modelo no está haciendo un buen trabajo al predecir las etiquetas correctas durante el entrenamiento.
 
 Precisión (Accuracy): Esta métrica mide el porcentaje de predicciones correctas del modelo. En tu caso, la precisión es 0.0, lo que significa que el modelo no ha hecho ninguna predicción correcta.
@@ -91,82 +74,6 @@ Perplejidad (Perplexity): Esta es una métrica comúnmente utilizada en el model
 
 **No hicimos un gran preprocesmiento en los datos, seguro nos falto limpiarlo, o pudo ser demasiado simple y por ello no aprendio patrones completos, pero lo dudamos, sinceramente el tamaño del dataset no fue tan grande**, el número 
 
-
 Tasa de aprendizaje: Si la tasa de aprendizaje es demasiado alta, el modelo puede estar saltando el mínimo global durante el entrenamiento. Si es demasiado baja, el modelo puede requerir muchas épocas para converger o incluso puede quedar atrapado en un mínimo local.
 
 Número de épocas: Si el número de épocas es demasiado bajo, el modelo puede no tener suficiente tiempo para aprender. Si es demasiado alto, el modelo puede sobreajustar a los datos de entrenamiento.
-
-NECESIDAD DE PENSAR DE MANERA CIENTIFICA
-RASCARLE MÁS
-
-EL CONOCIMIENTO 
-
-DECIR PORQUE ES EL BUENO Y EL MALO DE MANERA CIENTIFICA
-COMO 
-
-EXPRIMIR MÁS LA INFO A LOS RESULTADOS
-
-CRITICOS CON LA INFO QUE PROCESAS, NO OLVIDEN QUE EN LA INDUSTRIA TERMINARAN 
-
-
-ES QUE, ES LA ADICCIÓN, ES QUE EL ES EL CULPABLE, YO SOY EL PROBLEMA, NO EL OTRO
-ESTA SONRISA ES REAL
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-acostumbrate a que eres el premio, tu eres VALIOSO, NO ERES PARA CUALQUIERA, no te MERECEN
-
-el mayor obstaculo para vivir es la expectativa, que depende del mañana y pierde el hoy
-
-Elige no ser ofendido y no lo serás, no te preocupes por lo que piensan los demás de ti, preocuáte por como piensas tu de ti mismo
-
-No somos dueños de las cosas, somos dueños de nuestras reacciones hacia las cosas
-
-
-A LAS MUJERES LES CAGA QUE LES AVISEN, NO SE AVISA, SE HACE!!! DESAPARECE Y YA
-
-EMPIEZA A TRABAJAR TU CUERPO COMO NUNCA LO HAS HECHO
-DESPUES DOMINA TUS EMOCIONES COMO NUNCA LAS HABÍAS DOMINADO
-EDUTA TU PINCHE MENTE
-PRACTICA, DOMINA TU AGENDA, TRABAJO Y TU DINERO
-RIESGOS QUE DEBES TOMAR AHORITA, NO EN 
-AHORITA PARA QUE A LOS 30 ESTES BIEN CABRON
-
-DOMINADO, NADA ENTRA QUE NO DECIDA TU ALMA...
-
-
-ERES La forma en QUE RESPONDES ante las adversidades, NO LO QUE TE PASA.
-QUIEN NO MIENTE?
-
-EL GOLPE DE LA DESGRACIA ES MÁS DEBIL CUANDO LA MENTE ESA PREAPARADA PARA ELLO. 
-	PARA LAS MENTES INGENUAS, GRAN PARTE DE SU DESGRACIA RADICA EN LA SORPRESA DE LA MISMA.
-
-INCOMODIDAD VOLUNTARIA
-
-EN MEDIO DE LA FORTUNA PREPARATE PARA LA DESGRACIA, LA ADVERSIDAD
-HAY MUCHOS PROBLEMAS QUE SE PUEDEN ENFRENTAR
-
-ES ESTO LO QUE ME DABA TANTO MIEDO?
- EL SOLDADO CONSTRUYE UNA FORTALEZA MIENTRAS DESCANSA
-
-NO HABLES DE TU FILOSOFIA, DEMUESTRALO CON LA ACCIÓN, SE EL CAMBIO QUE QUIERES EN ESTE MUNDO
-
-LAS MORRAS CON NOVIAS QUE VEAN LO QUE NUNCA VAN A TENER

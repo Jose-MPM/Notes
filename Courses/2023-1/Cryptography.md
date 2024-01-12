@@ -1,5 +1,6 @@
 ## Cryptography and Security - Anayanzi Delia Martínez Hernández  
-Cuidado con la prac de **Explotación de vulnerabilidades**
+
+
 Maquina virtual con debian 11
 ssh
 OpenSSl
@@ -8,24 +9,12 @@ nmap
 gobuster y/o dirb 
 ingresar a su VM via ssh 
 Boxes
+
 asegurarse de hacer un ping desde su VM a la dir 8.8.8.8
 
 USA VM Ware
 
-Kamasutra
-
-
 845 7062 8872 - 5atosh1
-
-        10% Tarea - examen 1
-
-        15% Tarea - examen 2
-
-        25% Tarea - examen 3
-
-        50% Prácticas de laboratorio (3)
-
-¿Las clases serán publicadas? No. Sólo podrás acceder a ellas por petición. Sólo tienes derecho a pedir **5 grabaciones**.
 
 cryptohack
 tryhackme
@@ -100,7 +89,6 @@ shodan: engrane de busqueda
 
 * DATA:
         - .pcap
-        - 
 
 * Para el envio de datos se ocupan 2 protocolos:
         - TCP: genera más trafico porque es orientado a la conección, ya que se asegura de que llegue todo el tiempo, que no haya pérdida de paquetes.
@@ -115,7 +103,6 @@ shodan: engrane de busqueda
 
         http.response.code == 404
        http.request.method == GET
-           
            
            POST 
            PUT
@@ -156,8 +143,6 @@ shodan: engrane de busqueda
 * Intercambio de llaves: Diffie-Hellman
         - El algoritmo-protocolo en el cual 2 personas/sist pueden realizar un intercambio de llave publica para realizar una comunicación cifrada/encriptada a traves de un canal inseguro
         - pkgs.org
-* prac3 
-* cifrados:
         
 * para pasar archivos: 
         - ip a
@@ -185,7 +170,6 @@ hydra -L 315073120 -P palabras_9car.txt: 44.199.201.139  ssh
 
                 alpha-passwords
         - ip a for see ur IP
-* actualizar debian:
         
 ### prac4
 
@@ -200,7 +184,6 @@ hydra -L 315073120 -P palabras_9car.txt: 44.199.201.139  ssh
         - HTTP 8080/80
         - HTTPS: 443
         - SSH: 22
-* cada quien tiene su bandera
 
 # Actualizar Debian
 apt-get update && sudo apt-get upgrade
@@ -314,7 +297,7 @@ Allowing user input containing characters such as ' " $ \ can cause SQL Queries 
     - solo es lo más complicado que se puede realizar
         - por ende, el atacante DISTRIBUYE EL ATAQUE, a traves de la infección 
         - 
-    - import para evitar ser infectados: 
+    - IMPORTANTE para evitar ser infectados: 
         - No tengan puertos abiertos
         - Tener un firewall
         - protección
@@ -339,41 +322,16 @@ Allowing user input containing characters such as ' " $ \ can cause SQL Queries 
 - Explica la diferencia entre el protocolo TCP y el protocolo TLS.
     - son cosas muy diferentes ya que el protocolo TCP se encarga de la entrega confiable y ordenada de datos entre dispositivos conectados en una red mientras que el protocolo TLS utiliza la criptografía asimétrica para generar claves públicas y privadas que cifran y descifran los datos.
 
-
-min 7
 57a92Itz3
-
-faltan dos videos! 
-
-miercoles
-https://www.youtube.com/watch?v=z7bVw7lMtUg
 
 #  viernes-11-vay
 
 * cifrados modernos:
-        - 
-DES!
-redes de feistel
-campos finitos:
-
-20: ejemplo de un irreducible
-receta para construir un campo finito
-
-
-# may 19
 
 AES: cifrado viejo pero aún ocupado, lo más actual del curso
 
 # Criptologia de llave publica
-
 centros de distribuciones de llave
-
-
-
-https://m.facebook.com/story.php?story_fbid=pfbid02K1rcKy8NHiUPoK7z1uX891iyvw9n9XDUakLofta1gNBbgg1MoqU187fwVpZLM9Gal&id=100057404503208&sfnsn=scwspmo&mibextid=RUbZ1f   
-
-cuantos bits necesito para generar una llave DES
-rondas
 
 # Exam 23-May-Tuesday 
 - Temario para el segundo examen.
@@ -453,12 +411,10 @@ rondas
     - Forms abierto desde las 9:00 am hasta las 11:59.
 
 # TERNAL BLO PROTOCOLO TS LSC
-examen
 
 + criptografia de llave publica o asimetrica
         - no ha hecho la criptologia simetrica obsoleta hasta ahora
         - se basa en funciones matemáticas
-                -
 
 + en la convencional, la simetrica, todo esta basado 
         - depende de la longitud de la llave y de la capacidad de computo involucrada
@@ -466,7 +422,6 @@ examen
 
 - funcion de cifrado que dependee de una llave publica y una de la llave privada, dos diferentes para cada persona-entidad
         - la llave  publica está siempre publica
-        - 
 + RSA:
         - cifrado por bloques
 
@@ -475,10 +430,5 @@ examen
     - Estas se ocupan en parte 3 de la función F, que recibe la parte derecha Ri-1 y la llave Ki, por cada bloque Bj=b1b2b3b4b5b6 que representa un bloque de la cadena binaria de 48 bits resultante de hacer Ki XOR E(Ri-1), donde E(Ri-1) es la expanción de Ri-1, buscamos en la caja Si la coordenada donde el reglon esta dado por b1b6 y la columna esta dada por: b2b3b4b5, el resultado lo cambiaremos a binario y repetiremos con todos los bloques Bj para obtener la nueva cadena de 24 bits que será el input de la etapa 4.
     - Me base en las notas DES-COMPLETO.
 
-
-
-
-una forma mucho más fácil: Solamente deben abrirlos en Firefox, darle al play, y luego presionar Shift+Click Derecho. Ahí aparecerá la opción de guardar el vídeo en mp4.
-
-
-ES UNA 
+- DESCARGAR UN VIDEO:  
+        - una forma mucho más fácil: Solamente deben abrirlos en Firefox, darle al play, y luego presionar Shift+Click Derecho. Ahí aparecerá la opción de guardar el vídeo en mp4.

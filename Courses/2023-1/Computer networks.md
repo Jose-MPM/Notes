@@ -1,6 +1,5 @@
 # Computer networks - José Luis
-TAREAS INDIVIDUALES
-PRACTICAS 
+
 - Correo para la materia: redes@ciencias.unam.mx
 - calendario del semestre: https://www.dgae.unam.mx/assets/images/semestral2023.jpg
 - el canal de YT: https://www.youtube.com/channel/UCk-SQLqCelc0fF6X6X2LVKg?view_as=subscriber
@@ -9,31 +8,6 @@ PRACTICAS
 - la pagina del curso: https://redes-ciencias-unam.gitlab.io/curso/
 https://redes-ciencias-unam.gitlab.io/
 - el link a Telegram: https://t.me/redes_ciencias_unam
-
-## Evaluación
-Se considerarán los siguientes elementos para llevar a cabo la evaluación:
-
-    Exámenes
-    Se aplicarán 4 exámenes, de acuerdo al avance que tengamos en el curso, en las siguientes fechas:
-
-    1er. parcial: 22 de febrero
-    2o. parcial: 22 de marzo
-    3er. parcial: 26 de abril
-    4o parcial: 24 de mayo
-
-    Requisito para presentar examen: haber entregado puntualmente las tareas anteriores a la fecha del examen.
-
-    No habrá reposiciones de exámenes
-
-Es requisito indispensable el contar con un promedio aprobatorio en los exámenes y haberlos presentado todos, sin excepción, para tener derecho a obtener una calificación final aprobatoria en el semestre.
- 
-Prácticas: 50%
-
-Exámenes: 30%
-
-Proyecto final: 10%
-
-Tareas: 10%
 
 ## Network Computers
 - Intr1
@@ -835,15 +809,6 @@ La respuesta correcta es: La dirección MAC de origen se actualiza cada vez que 
 
 #### Protocolo RIP
 
-ssh redes@20.213.161.121
-#We0Gon1Make0It1Thru#   
-
-
-
-####
-####
-####
-
 ### prac 3
 
 * commands:
@@ -855,8 +820,6 @@ ssh redes@20.213.161.121
     - dhclient -r "enp1s0"
 
 * dirreción local: 192.168.0.8/24
-
-* 3.2
 
 * for nmcli: https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/ref-frequent-nmcli-commands_getting-started-with-nmcli
 ```bash
@@ -904,27 +867,6 @@ options edns0 trust-ad
 
 ```
 
-penhause
-fam viva
-video
-2 ferrari
-mmm
-a los 28
-TENGO 4 años
-
-# Lab   
-/* Cambiar a la rama de la actividad anterior /
-$ git checkout tarea-3
-
-/* Para asegurarse que tenemos los últimos cambios que se subieron a GitLab /
-$ git pull
-
-/* Crear la nueva rama para la `practica-1` /
-$ git checkout -b practica-1
-
-/* Crear carpeta para la entrega de la practica 1 /
-/* (que será entregada de manera individual) /
-$ mkdir -vp docs/practicas/practica-1/ApellidoApellidoNombreNombre
 
 # prac2
 
@@ -954,62 +896,12 @@ em0 - Red WAN   NAT-Network ¹   NatNetwork  DHCP    10.0.2.Y    Habilitado
 em1 - Red LAN   Host-Only ²     vboxnet0    Estática    192.168.42.254  Deshabilitado
 em2 - Red DMZ   Internal Network ³  intnet  Estática    172.16.1.254    Deshabilitado
 
-
-
-@1muerte1@
-
-https://192.168.42.254:443/
-admin
-Redes-2023-2
-# AZURE
-ejemplar_zoe@comunidad.unam.mx
-Uc2o#Fk7we
-aCdC1928
-
-- -> 
-Sw8g%Eh3
-
-
-u01n29.a
-
-#We0Gon1Make0It1Thru#
-PAGER=cat systemctl status --full k3s
-0
-#We0Gon1Make0It1Thru#
-#We0Gon1Make0It1Thru#
-#We0Gon1Make0It1Thru#
-ssh redes@20.213.161.121
-ME SIENTO MUY AMADO MI AMOR
-    
-
-21 dias de actitud pura positiva
-actividad puramente positiva
-
-* realidad:
-    - no quiere sentirse entascada e intenta arreglarlo
-        - si tu mujer tienes que decirte no pierdas el tiempo y ponte a trabajar
-            - necesitas conectar con tu lado productivo
-        - que necesites una mujer para subsistir no eres de alto valor
-        - necesitas una mujer para obtener un sentido o enfoque
-            - que te de estabilidad,razón y proposito
-        - controla tus vicios y excesos porque no tienes autocontrol
-        - corrige tus prioridades porque no sabes para donde vas
-
-    - 
-
-
-- Qué es dns y cómo funciona
-- Cómo comprar y configurar un dominio 
-- Las configuraciones básicas para iniciar una máquina virtual en algun web host
-
 FOR REDES: 
-
 eSTADO
 https://www.youtube.com/watch?v=nY-iXXv6RO8&list=PLN1TFzSBXi3TYgnUzlVsjdWYLBAaNdq0v&index=46
 
 DNS
 https://www.youtube.com/watch?v=r4PntflJs9E
-
 
 
 AMAZON 
@@ -1050,33 +942,4 @@ a lo mejor no nos funciona por el cloud fare
 
 en cosas no comunes poner las instrucciones de que fue lo que ocupamos, de tal modo que si otro equipo quiere agregar alguna de nuestras caracteristicas ellos puedan hacerlo, de lo de wordpress y d
 
-
-LA DE AMAZON 
-
-redes@20.213.161.12
-
-
-docs de kernel y lo de la tarea, mover esos a kubernates
 https://www.youtube.com/watch?v=LsrXUsYILII
-
-
-
-12silis21
-
-elike bien lo que quieres, para ser feliz
-
-
-SOLO SE VIVE UNA PUTA VEZ Y TE LA ESTAS PERDIENDO?
-
-NO PUYEDE SER
-
-DUALIDAD, DOLOR Y TRISTEZA
-
-LAS BESTIAS DE LA SELVA NO TIENEN OTRA
-
-LA VOZ SIN ACCION NO TIENE PODER
-
-VENIMOS A SER 
-
-
-TE CREO! SERE REAL HASTA LA MUERTE Y JURO NUNCA ROMPER MI PROMESA

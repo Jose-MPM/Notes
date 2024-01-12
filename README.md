@@ -18,5 +18,10 @@ Siéntete libre de explorar este contenido con el fin de proporcionar recursos �
 
 -----
 ¡Espero que encuentres estas notas tan útiles como yo durante mi proceso de aprendizaje!
------
+------
+
+## Expressions of gratitude 🎁
+* :punch: Share and tell others about this notes 📢
+* :+1: Contact and follow me :bowtie:
+------
 ⌨️ with much :purple_heart: by [Jose-MPM](https://github.com/Jose-MPM) 😊⌨️

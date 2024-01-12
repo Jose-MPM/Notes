@@ -1256,3 +1256,152 @@ busca crecer, establece tu vida y apartir explora, pero siempre siguiendo un cam
 5527043126 ESTEBAN PALACIOS INE CENTRO CIBERSEGURIDAD
 https://owasp.org/www-project-juice-shop/
 https://owasp.org/
+
+# PERDONAR
+“Hay que pagar con la misma moneda” es lo que dicen...
+Y por mucho tiempo lo creí.
+Te hacen mal, lo devuelves.
+Ojo por ojo, diente por diente, es lo adecuado, pensaba.
+Pero saben algo?
+Ojo por ojo, un día el mundo va a quedar ciego.
+Y después de vivir algunos años, noté que el mal que te hacen y uno devuelve, anda por ahí, girando, circulando, lastimando otras personas que nada tienen que ver.
+Muchas veces a las personas que más te importan, en un daño colateral que es imposible de detener. 
+Porque el mal que uno recibe y decide devolver nunca es el mismo.
+Esa porquería siempre crece. 
+Crece como el arroyo que se vuelve rio y más tarde se hace mar.
+Así que un buen día, decidí que no quería eso en mi conciencia.
+Para qué? 
+Decidí que el mal que yo recibiera, me lo iba a guardar.
+Ese mal que me llegara me lo iba a quedar para mí y lo iba a transformar en letras, para que no ande por ahí jodiendo la vida a nadie más.
+Aunque eso significara que de tanto guardar mierda sin dejarla salir, un día explotara.
+Pero por lo menos mi conciencia estaría tranquila.
+Curiosamente no pasó.
+Noté que el mal que uno guarda, si uno lo deja ahí encerrado, pierde su fuerza. 
+Se va poniendo cada vez más chiquito, hasta que un buen día, simplemente, ya no está.
+Descubrí que tenía ese poder.
+Me siento muy especial ahora, porque me consta que no todo el mundo puede hacerlo.
+Encontré la forma de cortar ese círculo vicioso que alimenta el mal en mi vida, aunque me costó más de media vida aprenderlo.
+A ese poder le puse un nombre.
+Lo llamé...
+Perdonar.
+
+
+* hay cosas que si deberíasmos de hacer siempre, no somos iguales, por ende nada de 50-50, la toma de decisiones objetivas debe de ser tomada por el hombre, no por ella, ellas suelen ser más emocionales, no tan objetivas
+
+* palabrs de intencionalidad
+    - mi itención es que si lo sea, yo voy a hacer todo lo posible para que así sea, y si despues de todo no se dio, ni modo. 
+    - nos aman con condiciones
+    - empujanos
+* proyecto
+    - No dejes la cosas al último, haz las tareas con tiempo y estudia mucho para los exámenes; puede ser obvio, si, pero mucha gente lo ignora. 
+    Si tienes disciplina te puede ir muy bien, mucha suerte. c:
+* letcode
+    - solo learn
+- # To write
+
+Qué es la ciberseguridad?
+
+- consejos:
+    - https://derechodelared.com/dia-mundial-de-la-ciberseguridad
+/- ley en mexico:
+    -  https://www.linkedin.com/pulse/ley-de-ciberseguridad-en-m%C3%A9xico-un-buen-primer-paso-moreno-s%C3%A1nchez/?originalSubdomain=es
+    - https://www.deltaprotect.com/blog/ley-de-ciberseguridad-mexico
+- deloitte: webinars
+    - https://www2.deloitte.com/es/es/pages/risk/articles/dia-ciberseguridad.<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title></title>
+    </head>
+    <body>
+    
+    </body>
+    </html>
+
+
+penhause
+fam viva
+video
+2 ferrari
+mmm a los 28 TENGO 4 años
+
+* realidad:
+    - no quiere sentirse entascada e intenta arreglarlo
+        - si tu mujer tienes que decirte no pierdas el tiempo y ponte a trabajar
+            - necesitas conectar con tu lado productivo
+        - que necesites una mujer para subsistir no eres de alto valor
+        - necesitas una mujer para obtener un sentido o enfoque
+            - que te de estabilidad,razón y proposito
+        - controla tus vicios y excesos porque no tienes autocontrol
+        - corrige tus prioridades porque no sabes para donde vas
+
+21 dias de actitud pura positiva
+actividad puramente positiva
+- Qué es dns y cómo funciona
+- Cómo comprar y configurar un dominio 
+- Las configuraciones básicas para iniciar una máquina virtual en algun web host
+
+elije bien lo que quieres, para ser feliz
+
+SOLO SE VIVE UNA PUTA VEZ Y TE LA ESTAS PERDIENDO?
+
+NO PUEDE SER
+
+DUALIDAD, DOLOR Y TRISTEZA
+
+LAS BESTIAS DE LA SELVA NO TIENEN OTRA
+
+LA VOZ SIN ACCION NO TIENE PODER
+
+VENIMOS A SER 
+
+TE CREO! SERE REAL HASTA LA MUERTE Y JURO NUNCA ROMPER MI PROMESA
+
+ES QUE, ES LA ADICCIÓN, ES QUE EL ES EL CULPABLE, YO SOY EL PROBLEMA, NO EL OTRO
+ESTA SONRISA ES REAL
+
+NECESIDAD DE PENSAR DE MANERA CIENTIFICA
+RASCARLE MÁS
+EL CONOCIMIENTO 
+DECIR PORQUE ES EL BUENO Y EL MALO DE MANERA CIENTIFICA
+EXPRIMIR MÁS LA INFO A LOS RESULTADOS
+CRITICOS CON LA INFO QUE PROCESAS, NO OLVIDEN QUE EN LA INDUSTRIA TERMINARAN 
+
+acostumbrate a que eres el premio, tu eres VALIOSO, NO ERES PARA CUALQUIERA, no te MERECEN
+
+el mayor obstaculo para vivir es la expectativa, que depende del mañana y pierde el hoy
+
+Elige no ser ofendido y no lo serás, no te preocupes por lo que piensan los demás de ti, preocuáte por como piensas tu de ti mismo
+
+No somos dueños de las cosas, somos dueños de nuestras reacciones hacia las cosas
+
+A LAS MUJERES LES CAGA QUE LES AVISEN, NO SE AVISA, SE HACE!!! DESAPARECE Y YA
+
+EMPIEZA A TRABAJAR TU CUERPO COMO NUNCA LO HAS HECHO
+DESPUES DOMINA TUS EMOCIONES COMO NUNCA LAS HABÍAS DOMINADO
+EDUTA TU PINCHE MENTE
+PRACTICA, DOMINA TU AGENDA, TRABAJO Y TU DINERO
+RIESGOS QUE DEBES TOMAR AHORITA, NO EN 
+AHORITA PARA QUE A LOS 30 ESTES BIEN CABRON
+
+DOMINADO, NADA ENTRA QUE NO DECIDA TU ALMA...
+ERES La forma en QUE RESPONDES ante las adversidades, NO LO QUE TE PASA.
+QUIEN NO MIENTE?
+
+EL GOLPE DE LA DESGRACIA ES MÁS DEBIL CUANDO LA MENTE ESA PREAPARADA PARA ELLO. 
+PARA LAS MENTES INGENUAS, GRAN PARTE DE SU DESGRACIA RADICA EN LA SORPRESA DE LA MISMA.
+
+- INCOMODIDAD VOLUNTARIA
+
+EN MEDIO DE LA FORTUNA PREPARATE PARA LA DESGRACIA, LA ADVERSIDAD
+
+HAY MUCHOS PROBLEMAS QUE SE PUEDEN ENFRENTAR
+
+ES ESTO LO QUE ME DABA TANTO MIEDO?
+
+EL SOLDADO CONSTRUYE UNA FORTALEZA MIENTRAS DESCANSA
+
+NO HABLES DE TU FILOSOFIA, DEMUESTRALO CON LA ACCIÓN, SE EL CAMBIO QUE QUIERES EN ESTE MUNDO
+
+LAS MORRAS CON NOVIOS QUE VEAN LO QUE NUNCA VAN A TENER

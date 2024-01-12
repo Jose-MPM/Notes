@@ -1,4 +1,6 @@
 # Quantum Computation
+- course:
+	- https://github.com/CECAv/segunda_escuela_computo_cuantico
 - QUiski
 	- https://qiskit.org/documentation/getting_started.html
 
@@ -147,40 +149,10 @@ quander-lite.s3-website-us-east-1.amazonaws.com
 				- una forma de cuantificar las correlaciones cuánticas entre sistemas
 			- es el vinculo inherente que tienen los qubits?
 ### lab
+
 - algoritmos cuanticos
 - si usamos la superposición podremos acceder a un stack de info
 respecto a la imagen.
 
-
-
-#
 - enredamiento, 
-Pero mi punto es que: hay que tener la capacidad de entender de lo que se nos habla, ser resilientes y tener la capacidad de solucionar problemas	
-
-# PERDONAR
-“Hay que pagar con la misma moneda” es lo que dicen...
-Y por mucho tiempo lo creí.
-Te hacen mal, lo devuelves.
-Ojo por ojo, diente por diente, es lo adecuado, pensaba.
-Pero saben algo?
-Ojo por ojo, un día el mundo va a quedar ciego.
-Y después de vivir algunos años, noté que el mal que te hacen y uno devuelve, anda por ahí, girando, circulando, lastimando otras personas que nada tienen que ver.
-Muchas veces a las personas que más te importan, en un daño colateral que es imposible de detener. 
-Porque el mal que uno recibe y decide devolver nunca es el mismo.
-Esa porquería siempre crece. 
-Crece como el arroyo que se vuelve rio y más tarde se hace mar.
-Así que un buen día, decidí que no quería eso en mi conciencia.
-Para qué? 
-Decidí que el mal que yo recibiera, me lo iba a guardar.
-Ese mal que me llegara me lo iba a quedar para mí y lo iba a transformar en letras, para que no ande por ahí jodiendo la vida a nadie más.
-Aunque eso significara que de tanto guardar mierda sin dejarla salir, un día explotara.
-Pero por lo menos mi conciencia estaría tranquila.
-Curiosamente no pasó.
-Noté que el mal que uno guarda, si uno lo deja ahí encerrado, pierde su fuerza. 
-Se va poniendo cada vez más chiquito, hasta que un buen día, simplemente, ya no está.
-Descubrí que tenía ese poder.
-Me siento muy especial ahora, porque me consta que no todo el mundo puede hacerlo.
-Encontré la forma de cortar ese círculo vicioso que alimenta el mal en mi vida, aunque me costó más de media vida aprenderlo.
-A ese poder le puse un nombre.
-Lo llamé...
-Perdonar.
+Pero mi punto es que: hay que tener la capacidad de entender de lo que se nos habla, ser resilientes y tener la capacidad de solucionar problemaS.
