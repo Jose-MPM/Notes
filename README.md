@@ -16,7 +16,6 @@ Siéntete libre de explorar este contenido con el fin de proporcionar recursos �
 # Index
 
 
-
 -----
 ¡Espero que encuentres estas notas tan útiles como yo durante mi proceso de aprendizaje!
 -----

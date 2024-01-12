@@ -1,8 +1,5 @@
 # Complejidad de Kolmogorov
-profesor, de tdi podría subir el code de api?
 
-
-## 1. 
 ## 2. RELACIÓN CON LA COMPLEJIDAD EN TIEMPO y otros conceptos importantes
 2. Relación con la Complejidad Computacional:
 
@@ -11,8 +8,6 @@ profesor, de tdi podría subir el code de api?
 			- Recapitulación rápida de la complejidad en tiempo (P, NP, coNP).
 				- La complejidad en tiempo, que ya han explorado en sus clases, se centra en la eficiencia de los algoritmos en términos del tiempo necesario para resolver un problema. 
 					- En este contexto, problemas en la clase P son aquellos que pueden resolverse eficientemente en tiempo polinómico, mientras que los problemas NP son aquellos para los cuales, dado una solución, se puede verificar en tiempo polinómico si es correcta. coNP se refiere a los problemas cuyas soluciones pueden ser verificadas en tiempo polinómico si son incorrectas.
-						- use foto to explain
-							- talk about NP-HARD: reducir de un problema que ya se demostro previamente que es Completo-Dificil
 			- Recordatorio de que estos conceptos se centran en el tiempo necesario para resolver un problema.
 		
 		- Enfoque Diferente de Kolmogorov:
@@ -53,9 +48,9 @@ profesor, de tdi podría subir el code de api?
 	- y la longitud de d(s) (es decir, el número de bits en la descripción mínima) es la complejidad de Kolmogorov de s, escrita K(s). 
 		- Simbólicamente: K()s.d()s.
 	- la complejidad de Kolmogorov es la longitud de la descripción mínima de un lenguaje.
-	* La complejidad de Kolmogorov es esencialmente la longitud de la descripción mínima de una cadena en algún lenguaje de descripción universal fijo. Entre más chica mejor, no?
+	* La complejidad de Kolmogorov es esencialmente la longitud de la descripción mínima de una cadena en algún lenguaje de descripción universal fijo. Entre más chica mejor.
 
-- condición de aleatoriedad  o compresion en la complejidad de kolmogorov
+- Condición de aleatoriedad  o compresion en la complejidad de kolmogorov.
 	
 	- La complejidad de Kolmogorov también se utiliza para evaluar el grado de aleatoriedad de una cadena. Una cadena se considera más aleatoria si su K(x) es grande, es decir, si se necesita una descripción más larga para generarla.
     
@@ -64,27 +59,27 @@ profesor, de tdi podría subir el code de api?
     		- significa que no hay patrones evidentes en xx, ya que se necesita más información para describirlo de manera concisa.
         - En contraste, si K(x) es pequeño, podría sugerir que x tiene estructuras o patrones que permiten una descripción más corta.
 
-    * Relación con Otros Conceptos:
+    * Relación con otros Conceptos:
         - La relación entre aleatoriedad y K(x) a menudo se vincula con la imprevisibilidad y la falta de regularidad en una cadena. 
         	* En términos prácticos, esto significa que una cadena considerada más aleatoria según la función K puede ser menos compresible y, por ende, más difícil de predecir o explicar.
 
-- el lenguaje de descripcion:
+- El lenguaje de descripcion:
 	- La complejidad de Kolmogorov se puede definir para cualquier objeto matemático, pero por simplicidad,  se restringe a las cadenas
 		- Aunque la complejidad de Kolmogorov se calcula para cualquier objeto, estos se codifican en cadenas.
 
-	- la complejidad de una cadena es la longitud de la descripción más breve posible de la cadena en algún lenguaje de descripción universal fijo
+	- La complejidad de una cadena es la longitud de la descripción más breve posible de la cadena en algún lenguaje de descripción universal fijo
 		- Primero debemos especificar un lenguaje de descripción para las cadenas. Dicho lenguaje de descripción puede basarse en cualquier lenguaje de programación de computadoras, como Lisp, Pascal o Java. Sin embargo siempre buscamos un lenguaje óptimo, el que produzca la descripción de menor longitud
 			* Si P es un programa que genera una cadena x, entonces P es una descripción de x. La longitud de la descripción es solo la longitud de P como una cadena de caracteres, multiplicada por la cantidad de bits en un carácter 
 		- La longitud de la descripción más corta dependerá del lenguaje de descripción elegido.
 			- pero el efecto de cambiar de idioma está acotado (un resultado llamado teorema de invariancia). 
 				- teorema de invariancia: se sale?
-				-  garantiza que los valores de la complejidad convergen a pesar de la elecci´on arbitraria de lenguajes de programaci´on o la utilizaci´on de m´aquinas de Turing truqueadas
+				-  garantiza que los valores de la complejidad convergen a pesar de la eleccion arbitraria de lenguajes de programacion o la utilizacion de maquinas de Turing truqueadas
 		- Se puede demostrar que la complejidad de Kolmogorov de cualquier cadena no puede ser más de unos pocos bytes mayor que la longitud de la propia cadena. Las cadenas como el ejemplo anterior de abab, cuya complejidad de Kolmogorov es pequeña en relación con el tamaño de la cadena, no se consideran complejas. 
 
-- comprensión: Encontrar una descripción óptima de una cadena se logra mediante algoritmos de compresión de cadenas.
-	* La forma de abordar la complejidad algor´ıtmica de una cadena es por medio del uso de algoritmos de compresion sin perdida. 
-		- Sin p´erdida significa que se puede recuperar la cadena original a partir de la versi´on comprimida por mediode un programa de descompresi´on. Entre m´as compresible se considera menos compleja la cadena. Por el contrario, si no es compresible, se le considera a la  cadena como aleatoria o m´aximamente compleja. El resultado de un algoritmo de compresi´on es una cota superior de su complejidad algor´ıtmica, por lo que se dice que la complejidad de Kolmogorov es computable por arriba.
-			* Un algoritmo de compresióon transforma una cadena comprimida en dos partes: una parte es la versi´on comprimida del objeto original, y la otra las instrucciones para descomprimir la cadena. 
+- Comprensión: Encontrar una descripción óptima de una cadena se logra mediante algoritmos de compresión de cadenas.
+	* La forma de abordar la complejidad algorıtmica de una cadena es por medio del uso de algoritmos de compresion sin perdida. 
+		- Sin perdida significa que se puede recuperar la cadena original a partir de la version comprimida por mediode un programa de descompresion. Entre mas compresible se considera menos compleja la cadena. Por el contrario, si no es compresible, se le considera a la  cadena como aleatoria o maximamente compleja. El resultado de un algoritmo de compresion es una cota superior de su complejidad algorıtmica, por lo que se dice que la complejidad de Kolmogorov es computable por arriba.
+			* Un algoritmo de compresióon transforma una cadena comprimida en dos partes: una parte es la version comprimida del objeto original, y la otra las instrucciones para descomprimir la cadena. 
 	* Es sencillo calcular los límites superiores para K(s): simplemente comprima la cadena s con algún método, implemente el descompresor correspondiente en el idioma elegido, concatene el descompresor a la cadena comprimida y mida la longitud de la cadena resultante, concretamente, el tamaño de un archivo autoextraíble en el idioma dado. 
 
 	- Una cadena s es comprimible por un número c si tiene una descripción cuya longitud no exceda |s| − bits c. Esto es equivalente a decir que K(s) ≤ |s| − c. De lo contrario, s es incompresible por c. Se dice que una cadena incompresible por 1 es simplemente incompresible 
@@ -95,36 +90,3 @@ profesor, de tdi podría subir el code de api?
 * Reflexión sobre Limitaciones: Es importante resaltar que la complejidad de Kolmogorov no proporciona una visión completa. Reconocimiento de que estos conceptos son herramientas distintas y tienen limitaciones específicas.
 	- La Complejidad de Kolmogorov, a través de la función KK, ofrece una visión única al medir la esencia y la aleatoriedad en las cadenas. 
 * Importancia en la Teoría de la Información: La idea de usar la Complejidad de Kolmogorov para medir la aleatoriedad se conecta con la teoría de la información. Cuanto más aleatoria es una cadena, más información nueva aporta, y su K(x)K(x) refleja cuánta información esencial necesitamos para representarla. Esta perspectiva ofrece una herramienta poderosa para comprender y cuantificar la aleatoriedad en la teoría de la información y la teoría de la complejidad computacional.
-
-
-
-
-
-
-
-
-
-
-
-2.4 Desafíos y Preguntas Abiertas:
-	- Ejemplos que ilustren la conexión entre la complejidad de Kolmogorov y los recursos computacionales.
-		- Ejemplo Comparativo:
-			- Ejemplo práctico de un problema donde un algoritmo eficiente (tiempo polinómico) puede tener una descripción larga en términos de la Complejidad de Kolmogorov.
-    		- Ilustración de cómo la complejidad de Kolmogorov puede proporcionar información adicional sobre la naturaleza del problema.
-
-- Implicaciones en Problemas Computacionales:
-	- Discusión sobre cómo la complejidad de Kolmogorov puede proporcionar una perspectiva diferente sobre los problemas computacionales.
-    - Ejemplos de cómo puede influir en la resolución de problemas en la práctica.
-## 3.
-- 
-
-## 4. Conclusión:
-
-- Recapitulación de los puntos clave abordados en la exposición.
-- Enfatizar la importancia de la complejidad de Kolmogorov como una herramienta adicional para entender los recursos computacionales.
-- Incentivar preguntas y discusiones de los estudiantes.
-
-- Sugerencias para Desarrollo:
-	- Utilizar ejemplos visuales o demostraciones prácticas para mejorar la comprensión.
-	- Fomentar la participación activa de los estudiantes mediante preguntas y ejercicios cortos.
-	- Proporcionar recursos adicionales para aquellos interesados en explorar más a fondo el tema.

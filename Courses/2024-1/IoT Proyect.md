@@ -1,7 +1,5 @@
 # Project to IoT
-#include <Wire.h>
-#include "SparkFunBME280.h"
-para que?
+
 - to foto con bot:	
 	- https://randomnerdtutorials.com/telegram-esp32-cam-photo-arduino/
 - with chip: https://www.youtube.com/watch?v=tgaqegUNNyE
@@ -28,8 +26,8 @@ para que?
 		- Minimo el doble de los componentes
 		- El trabajo que te costo, aunque te sea facil, tiempo,
 	- metodologia
-		- programación	
-			- que lenguaje es emjor para resolver tan cosa?
+		- programación:
+			- que lenguaje es mejor para resolver tan cosa?
 				- software forma parte la lista de controladores
 					- microcontroladores
 		- electronica:
@@ -72,9 +70,6 @@ para que?
 - to do:	
 	-  https://www.youtube.com/watch?v=k_PJLkfqDuI
 
-
-
-
 - to telegram:
 	- https://randomnerdtutorials.com/telegram-esp32-cam-photo-arduino/
 	- with pir sensonr:https://www.youtube.com/watch?v=UA3cqgpFHXw	 
@@ -90,23 +85,14 @@ para que?
 	- with FTDI: https://randomnerdtutorials.com/program-upload-code-esp32-cam/
 	- to fix Linux driver
 		- https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/linux
+	- pin flash 4
 
-	pin flash 4
 
-
-	como defines el complemento? 
-	nosotros podemos suponer que NP=P -> todos son cerrados
-	si asuminos que NP=P siguen siendo cerrados pero ya no nos deberia de importar coNP y NP
-
-- puertas y tanques
 - conectarle algo para fixear eltimeout
 	- https://randomnerdtutorials.com/solved-failed-to-connect-to-esp32-timed-out-waiting-for-packet-header/
 
 - upload code
 	- https://randomnerdtutorials.com/program-upload-code-esp32-cam/
-
-- about esp32 cam
-	- 
 
 
 - despues de enviar
@@ -122,33 +108,37 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 - library:
 	- https://github.com/yoursunny/esp32cam
 
-- program=sketch 
-
 - bot:
 	- oraculo
 	- username
 		- OraculoCamBot
 		- http://t.me/OraculoCamBot
-	- token to access the HTTP API: 6981655842:AAH7h991O13xvz2AIOr7bGyWK-1a82JsT7M
-
+	- token to access the HTTP API: 
+	<details>
+	    <summary>Mostrar Token</summary>
+	    ```
+	    6981655842:AAH7h991O13xvz2AIOr7bGyWK-1a82JsT7M
+	    ```
+    </details>
 	- NtoryCamBot
-	- NtoryCamBot
-	- 6892080700:AAEKUectM8_3qK7jImJR3DFYNire1sTP5-g
+	<details>
+	    <summary>Mostrar Token</summary>
+	    ```
+	    6892080700:AAEKUectM8_3qK7jImJR3DFYNire1sTP5-g
+	    ```
+    </details>
 	- Your own ID is: 6230497577
 
 - arduinobot:
 	- https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
 
-
-
-
-For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+- For a description of the Bot API, see this page: https://core.telegram.org/bots/api
 
 - to bots
 	- https://noroute2host.com/creat-bot-telegram.html
 	https://robotzero.one/telegram-bot-esp32cam/
 	https://randomnerdtutorials.com/telegram-esp32-cam-photo-arduino/
-	inly bot: https://randomnerdtutorials.com/telegram-esp32-cam-photo-arduino/
+	- Only bot: https://randomnerdtutorials.com/telegram-esp32-cam-photo-arduino/
 	https://blog.330ohms.com/2021/03/09/crea-tu-propio-bot-de-telegram-con-esp32/
 	https://blog.330ohms.com/2021/03/09/crea-tu-propio-bot-de-telegram-con-esp32/
 	- SIN CAM

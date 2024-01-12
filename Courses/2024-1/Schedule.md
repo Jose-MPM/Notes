@@ -1243,8 +1243,16 @@ busca crecer, establece tu vida y apartir explora, pero siempre siguiendo un cam
 - genjibre-kukuma
     - kase
     - pelilla
-
-- a
-    - 
-- with itzi
+- 2024
     - a
+        - 
+    - with itzi
+        - a
+- muestra un poquito para crear una fantasía
+
+- ver lo del sumi fest-escribir 
+
+# cibersecurity
+5527043126 ESTEBAN PALACIOS INE CENTRO CIBERSEGURIDAD
+https://owasp.org/www-project-juice-shop/
+https://owasp.org/

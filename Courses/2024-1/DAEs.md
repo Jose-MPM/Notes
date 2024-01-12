@@ -1,4 +1,4 @@
-# Expo Proyecto
+# Autoencoder para eliminar el ruido en imágenes.
 
 ## INTRODUCCIÓN
 
@@ -26,7 +26,7 @@ Como estamos trabajando  con datos estructurados(imágenes) entonces las capas c
 
 En nuestro caso tenemos 2 capas convolucionales en el codificador junto con un Capa de dropout para regularización en el decodificador, pero solo puse uno porque no quería perder mucho más información
 
-De entre sus capas ocultas, una de ellas describe un código que representa la entrada, pero también tenemos Flaten como una capa de aplanado que convierte la salida tridimensional de las capas de convolución en un vector unidimensional, preparándolo para la capa densa.
+De entre sus capas ocultas, una de ellas describe un código que representa la entrada, pero también tenemos Flaten como una capa de aplanado que convierte la salida bidimensional de las capas de convolución en un vector unidimensional, preparándolo para la capa densa.
 
 Capa Densa (Dense): La capa densa proyecta el vector aplanado en el espacio latente, que representa la versión comprimida de la entrada original. Con 16 (valor de latent_dim)
 
