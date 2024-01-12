@@ -1,14 +1,29 @@
 # Eight Semester
-- la vida, en su esencia significa crucifixión, para el ego racional parece ser la muerte: el puer aeternus, marie louise von franz
+- libros:
+    - "La Insoportable Levedad del Ser". 
+- ideas
+    - salud
+    - life
+    - notas
+    - compu
+
+- en esta vida estamos expuestos a varias perspectivas, tu eres el que decide cual creer y seguir, dentro de tu contexto 
+    - que semillas de ideas permites germinar dentro de ti? 
+    - tu interpretación es lo más importante
+    - tu decides que hacer con tus cirscuntancias
+- tu futuro puede ser diferente, a menos de que tu no quieres.
+
+No bro, no tenemos TDAH, sencillamente quemamos nuestros neurotransmisores con gratificación inmediata a pura pantallas led y marihuana
+
+https://www.eventbrite.com/e/amazon-intern-program-opportunity-tickets-775913196257?fbclid=IwAR32c2SaLoUmuRpqCAjyRGqi4HI1MG1qvwCtPJoyXm-nsQ5CQujOx9uClaA    
+- la vida, en su esencia significa crucifixión, para el ego racional parece ser la muerte: el puer aeternus, marie louise von franz 
 - openlivery
 cutember.org
 librivox
-- tu vida esta completa, no necesitas esa droga
-- o qué vacio tratas de llenar?
-- tu si sabes como pasartela bien sin eso, o apoco no? 
-- la azucar es la peor droga, ten cuidado con los refrescos, son de lo malo. 
-sudo dmesg
+- tu vida esta completa, no necesitas esa droga  o qué vacio tratas de llenar? tu si sabes como pasartela bien sin eso, o apoco no? 
+    - la azucar es la peor droga, ten cuidado con los refrescos, son de lo malo. 
 - la zaga after mc ardilla
+- sudo dmesg
 
 relaja los nervios para que tomes la mejor decisión.
 - CONOCETE, EN QUE HORARIO Y QUE LUGAR ERES MÁS EFECTIVO
@@ -30,7 +45,7 @@ relaja los nervios para que tomes la mejor decisión.
     - Science Div
         - 10
     - Neuronal Network Introduction
-        - ?
+        - 9
 - método blurting
 - ley de parkinson
 - segundo cerebro
@@ -1217,87 +1232,19 @@ https://github.com/Jose-MPM/SyL/blob/main/src/main/java/fciencias/unam/SyL/entit
 https://docs.google.com/document/d/1AP4hGy2koKtb5oykxTQYHy7wD1FAkfrwggVQe_ba_-I/edit#heading=h.4lqp25cx7kth
 
 
-+ project:
-    - Para incrementar esta expresividad y conseguir que las redes neuronales no sean funciones lineales se intercalan las capas lineales con funciones no lineales, llamadas funciones de activación. En nuestro caso utilizamos 
+- que falta de amor te tuviste para engañar a itzel con una gorda puta, en un teibol bien culero
+    - el alcohol hace que el pasito de aquí alla esta aquí en corto.
+- enconmiedate y sabe soltar
+- que patrones sigues que están mal? estas dispuesto a cambiar? es la oportunidad de renacer e inicar de 0.
+el misticizmo de la vida, así es como pasan las cosas, las cosas no hubieran pasado de otra manera, 
 
-- input:
+busca crecer, establece tu vida y apartir explora, pero siempre siguiendo un camino.
 
-# load MNIST dataset
-from tensorflow.keras.datasets import mnist
-(x_train, _), (x_test, _) = mnist.load_data()
+- genjibre-kukuma
+    - kase
+    - pelilla
 
-image_size = x_train.shape[1]
-x_train = np.reshape(x_train, [-1, image_size, image_size, 1])
-x_test = np.reshape(x_test, [-1, image_size, image_size, 1])
-x_train = x_train.astype('float32') / 255
-x_test = x_test.astype('float32') / 255
-print(x_train.shape)
-
-noise_factor = 0.5
-x_train_noisy = x_train + noise_factor * tf.random.normal(shape=x_train.shape)
-x_test_noisy = x_test + noise_factor * tf.random.normal(shape=x_test.shape)
-
-x_train_noisy = tf.clip_by_value(x_train_noisy, clip_value_min=0., clip_value_max=1.)
-x_test_noisy = tf.clip_by_value(x_test_noisy, clip_value_min=0., clip_value_max=1.)
-
-# Definir la clase del modelo autoencoder Denoise
-class Denoise(Model):
-
-  def __init__(self):
-    super(Denoise, self).__init__()
-    # Parámetros de la red
-    input_shape = (image_size, image_size, 1)  # Tamaño de las imágenes (MNIST es 28x28)
-    batch_size = 32
-    kernel_size = 4
-    latent_dim = 16
-
-    # Construir el modelo del codificador
-    inputs = Input(shape=input_shape, name='Input_encoder')
-    x = inputs
-    x = Conv2D(filters=32, kernel_size=kernel_size, strides=2, activation='relu', padding='same')(x)
-    x = Dropout(0.20)(x)
-    x = Conv2D(filters=64, kernel_size=kernel_size, strides=2, activation='relu', padding='same')(x)
-    shape = K.int_shape(x)
-    x = Flatten()(x) # para generar el latent vector
-    latent = Dense(latent_dim, name='Latent_vector')(x)
-    self.encoder = Model(inputs, latent, name='encoder')# instantiate encoder model
-
-    # Construir el modelo del decodificador
-    latent_inputs = Input(shape=(latent_dim,), name='decoder_input')
-    x = Dense(shape[1] * shape[2] * shape[3])(latent_inputs)
-    x = Reshape((shape[1], shape[2], shape[3]))(x)
-
-    # 2 capas Conv2DTranspose(64)-Conv2DTranspose(32) que hacen lo contrario a las que ocupamos en el encoder
-    x = Conv2DTranspose(filters=64, kernel_size=kernel_size, strides=2, activation='relu', padding='same')(x)
-    x = Conv2DTranspose(filters=32, kernel_size=kernel_size, strides=2, activation='relu', padding='same')(x)
-    # reconstruct the denoised input
-    outputs = Conv2DTranspose(filters=1, kernel_size=kernel_size,
-                              padding='same', activation='sigmoid', name='decoder_output')(x)
-    self.decoder = Model(latent_inputs, outputs, name='decoder')# instantiate decoder model
-
-  def call(self, x):
-    encoded = self.encoder(x)
-    decoded = self.decoder(encoded)
-    return decoded
-
-autoencoder = Denoise() # creamos una instancia de Denoise para usar el autoencoder
-
-from tensorflow.keras.callbacks import ReduceLROnPlateau
-# Definir el callback ReduceLROnPlateau
-reduce_lr_callback = ReduceLROnPlateau(monitor='val_loss', factor=0.2, patience=3, min_lr=0.0001)
-
-# Compilar el modelo con el optimizador y el learning rate inicial
-initial_learning_rate = 0.001
-optimizer = tf.keras.optimizers.Adam(learning_rate=initial_learning_rate)
-autoencoder.compile(optimizer=optimizer, loss=losses.MeanSquaredError())
-
-autoencoder.fit(x_train_noisy, x_train,
-                epochs=8, shuffle=True,
-                validation_data=(x_test_noisy, x_test),
-                 callbacks=[reduce_lr_callback])
-
-encoded_imgs = autoencoder.encoder(x_test_noisy).numpy()
-decoded_imgs = autoencoder.decoder(encoded_imgs).numpy()
-
-x_decoded = autoencoder.predict(x_test_noisy)
-
+- a
+    - 
+- with itzi
+    - a
