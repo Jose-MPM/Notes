@@ -1,17 +1,10 @@
-Reestructuración Cognitiva
+# Reestructuración Cognitiva
 
 La Reestructuración Cognitiva (RC) como técnica básica de la terapia cognitivo-conductual es utilizada principalmente para identificar y corregir los patrones de pensamiento negativo.
 
 La técnica consiste en la discusión de los pensamientos automáticos negativos que se producen en situaciones que provocan ansiedad o cualquier otro tipo de perturbación emocional (por ejemplo, “Creen que soy aburrido”) y su sustitución por creencias o pensamientos más racionales (como “No puedo leer la mente de otras personas, probablemente están cansados ahora”).
 
-
 Está claro que los pensamientos juegan un papel importante en la determinación de cómo las personas se sienten y se comportan. Si los pensamientos son negativos con mucha probabilidad nos sentiremos mal, y al contrario si son positivos.
-
-Comparte:
-La Reestructuración Cognitiva paso a paso (Y una guía en PDF)
-7 minutos de lectura
-reestructuración cognitiva - terapia cognitiva
-Psicopedia
 
 La Reestructuración Cognitiva (RC) como técnica básica de la terapia cognitivo-conductual es analizada en este documento de gran valor académico y práctico.
 

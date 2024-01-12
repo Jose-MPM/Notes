@@ -1,17 +1,12 @@
+- notes:
 
-1-fireworks
-2-glasses
-
-6-dynamits
-7
-bellom-frech-3
+fireworks
+glasses
+dynamits
+bellom-frech-
 stamps english teacher
-saxofon-
 
-8-relo
-
-
-Many of the things we use every day were invented by women.
+Many of the things we use every day were invented by women. 
 
 In the US, most children are educated in public school.
 
@@ -24,40 +19,14 @@ Baseball is played in the summer in the US.
 The songs on this album were written last year.
 
 Millions of toys are made in CHina every day
-Are sung
-arent usually seen
-
-
-Was opened
 
 1.- St. Paul's Cathedral was designed by Christopher Wren
 2.- This olive oil is produced by a small tialian company
-3.- Antarctica was discovered in 1820 bty the Russians
+3.- Antarctica was discovered in 1820 by the Russians
 4.- The Star Wars movies weren't directed by Spielberg
-5- Sunflowers was painted in 1988 by Van Gogh
-6- glass was not invented by the Chinese
-7- The HP Books were written by J.K
-8- are made
-
-notes:
-the disoapable diaper-marion donovan-1917-1980
-dishwasher-josephine cochrane-28 dec 1866 patent
-the wise-mary anderson
-	when
-	where
-
-video entry phone-1922-Marie Van Brittan-1966 invented
-	very dngerous
-	who helped? 
-	call one security company
-the life raft-maria beasley
-	- Titanic
-	- 700
-sun panel-Maria telkes- sun queen
-	- nationaly- american
-	- The sun queen
-	- 1948- solar panel
-	- 
+5.- Sunflowers was painted in 1988 by Van Gogh
+6.- glass was not invented by the Chinese
+7.- The HP Books were written by J.K
 
 # Exercise
 
@@ -84,18 +53,14 @@ sun panel-Maria telkes- sun queen
 	- What was her nickname? The sun queen
 	- What did she design in 1948? solar panel
 
-# Integrantes
-
-Apuntes
-
 adelante de-in front of = u r in the classroom
 enfrente de- across from = en frente
 
-into(intu)
-out of
-from ... to ...
-the gost is up the stairs
-throught
+into(intu)-adentro
+out of- afuera
+from ... to ... desde hasta
+the gost is up the stairs- arriba
+throught - a través de
 
 # Silent letters
 ghoust-goust
@@ -113,12 +78,11 @@ sing-firmar
 looking after-take care
 give up: voy a parar de comer
 turn up- subir
-looking forward-esperando ansioso; I was looking forward ti having a vacation, but unfortunately my father got very sick
-looked up
+looking forward-esperando ansioso; I was looking forward to having a vacation, but unfortunately my father got very sick
+looked up-mirar hacía arriba
 goes off- suena la alarma
 - take off-quitate
 	- took off
-
 
 * always together, cant be separated: =  no object
 	- check in: when u register and document your stuff and information
@@ -164,7 +128,7 @@ set off- partir al aeropuerto
 	- turn it off
 - VE LAS ULTIMAS IMAGENES!
 
-# exam
+# Writing
 I'm going to talk about one book I have read one month ago, it's call 1984, it was written by George Orwell and published on 8 jule 1949 by Secker & Warburg in UK. It's about a man that live in a period of the world where the government have strict politcs and laws for example the people always had to be watched by your TV and devices that existed in those time and they always have to do the same.
 
 I have read it one time, I liked it a lot because its made me think in how the world could be due to advances in technology or information can be modificated and hide new information

@@ -1,4 +1,4 @@
-# LA CIENCIA DE LOS HÁBITOS
+# The Science of Habits (LA CIENCIA DE LOS HÁBITOS)
 
 HÁBITOS SON UNA HERRAMIENTA DE NUESTRO CEREBRO PARA AHORRAR ENERGÍA Y SOBREVIVIR.
 
@@ -12,7 +12,6 @@ Deseo: dopamina generada haciendo un calculo sobre la cantidad de recompensa que
 Diagnostico del habito:
 cual es la señal que dispara esa rutina?
 que recompensa busco? estar moto, 
-
 
 segregación 
 
@@ -37,16 +36,12 @@ si fallo te dare 100 euros.
 
 * reduce el estres, no intentes cambiar varios habitos a la vez, cada mes erradicar uno mal o integrando uno nuevo
 
-PRIORIZA 
-
-CONSTANCIA
-PERSEVERENCIA
-
+PRIORIZA: **CONSTANCIA Y PERSEVERENCIA**
 
 COLAGENO
-CALDO DE UESOS DE VACA
-CORTES DE CARNE CON HUESP
-	CARTINALO
+CALDO DE HUESOS DE VACA
+CORTES DE CARNE CON HUESO
+CARTINALO
 HUEVO
 
 

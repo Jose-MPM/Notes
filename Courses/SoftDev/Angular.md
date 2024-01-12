@@ -11,7 +11,6 @@
 
 * Clase SErvice: Donde acoplaremos todo lo que tiene que ver con nuestros datos, el modelo de nuestro componenete, toda la logica del negocio en una clase asociada, que sea nuestro service:
 
-
 * Data:
 	- @Injectable decorador que permite  inyectar esta clase en otros componentes mediante la inyeccion de dependencias
 

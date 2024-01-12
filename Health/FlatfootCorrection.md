@@ -1,4 +1,4 @@
-# Correción de pie plano
+# Flatfoot correction (Correción de pie plano)
 
 Estiramientos de pantorrillas:
 

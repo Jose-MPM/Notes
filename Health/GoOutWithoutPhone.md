@@ -3,18 +3,15 @@
 libre y espontanea libertad
 los celulares pueden influir tus deseos
 
-
 eres un humano? si todo esta influido por el celular al tomar decisiones
 
-haymaneras de amar, ent debemos lidiar con nuestros traumas para poder llevarnos bien.
+Hay maneras de amar, ent debemos lidiar con nuestros traumas para poder llevarnos bien.
 
+Ser real no es hablar de ser serio, no es ser OG, el mas calle, ser el más ganster, o el más rapper, ser real es ser coherente entre lo que dices y lo que haces
 
-ser real no es hablar de ser serio, no es ser OG, el mas calle, ser el más ganster, o el más rapper, ser real es ser coherente entre lo que dices y lo que haces
+¿Cúantos están hablando de lo que pasa en sus barrios? Pero solo los reales hacen algo  por cambiarlo.
 
-¿Cúantos están hablando de lo que pasa en sus barrios?
-Pero solo los reales hacen algo  por cambiarlo
-
-LO QUE TE DA LA DROG, TE LO QUITA
+LO QUE TE DA LA DROGA, TE LO QUITA. Entiendelo por favor...
 
 NO VAS A DURAR MUCHO EN LA PELICULA, TARDE O TEMPRANO VAS A ESTAR MAL O TE VAN A QUITAR DEL MEDIO
 

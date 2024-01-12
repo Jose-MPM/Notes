@@ -1,4 +1,6 @@
-Una manera de implementar la periodización en la rutina dividida que mencionaste podría ser a través de una periodización lineal o de bloques, donde se va aumentando la intensidad del entrenamiento y disminuyendo el volumen a lo largo del tiempo. Aquí te presento una propuesta de cómo podrías hacerlo:
+# Periodización.
+
+Una manera de implementar la periodización es la rutina dividida que mencionaste podría ser a través de una periodización lineal o de bloques, donde se va aumentando la intensidad del entrenamiento y disminuyendo el volumen a lo largo del tiempo. Aquí te presento una propuesta de cómo podrías hacerlo:
 
 Fase de preparación (4-6 semanas): Durante este periodo, puedes centrarte en realizar un mayor volumen de trabajo (más repeticiones y series), pero con una intensidad más baja (pesos más ligeros). Esto podría implicar hacer 3-4 series de 12-15 repeticiones para cada ejercicio, con un peso que puedas levantar de manera segura y con buena forma.
 
@@ -19,8 +21,7 @@ Jueves: Pecho y tríceps
 Viernes: Glúteos y pantorrilla
 Sábado: Hombros y core
 Domingo: Descanso
-Recuerda siempre calentar adecuadamente antes de cada sesión de entrenamiento y enfriar después, y asegurarte de que estás comiendo y descansando adecuadamente para apoyar tu recuperación y crecimiento muscular. Como siempre, te recomiendo que consultes con un entrenador personal certificado antes de comenzar cualquier nuevo programa de entrenamiento.
-
+Recuerda siempre calentar adecuadamente antes de cada sesión de entrenamiento y enfriar después, y asegurarte de que estás comiendo y descansando adecuadamente para apoyar tu recuperación y crecimiento muscular.
 
 La periodización de bloques, también conocida como periodización por fases o ciclos, es un método de entrenamiento en el que se planifican diferentes fases de entrenamiento para optimizar el rendimiento y minimizar el riesgo de sobreentrenamiento. Cada fase o bloque se centra en un objetivo específico de entrenamiento, y los bloques se secuencian de manera que cada uno construye sobre el anterior.
 
@@ -35,6 +36,7 @@ Cuádriceps y pantorrilla: Sentadillas, Elevaciones de pantorrillas
 Pecho y tríceps: Press de banca, Fondos en paralelas
 Glúteos y pantorrilla: Peso muerto, Elevaciones de pantorrillas
 Hombros y core: Press militar, Plancha
+
 Bloque 2 (Fase de Construcción, 4-6 semanas):
 
 En esta fase, aumentas la intensidad y el enfoque está en incrementar la fuerza y el tamaño muscular. Los ejercicios pueden ser los mismos, pero puedes agregar variantes o aumentar la intensidad (peso):
@@ -58,6 +60,6 @@ Bloque 4 (Fase de Recuperación, 1-2 semanas):
 Esta fase es para permitir que tu cuerpo se recupere:
 
 Realizar los mismos ejercicios pero con menos peso, más repeticiones y enfocarse en la movilidad y la técnica.
-La programación de los días sería la misma que mencioné en mi respuesta anterior. Recuerda, es importante escuchar a tu cuerpo y descansar adecuadamente entre los entrenamientos. También es fundamental comer una dieta balanceada para apoyar	
+La programación de los días sería la misma que mencioné en mi respuesta anterior. Recuerda, es importante escuchar a tu cuerpo y descansar adecuadamente entre los entrenamientos. También es fundamental comer una dieta balanceada para apoyar, de hecho es casi lo más importante.
 
 https://www.youtube.com/watch?v=L3HWhjoV-a0

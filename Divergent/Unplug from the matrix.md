@@ -10,10 +10,10 @@ El primer paso para hacer el cambio de mentalidad y pasar de ser un hombre beta,
 
 Entendí que si me desvalorizaba y me faltaba al respeto a mí mismo, no conseguiría nada en la vida.
 
-Tomarse la pastilla equivale a conectar con tu Masculinidad. Empieza a respetarte y valorarte como 	hombre. 
+Tomarse la pastilla equivale a conectar con tu Masculinidad. Empieza a respetarte y valorarte como hombre. 
 
 * ¿Cómo?
-	- Deja de ser un nice guy (chico bueno) que pone las prioridades de los demás antes de sí mismo.
+	- Deja de ser un nice guy(chico bueno) que pone las prioridades de los demás antes de sí mismo.
 	- Deja de hacer lo que la sociedad feminizada, tu colegio y tu madre siempre te han contado, porque no trae ningún resultado con las mujeres.
 
 Haz una lista de 5 cosas que puedes empezar a hacer (o dejar de hacer) para conectar con tu masculinidad y subir tu valor como hombre.
@@ -22,6 +22,7 @@ Haz una lista de 5 cosas que puedes empezar a hacer (o dejar de hacer) para cone
 - Apuntarte a un arte marcial. En mi caso, practicaré box y tomaré clases de ello
 - Reducir las distracciones y satisfacción rapida, el chiste es fortalecerte como persona
 - Las redes sociales no sirven para nada, a menos que tu seas el que mueve las masas, por lo que, **DEJARLAS DEBES TU**, 
+
 - Por evitar: 
 	- Gratiicación Instantanea
 	- Redes Socialesmetas
@@ -152,7 +153,19 @@ Ser todo lo contrario a un simp, ya que estas concentrado en tus cosas, recuerda
 	- Pierde el asombro por la belleza femenina y su impotencia bajo su hechizo.
 	- Persigue la excelencia, no las mujeres.
 
-https://www.youtube.com/watch?v=v_a6aXsFqi8
+
+###  rutina legs https://www.youtube.com/watch?v=v_a6aXsFqi8
+
+Rutina:
+Prensa de Piernas 4 x 15-20
+Hack squats 4 x 12-15 
+Bulgarian squats 4 x 12-15
+Peso muerto 4 x 10-12
+Extensión de pierna 4 x 12-15 
+Elevación de talón en máquina smith 4 x 12-15 
+
+Descanso entre sets 1 - 1.5 minutos 
+Descanso entre ejercicios 2 minutos 
 
 
 ### MMm

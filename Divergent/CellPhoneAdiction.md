@@ -13,12 +13,4 @@
 
  Consciencia, apaga las notificaciones de las cosas inutiles, ten consciencia de su uso, un widget de tiempo usando el cel.
 
- (lee "./pruebas/gdc.txt")
-
-1:46
-
-(lee "./pruebas/sort.txt")
-
-;(enter! "jelly-nanopass.rkt")
-
 Las emociones positivas son las grandes emociones, la irresponsabilidad nos lleva a la falta de control, y nuestro yo interno se desintegra, lo cual nos lleva a falta de libertad, ya que nos vemos como victimas de fuerzas externas.

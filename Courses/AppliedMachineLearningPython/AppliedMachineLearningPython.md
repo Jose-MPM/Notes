@@ -10,7 +10,6 @@
     - Find groups of similar instances in the data(clustering)
     - Finding unusual patterns(outlier detection)
 
-
 ## Expressions of gratitude 🎁
 * Share and tell others about this notes 📢
 ---

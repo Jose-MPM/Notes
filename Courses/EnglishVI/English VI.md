@@ -1706,22 +1706,6 @@ go- 	-gone
 
 ## HOW PRONOUNCE?
 frightened/fraingtd
-
-
-to albert cr7 https://www.youtube.com/watch?v=QvbpeETBoGg
-
-
-https://us02web.zoom.us/j/83404924779?pwd=NnMyMGtnWGhDVFRWdFN2dWx5RGQ4Zz09
-
-
-* Video USED TO 
-	- When I was 15 years old
-		- I 
-* 'spes.efai
-
-
-
-
 * more words
 	- unlike-a diferencia
 	- reverses-invierte
