@@ -14,6 +14,10 @@ El repositorio está organizado en diferentes carpetas que representan categorí
 Siéntete libre de explorar este contenido con el fin de proporcionar recursos útiles para tu aprendizaje. 
 
 # Index
+## Enlaces Directos
+
+### Courses
+
 - [Artificial Intelligence](Courses/2023-1/Artificial%20Intelligence.md)
 - [Compilers](Courses/2023-1/Compilers.md)
 - [Computer networks](Courses/2023-1/Computer%20networks.md)
@@ -33,21 +37,31 @@ Siéntete libre de explorar este contenido con el fin de proporcionar recursos �
 - [EnglishVI](Courses/EnglishVI/EnglishVI.md)
 - [Learning How to Learn](Courses/Learning%20How%20to%20Learn.md)
 - [SoftDev](Courses/SoftDev/SoftDev.md)
+
+### Divergent
+
 - [CellPhoneAdiction](Divergent/CellPhoneAdiction.md)
 - [read again](Divergent/read%20again.md)
 - [Unplug from the matrix](Divergent/Unplug%20from%20the%20matrix.md)
+
+### Health
+
 - [FlatfootCorrection](Health/FlatfootCorrection.md)
 - [GoOutWithoutPhone](Health/GoOutWithoutPhone.md)
 - [Guía de Alimentos (PDF)](Health/guia-alimentos.pdf)
 - [HowToSleep](Health/HowToSleep.md)
 - [Notas_sobre_Salud (PDF)](Health/Notas_sobre_Salud.pdf)
-- [Periodización](Health/Periodizacion.md)
+- [Periodizacion](Health/Periodizacion.md)
 - [Reestructuracion Cognitiva](Health/Reestructuracion%20Cognitiva.md)
 - [TheScienceOfHabits](Health/TheScienceOfHabits.md)
 - [Venenos (PDF)](Health/Venenos.pdf)
+
+### Programming-Stuff
+
 - [After Debian 12 Bookworm Installation](Programming-Stuff/After-Debian-12-Bookworm-Instalation.md)
 - [Introduction to Cyber Security](Programming-Stuff/Introduction%20to%20Cyber%20Security.md)
 - [Pre-Security](Programming-Stuff/Pre-Security.md)
+
 -----
 ¡Espero que encuentres estas notas tan útiles como yo durante mi proceso de aprendizaje!
 ------
