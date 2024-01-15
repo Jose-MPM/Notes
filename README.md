@@ -14,10 +14,13 @@ El repositorio está organizado en diferentes carpetas que representan categorí
 Siéntete libre de explorar este contenido con el fin de proporcionar recursos útiles para tu aprendizaje. 
 
 # Index
+
 ## Enlaces Directos
 
-### Courses
+### Notes about some Courses
 
+- [Learning How to Learn](Courses/Learning%20How%20to%20Learn.md)
+- [SoftDev](Courses/SoftDev/SoftDev.md)
 - [Artificial Intelligence](Courses/2023-1/Artificial%20Intelligence.md)
 - [Compilers](Courses/2023-1/Compilers.md)
 - [Computer networks](Courses/2023-1/Computer%20networks.md)
@@ -30,13 +33,12 @@ Siéntete libre de explorar este contenido con el fin de proporcionar recursos �
 - [IoT Proyect](Courses/2024-1/IoT%20Proyect.md)
 - [Quantum Computation](Courses/2024-1/Quantum-Computation.md)
 - [Schedule](Courses/2024-1/Schedule.md)
-- [AppliedMachineLearningPython](Courses/AppliedMachineLearningPython/AppliedMachineLearningPython.md)
-- [DataBasesNotes](Courses/DataBasesNotes/DataBasesNotes.md)
+- [Applied Machine Learning Python](Courses/AppliedMachineLearningPython/AppliedMachineLearningPython.md)
+- [Python Notes](Courses/AppliedMachineLearningPython/My_Python_Notes.ipynb)
+- [DataBase Notes Folder](Courses/DataBasesNotes)
 - [Disjoint sets](Courses/Disjoint%20sets.md)
-- [EnglishV](Courses/EnglishV/EnglishV.md)
-- [EnglishVI](Courses/EnglishVI/EnglishVI.md)
-- [Learning How to Learn](Courses/Learning%20How%20to%20Learn.md)
-- [SoftDev](Courses/SoftDev/SoftDev.md)
+- [EnglishV](Courses/EnglishV/English%20Topics.md)
+- [EnglishVI](Courses/EnglishVI/English%20VI.md)
 
 ### Divergent
 
@@ -44,13 +46,14 @@ Siéntete libre de explorar este contenido con el fin de proporcionar recursos �
 - [read again](Divergent/read%20again.md)
 - [Unplug from the matrix](Divergent/Unplug%20from%20the%20matrix.md)
 
-### Health
+### Health Notes
 
 - [FlatfootCorrection](Health/FlatfootCorrection.md)
 - [GoOutWithoutPhone](Health/GoOutWithoutPhone.md)
 - [Guía de Alimentos (PDF)](Health/guia-alimentos.pdf)
 - [HowToSleep](Health/HowToSleep.md)
 - [Notas_sobre_Salud (PDF)](Health/Notas_sobre_Salud.pdf)
+	- [Tex Code](Health/NotesHealth.tex)
 - [Periodizacion](Health/Periodizacion.md)
 - [Reestructuracion Cognitiva](Health/Reestructuracion%20Cognitiva.md)
 - [TheScienceOfHabits](Health/TheScienceOfHabits.md)

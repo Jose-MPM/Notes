@@ -1440,3 +1440,12 @@ y la contracultura actual
 
 * Todo cae dentro de la burbuja de la inmadurez, de no saber bregar con el mundo que te encuentras: Porque un hombre maduro por más estrés que tenga no tiene porqué faltarle el respeto a una mujer. 
 Todo es parte de saber que: A ti no te hace falta más que una mujer para satisfacerte a ti mismo como hombre, pero aún así pasas.
+
+
+* what they want?
+    - be present in the relation, more attention, invertirle? :0 
+        - In hard days be here, I stay with u.
+            - les gusta que las consientan
+    - que las quieran
+    - activa, y que de, no solo que tu des.
+- honesto, atento, respeto, caballero, gracioso, amable, ser tomador de decisión, ALFAS, defenderlas
