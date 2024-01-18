@@ -1,53 +1,4 @@
-tienes que pensar de la mejor manera a pesar del miedo, la presion, incluso en el peor de los momentos
-
-# tupac: resista la tentación de la bestia, o te deslizarás, perderás el control y te quedarás dormido para siempre.
-
-Si el juego me sacude o me rompe, espero que me haga un mejor hombre
-Tomar una mejor decisión
-Pongo dinero en la mano de mi madre.
-Le consigo a mi hija una beca universitaria así ella no necestará a nigun hombre
-quedate lejos de la timidez
-solo actua cuando tu corazón lo diga
-LOS VEO EN LA CIMA
-
-"If the game shakes me or breaks me
-I hope it makes me a better man, take a better stand"
-Put money in my mom's hand
-Get my daughter this college plan so she don't need no man
-Stay far from timid, only make moves when your heart's in it
-And live the phrase "Sky's the limit"
-Motherfucker, see you chumps on top
-
-- La responsabilidad afectiva se trata de cuidar a la otra persona, pero sin descuidarte a ti.
-	- Dejar claras tus intenciones y el tipo de vinculo que esperas tener cuando sales con alguien, no alimentar emciones que luego no piensas corresponder
-	- Transmite de manera clara y directa, maneja de la mejor manera cada situación.
-
-- amistad con personas, poder es lealtad 
-	- relacionate con personas mejores y con más poder que tu
-	- vuela con las aguilas
-	- tu seras el 6to de las personas con las 5 que más te juntas
-	- hacer los otros se sienta bien es parte del liderazgo
-	- hazte amigo del que te anime a superarte
-	- cuando quieras hablar con una nueva persona, no la sientas acosada o que sienta que tu quieres algo de ella.
-- Recuerda que todo son relaciones humanas, siempre estamos en contacto humano, desarrollalas.
-
-- debes SER CAPAZ de:
-	- MANTENER TU MENTE DONDE QUIERES, SE CONCENTRA EN UN DESEMPEÑO 
-	- ESA MUJER no es tuya y puede que nunca lo sea
-
-- IMAGINA QUE LO HAS HECHO ANTES QUE HAS TENIDO EXITO EN ESTO, COMO ACTUARIAS SI YA HUBIERAS TENIDO EXITO, COMO SI YA LO FUERAS, SE CONSISTENTE CON ESE ESTADO EMOCIONAL, CONFIA!
-	- concentrate en hacer tu primer mejor exito
-	- me siento perfecto para darle bien cabron
-	- cuando tengas que decididr algo usa tu cerebro para la razón y tu alma para la intucions
-
-
-- Maneja el estres, esto no es nada
-
-- La vidad es un viaje aprende tanto de los sabios como de los tontos observo y evito lo que le has provocado algo más
-	- La vida esta llena de oportunidades, cada segundo y desición te apunta a una nueva dirección.
-	- La vida y el tiempo son temporales	
-		- CUIDALOS!
-	- Disfruta cuando estes siendo feliz, pero cuando estás pasandola por algo mal mantente firme 
+- Disfruta cuando estes siendo feliz, pero cuando estás pasandola por algo mal mantente firme 
 
 - La vida no es justa, pero aún así la vida que deseas esta recae en ti esta al final de todas las dificultades que desprecias
 	- si quieres perseguir la felicidad empieza a perseguir la incomodidad.
@@ -441,3 +392,5 @@ Liberation Serif
 
 No pueden detenernos si vemos los errores 
 -K
+
+el lenguaje no era la realidad, sino una manera de encerrar a las cosas y a las personas, según su género, aunque apenas sabía qué era género: además de servir para hacer faldas, el género era una forma de prisión.

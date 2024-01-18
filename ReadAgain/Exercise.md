@@ -1,4 +1,4 @@
-# About Exercise
+# Exercise
 
 * Main Fundamentals Principles Basic:	
 	- **Eating right(Good and Clean Eat), exercising correctly with good tecnique and resting the body are main fundamentals to maintaining a healthy and active lifestyle.**

@@ -6,7 +6,7 @@
 
 * 2pac: 
 
-> Resist the temptation of the beast, or u will slip, lost control and fall asleep(sleeping or not awake) forever.
+> Resist the temptation of the beast, or u will slip(deslizaras), lost control and fall asleep(sleeping or not awake) forever.
 
 * Notorious: 
 

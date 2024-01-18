@@ -8,8 +8,6 @@
 	- Making others feel good is part of leadership.
 	- When u want to talk to a new person, dont make them feel harassed(abrumada, acosada) or that u only want something from them.
 
--
-
 # Love
 
 - That woman isn't yours and may never be yours.
