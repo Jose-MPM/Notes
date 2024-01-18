@@ -1,5 +1,7 @@
 # Periodización.
 
+- Periocidad: Disminuir el volumen y aumentar la intensidad al final de cada ciclo de entrenamiento.
+
 Una manera de implementar la periodización es la rutina dividida que mencionaste podría ser a través de una periodización lineal o de bloques, donde se va aumentando la intensidad del entrenamiento y disminuyendo el volumen a lo largo del tiempo. Aquí te presento una propuesta de cómo podrías hacerlo:
 
 Fase de preparación (4-6 semanas): Durante este periodo, puedes centrarte en realizar un mayor volumen de trabajo (más repeticiones y series), pero con una intensidad más baja (pesos más ligeros). Esto podría implicar hacer 3-4 series de 12-15 repeticiones para cada ejercicio, con un peso que puedas levantar de manera segura y con buena forma.
@@ -63,3 +65,15 @@ Realizar los mismos ejercicios pero con menos peso, más repeticiones y enfocars
 La programación de los días sería la misma que mencioné en mi respuesta anterior. Recuerda, es importante escuchar a tu cuerpo y descansar adecuadamente entre los entrenamientos. También es fundamental comer una dieta balanceada para apoyar, de hecho es casi lo más importante.
 
 https://www.youtube.com/watch?v=L3HWhjoV-a0
+
+- ondulante.
+	cambia el volumen y la intensidad del entrenamiento dentro de la misma semana, en lugar de a lo largo del tiempo, la idea es darle más recuperación en los periodos donde levantaste mucho peso
+	- variar días con mucho volumen de peso levantando con menos intensidad  y días de mayor intensidad con menos volumen le damos mayor tiempo de descansa y menos adaptación, que se acostumbre a un esfuerzo determinado
+
+- periodización en bloques es mejor
+	-  Dividir tu entrenamiento en mesociclos de 4 a 8 semanas te permitirá enfocarte en objetivos específicos durante cada bloque, como hipertrofia o fuerza.
+	- Ajusta el volumen y la intensidad: Varía el volumen y la intensidad de tu entrenamiento para optimizar tus resultados. Puedes comenzar con un enfoque en la hipertrofia al principio, con más volumen y menos intensidad, y luego aumentar la intensidad a lo largo del tiempo para enfocarte en ganar fuerza.
+	- Prioriza la recuperación: Asegúrate de programar suficiente tiempo de descanso entre sesiones de entrenamiento para permitir que tus músculos se recuperen y se adapten. La frecuencia óptima de entrenamiento para cada grupo muscular está generalmente entre 2 y 4 días de descanso.
+	- Cuida tus articulaciones y longevidad: Además de buscar resultados físicos, es esencial considerar la salud de tus articulaciones y tu longevidad. No descuides la técnica adecuada y evita el exceso de volumen que pueda poner en riesgo tus tendones y ligamentos.
+
+Asegúrate de equilibrar el volumen, la intensidad y los días de descanso de acuerdo con tu nivel de condición física y capacidad de recuperación.

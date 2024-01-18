@@ -1,55 +1,6 @@
-- culpas al externo? cuida tu yo interno
+tienes que pensar de la mejor manera a pesar del miedo, la presion, incluso en el peor de los momentos
 
-- To do(MIND):
-	- observarte desde afuera, como si fuera un extraño, para ver que te molesta de los demas? 
-		- revisa tu pasado, resuelve esos traumos infantiles
-		- controla tu yo interno
-	- sufrimos por lo que creemos que las personas piensan de ti
-		* preparate para las criticas, estas no depende de ti
-		* no eres tan importante, la gente vive su vida, por lo que no te preocupes por lo que puedan decir de ti.
-			- * tomalo con humor, supongo que las demas personas no conocen mis otros defectos porque si no dirían peores cosas, jaja
-	- no suponer, estarás en lo incorrecto
-
-- to do (physic):
-	- cada vez mas volumen para crecer, en los ejercicios compuestos
-	- OBLICUOS
-	- Antebrazo con benas
-	- espalda
-		- **peso muerto**
-	- apertura de hombros
-	- cuello
-	* Mayor vólumen posible del cual te puedas recuperar para antes de volver a entrenar, pero no siempre más volumen es mejor, si ejercitamos dos veces por semana el volumen debe de ser menor: *Maxima cantidad de vólumen de la cual me puedo recuperar a tiempo*
-	- * Superserie, ejercicio para bicep y tricep
-* Trabaja el branquial(abajo del codo) - Martillo con mancuerna
-* Concentrate Bicep 
-* Come bien, ejercicios bien hechos, buena técnica, descansar el cuerpo.
-* Consistencia: Se constante y manten tu entrenamiento, mayor estimulación de hipertrofia a las 10 sem
-* Sobrecarga progresiva = +Intensidad +Peso +Volumen: Sacarlo de la zona muscular
-* Periocidad: Disminuir el volumen y aumentar la intensidad al final de cada ciclo de entrenamiento.
-* Intensidad: 0 repeticiones de reserva, siempre cerca del fallo sin importar el peso
-* Frecuencia: 2 veces por semana cada grupo muscular
-* Tensión mecanica: Más del 50% de entrenamiento debe de ser sometido en tensión
-* Recuperación: El desarrollo muscular sucede durante los periodos de recuperación
-* Estres metabolico
-
-1. Necesitas dividir el entramiento en diferentes ciclos o períodos,
-2. Entre menos intenso sientas el entrenamiento, deberías aumentar el volumen el proximo entrenamiento
-3. 10-20 sets x grupo muscular x week
-4. Empieza con las reps necesarias para llegar a 3 reps en reserva, pero es mejor llegar al fallo.
-5. Aumentar las resp o pesos e/week para la sobrecarga, para que tu cuerpo no se adapte
-6. Mesociclo: 6-7 semanas de entramiento, acumulando volumen y la ultima semana baja el volumen de entrenamiento a menos de la mitad, dos mesociclos así y un mesociclo enfocado al estres metabolico: haciendo más repeticiones por grupo muscular, trabajando con menos peso, descansando menos tiempo entre series y agregando superseries
-
-Se consistente 
-jalon de tricep a una mano
-levantamiento por encima de la cabeza de disco
-tipo press tricep
-
-* crea un sistema de valores acorde a lo que buscas
-	- por que crees lo que crees?
-
-# 
-
-tupac: resista la tentación de la bestia, o te deslizarás, perderás el control y te quedarás dormido para siempre.
+# tupac: resista la tentación de la bestia, o te deslizarás, perderás el control y te quedarás dormido para siempre.
 
 Si el juego me sacude o me rompe, espero que me haga un mejor hombre
 Tomar una mejor decisión
@@ -70,7 +21,6 @@ Motherfucker, see you chumps on top
 - La responsabilidad afectiva se trata de cuidar a la otra persona, pero sin descuidarte a ti.
 	- Dejar claras tus intenciones y el tipo de vinculo que esperas tener cuando sales con alguien, no alimentar emciones que luego no piensas corresponder
 	- Transmite de manera clara y directa, maneja de la mejor manera cada situación.
-
 
 - amistad con personas, poder es lealtad 
 	- relacionate con personas mejores y con más poder que tu
@@ -276,8 +226,7 @@ Creo que lo mejor es no desear nada, no esperar nada, lo necestias? que es extra
 
 
 # mmmm
-La importancia de Desafiar e intrigar a una mujer desde el primer momento es mucho más importante y efectivo que intertar ser logico con ellas
-Ser logico es responder a corde como ella contesta
+La importancia de Desafiar e intrigar a una mujer desde el primer momento es much o más importante y efectivo que intertar ser logico con ellas,Ser logico es responder a corde como ella contesta
 
 Desafiar e intirgar es no acceder del todo a sus peticiones, decirles lo que ellas no quieres escuchar de forma juguetona, mal interpretar de forma diveritda sus apalabras como si eela te estuviera haciendo insinuaciones, utilizar alguna respuesta subrealista cuando ella te pregunte cosas sobre ti.
 

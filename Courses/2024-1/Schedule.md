@@ -1,4 +1,29 @@
+ENALLT to english
+
+LAS EXPECTATIVAS(NORMALMENTE SON MUY ALTAS) SON LA RAÍZ DE LA INFIDELIDAD
+work in all ambits
+pareja
+dinero
+fisico
+mental
+
+"Todo lo que amas probablemente se perderá, pero al final el amor volverá de otra manera".
+Aceptar el cambio. Es inevitable para el crecimiento. Juntos podemos convertir el dolor en asombro y amor, pero depende de nosotros crear consciente e intencionalmente esa conexión.
+
+Kafka
+
+has dado todo? 
+
+OPERA DESDE EL AMOR SIN ESPECTATIVA
+ACCIÓN MASIVA DESDE EL AMOR SIN NINGUNA EXPECTATIVA
+
+jiu-jitsu
 # Eight Semester
+19 nov man day
+
+Nunca hubiera madura como hombre sin pasar por todo lo malo.
+Solo los que nunca dejan de buscar están destinados a encontrar
+Que buena vida, que buena y loca vida si tan solo me hubieran explicado que este juego se trataba de ser feliz otra cosa seria
 - libros:
     - "La Insoportable Levedad del Ser". 
 - ideas
@@ -1155,9 +1180,6 @@ datagrip:solo bases
 intellij IDEA: 
 DBeaver-gratis menos pesado
 
-@column(lenght = 100, nullable=false)  es para validación en la base de datos
-@NotNull, validación de spring
-
 * BECA
     - https://www.iie.org/programs/exxonmobil-scholarship-for-research-mexico/
 * el labor del body sabda
@@ -1449,3 +1471,42 @@ Todo es parte de saber que: A ti no te hace falta más que una mujer para satisf
     - que las quieran
     - activa, y que de, no solo que tu des.
 - honesto, atento, respeto, caballero, gracioso, amable, ser tomador de decisión, ALFAS, defenderlas
+
+
+- reflejo:  decir las últimas palabras y agregar emoción, aprovecha las neuronaes espejo activandolas con un gesto calido, demuestra que las estas escuchando y cambiar la entonación al final de la pregunta
+- etiquetas: establece una zona de confort, gestos con las manos ya q representan nuestras emociones.
+
+ - cuidate de las distracciones
+ - concentrate aqui
+ - toma notas
+ - todos nuestros futuros   
+
+ # 10 Things that require zero talent
+
+ - Being on time = Estar a tiempo, puntualidad, ser puntual
+ - Work Ethic
+ - Effort - esfuerzo
+ - Body Language 
+ - Energy
+ - Attitude
+ - Passion
+ - Being COACHABLE - ser entrenable, enseñable
+ - Doing Extra - Hacer más
+ - Being Prepared - Estar preparado
+
+ El libro The Chaos Machine de Max Fisher donde se expone como la ideología rancia de una bola de ingenieros gringos y blancos acerca de la "libertad de expresión" esta engranada en los algoritmos de estas redes y promueven estas conductas donde los equipos "políticamente correcto" y "políticamente incorrecto" crean sus cámaras de eco para después estarse peleando comentarios contra el otro equipo o ya de plano su imaginación, generando inmensas cantidades de engagement en estas plataformas de a gratis, repito no.investigues.
+
+ # Movies
+- coraline
+
+Si tu supieras lo rapido que nosotros morimos y lo rapido que nos olvidamos a los muertos, tu pararías de buscar validación de otras personas, enfocate, hazlo por ti
+
+
+# To listen 
+
+- genre: plunder phonics
+    - since I left u - avalanches
+    - replica - oncohtrix point never
+    - plunderphonics - john oswald
+
+tipper kettison mind latch
