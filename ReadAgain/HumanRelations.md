@@ -8,6 +8,13 @@
 	- Making others feel good is part of leadership.
 	- When u want to talk to a new person, dont make them feel harassed(abrumada, acosada) or that u only want something from them.
 
+- Necesitas apalancarte, se que no tengo las habilidades y conocimientos de todas las areas.... compran el tiempo de otras personas para hacer eso que tu no dominas.
+
+- Move in the  abundance of people, dont get too attached(apego) to any one person.
+	- U will talk(again) to other people and u will learn and grown, but u will always keep ur essence.
+		- U miss out on all than by not wanting to listen to the others.
+	- Dont be afraid of losing a woman.
+
 # Love
 
 - That woman isn't yours and may never be yours.
@@ -17,3 +24,35 @@
 - The Affective Responsibily is about taking care of the other person(not only feelings) but whitout neglecting(descuidarte) yourself
 	- Make clear ur intentions and the kind of bond  u hope to have when u date or hang out someone, dont feed(alimentar) emotions that u dont intend(pretender) to reciprocate(corresponder). Transmit in clear and direct way.
 
+- Indifference kills everything little by little and disillusionment kill everything at the same time.
+	- If I care about myself because I want my personal progress, am I being indifferent? U r not indifferent if u take in account the feeling of ur partner.
+	- U must be able to understand what they want and know how to listen to, validate, the feeling of their woman-wife.
+
+* What relationship do u want to have? Nurture-nutrela it so that u achieve consistency with ur ideals and goals.
+	- Keep ur mind where u wish
+
+## to Woman
+
+* Enhance ur style, your mind, your health, and hygiene is important because it can influence the impressions generated.
+	- ez way: meditate, keep ur word!, use less networks, concentrate in one job.
+* The more u show her that u pursue(buscar-perseguir) or desire(want) her, the less u will have her.
+* Learn to converse, they love talk, the less u speak, the better it will be.
+	- Yes, u should be the first one to start the conversation, take the initiative to bring up(poner) the conversation topic and let her follow u.
+		- U can combine 3 ingredients: flirtatiousness(coquetería), interesting themes and a touch of humor.
+			- "ese jeans te ve bien"
+			- 3 things u hate about men?
+			- Interesting things where u both can get to kwow each other.
+		- Learn how to get closer, work on physical contact.
+* ***Build urself up first and then rise to the occasion.***
+* They will remember u for how u make them feel, they are attached-stick(apegan) to how u make them feel, not what u tell them.
+* The worst thing u can do to a woman is to make her feel ugly, incompetent in the world of women, incompetent to get-grab a badass(extremadamente hábil)-awesone(increible or impresionante) guy.
+* If she has already told u and u ignore, dont hope more opportunities.
+	-  IF WE HAVE ALREADY BEEN INFORMED AND YOU DON'T PAY ATTENTION, DON'T WAIT FOR ANY MORE OPPORTUNITIES
+* She loves to hear his name
+* Start engaging(mantener) in conversations where ur attentiveness(the fact of paying attention and listening carefully) shines through
+* Find that person's hidden passion
+* Smile just upon meeting him(al conocerla or después de conocerlo), but not right away(no de inmediato). 
+	- Presentate
+* Open-ended questions open the conversation and wait for her to speake to u again, let her answer u, without abundance and dont bomb her with questions if she doesn't even want to answer u.
+	- What, how and which.
+* To Stop obeying-obedecer them ans assume what is right and what is wrond, mature.

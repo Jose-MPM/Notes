@@ -1,6 +1,10 @@
 # Mind
+* You must be ablle to keep ur mint where u want, concentrate in a performance
+	- Keep ur mint in your goal: clearly define ur goals and objectives
+	- Improve ur ability-capacity to resist distractions and maintain(mantenerte) focus on what really matters to achieve ur goals.
+	- The most important is the process, not just the result, enjoy and love the journey(camino recorrido), attention should be focused on how u r performing(on como estas realizando) a task rather(en lugar) than worrying exclusively about the result.
 
-- blame the outsider? Take care of ur inner self because u r the problem.
+- Blame the outsider? Take care of ur inner self because u r the problem.
 	- Culpas al externo? cuida tu yo interno, porque el problema eres tu.	
 
 - Create a values system according to what u r looking for(crea un sistema de valores acorde a lo que buscas).
@@ -23,3 +27,5 @@
 	- Concentrate on makingur first better hit-succeed
 
 * Handle the stress, this it nothing....
+* Enjoy when u r beaing happy, but when u r going through something bad, stand firm.
+* 

@@ -1,124 +1,12 @@
-- Disfruta cuando estes siendo feliz, pero cuando estás pasandola por algo mal mantente firme 
-
-- La vida no es justa, pero aún así la vida que deseas esta recae en ti esta al final de todas las dificultades que desprecias
-	- si quieres perseguir la felicidad empieza a perseguir la incomodidad.
-		- deja de quejarte y comienza a hacer
-		- El mayor riesgo es no correr riesgo, todo en la vida conlleva un poco de riesgo.
-		- Es importante tener en cuenta el futuro pero que no sea un obstaculo.
-			- futuro: que sean un suave recordatorio para lograr ese estilo de vida
-			- pasado: "Ojala volvieran los buenos tiempos" -> Te conviertes en una de las razones por la que no eres feliz.
-	- Pensar demasiado empeora las cosas, comienzas a pensar en todo, no te inventes situaciones de fantasia en tu mente. 
-		- LO MÁS IMPORTANTE ES LA ACCIÓN, el accionar.
-	- La felicidad es una elección personal, la mayoriá de ella viene dentro de tí. Es una mentalidad que necesitas dominar día al día
-		- Apaga tus redes sociales
-	- Tu mente es tu mejor amiga y tu peor enemiga:
-		- Eres la razón de todo lo que sucede en tu vida, tu forma de pensar determina tu vida.
-		- Entrena tu mente porque vivira contigo el resto de tu vida
-		- que sea tu admirador y seguidor
-
-- Haz lo que amas y ama lo que haces, elige cuidadosamente tu trabajo.
-	- Desarrolla habilidades que te ayuden a avanzar en tu carrera.
-	- SOLO INVOLUCRATE EN ACTIVIDADES QUE SIRVAN A TU proposito y visión
-		- INVIERTE EN TI MI MISMO
 
 
-**MANTENTE APRENDIENDO Y DISFRUTANDO EL REGALO DE TU VIDA.**
-
-
- DEFICIR DE ATENCIÓN E HIPERACTIVIDAD
-
- Lo peor es que le puedes es hacerla sentir fea, incompetente en el mundo de las mujeres, incompetente a agarrar un bato chingon
- SI YA NOS LO HAN COMUNICADO Y NO HACES CASO, NO ESPERES MÁS OPORTUNIDADES
-
-le encanta escuchar su nombre
-
- empieza a tener conversaciones donde se note que estas atento
-
- encuentra la pasion oculta de esa persona
-
- sonrie namas conocerle pero no luego luego
-
- preguntas abiertas abren la conversacion
-que, como y cuales
-
-dejar de obedecerlas y madurar, asumir lo que esta bien y lo que está mal
-
-
-
-TE VAS A VOLVER A HABLAR CON OTRAS PERSONAS
-Y SERAS EL MISMO CUANDO VUELVAS
-ESPERO A QUE TE VUELVA A HABLAR
-	- SIN ABUNDANCIA Y NO BOMBARDEES CON PREGUNTAS SI NI QUIERA TE CONTESTAN
-PRESENTATE
-MUEVETE EN LA ABUNDANCIA DE PERSONAS
-
-No estas equivocado, solo es un poco más de la información que desconocias
-
-HAY QEU VER LA BIGPICTURE 
-toda la perspectiva
-esa visión
-
-te lo pierdes al no querer escuchar a os otros
-
-NO TENGAS DEMASIADO APEGO A SOLO UNA PERSONA
-
-
-TEN FIJA LA MIRADA A DONDE TE QUIERES DIRIGIR, TODAS LAS COSAS REQUIEREN TIEMPO, DINERO, PASIENCIA.
-
-PERIODO REFLECTARIO
-
-DATE LA OPORTUNIDAD DE ESTAR PRESENTE
-CONECTAR
-ABRAZALA
-
-
-VENTANA ABIERTA PARA CONECTAR
-
-- PRUEBA DEJATE UNDIR HASTA EL FONDO: EL CHISTE ES SOLO HACER, IGNORAR TUS MECANISMOS DE SUPERVIVENCIA Y PENSAR EN QUE VAS A HACER
-
-PRIMERO CONSTRUYETE Y LUEGO PONTE A LA ALTURA.
-
-TU BUSCAS PIEZAS DE UN MISMO PUZZLE
-LA IMAGEN EN CONJUNTO ES LA MISMA, DISTINTOS PERO ENCAJAR
-
-PIENSA EN SI PUEDE ARREGLARLO EN MENOS D 16 SEGUNDOS
-
-ESTOY CANSADO DE SALIR CON GUAPOS MALOS, SE APEGAN A LO QUE LES HACE SENTIR
-
-
-LA INDIFERENCIA MATA TODO POCO A POCO Y LA DESILUCION QUE LO MATA TODO A LA VEZ
-	- QUE ES? SI YO ME PREOUCPO POR MI MISMO PORQUE QUIERO MIS TRABABOS PERSONALES, ESTOY SIENDO INDIFERETNE? NO SOY INDIFERENTE SI TENGO EN CUENTA EL SENTIR DE LA PAREJA, 
-
-	DEBES SABER ENTENDER LO QUE QUIEREN Y SABER ESCUCHAR, VALIDAR, EL SENTIR DE SU MUJER
-
-
-
-	PASA UN AJO POR EL SARTEN1}!!!
-	EXPERIMENTOS CON HUEVOS PARA TU HIJO
-
-
-	que relación deseas tener? alimentala de modo que lo logres consistentes con tus ideales y metas
-	manten tu mente donde la deseas
-
-
-- LOS DESVELOS NUNCA SE RECUPERAN!
-	- Duerme mínimo 7 horas
-	- LO QUE LASTIMES TU CEREBRO NUNCA SE RECUPERA :0
-
--  To do:
-	-mewing mantener la posición día a dia, no aprietes los dientes, meses para ver cambios, hazlo un habito
-	- corte de pelo adecuado para equilibrar los ragos faciales
-	- postura y yoga
-	- usa productos de cuidado de piel para mejorar la apariencia de tu rostro como la piel grasa y seca
-		- limpiadores facialesacido
-			- quitar el aceite
-		- rutina facial
-	- bebe suf agua
 
 
 # ES IMPOSIBLE TENER TODO BAJO CONTROL, TENEMOS QUE DARNOS CUENTA QUE PENSAR DEMASIADO EN EL FUTURO PUEDE LLEVAR A IMAGINARNOS SITUACIONES Y PROBLEMAS QUE PUEDEN NO _**EXISTIR**_, TODO ESTO CONDUCE A LA ANSIEDAD - EL QUE SUFRE ANTES DE QUE SEA NECESARIO, SUFRE MÁS DE LO NECESARIO.
 
-ES IMPOSIBLE TENER TODO BAJO CONTROL, TENEMOS QUE DARNOS CUENTA QUE PENSAR DEMASIADO EN EL FUTURO PUEDE LLEVAR A IMAGINARNOS SITUACIONES Y PROBLEMAS QUE PUEDEN NO EXISTIR, TODO ESTO CONDUCE A LA ANSIEDAD, EL QUE SUFRE ANTES DE QUE SEA NECESARIO, SUFRE MÁS DE LO NECESARIO. PERO SI QUIERES REALIZAR ALGO NO HAY MÁS QUE CONFÍAR EN TU VERSIÓN DE TI QUE DA LO MEJOR DE SÍ PARA OBTENER ESO QUE QUIRES, TUS METAS Y TUS SUEÑOS.
+ES IMPOSIBLE TENER TODO BAJO CONTROL, TENEMOS QUE DARNOS CUENTA QUE PENSAR DEMASIADO EN EL FUTURO PUEDE LLEVAR A IMAGINARNOS SITUACIONES Y PROBLEMAS QUE PUEDEN NO EXISTIR, TODO ESTO CONDUCE A LA ANSIEDAD, EL QUE SUFRE ANTES DE QUE SEA NECESARIO, SUFRE MÁS DE LO NECESARIO.
+
+PERO SI QUIERES REALIZAR ALGO NO HAY MÁS QUE CONFÍAR EN TU VERSIÓN DE TI QUE DA LO MEJOR DE SÍ PARA OBTENER ESO QUE QUIRES, TUS METAS Y TUS SUEÑOS.
 
 
 1. considerate alguien que ya es un atleta, en lugar de alguien que tiene que hacer ejercicio, piensa que eres una persona no fumadora cuando quieres dejar de fumar.

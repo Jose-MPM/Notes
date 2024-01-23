@@ -56,6 +56,15 @@
 		- Objetivo: aumentar mi masa muscular y mi fuerza
 		- Cuidar nuestro cuerpo: longevidad y cuidar articulaciones
 	- to trainign:
-		1. El vólumen de entrenamiento tiene que ser el mínimo suficiente para obtener resultados porque si nos excedemos solo aumentara nuestra crecimiento	muscular pero no más fuerza.
+		1. El vólumen de entrenamiento tiene que ser el mínimo suficiente para obtener resultados porque si nos excedemos solo aumentara nuestra crecimiento muscular pero no más fuerza.
 		2. La frecuencia óptima de entrenamiento para cada músculo es entre 2-4 días de descanso.
 			- Es mejor dividir el vólumen que vas a entrenar cada grupo muscular 2 veces por semana
+
+* To do:
+	- mewing to keep the position day to day, dont grit ur teeth, months to see changes, make it a habit
+	- Proper haircut to balance facial features
+	- posture and yoga
+	- use skin care products to improve the appearance of ur face like oily(grasa) and dry(seca) skin
+		- facial cleansers to oil removal
+		- facial routine
+	- drink enough water
