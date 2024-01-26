@@ -1,4 +1,5 @@
 # Mind
+
 * You must be ablle to keep ur mint where u want, concentrate in a performance
 	- Keep ur mint in your goal: clearly define ur goals and objectives
 	- Improve ur ability-capacity to resist distractions and maintain(mantenerte) focus on what really matters to achieve ur goals.
@@ -19,6 +20,13 @@
 		- U are not important, people live their lives, they don't spend a lot of time thinking about u, sorry.
 		- Take it with humor, I guess other don't know my flaws (others defects) or they would say worse things.
 	- Do not assume, u will wrong
+
+## To Change
+
+- Why do u really want to make this change?
+	- ¿Por qué realmente quieres hacer este cambio?
+	- ¿What is your goal?
+	- How would u feel if u were to make this change?
 
 ## Personal Develop
 

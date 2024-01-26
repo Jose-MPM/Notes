@@ -18,6 +18,9 @@
 # Love
 
 - That woman isn't yours and may never be yours.
+	* The worst thing u can do to a woman is to make her feel ugly, incompetent in the world of women, incompetent to get-grab a badass(extremadamente hábil)-awesone(increible or impresionante) guy.
+	* If she has already told u and u ignore, dont hope more opportunities.
+		-  IF WE HAVE ALREADY BEEN INFORMED AND YOU DON'T PAY ATTENTION, DON'T WAIT FOR ANY MORE OPPORTUNITIES
 
 ## Affective Responsibility
 
@@ -35,24 +38,26 @@
 
 * Enhance ur style, your mind, your health, and hygiene is important because it can influence the impressions generated.
 	- ez way: meditate, keep ur word!, use less networks, concentrate in one job.
-* The more u show her that u pursue(buscar-perseguir) or desire(want) her, the less u will have her.
-* Learn to converse, they love talk, the less u speak, the better it will be.
+
+* ***Build urself up first and then rise to the occasion.***
+
+* They will remember u for how u make them feel, they are attached-stick(apegan) to how u make them feel, not what u tell them.
+	* Learn to converse, they love talk, the less u speak, the better it will be.
+		* Find that person's hidden passion
+	* The more u show her that u pursue(buscar-perseguir) or desire(want) her, the less u will have her.
 	- Yes, u should be the first one to start the conversation, take the initiative to bring up(poner) the conversation topic and let her follow u.
 		- U can combine 3 ingredients: flirtatiousness(coquetería), interesting themes and a touch of humor.
-			- "ese jeans te ve bien"
+			- "ese jeans se te ve bien"
 			- 3 things u hate about men?
 			- Interesting things where u both can get to kwow each other.
 		- Learn how to get closer, work on physical contact.
-* ***Build urself up first and then rise to the occasion.***
-* They will remember u for how u make them feel, they are attached-stick(apegan) to how u make them feel, not what u tell them.
-* The worst thing u can do to a woman is to make her feel ugly, incompetent in the world of women, incompetent to get-grab a badass(extremadamente hábil)-awesone(increible or impresionante) guy.
-* If she has already told u and u ignore, dont hope more opportunities.
-	-  IF WE HAVE ALREADY BEEN INFORMED AND YOU DON'T PAY ATTENTION, DON'T WAIT FOR ANY MORE OPPORTUNITIES
-* She loves to hear his name
+		* She loves to hear his name
+
 * Start engaging(mantener) in conversations where ur attentiveness(the fact of paying attention and listening carefully) shines through
-* Find that person's hidden passion
+	* Open-ended questions open the conversation and wait for her to speake to u again, let her answer u, without abundance and dont bomb her with questions if she doesn't even want to answer u.
+		- What, how and which.
+
 * Smile just upon meeting him(al conocerla or después de conocerlo), but not right away(no de inmediato). 
 	- Presentate
-* Open-ended questions open the conversation and wait for her to speake to u again, let her answer u, without abundance and dont bomb her with questions if she doesn't even want to answer u.
-	- What, how and which.
-* To Stop obeying-obedecer them ans assume what is right and what is wrond, mature.
+
+* To Stop obeying-obedecer them ans assume what is right and what is wrong, mature.

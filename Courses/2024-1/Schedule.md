@@ -1510,3 +1510,9 @@ Si tu supieras lo rapido que nosotros morimos y lo rapido que nos olvidamos a lo
     - plunderphonics - john oswald
 
 tipper kettison mind latch
+
+
+# To china
+https://talent.shixizhi.huawei.com/iexam/1365189427395223554/examInfo?examId=1615969105185619970&sxz-lang=en_US
+https://e.huawei.com/en/talent/outPage/#/sxz-course/home?courseId=LEr4w0UtMYfpbhkgY_Yd5QqFAO0
+
