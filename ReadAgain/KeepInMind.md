@@ -1,4 +1,13 @@
-# Keep In Mind and remember that... como recordatorios
+# Keep In Mind and remember that... como recordatorios, 
+
+> Mientras puedas despertar existe la posibilidad de dejar de ser lo que has sido.
+
+> Nuestros monstruos no nos abandonan mientras no los miremos de frente hasta perderles el miedo.
+
+- has dado todo? 
+
+- The rule is simple: Be well yourself, train yourself, eat healthy, have ambition, love yourself, clear goals, vibrate high, maintain an impeccable imagen, and above all be self-confident
+	- La regla es simple: estar bien uno mismo, entrenar comer saludable tener ambición amor propio metas  claras, vibrar alto, mantener una imagen impecable,  y sobre todo seguridad en si mismos
 
 * Consider yourself as someone who is already an athlete, rather than of someone who has to do exercise, think of yourself as a non-smoker when u want to quit smoking.
 	- Adopts an indentity in accordance with the desired objective.
@@ -13,6 +22,8 @@
 - **See the big picture**, all the perspective, and maybe u are not worng, only it is a litle more information u didn't kwon.
 
 - **Keep learning and enjoying the gift of ur life**.
+
+Disfrutar el hermoso regalo de la vida a tu lado es fantasticamente mejor, como si estuviera drogado.
 
 * Your mind is your best friend and your worst friend; u r the reason for everything that happens in your life, your way of thinking determines ur life, train ur mind to be your admirer(admirador) and follower because it will live with u for the rest of ur life.
 

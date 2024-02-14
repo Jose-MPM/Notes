@@ -1,5 +1,7 @@
 # Mind
 
+* Encajar no quiere decir pertenecer, pertenecer es formar parte de algo sin traicionar tu esencia.
+
 * You must be ablle to keep ur mint where u want, concentrate in a performance
 	- Keep ur mint in your goal: clearly define ur goals and objectives
 	- Improve ur ability-capacity to resist distractions and maintain(mantenerte) focus on what really matters to achieve ur goals.

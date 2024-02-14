@@ -1,73 +1,10 @@
-
-
-
-
-# ES IMPOSIBLE TENER TODO BAJO CONTROL, TENEMOS QUE DARNOS CUENTA QUE PENSAR DEMASIADO EN EL FUTURO PUEDE LLEVAR A IMAGINARNOS SITUACIONES Y PROBLEMAS QUE PUEDEN NO _**EXISTIR**_, TODO ESTO CONDUCE A LA ANSIEDAD - EL QUE SUFRE ANTES DE QUE SEA NECESARIO, SUFRE MÁS DE LO NECESARIO.
-
-ES IMPOSIBLE TENER TODO BAJO CONTROL, TENEMOS QUE DARNOS CUENTA QUE PENSAR DEMASIADO EN EL FUTURO PUEDE LLEVAR A IMAGINARNOS SITUACIONES Y PROBLEMAS QUE PUEDEN NO EXISTIR, TODO ESTO CONDUCE A LA ANSIEDAD, EL QUE SUFRE ANTES DE QUE SEA NECESARIO, SUFRE MÁS DE LO NECESARIO.
-
-PERO SI QUIERES REALIZAR ALGO NO HAY MÁS QUE CONFÍAR EN TU VERSIÓN DE TI QUE DA LO MEJOR DE SÍ PARA OBTENER ESO QUE QUIRES, TUS METAS Y TUS SUEÑOS.
-
-
-1. considerate alguien que ya es un atleta, en lugar de alguien que tiene que hacer ejercicio, piensa que eres una persona no fumadora cuando quieres dejar de fumar.
-    - Entre más le demuestras que la buscas o quieres menos la tendras
-    - tu eres el primero q inicie la iniciativa
-        - aprende a conversar, entre menos hables mejor va a ser.
-            - ten la iniciativa para poner el tema de conservación y que ella lo siga.
-    - combina 3 ingredientes: coquetería, temas interesantes y toque de humor.
-        - ese jeans te ve bien
-        - 3 cosas que odies de los hombres
-        - cosas interesants donde ambos pueden conocerse
-        - contacto fisico, aprende a acercarte
-    - no tengas miedo a perder una mujer
-    - potencia tu estilo, tu mente, tu salud, y la higiene es importante porque esta puede influir en las impresiones generadas.
-        - medita
-        - cumple con tu palabra!
-            - Usar menos redes
-            - Concentrate
-                - Un trabajo...
-
-- La regla es simple: estar bien uno mismo, entrenar comer saludable tener ambición amor propio metas  claras, vibrar alto, mantener una imagen impecable,  y sobre todo seguridad en si mismo
-	- ¿Por qué realmente quieres hacer este cambio?
-¿Cúal es el objetivo? 
-¿Cómo te sentiras al realizar este cambio?
-
-1.- Cuentos que no se cuentan.
-2.- Atestíguame.
-3.- El Bestiario.
-4.- Sembrando Laureles.
-5.- Estado Mental.
-
-Agrupación juvenil anticapitalista
-
-
-Mi raíz-Ali Aka Mind
-Condenados-Akapellah
-Karma-Noryk Rapper School y Warrior 
-El chojin
-Chystemc
-Portavoz- Si no eres parte de la solución, eres parte del problema
-Involucrate en la politica 
-Zatu
-Rxnde Akozta
-Lil Supa
-AL2 el aldeano
-Vico C
-Kase 0
-Nach
-Can
-
-Gracias por permitirme ser la razón de mi felicidad
-
-Vale verga lo que todos digan, no te claves en nada.
-
 Creo que lo mejor es no desear nada, no esperar nada, lo necestias? que es extra? Tu eres el que estropeas, bloqueas, tu eres el mismo ser que controla tu vida, que se bloquea. el que limita las abstacciones de la vida y las encapsula a traves del ego.
 
-
 # mmmm
-La importancia de Desafiar e intrigar a una mujer desde el primer momento es much o más importante y efectivo que intertar ser logico con ellas,Ser logico es responder a corde como ella contesta
 
-Desafiar e intirgar es no acceder del todo a sus peticiones, decirles lo que ellas no quieres escuchar de forma juguetona, mal interpretar de forma diveritda sus apalabras como si eela te estuviera haciendo insinuaciones, utilizar alguna respuesta subrealista cuando ella te pregunte cosas sobre ti.
+La importancia de Desafiar e intrigar a una mujer desde el primer momento es mucho más importante y efectivo que intertar ser logico con ellas, Ser logico es responder a corde como ella contesta
+
+Desafiar e intrigar es no acceder del todo a sus peticiones, decirles lo que ellas no quieres escuchar de forma juguetona, mal interpretar de forma diveritda sus palabras como si ella te estuviera haciendo insinuaciones, utilizar alguna respuesta subrealista cuando ella te pregunte cosas sobre ti.
 
 2. Aislar a las chicas con una demostración de valor: mostrar un rasgo de valor o sobresaliente y ailsarlas porque necesito una opinión femenina
 	- valia del cubo, utilizar la imaginación de las chicas, imagina en el cubo, tamaño, color, opacidad, entorno al rededor para darle una descripción de su propia personalidad
@@ -282,3 +219,22 @@ No pueden detenernos si vemos los errores
 -K
 
 el lenguaje no era la realidad, sino una manera de encerrar a las cosas y a las personas, según su género, aunque apenas sabía qué era género: además de servir para hacer faldas, el género era una forma de prisión.
+
+
+* Books:
+	- Nicholas Carr, Superficiales, qué está haciendo internet con nuestras mentes?
+
+	https://www.youtube.com/watch?v=RaoSYGifhzc&ab_channel=Platzi
+	el factor  Luria
+	noosfera
+	MK Ultra, energía neuronal, proyecto
+	desapego
+	equilibrio, mente y cuerpo, atrae tu abundancia
+	visualización, la vida de tus sueños, ver tu futuro at raves de tu consciencia, no iluciones
+	concentracion, traumas hacia positividad-energia
+	confianza en ti misma, se irreconocible
+	elevación	
+
+	modelo de fundamentos, 
+
+	alexander luria
