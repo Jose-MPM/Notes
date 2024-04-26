@@ -1,86 +1,5 @@
-Creo que lo mejor es no desear nada, no esperar nada, lo necestias? que es extra? Tu eres el que estropeas, bloqueas, tu eres el mismo ser que controla tu vida, que se bloquea. el que limita las abstacciones de la vida y las encapsula a traves del ego.
 
-# mmmm
-
-La importancia de Desafiar e intrigar a una mujer desde el primer momento es mucho más importante y efectivo que intertar ser logico con ellas, Ser logico es responder a corde como ella contesta
-
-Desafiar e intrigar es no acceder del todo a sus peticiones, decirles lo que ellas no quieres escuchar de forma juguetona, mal interpretar de forma diveritda sus palabras como si ella te estuviera haciendo insinuaciones, utilizar alguna respuesta subrealista cuando ella te pregunte cosas sobre ti.
-
-2. Aislar a las chicas con una demostración de valor: mostrar un rasgo de valor o sobresaliente y ailsarlas porque necesito una opinión femenina
-	- valia del cubo, utilizar la imaginación de las chicas, imagina en el cubo, tamaño, color, opacidad, entorno al rededor para darle una descripción de su propia personalidad
-		- cubo amarillo es optimista y entusiasmo por la vida
-		- es transparente? cerrada o siempre habla con la verdad
-
-3. Vibraciones: Estás denotan tu estado, si estas nervioso, seguro, etc
-	- Afirmaciones que elevaran tu energía y potencial mental antes de salisr
-		- Por donde voy las mujeres esperan que yo les hable
-		- Soy una fuente de energia positiva para las personas que me rodean
-		- Irradio Vibraciones de confianza y poder
-		- Mi presencia impregna emociones positivas
-		- las chicas se divierten y la pasan increible con mi presencia
-4. BESO SEGURO: Beso sin rechazo, el rechazo a veces puede desestabilizar a algunos hombres.
-	- para asegurarse:
-		- cuando sientas esas tensiones o vibraciones, conección entre ambos
-			- estas pensando en besarme
-				- si si besala
-				- si no, menos mal porque no tenía la intensión de hacerlo.
-5. La confianza se traslada
-	- aumentar el valor social
-	- puedes liderar otros hombres, liberarlos
-6. El miedo al rechazo desaparece
-	- no es personal, no depende de tí, simplemente no fue el momento adecuado
-	- cuanto menos te esfuerces mejor te salen las cosas, no te presiones tanto, no vayas a hacer todo por conocerla
-7- No siempre estaras motivado para conocerlas
-- al cerebro no le gustan los retos, SIMPLEMENTE HAS LO QUE SABES QUE TIENES QUE HACER
-
-
-
-
-## SI SABES QUE LLEGARAS A LA CIMA, CADA PASO VOLTEA. porque cuando llegues el ego te dira, que sigue?
-
-La prisa y hambre nacen de la duda de hacer las cosas.
-
-
-mentalidad humilda, el que tropieza- se deja asesorar, pide ayuda no dejes que la soberbia te segue o te mate. NO BUSCA CULPABLES, NI EN EL.
-
-
-Busca a los mejores en lo que hacer, networking
-
-asociaciones de estudiantes y conferencias, toma la iniciativa fuera de tu colegio.
-
-la base de cemento, es la universidad donde piensas de manera articulada, de forma coherente y sofesticada.
-
-COMO APALANCAMIENTO.
-
-SIN LO PRACTICO LA TEORIA ES UN 0
-
-ALTOS INGRESOS Y LA SILLA EN LA MESA.
-
-pro activo? te interesas de lo importido en clase?
-estas creando tu red de expertos para el futuro?
-
-cambly
-
-trabajar en: oratoria, debate.
-
-
-busco al profe, lleno los codigos que tengo que sacar del sistema donde saque el servicio social
-firmarlo, y enviarlo desde un servicio social
-
-El libro te obliga a mantener la atención, adiestra tu circuito de concentración.
-La multitarea no esta en nuestro cerebro, la atención es una capacidad que no puede dividirse por completo, es solo una alucinación, 
-
-la meditación silencia nuestra jaula de grillos, debes querer la naturaleza, respetar el campo, el bosque no es 
-
-piensa y agase rico
-nos convertimos en lo que pensamos, el cuerpo siente lo que piensas
-lo que siembres vas a cosechar, 
-
-Lección1: controla tus pensamientos y cambia tu vida, cosechamos lo que sembramos en nuestros pensamientos, nientras disposición mental determina nuenstro éxito o fracaso. Es fundamental controlar y elegir nuestros pensamientos, pues de ellos depende nuestra vida.
-
-Decide en que pensaras, si piensas en terminos positivos lograras resultados positivos
 El éxito se mide por la claidad y cantidad de servicio prestado. La prosperidad se basa en el intercambio mutuo; debemos aportar valor a otros para prosperar. La riqueza depende de cuánto valor entregamos y a cuantas personas alcanzamos.
-	- Valor
  
 Enfocate en las razones por las que podemos tener éxito en lugar de las que no podemos, nuestras expectativas y creencias determinan neustro mundo. Tenemos grandes reservas de talento y habilidad dentro de nosotros.
 
@@ -238,3 +157,29 @@ el lenguaje no era la realidad, sino una manera de encerrar a las cosas y a las 
 	modelo de fundamentos, 
 
 	alexander luria
+
+	enrique.leiva@mbqtechnologies.com to ask about recursos humanos y capacitación 
+	@mbq metabase
+
+	Cesar Sanabria 
+	5541631700
+
+	
+
+	title:indexof shine like a crazy diamonds mp3
+
+
+	HAZ Que el dinero trabaje por ti
+	activo vs pasivo, activo son los que te dan dinero(algo q este dentro de tu nivel), compra acciones, inmuebles, no un coche o algo que traiga más gastos
+
+	ocupate de tu propio negocio, montatelo por tu cuenta
+	impuestos solo los pagan los probles
+	los ricos inventan el dinero, los q tienen miedo a perder dinero no serán ricos, corre un poco de riesgo
+	Trabaja para aprender, no trabajes para sacar dinero
+
+	primero pagate a ti mismo, y lo primero q hagas invierte en activos, un curso, una formación podra retornar inversión
+
+	trabajar es importante pero si tu quieres hacer algo, o te interesa algo, deberías de realizarlo a primera hora, antes de estar cansado, por ejemplo, si quieres aprender una habilidad que despues te podría ayudar en tu futuro pues deberías de hacerlo antes de trabajar
+
+
+	Living in Pain (feat. 2Pac, Mary J. Blige & Nas)

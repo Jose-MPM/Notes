@@ -58,6 +58,41 @@
 		- What, how and which.
 
 * Smile just upon meeting him(al conocerla or después de conocerlo), but not right away(no de inmediato). 
-	- Presentate
+	- Presentate normal, sonríe hasta despues, no luego luego.
 
 * To Stop obeying-obedecer them ans assume what is right and what is wrong, mature.
+
+### Action
+
+1. Desafiar e intrigar a una mujer desde el primer momento es mucho más importante y efectivo que intentar ser logico con ellas, ser logico es responder deacuerdo a como ella contesta, si tienes que prestar atención y responder de acuerdo a lo que ellas te cuente, pero puedes agregar emociones con simples preguntas, cambios de voz, no solo seguir un tema prologandamente(logicamente), ser lógico con las mujeres implica una comunicación más directa y racional, mientras que desafiar e intrigar desde el principio implica agregar emoción y misterio a la interacción para crear una conexión más profunda y significativa.
+	- Desafiar e intrigar es no acceder del todo a sus peticiones, decirles lo que ellas no quieren escuchar de forma juguetona, mal interpretar de forma diveritda sus palabras como si ella te estuviera haciendo insinuaciones, utilizar alguna respuesta subrealista cuando ella te pregunte cosas sobre ti.
+
+2. Aislar a las chicas, hacer una demostración de valor: mostrar un rasgo de valor o sobresaliente y ailsarlas, digamos que porque necesitas una opinión femenina, el chiste es que no se sienta presionada por sus amigas, otras personas, la idea es establecer una conexión más profunda y concentrada, lo que permite que la demostración de valor tenga un impacto más significativo.
+	- Valia del cubo: utilizar la imaginación de las chicas, imagina en el cubo, tamaño, color, opacidad, entorno al rededor para darle una descripción de su propia personalidad
+		- un cubo amarillo puede asociarse con optimismo y entusiasmo por la vida, mientras que la transparencia del cubo puede relacionarse con la apertura y la honestidad en la comunicación
+	- BESO SEGURO: Beso sin rechazo, el rechazo a veces puede desestabilizar a algunos hombres. para asegurarse:
+		- cuando sientas esas tensiones o vibraciones, conección entre ambos.
+			- estas pensando en besarme?
+				- si si besala
+				- si no, menos mal porque no tenía la intensión de hacerlo.
+
+
+3. Vibraciones: Estás denotan tu estado, si estas nervioso, seguro, etc
+	- Afirmaciones que elevaran tu energía y potencial mental antes de salisr
+		- Por donde voy las mujeres esperan que yo les hable
+		- Soy una fuente de energia positiva para las personas que me rodean
+		- Irradio Vibraciones de confianza y poder
+		- Mi presencia impregna emociones positivas
+		- las chicas se divierten y la pasan increible con mi presencia
+
+5. La confianza se traslada
+	- aumentar el valor social
+	- puedes liderar otros hombres, liberarlos
+6. El miedo al rechazo desaparece
+	- no es personal, no depende de tí, simplemente no fue el momento adecuado
+	- cuanto menos te esfuerces mejor te salen las cosas, no te presiones tanto, no vayas a hacer todo por conocerla
+7- No siempre estaras motivado para conocerlas
+- al cerebro no le gustan los retos, SIMPLEMENTE HAS LO QUE SABES QUE TIENES QUE HACER
+
+
+vmejia@iqteksolutions.com to ask about some work with dominicnos

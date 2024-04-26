@@ -1,5 +1,10 @@
 # Mind
 
+* La multitarea no esta en nuestro cerebro, la atención es una capacidad que no puede dividirse por completo, es solo una alucinación.
+
+* Creo que lo mejor es no desear nada, no esperar nada, necestias algo?, en verdad lo necesitas?, que esta de más? 
+	- Tu eres el que lo estropeas, tu eres el mismo ser que controla tu vida, el que se bloquea, el que limita las abstracciones de la vida y las encapsula a traves del ego. Las
+
 * Encajar no quiere decir pertenecer, pertenecer es formar parte de algo sin traicionar tu esencia.
 
 * You must be ablle to keep ur mint where u want, concentrate in a performance

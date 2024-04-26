@@ -1,6 +1,12 @@
 # Consejos - General Advice
 
+* Si solo haces lo que sabes hacer nunca seras más de lo ya eres.
+	- primera dominate a ti mismo y averigua quien eres.
+	- el ki es la energia vital dentro de uno mismo
+
 * Aquí en general quiero consejos.
+
+* SI SABES QUE LLEGARAS A LA CIMA, CADA PASO VOLTEA. porque cuando llegues el ego te dira, que sigue?
 
 ## Remember
 

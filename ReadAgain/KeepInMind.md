@@ -1,11 +1,23 @@
 # Keep In Mind and remember that... como recordatorios, 
 
+* Primero acciona para luego motivarte, no esperes que la motivación llegue para que acciones , divide el hábito en 2, la primera parte fácil en 2 minutos, la regla de 2 min es un contrato, terminando los 2 min, si no quiere mantenerlo, osea déspues de los 2 min, respeta que ya no quiere, luego repite
+
+> Somos el tiempo que nos queda, eterna busqueda -> eterna espera, 
+
+> Without practice the teory is.
+
 > Mientras puedas despertar existe la posibilidad de dejar de ser lo que has sido.
 
 > Nuestros monstruos no nos abandonan mientras no los miremos de frente hasta perderles el miedo.
 
-- has dado todo? 
+- has dado todo? por supuesto que no, piensas hacerlo? si, cuando?	
 
+- Manten una mentalidad humilde, si te tropiezas o equivocas, dejate asesorar, pide ayuda, no dejes que la soberbia te segue o te mate.
+	- keep humble mental, if u r wrong, let assesor u, let help, dont let the soberby eat u or kill u
+
+- think and be rich
+	- nos convertimos en lo que pensamos, el cuerpo siente lo que piensas, lo que siembres vas a cosechar, controla tus  pensamientos y cambia tu vida, cosechamos lo que sembramos en nuestros pensamientos, nuestra disposición mental determina nuenstro éxito o fracaso. Es fundamental controlar y elegir nuestros pensamientos, pues de ellos depende nuestra vida. Decide en que pensaras, si piensas en terminos positivos lograras resultados positivos
+	
 - The rule is simple: Be well yourself, train yourself, eat healthy, have ambition, love yourself, clear goals, vibrate high, maintain an impeccable imagen, and above all be self-confident
 	- La regla es simple: estar bien uno mismo, entrenar comer saludable tener ambición amor propio metas  claras, vibrar alto, mantener una imagen impecable,  y sobre todo seguridad en si mismos
 
@@ -22,8 +34,6 @@
 - **See the big picture**, all the perspective, and maybe u are not worng, only it is a litle more information u didn't kwon.
 
 - **Keep learning and enjoying the gift of ur life**.
-
-Disfrutar el hermoso regalo de la vida a tu lado es fantasticamente mejor, como si estuviera drogado.
 
 * Your mind is your best friend and your worst friend; u r the reason for everything that happens in your life, your way of thinking determines ur life, train ur mind to be your admirer(admirador) and follower because it will live with u for the rest of ur life.
 
