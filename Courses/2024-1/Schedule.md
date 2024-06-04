@@ -12,8 +12,6 @@ Aceptar el cambio. Es inevitable para el crecimiento. Juntos podemos convertir e
 
 Kafka
 
-has dado todo? 
-
 OPERA DESDE EL AMOR SIN ESPECTATIVA
 ACCIÓN MASIVA DESDE EL AMOR SIN NINGUNA EXPECTATIVA
 
@@ -1224,6 +1222,7 @@ https://github.com/ohconstantino/spring_tdi/commit/99d2ef938ba5cd413d9e06a8cbcd1
 
 
 # como vencer el miedo 
+
 - canaliza el mieod, interpretalo como un plus de energía, tu cerebro see esta preparando para lo que se viene, tu cuerpo esta entrando en un estado de hiperconsciencia, el miedo es la emoción que sientes al exfrentarte a una situación que genera una incomodidad que no depende de tí pero puede ayudarte a mejorar
 - ve el miedo como si fuera un videojuego, sube de nivel, sometiendote al estres creas nuevas redes neuronales, es la música que te prepara para el combate, es una misión para ganar exp y subir de nivel
 - tu padre ya lo ha heco, vencio el miedo y conocio a tu padre, gracias a que consiguio ese trabajo tu vives, serás el único que no respetará el trabajo de toda tu familia, HONOR Y RESPETO
@@ -1515,4 +1514,5 @@ tipper kettison mind latch
 # To china
 https://talent.shixizhi.huawei.com/iexam/1365189427395223554/examInfo?examId=1615969105185619970&sxz-lang=en_US
 https://e.huawei.com/en/talent/outPage/#/sxz-course/home?courseId=LEr4w0UtMYfpbhkgY_Yd5QqFAO0
-
+https://e.huawei.com/en/talent/news/#/details?consultationId=3777
+ya descargue 3 

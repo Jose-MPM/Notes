@@ -7,6 +7,7 @@
 * Aquí en general quiero consejos.
 
 * SI SABES QUE LLEGARAS A LA CIMA, CADA PASO VOLTEA. porque cuando llegues el ego te dira, que sigue?
+	- La prisa y hambre nacen de la duda de hacer las cosas. Por qué dudas de ti? Porque no hago nada al respecto, no busco lo que quiero, no estoy dando lo mejor de mi, creo que nunca lo he dado, y parecé que nunca lo haré si sigo así.
 
 ## Remember
 

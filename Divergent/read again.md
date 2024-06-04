@@ -183,3 +183,91 @@ el lenguaje no era la realidad, sino una manera de encerrar a las cosas y a las 
 
 
 	Living in Pain (feat. 2Pac, Mary J. Blige & Nas)
+
+
+	Saber Inglés multiplica tus posibilidades de éxito.
+¡Aquí tienes 5 CURSOS GRATUITOS para aprender Inglés 🇬🇧!
+
+1. EngVid
+
+De mis recursos favoritos, con mucho vídeo.
+Es que alucino que no sea de pago, sinceramente.
+Docenas de profesores, calidad brutal y para todos los niveles:
+https://www.engvid.com/
+
+2. Curso de Inglés
+
+Seguramente el más accesible, ya que está en Español.
+Si tienes que empezar de cero, seguramente este sea el tuyo.
+Las clases son más de texto, pero perfecto para iniciar:
+https://lnkd.in/eiK-b3km
+
+3. Cambridge University
+
+Recursos desde nivel básico hasta avanzado.
+Te prepara para cualquier examen de inglés.
+De los más completos y mejor nivel:
+https://lnkd.in/eky3fbGc
+
+4. Curso básico 6 horas
+
+Si necesitas algo visual, este curso es la clave.
+Presentado en español, va de cero a temas más avanzados.
+Son 25 clases en total. Es una buena base para empezar:
+https://lnkd.in/eaND65bU
+
+5. BBC Learning
+
+El mejor recurso para mejorar tu listening.
+Tiene muchos extractos de audio con transcripción.
+Pronunciaciones perfectas y mucho material:
+https://lnkd.in/edWitji6
+
+
+1. Fortalece tus habilidades, transfórmate en un especialista de tu área, sin duda eso te otorgará mayor credibilidad.
+2. Se proactivo, identifica oportunidades para los problemas de tu área y transfórmalos en soluciones.
+3. Construye relaciones sólidas, por medio de la colaboración, respeto y empatía, eso siempre se valora.
+4. Comunica de manera efectiva, no solo en cuanto a tu mensaje, sino también a tu capacidad de escucha activa y la forma en que adaptas tu estilo de comunicación según la situación.
+5. Mantente actualizado con las últimas tendencias de tu sector, esto te permitirá posicionarte como un referente para tu equipo.
+
+
+Depeche mode 
+Tool empiecen con stinkfist y rematen con aenema y después cualquier canción de tool
+ soda stereo canción animal 
+
+ unplugged comfort y musica para volar.
+  deftones, white pony
+  Beautiful" de Gustavo Cerati, "En La Ciudad de la Furia" del Unplugged, y "Génesis" del mismo.
+Entregate de luis miguel
+
+Jazz blues genero!! Lofi, triphop ❣️❤️‍🔥 Bossa Nova..
+
+X&Y de Coldplay.
+Comienza desde los besos y caricias.
+Hazlo este fin de semana y luego me lo agradeces.
+Coolo illya kuryaki & valderrama
+Juventud lujuriosa de pink Floyd
+xuxa ilari ilari e 
+
+Canción Animal "Soda stereo"
+Entre canibales "Soda Stereo"
+Make it with Chu "Q.O.T.S.A"
+Do I Wanna Know "Artic Monkeys"
+Sexual Healing "Marvin Gaye"
+Así, como para empezar...
+Ah y casi todas las de "Cigarreras after sex
+Sade 
+Samba pa ti. Carlos Santana.
+
+
+
+El primer día sin ti - Dana Paola
+
+El taxi, de ricardo arjona 
+Pedro Pedro pedro
+
+
+# 
+bash cripting
+
+servicios para desplegar un contenedor de docker

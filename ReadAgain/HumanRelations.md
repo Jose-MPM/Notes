@@ -95,4 +95,20 @@
 - al cerebro no le gustan los retos, SIMPLEMENTE HAS LO QUE SABES QUE TIENES QUE HACER
 
 
+
+siempre es bueno pensar en nuestra capacidad analitica, no tengas miedo, meteté a las herramientas, aprende para resolvere los problemas 
+
+
+plataforma que nos da el nivel de riesgo: https://diagnostico.ameci.org/
+
+* Como defenderse de clonación de voz:
+	- Transacciones solo en persona.
+	- Llamada de vuelta, no me crees a la primera, 
+	- pese a la presión social, SER MÁS QUE ESO.
+vmejia@iqteksolutions.com
+
+
+
+
+
 vmejia@iqteksolutions.com to ask about some work with dominicnos

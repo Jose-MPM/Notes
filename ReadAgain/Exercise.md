@@ -22,58 +22,58 @@
 	- Mechanical stress: More of the 50% of training shoulb be subjected to stress
 		- Tensión mecanica: Más del 50% de entrenamiento debe de ser sometido en tensión.
 
-# buscando Hipertrofia muy rapidas, pero no tan sanas, ganala una vez y ma
+	# buscando Hipertrofia muy rapidas, pero no tan sanas, ganala una vez y ma
 
-* Qué necesitas para crecer?  Necesitas someter tu músculo en tensión mencanica, estrés metabolico, sobrecarga progresiva, intensidad cerca al fallo, medida con las repeticiones en reserva, ahorita buscamos llegar al fallo, recuerda que el cuerpo y los músculos necesitan recuperarse, en el momento anabolico es cúando se recupera tu músculo, periodización, 
+	* Qué necesitas para crecer?  Necesitas someter tu músculo en tensión mencanica, estrés metabolico, sobrecarga progresiva, intensidad cerca al fallo, medida con las repeticiones en reserva, ahorita buscamos llegar al fallo, recuerda que el cuerpo y los músculos necesitan recuperarse, en el momento anabolico es cúando se recupera tu músculo, periodización, 
 
-	- maxima tensión mecanica, en algunas fases del ejercicio tu músculo es más fuerte, cuando estas subiendo ahí tu musculo es más debil, por eso buscamos realizar la parte negativa
-		- sets con solo parte negativa, es decir, no podemos subirlo pero si bajarlo, busca trabajar con movimientos 5 segundos subiendo y 5 bajando
+		- maxima tensión mecanica, en algunas fases del ejercicio tu músculo es más fuerte, cuando estas subiendo ahí tu musculo es más debil, por eso buscamos realizar la parte negativa
+			- sets con solo parte negativa, es decir, no podemos subirlo pero si bajarlo, busca trabajar con movimientos 5 segundos subiendo y 5 bajando
 
-- supersets, set de ejercicios del mismo grupo muscular sin descansos, buscamos incrementar el estres metabolico, 
-	- Poniendo primero los ejercicios que aislan más al músculo y luego los ejercicios más grandes y compuestos, 
-		- fly de pecho antes de banco plano
+	- supersets, set de ejercicios del mismo grupo muscular sin descansos, buscamos incrementar el estres metabolico, 
+		- Poniendo primero los ejercicios que aislan más al músculo y luego los ejercicios más grandes y compuestos, 
+			- fly de pecho antes de banco plano
 
-- Cómo comer? BAJO ningun concepto es lo más sano que hay
-	- busca estimular el anabolismo al máximo, no hacer ayuno intermitente, comer 6 a 8 veces por día y usar cantidades de proteína díaria preocupante, buscamos estar en exceso calorico, unas 4000 calorías, más proteína y poca grasa, + 250 proteína x día, 2.5 proteínas por kilo magro, podemos consumir todas las proteínas juntas, 
+	- Cómo comer? BAJO ningun concepto es lo más sano que hay
+		- busca estimular el anabolismo al máximo, no hacer ayuno intermitente, comer 6 a 8 veces por día y usar cantidades de proteína díaria preocupante, buscamos estar en exceso calorico, unas 4000 calorías, más proteína y poca grasa, + 250 proteína x día, 2.5 proteínas por kilo magro, podemos consumir todas las proteínas juntas, 
 
-- rutina basica
-	- 1 día superset
-		- press de piernas x 20 reps
-		- extensión de piernas x 20 reps
-		- sentadillas x 20 reps
-		- de cada 20reps subías 9 kilos y entrenar hasta hacer otras 20 reps
-		- esto es un solo set
-		- descanso de 2 min
-		- isquiotibiales x12 reps
-		- gemelos a una pierna x12 reps
-		- dominadas con polea x reps
+	- rutina basica
+		- 1 día superset
+			- press de piernas x 20 reps
+			- extensión de piernas x 20 reps
+			- sentadillas x 20 reps
+			- de cada 20reps subías 9 kilos y entrenar hasta hacer otras 20 reps
+			- esto es un solo set
+			- descanso de 2 min
+			- isquiotibiales x12 reps
+			- gemelos a una pierna x12 reps
+			- dominadas con polea x reps
 
-		- dominadas con polea x 10 reps
-		- pullover x 11 reps
-		- remo x 10 reps
-		- dominadas con polea x 10 reps
-		- descanso 10 min
-		- press de hombros x 10 reps
-		- vuelos latelares 
-		- descanso 2 min luego ejercicios de bicep
-		- curl de biceps en máquina x 8 reps
-		- chin up x 12 reps
-		- descanso 2 min luego ejercicios de tricep
-		- extensión de triceps con polea x 22 reps
-		- dips x 22 reps
-		- la mitad de los ejercicios se trabajaban con la parte negativa
-	- principios: 
-		- 3 veces por semana, 40 min de duración
-			- el mecanismo era activar el mecanismo de desarrollo muscular e irse a casa a comer y permitir que los ḿusculos crezcan, no agotarlos de más, limitando el desarrollo, cada vez que sobre cargo el músculo freno el anabolismo
-		- El set de cada ejercicio debe ser al fallo, hasta que no puedas mover el peso
-		- 80-120 s de tensión al músculo por cada ejercicio hecho, aumenta el tiempo, 5s bajas y 5 subes, o mayor tiempo en la fase negativa
-		- La mayoría de los ejercicios solo en Fase negativa, más peso o puedes cambiarlo,
-		- Estimular los mecanismos del crecimiento muscular y luego llevar más nutrientes al musculo
-		- 6 algunos movimientos son peligrosos, puedes usar la conexión, concentrate en contraer el músculo que estas trabajando
-		- Llega al fallo en el superset, el músculo crece con las últimas reps, llegando al límite de que ya no puedas subir más ese peso, sostén la contracción, cuando quieres abandonar y sigues, ahí crece.
-		- Entrena con amigos para hacer el set negativo o que te impulse a llegar al fallo
-		- Creatina, aminoacidos esenciales, barras de proteína.
-		- Aprovecha el estres metabolico, usa bandas de restricción sanguineo
+			- dominadas con polea x 10 reps
+			- pullover x 11 reps
+			- remo x 10 reps
+			- dominadas con polea x 10 reps
+			- descanso 10 min
+			- press de hombros x 10 reps
+			- vuelos latelares 
+			- descanso 2 min luego ejercicios de bicep
+			- curl de biceps en máquina x 8 reps
+			- chin up x 12 reps
+			- descanso 2 min luego ejercicios de tricep
+			- extensión de triceps con polea x 22 reps
+			- dips x 22 reps
+			- la mitad de los ejercicios se trabajaban con la parte negativa
+		- principios: 
+			- 3 veces por semana, 40 min de duración
+				- el mecanismo era activar el mecanismo de desarrollo muscular e irse a casa a comer y permitir que los ḿusculos crezcan, no agotarlos de más, limitando el desarrollo, cada vez que sobre cargo el músculo freno el anabolismo
+			- El set de cada ejercicio debe ser al fallo, hasta que no puedas mover el peso
+			- 80-120 s de tensión al músculo por cada ejercicio hecho, aumenta el tiempo, 5s bajas y 5 subes, o mayor tiempo en la fase negativa
+			- La mayoría de los ejercicios solo en Fase negativa, más peso o puedes cambiarlo,
+			- Estimular los mecanismos del crecimiento muscular y luego llevar más nutrientes al musculo
+			- 6 algunos movimientos son peligrosos, puedes usar la conexión, concentrate en contraer el músculo que estas trabajando
+			- Llega al fallo en el superset, el músculo crece con las últimas reps, llegando al límite de que ya no puedas subir más ese peso, sostén la contracción, cuando quieres abandonar y sigues, ahí crece.
+			- Entrena con amigos para hacer el set negativo o que te impulse a llegar al fallo
+			- Creatina, aminoacidos esenciales, barras de proteína.
+			- Aprovecha el estres metabolico, usa bandas de restricción sanguineo
 
 - What part of the body (muscles) I want work?
 	- Neck
