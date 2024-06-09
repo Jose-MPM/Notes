@@ -6,8 +6,8 @@
 
 El repositorio está organizado en diferentes carpetas que representan categorías y subcategorías de notas. A continuación, se presenta una vista general de la estructura:
 
-- **Courses:** Apuntes de cursos académicos, clasificados por año y materia.
 - **Programming-Stuff:** Información relacionada con programación y ciberseguridad.
+- **Courses:** Apuntes de cursos académicos, clasificados por año y materia.
 - **Health:** Notas sobre salud y bienestar.
 - **Divergent:** Contenido variado y reflexiones personales.
 
@@ -16,6 +16,16 @@ Siéntete libre de explorar este contenido con el fin de proporcionar recursos �
 # Index
 
 ## Enlaces Directos
+
+### Programming-Stuff
+
+- [After Debian 12 Bookworm Installation](Programming-Stuff/After-Debian-12-Bookworm-Instalation.md)
+- [Introduction to Cyber Security](CS/Introduction%20to%20Cyber%20Security.md)
+- [Pre-Security](CS/Pre-Security.md)
+- [Cibersecurity by Cisco](CS/Cibersecurity%20by%20Cisco.md)
+- [IAM](CS/IAM.md)
+- [Problem solving, all days we r going to need resol](CS/Problem%20solving,%20all%20days%20we%20r%20going%20to%20need%20resol.md)
+- [toInterview](Programming-Stuff/toInterview.md)
 
 ### Notes about some Courses
 
@@ -40,12 +50,6 @@ Siéntete libre de explorar este contenido con el fin de proporcionar recursos �
 - [EnglishV](Courses/EnglishV/English%20Topics.md)
 - [EnglishVI](Courses/EnglishVI/English%20VI.md)
 
-### Divergent
-
-- [CellPhoneAdiction](Divergent/CellPhoneAdiction.md)
-- [read again](Divergent/read%20again.md)
-- [Unplug from the matrix](Divergent/Unplug%20from%20the%20matrix.md)
-
 ### Health Notes
 
 - [FlatfootCorrection](Health/FlatfootCorrection.md)
@@ -59,11 +63,11 @@ Siéntete libre de explorar este contenido con el fin de proporcionar recursos �
 - [TheScienceOfHabits](Health/TheScienceOfHabits.md)
 - [Venenos (PDF)](Health/Venenos.pdf)
 
-### Programming-Stuff
+### Divergent
 
-- [After Debian 12 Bookworm Installation](Programming-Stuff/After-Debian-12-Bookworm-Instalation.md)
-- [Introduction to Cyber Security](Programming-Stuff/Introduction%20to%20Cyber%20Security.md)
-- [Pre-Security](Programming-Stuff/Pre-Security.md)
+- [CellPhoneAdiction](Divergent/CellPhoneAdiction.md)
+- [read again](Divergent/read%20again.md)
+- [Unplug from the matrix](Divergent/Unplug%20from%20the%20matrix.md)
 
 -----
 ¡Espero que encuentres estas notas tan útiles como yo durante mi proceso de aprendizaje!

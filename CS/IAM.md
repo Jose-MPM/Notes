@@ -174,3 +174,29 @@ Ejemplo de Autenticación multifactor utilizando RSA SecurID
 ApowerMirror: permite compartir la pantalla del cel en una compu
 
 
+## Day 7
+
+- criptography: arte y ciencia de ocultar el significado de lo que queremos comunicar
+	- cripto sistem
+
+- cryptoanalysis:
+- cryptosystem
+	- textoplano, algoritmo, texto cifrado, llave
+
+- types:
+	- Symmetric
+		- one only key, we use the same key to encrypt and decryption
+		- como distribuimos la llave? de manera segura por muy robusta que sea
+		- Encryption Algorithms
+			- DES
+			- 3DES
+	- Asymmetric
+		- 2 keys, 1 to encrypt and 1 to decryption
+	- Hashing
+		- no use keys, 0 key hashing
+		- Encryption Algorithms
+			- ADS
+			- RSA
+			- ELLIPTIC CURVES
+
+
